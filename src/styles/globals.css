@@ -64,8 +64,13 @@ body {
   margin: 0 auto;
 }
 
+.temp-nav-logo-container svg {
+  width: 100%;
+  height: auto;
+}
+
 .wave-bg-container {
-  background-image: url('/logos/pacser-mainWave.svg');
+  background: url('/logos/pacser-mainWave.svg') 0 100%, url('/logos/pacser-mainWave.svg') 1px 100%;
   background-repeat: repeat-x;
   width: 100%;
   height: clamp(100px, 20svw, 300px);
