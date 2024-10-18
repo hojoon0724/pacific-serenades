@@ -5,19 +5,24 @@
 :root {
   --background: #ededed;
   --foreground: #171717;
+
+  --ps-dark: #333333;
+  --ps-grey: #888888;
+  --ps-blue: #39b5bd;
+  --ps-teal: #20cf9f;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ededed;
+    --foreground: #171717;
   }
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
   min-height: 100svh;
   min-width: 100svw;
 }
@@ -26,12 +31,15 @@ body {
   min-height: 100svh;
   min-width: 100svw;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-* {
-  box-sizing: border-box;
+#__next > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100svh;
 }
 
 @layer utilities {
@@ -40,6 +48,86 @@ body {
   }
 }
 
-.landing-logo-container {
-  width: 50svw;
+.top-container {
+  /* height: calc(100svh - 250px); */
+
+  min-height: calc(100svh - 330px);
+}
+
+.temp-nav-logo-container {
+  width: clamp(200px, 50%, 1200px);
+  padding-top: clamp(16px, 3svw, 40px);
+  /* height: 200px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.wave-bg-container {
+  background-image: url('/logos/pacser-mainWave.svg');
+  background-repeat: repeat-x;
+  width: 100%;
+  height: clamp(100px, 20svw, 300px);
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+
+.section-landing {
+  max-width: 1200px;
+  margin: 32px;
+  /* border: 1px solid red; */
+}
+
+.message-box-container {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 32px;
+}
+
+p {
+  padding: 1ch 0ch;
+}
+
+nav {
+  position: relative;
+  height: clamp(100px, 20svw, 300px);
+  width: 100%;
+}
+
+footer {
+  background-color: var(--ps-dark);
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ps-teal);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.welcome-paragraph-text {
+  font-weight: 500;
+  text-align: justify;
+  padding-bottom: 2rem;
+}
+
+.welcome-paragraph-signature {
+  font-weight: 700;
+  text-align: right;
+}
+
+@media only screen and (max-width: 768px) {
+  .temp-nav-logo-container {
+    width: 100%;
+    padding: 8px 64px;
+  }
+  .message-box-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .section-landing {
+    padding: 16px;
+  }
 }
