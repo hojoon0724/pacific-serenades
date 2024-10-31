@@ -13,6 +13,19 @@
 |                | Press Releases |
 | About          | About          |
 
+## Objects
+
+| Composer   | Composition       | Concert                    | Dates      | Venue    | Performer  |
+| ---------- | ----------------- | -------------------------- | ---------- | -------- | ---------- |
+| firstName  | title             | concertTitle               | date       | name     | firstName  |
+| lastName   | year              | subtitle                   | venue      | address1 | lastName   |
+| born       | composer          | [dates]                    | ticketLink | address2 | instrument |
+| died       | commissionedBy    | [performers]               |            | city     | photoLink  |
+| websiteUrl | [instruments]     | [{isPremiere,composition}] |            | state    | websiteUrl |
+| photoUrl   | [audioLinks]      |                            |            | zip      | bioText    |
+| bioText    | scorePurchaseLink |                            |            | website  |            |
+|            |                   |                            |            | text     |            |
+
 ## Catalogue
 
 Lists all works
