@@ -4,10 +4,15 @@ const path = require('path');
 // Read the old html and get the data
 
 const destinationFolder = './composersJson';
-const source = './composers';
+// const source = './composers';
+const source = './allComposers';
+const testFullPath = './composers/gabriela-lena-frank/index.html';
 
 const composerYearsLookupRegex = /<span class="years">(.*?)<\/span>/g;
+const composerBioLookupRegex = /<main class="main composers" role="main">[\s\S]*?<\/span>([\s\S]*?<\/p>)\n/g;
 const jsonLookupRegex = /<script type="application\/ld\+json" class="yoast-schema-graph">(.*?)<\/script>/g;
+
+readFileAndReturnRegexMatch(testFullPath, composerBioLookupRegex);
 
 function writeToFile(file, content) {
   fs.writeFileSync(file, JSON.stringify(content, null, 2));
@@ -47,6 +52,21 @@ function getComposerDates(fullPath) {
     });
 }
 
+// Get composer dates
+function getComposerBio(fullPath) {
+  return readFileAndReturnRegexMatch(fullPath, composerBioLookupRegex)
+    .then(data => {
+      if (data.length !== 0) {
+        return data;
+      }
+      return null;
+    })
+    .catch(err => {
+      console.error(`Error getting composer dates from ${fullPath}:`, err.message);
+      return null;
+    });
+}
+
 // Get composer name
 function getComposerName(fullPath) {
   return readFileAndReturnRegexMatch(fullPath, jsonLookupRegex)
@@ -63,6 +83,26 @@ function getComposerName(fullPath) {
       return null;
     });
 }
+
+// Get composer name
+function getComposerPhoto(fullPath) {
+  return readFileAndReturnRegexMatch(fullPath, jsonLookupRegex)
+    .then(data => {
+      if (data.length > 0) {
+        const parsedData = JSON.parse(data[0]);
+        const composerPhoto = parsedData['@graph'][0].thumbnailUrl;
+        const composerPhotoNewPath = composerPhoto.replace(/.*\//, '../photos/');
+        return composerPhotoNewPath;
+      }
+      return null;
+    })
+    .catch(err => {
+      console.error(`Error getting composer name from ${fullPath}:`, err.message);
+      return null;
+    });
+}
+
+// getComposerPhoto(testFullPath);
 
 // Split name into an object
 function splitNameStrToObject(nameStr) {
@@ -88,16 +128,27 @@ function applyFunctionToEachFileInAllFolders(dir) {
       if (file.isDirectory()) {
         applyFunctionToEachFileInAllFolders(fullPath);
       } else {
-        Promise.all([getComposerName(fullPath), getComposerDates(fullPath)])
-          .then(([composerName, composerDates]) => {
+        const fileNameKebab = dir.replace(/.*\//, '');
+        const fileName = fileNameKebab.replace(/-./g, x => x[1].toUpperCase());
+
+        Promise.all([
+          getComposerName(fullPath),
+          getComposerDates(fullPath),
+          getComposerPhoto(fullPath),
+          getComposerBio(fullPath),
+        ])
+          .then(([composerName, composerDates, composerPhoto, composerBio]) => {
             const composerObject = {
               nameArr: composerName.nameArr,
               firstName: composerName.firstName,
               lastName: composerName.lastName,
               born: composerDates ? composerDates.born : '',
               died: composerDates ? composerDates.died : '',
+              photo: composerPhoto ? composerPhoto : '',
+              bio: composerBio ? composerBio[0] : '',
             };
-            console.log(composerObject);
+            // console.log(composerObject);
+            writeToFile(`./composersJSON/${fileName}.json`, composerObject);
           })
           .catch(err => {
             console.log('Error processing file:', err);
