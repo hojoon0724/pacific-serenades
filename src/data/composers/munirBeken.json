@@ -7,6 +7,6 @@
   "lastName": "beken",
   "born": "",
   "died": "",
-  "photo": "../photos/munirbeken.jpg",
+  "photo": "/photos/munirbeken.jpg",
   "bio": ""
 }

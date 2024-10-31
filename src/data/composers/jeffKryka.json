@@ -7,6 +7,6 @@
   "lastName": "kryka",
   "born": "1984",
   "died": "",
-  "photo": "../photos/Jeff-Kryka.jpg",
+  "photo": "/photos/Jeff-Kryka.jpg",
   "bio": "<a href=\"http://www.jeffkryka.com/Composer/News.html\" class=\"website\">Jeff Kryka's Website</a><p>Composer Jeff Kryka has been awarded by Turner Classic Movies, ASCAP, the RMA L.A., the Henry Mancini Foundation, and has had works performed in concert by virtuoso violinist Anne Akiko Meyers, the University of Wisconsin-Madison Symphony Orchestra, the University of Wisconsin-Madison Concert Band, and the Heartland Symphony Orchestra.</p>"
 }

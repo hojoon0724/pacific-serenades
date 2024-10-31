@@ -7,6 +7,6 @@
   "lastName": "beck",
   "born": "1960",
   "died": "",
-  "photo": "../photos/jeremybeck.jpg",
+  "photo": "/photos/jeremybeck.jpg",
   "bio": ""
 }

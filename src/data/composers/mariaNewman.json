@@ -7,6 +7,6 @@
   "lastName": "newman",
   "born": "1960",
   "died": "",
-  "photo": "../photos/Maria-Newman.jpg",
+  "photo": "/photos/Maria-Newman.jpg",
   "bio": "<p>Composer Maria Newman was born into one of the most famous and influential musical families in Hollywood. The youngest daughter of the nine-time Academy Award-winning composer/conductor, Alfred Newman, she grew up surrounded by great music and fine musicians. She graduated from both the Eastman School of Music and Yale University with high honors and has since become known as a serious composer in the field of concert music.</p>"
 }

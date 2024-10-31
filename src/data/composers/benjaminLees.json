@@ -7,6 +7,6 @@
   "lastName": "lees",
   "born": "1924",
   "died": "",
-  "photo": "../photos/benjaminlees2.jpg",
+  "photo": "/photos/benjaminlees2.jpg",
   "bio": ""
 }

@@ -7,6 +7,6 @@
   "lastName": "steinberg",
   "born": "1959",
   "died": "",
-  "photo": "../photos/russellsteinberg1.jpg",
+  "photo": "/photos/russellsteinberg1.jpg",
   "bio": ""
 }

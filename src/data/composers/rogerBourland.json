@@ -7,6 +7,6 @@
   "lastName": "bourland",
   "born": "1952",
   "died": "",
-  "photo": "../photos/Roger-Bourland.jpg",
+  "photo": "/photos/Roger-Bourland.jpg",
   "bio": ""
 }

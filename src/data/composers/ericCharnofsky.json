@@ -7,6 +7,6 @@
   "lastName": "charnofsky",
   "born": "",
   "died": "",
-  "photo": "../photos/Eric-Charnofsky.jpg",
+  "photo": "/photos/Eric-Charnofsky.jpg",
   "bio": ""
 }

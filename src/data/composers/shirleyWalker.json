@@ -7,6 +7,6 @@
   "lastName": "walker",
   "born": "1945",
   "died": "2006",
-  "photo": "../photos/shirleywalker.jpg",
+  "photo": "/photos/shirleywalker.jpg",
   "bio": ""
 }

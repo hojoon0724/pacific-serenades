@@ -7,6 +7,6 @@
   "lastName": "crockett",
   "born": "1951",
   "died": "",
-  "photo": "../photos/donaldcrockett.jpg",
+  "photo": "/photos/donaldcrockett.jpg",
   "bio": ""
 }

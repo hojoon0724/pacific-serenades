@@ -7,6 +7,6 @@
   "lastName": "mishell",
   "born": "1940",
   "died": "",
-  "photo": "../photos/composer-photo.jpeg",
+  "photo": "/photos/composer-photo.jpeg",
   "bio": ""
 }

@@ -7,6 +7,6 @@
   "lastName": "aldridge",
   "born": "1954",
   "died": "",
-  "photo": "../photos/robertaldridge.jpg",
+  "photo": "/photos/robertaldridge.jpg",
   "bio": ""
 }

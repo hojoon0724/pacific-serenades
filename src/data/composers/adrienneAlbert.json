@@ -7,6 +7,6 @@
   "lastName": "albert",
   "born": "",
   "died": "",
-  "photo": "../photos/AA-mhpic.jpg",
+  "photo": "/photos/AA-mhpic.jpg",
   "bio": ""
 }
