@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "gernot",
+    "wolfgang"
+  ],
+  "firstName": "gernot",
+  "lastName": "wolfgang",
+  "born": "1957",
+  "died": "",
+  "photo": "/photos/Gernot-Wolfgang-2.jpg",
+  "bio": "<a href=\"http://www.gernotwolfgang.com/\" class=\"website\">Gernot Wolfgang's Website</a><p>Born in Bad Gastein, Austria in 1957, Gernot Wolfgang currently resides in Los Angeles. He is a graduate of the program “Scoring for Motion Pictures and TV” at USC, and holds degrees from Berklee College of Music in Boston and the University of Music in Graz, Austria.</p>"
+}

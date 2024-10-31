@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "john",
+    "daversa"
+  ],
+  "firstName": "john",
+  "lastName": "daversa",
+  "born": "1972",
+  "died": "",
+  "photo": "/photos/John-Daversa.jpg",
+  "bio": "<a href=\"http://johndaversa.com/\" class=\"website\">John Daversa's Website</a><p>Coming from a musical family, composer John Daversa took an immediate interest in music at an early age; first through piano and voice, and later with trumpet and EVI (Electric Valve Instrument). He quickly absorbed all of the music playing around the house which included Chopin, Miles Davis, Earth Wind and Fire, Ella Fitzgerald, Aretha Franklin, Willie Nelson, Frank Sinatra, Nancy Wilson, Stevie Wonder, and of course the soundtrack of Disney’s Jungle Book featuring Louis Prima. By the age of 15, jazz had become part of John’s identity as he attended the Los Angeles Music Magnet, Hamilton High School Academy of the Arts, from 1989 to 1991. After high school, he attended UCLA, studying with classical trumpet virtuosi Mario Guarneri and Malcolm McNab. Although John’s musical interests were firmly placed in jazz (playing trumpet and electric bass in the UCLA jazz bands), he pursued a Bachelor of Arts degree with a concentration in classical composition. During that time, John won the Herb Alpert Award, David Joel Miller Award, National Trumpet Competition, and the ITG Jazz Soloist Competition.</p>"
+}

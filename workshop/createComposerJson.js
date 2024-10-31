@@ -6,13 +6,13 @@ const path = require('path');
 const destinationFolder = './composersJson';
 // const source = './composers';
 const source = './allComposers';
-const testFullPath = './composers/gabriela-lena-frank/index.html';
+// const testFullPath = './composers/gabriela-lena-frank/index.html';
 
 const composerYearsLookupRegex = /<span class="years">(.*?)<\/span>/g;
 const composerBioLookupRegex = /<main class="main composers" role="main">[\s\S]*?<\/span>([\s\S]*?<\/p>)\n/g;
 const jsonLookupRegex = /<script type="application\/ld\+json" class="yoast-schema-graph">(.*?)<\/script>/g;
 
-readFileAndReturnRegexMatch(testFullPath, composerBioLookupRegex);
+// readFileAndReturnRegexMatch(testFullPath, composerBioLookupRegex);
 
 function writeToFile(file, content) {
   fs.writeFileSync(file, JSON.stringify(content, null, 2));
@@ -91,7 +91,7 @@ function getComposerPhoto(fullPath) {
       if (data.length > 0) {
         const parsedData = JSON.parse(data[0]);
         const composerPhoto = parsedData['@graph'][0].thumbnailUrl;
-        const composerPhotoNewPath = composerPhoto.replace(/.*\//, '../photos/');
+        const composerPhotoNewPath = composerPhoto.replace(/.*\//, '/photos/');
         return composerPhotoNewPath;
       }
       return null;
