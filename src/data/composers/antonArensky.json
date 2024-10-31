@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "anton",
+    "arensky"
+  ],
+  "firstName": "anton",
+  "lastName": "arensky",
+  "born": "1861",
+  "died": "1906",
+  "photo": "",
+  "bio": ""
+}

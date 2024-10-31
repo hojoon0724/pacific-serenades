@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "claude",
+    "debussy"
+  ],
+  "firstName": "claude",
+  "lastName": "debussy",
+  "born": "1862",
+  "died": "1918",
+  "photo": "",
+  "bio": ""
+}

@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "paul",
+    "hindemith"
+  ],
+  "firstName": "paul",
+  "lastName": "hindemith",
+  "born": "1895",
+  "died": "1963",
+  "photo": "",
+  "bio": ""
+}

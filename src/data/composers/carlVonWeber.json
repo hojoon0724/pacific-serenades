@@ -1,0 +1,13 @@
+{
+  "nameArr": [
+    "carl",
+    "von",
+    "weber"
+  ],
+  "firstName": "carl von",
+  "lastName": "weber",
+  "born": "1786",
+  "died": "1826",
+  "photo": "",
+  "bio": ""
+}

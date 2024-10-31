@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "robert",
+    "schumann"
+  ],
+  "firstName": "robert",
+  "lastName": "schumann",
+  "born": "1810",
+  "died": "1856",
+  "photo": "",
+  "bio": ""
+}

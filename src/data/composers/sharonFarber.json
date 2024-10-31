@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "sharon",
+    "farber"
+  ],
+  "firstName": "sharon",
+  "lastName": "farber",
+  "born": "",
+  "died": "",
+  "photo": "../photos/Sharon-Farber.jpg",
+  "bio": ""
+}

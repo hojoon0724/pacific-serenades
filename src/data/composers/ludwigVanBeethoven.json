@@ -1,0 +1,13 @@
+{
+  "nameArr": [
+    "ludwig",
+    "van",
+    "beethoven"
+  ],
+  "firstName": "ludwig van",
+  "lastName": "beethoven",
+  "born": "1770",
+  "died": "1826",
+  "photo": "",
+  "bio": ""
+}

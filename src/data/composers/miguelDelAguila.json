@@ -1,0 +1,13 @@
+{
+  "nameArr": [
+    "miguel",
+    "del",
+    "aguila"
+  ],
+  "firstName": "miguel del",
+  "lastName": "aguila",
+  "born": "1957",
+  "died": "",
+  "photo": "../photos/Miguel-del-Aguila.jpg",
+  "bio": "<a href=\"http://www.migueldelaguila.com\" class=\"website\">Miguel del Aguila's Website</a><p>Composer <b>Miguel del Aguila</b>was born in Montevideo, Uruguay and moved to the U.S. in 1978. After graduating from the San Francisco Conservatory of Music, he traveled to Vienna to further his music studies. After ten years in Vienna, during which time he was active as composer, pianist, conductor, and music teacher, he returned in 1992 to live in Southern California. Numerous premieres of his works followed, and in 1994 <i>Los Angeles Times</i> critics chose him “resident music man of the year” and later “One of the West Coast’s most promisingand enterprising young composers.” He was honored with a Kennedy Center Friedheim Award in 1995 and was awarded several California Arts Council Fellowships and Residencies between 1996 and2000. Del Aguila’s catalog of over 70 works includes opera, orchestral, choral, solo, and chamberworks as well as incidental music for theater and film. International premieres of his works have been broadcast worldwide by radio and TV. To date, his works have been recordedon 15 different CD’s by major labels and artists. Since 1986 a number of his works have been published by Peermusic.</p>"
+}

@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "roger",
+    "bourland"
+  ],
+  "firstName": "roger",
+  "lastName": "bourland",
+  "born": "1952",
+  "died": "",
+  "photo": "../photos/Roger-Bourland.jpg",
+  "bio": ""
+}

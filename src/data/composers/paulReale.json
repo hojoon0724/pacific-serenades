@@ -1,0 +1,12 @@
+{
+  "nameArr": [
+    "paul",
+    "reale"
+  ],
+  "firstName": "paul",
+  "lastName": "reale",
+  "born": "1943",
+  "died": "",
+  "photo": "../photos/Paul-Reale.jpg",
+  "bio": ""
+}

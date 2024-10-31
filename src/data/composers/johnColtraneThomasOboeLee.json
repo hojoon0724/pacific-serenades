@@ -1,0 +1,15 @@
+{
+  "nameArr": [
+    "john",
+    "coltrane,",
+    "thomas",
+    "oboe",
+    "lee"
+  ],
+  "firstName": "john coltrane, thomas oboe",
+  "lastName": "lee",
+  "born": "1926",
+  "died": "1967",
+  "photo": "",
+  "bio": ""
+}

@@ -1,0 +1,15 @@
+{
+  "nameArr": [
+    "peter",
+    "yates",
+    "&amp;",
+    "matthew",
+    "elgart"
+  ],
+  "firstName": "peter yates &amp; matthew",
+  "lastName": "elgart",
+  "born": "",
+  "died": "",
+  "photo": "",
+  "bio": ""
+}
