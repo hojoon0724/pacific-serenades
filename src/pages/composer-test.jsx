@@ -1,6 +1,10 @@
-import ComposerSection from '@/sections/ComposerSection';
-import eugene from '../data/composers/eugeneFriesen.json';
+import ComposerComponent from '@/components/ComposerComponent';
+import albanBerg from '@/data/composers/adrienneAlbert.json';
 
 export default function CompserTest() {
-  return <ComposerSection composer={eugene} />;
+  return (
+    <section>
+      <ComposerComponent composer={albanBerg} />
+    </section>
+  );
 }

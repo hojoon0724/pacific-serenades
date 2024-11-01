@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const testPath = './public/photos';
+const targetFolder = './public/photos';
 
-function renameInFolder(dir) {
+function renameKebabToCamelInFolder(dir) {
   fs.readdir(dir, { withFileTypes: true }, (err, files) => {
     if (err) {
       console.error(`Error reading directory ${dir}:`, err);
@@ -25,4 +25,4 @@ function renameInFolder(dir) {
   });
 }
 
-renameInFolder(testPath);
+renameKebabToCamelInFolder(targetFolder);
