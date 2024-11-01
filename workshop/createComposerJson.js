@@ -102,8 +102,6 @@ function getComposerPhoto(fullPath) {
     });
 }
 
-// getComposerPhoto(testFullPath);
-
 // Split name into an object
 function splitNameStrToObject(nameStr) {
   const composerNameArray = nameStr.split(' ');

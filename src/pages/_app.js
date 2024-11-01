@@ -7,11 +7,9 @@ import NavBar from '@/sections/NavBar';
 export default function App({ Component, pageProps }) {
   return (
     <NextUIProvider>
-      {/* <> */}
       <NavBar />
       <Component {...pageProps} />
       <Footer />
-      {/* </> */}
     </NextUIProvider>
   );
 }
