@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "donald",
-    "crockett"
-  ],
+  "nameArr": ["donald", "crockett"],
   "firstName": "donald",
   "lastName": "crockett",
   "born": "1951",
   "died": "",
-  "photo": "/photos/donaldcrockett.jpg",
+  "photo": "/photos/donaldCrockett.jpg",
   "bio": ""
 }

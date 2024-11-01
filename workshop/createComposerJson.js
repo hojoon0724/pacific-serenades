@@ -52,7 +52,7 @@ function getComposerDates(fullPath) {
     });
 }
 
-// Get composer dates
+// Get composer bio in html
 function getComposerBio(fullPath) {
   return readFileAndReturnRegexMatch(fullPath, composerBioLookupRegex)
     .then(data => {

@@ -1,13 +1,9 @@
 {
-  "nameArr": [
-    "dante",
-    "de",
-    "silva"
-  ],
+  "nameArr": ["dante", "de", "silva"],
   "firstName": "dante de",
   "lastName": "silva",
   "born": "",
   "died": "",
-  "photo": "/photos/Dante-De-Silva-e1449379705341.jpg",
+  "photo": "/photos/danteDeSilva.jpg",
   "bio": ""
 }

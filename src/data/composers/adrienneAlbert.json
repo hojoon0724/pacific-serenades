@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "adrienne",
-    "albert"
-  ],
+  "nameArr": ["adrienne", "albert"],
   "firstName": "adrienne",
   "lastName": "albert",
   "born": "",
   "died": "",
-  "photo": "/photos/AA-mhpic.jpg",
+  "photo": "/photos/adrienneAlbert.jpg",
   "bio": ""
 }

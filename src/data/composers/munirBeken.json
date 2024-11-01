@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "münir",
-    "beken"
-  ],
+  "nameArr": ["münir", "beken"],
   "firstName": "münir",
   "lastName": "beken",
   "born": "",
   "died": "",
-  "photo": "/photos/munirbeken.jpg",
+  "photo": "/photos/munirBeken.jpg",
   "bio": ""
 }

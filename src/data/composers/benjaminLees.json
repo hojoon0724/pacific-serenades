@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "benjamin",
-    "lees"
-  ],
+  "nameArr": ["benjamin", "lees"],
   "firstName": "benjamin",
   "lastName": "lees",
   "born": "1924",
   "died": "",
-  "photo": "/photos/benjaminlees2.jpg",
+  "photo": "/photos/benjaminLees.jpg",
   "bio": ""
 }

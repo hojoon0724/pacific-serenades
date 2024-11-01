@@ -1,7 +1,9 @@
-import fs from 'fs';
-import path from 'path';
+const fs = require('fs');
+const path = require('path');
 
-export function importJsonFromFolder(folderPath) {
+const targetFolder = '../data/composers';
+
+function importJsonFromFolder(folderPath) {
   const jsonFiles = fs.readdirSync(folderPath).filter(file => path.extname(file) === '.json');
 
   const jsonData = {};
@@ -16,5 +18,7 @@ export function importJsonFromFolder(folderPath) {
     jsonData[key] = parsedData;
   });
 
-  return jsonData;
+  console.log(jsonData);
+  // return jsonData;
 }
+importJsonFromFolder(targetFolder);

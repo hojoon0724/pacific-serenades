@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "kathryn",
-    "mishell"
-  ],
+  "nameArr": ["kathryn", "mishell"],
   "firstName": "kathryn",
   "lastName": "mishell",
   "born": "1940",
   "died": "",
-  "photo": "/photos/composer-photo.jpeg",
+  "photo": "/photos/kathrynMishell.jpeg",
   "bio": ""
 }

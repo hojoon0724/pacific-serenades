@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "jeremy",
-    "beck"
-  ],
+  "nameArr": ["jeremy", "beck"],
   "firstName": "jeremy",
   "lastName": "beck",
   "born": "1960",
   "died": "",
-  "photo": "/photos/jeremybeck.jpg",
+  "photo": "/photos/jeremyBeck.jpg",
   "bio": ""
 }

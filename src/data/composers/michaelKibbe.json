@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "michael",
-    "kibbe"
-  ],
+  "nameArr": ["michael", "kibbe"],
   "firstName": "michael",
   "lastName": "kibbe",
   "born": "1945",
   "died": "",
-  "photo": "/photos/Mike-Kibbe-e1446853174546.jpg",
+  "photo": "/photos/mikeKibbe.jpg",
   "bio": "<a href=\"http://michaelkibbe.com/\" class=\"website\">Michael Kibbe's Website</a><p>Originally from the San Diego area, Michael Kibbe has a BM in music performance on oboe and bassoon, a MA in composition from CSU Northridge, and completed doctoral course work at UCLA. His total creative output is over 240 concert works, including two string quartets, 13 wind quintets, a large variety of mixed chamber music for winds, strings, brass, harp, keyboards and percussion. His catalogue includes works for band, orchestra and concertos. Kibbe?s compositions have been performed throughout the United States, Mexico, Europe, Israel and China.</p>"
 }

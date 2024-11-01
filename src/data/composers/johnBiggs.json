@@ -1,12 +1,9 @@
 {
-  "nameArr": [
-    "john",
-    "biggs"
-  ],
+  "nameArr": ["john", "biggs"],
   "firstName": "john",
   "lastName": "biggs",
   "born": "1932",
   "died": "",
-  "photo": "/photos/johnbiggs.jpg",
+  "photo": "/photos/johnBiggs.jpg",
   "bio": ""
 }
