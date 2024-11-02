@@ -11,7 +11,6 @@ export function importJsonFromFolder(folderPath) {
     const fileContent = fs.readFileSync(filePath);
     const parsedData = JSON.parse(fileContent);
 
-    // Assuming each JSON file represents a single object
     const key = path.basename(file, '.json');
     jsonData[key] = parsedData;
   });

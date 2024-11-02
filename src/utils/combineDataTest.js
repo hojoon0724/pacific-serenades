@@ -1,7 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
-const targetFolder = '../data/composers';
+const readFilesFrom = '../data/composers';
+const writeFileTo = '../data/allComposers.json';
+
+function writeToFile(destination, content) {
+  fs.writeFileSync(destination, JSON.stringify(content, null, 2));
+}
 
 function importJsonFromFolder(folderPath) {
   const jsonFiles = fs.readdirSync(folderPath).filter(file => path.extname(file) === '.json');
@@ -17,8 +22,6 @@ function importJsonFromFolder(folderPath) {
     const key = path.basename(file, '.json');
     jsonData[key] = parsedData;
   });
-
-  console.log(jsonData);
-  // return jsonData;
+  writeToFile(writeFileTo, jsonData);
 }
-importJsonFromFolder(targetFolder);
+importJsonFromFolder(readFilesFrom);

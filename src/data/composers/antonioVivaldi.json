@@ -1,8 +1,5 @@
 {
-  "nameArr": [
-    "antonio",
-    "vivaldi"
-  ],
+  "nameArr": ["antonio", "vivaldi"],
   "firstName": "antonio",
   "lastName": "vivaldi",
   "born": "1678",

@@ -1,12 +1,6 @@
 {
-  "nameArr": [
-    "peter",
-    "yates",
-    "&amp;",
-    "matthew",
-    "elgart"
-  ],
-  "firstName": "peter yates &amp; matthew",
+  "nameArr": ["peter", "yates", "&", "matthew", "elgart"],
+  "firstName": "peter yates & matthew",
   "lastName": "elgart",
   "born": "",
   "died": "",
