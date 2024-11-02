@@ -1,7 +1,3 @@
-import ScratchComponent from '@/components/ScratchComponent';
-import Composer from '@/components/ComposerComponent';
-import albanBerg from '@/data/composers/adrienneAlbert.json';
-
 export default function FontTest() {
   return (
     <section>
@@ -13,8 +9,6 @@ export default function FontTest() {
         <h5>Header 5</h5>
         <h6>Header 6</h6>
       </div>
-      {/* <ScratchComponent objectJson={albanBerg} /> */}
-      <Composer composer={albanBerg} />
     </section>
   );
 }

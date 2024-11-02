@@ -1,1724 +1,1411 @@
 {
   "adrienneAlbert": {
-    "nameArr": [
-      "adrienne",
-      "albert"
-    ],
+    "nameArr": ["adrienne", "albert"],
     "firstName": "adrienne",
     "lastName": "albert",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/adrienneAlbert.jpg",
     "bio": ""
   },
   "albanBerg": {
-    "nameArr": [
-      "alban",
-      "berg"
-    ],
+    "nameArr": ["alban", "berg"],
     "firstName": "alban",
     "lastName": "berg",
     "born": "1885",
     "died": "1935",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "alexShapiro": {
-    "nameArr": [
-      "alex",
-      "shapiro"
-    ],
+    "nameArr": ["alex", "shapiro"],
     "firstName": "alex",
     "lastName": "shapiro",
     "born": "1962",
     "died": "",
+    "website": "http://www.activistmusic.com",
     "photo": "/photos/alexShapiro.jpg",
-    "bio": "<a href=\"http://www.activistmusic.com\" class=\"website\">Alex Shapiro's Website</a><p>Alex Shapiro (b. NYC, 1962) has been a familiar face in the Pacific Coast’s new music community, as a composer, activist and event moderator. Published by Activist Music, her works are heard weekly in concerts and broadcasts across the U.S. and abroad, and can be found on the Cambria Master Recordings, Innova, Crystal, Centaur, DC Records and Oehms Classics labels. Her life and music were the subject of the one-hour show American MusicMakers, broadcast in February 2006 on public radio stations across the United States. Educated at The Juilliard School and Manhattan School of Music as a student of Ursula Mamlok and John Corigliano, Ms. Shapiro has received honors and awards from The American Music Center, ASCAP, the American Composers Forum, Mu Phi Epsilon, The California Arts Council and The MacDowell Colony, among others. Alex is the recent President of the Board of Directors of The American Composers Forum of Los Angeles, and has served as an officer on the boards of national music organizations including NACUSA, The College Music Society, and The Society of Composers &amp; Lyricists. She resides on Washington State’s San Juan Island, and when she’s not kayaking or exploring the tide pools, she updates her website, www.alexshapiro.org, with concert information and audio clips of her pieces.</p>"
+    "bio": "<p>Alex Shapiro (b. NYC, 1962) has been a familiar face in the Pacific Coast’s new music community, as a composer, activist and event moderator. Published by Activist Music, her works are heard weekly in concerts and broadcasts across the U.S. and abroad, and can be found on the Cambria Master Recordings, Innova, Crystal, Centaur, DC Records and Oehms Classics labels. Her life and music were the subject of the one-hour show American MusicMakers, broadcast in February 2006 on public radio stations across the United States. Educated at The Juilliard School and Manhattan School of Music as a student of Ursula Mamlok and John Corigliano, Ms. Shapiro has received honors and awards from The American Music Center, ASCAP, the American Composers Forum, Mu Phi Epsilon, The California Arts Council and The MacDowell Colony, among others. Alex is the recent President of the Board of Directors of The American Composers Forum of Los Angeles, and has served as an officer on the boards of national music organizations including NACUSA, The College Music Society, and The Society of Composers & Lyricists. She resides on Washington State’s San Juan Island, and when she’s not kayaking or exploring the tide pools, she updates her website, www.alexshapiro.org, with concert information and audio clips of her pieces.</p>"
   },
   "alexanderScriabin": {
-    "nameArr": [
-      "alexander",
-      "scriabin"
-    ],
+    "nameArr": ["alexander", "scriabin"],
     "firstName": "alexander",
     "lastName": "scriabin",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "alexandraPierce": {
-    "nameArr": [
-      "alexandra",
-      "pierce"
-    ],
+    "nameArr": ["alexandra", "pierce"],
     "firstName": "alexandra",
     "lastName": "pierce",
     "born": "1934",
     "died": "",
+    "website": "",
     "photo": "/photos/alexandraPierce.jpg",
     "bio": ""
   },
   "alexandreTansman": {
-    "nameArr": [
-      "alexandre",
-      "tansman"
-    ],
+    "nameArr": ["alexandre", "tansman"],
     "firstName": "alexandre",
     "lastName": "tansman",
     "born": "1897",
     "died": "1986",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "anonymousAntonioGardane": {
-    "nameArr": [
-      "anonymous",
-      "(from",
-      "a",
-      "publication",
-      "by",
-      "antonio",
-      "gardane,",
-      "1551)"
-    ],
+    "nameArr": ["anonymous", "(from", "a", "publication", "by", "antonio", "gardane,", "1551)"],
     "firstName": "anonymous (from a publication by antonio gardane,",
     "lastName": "1551)",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "anonymousPierreAttaingnant": {
-    "nameArr": [
-      "anonymous",
-      "(from",
-      "a",
-      "publication",
-      "by",
-      "pierre",
-      "attaingnant,",
-      "1531)"
-    ],
+    "nameArr": ["anonymous", "(from", "a", "publication", "by", "pierre", "attaingnant,", "1531)"],
     "firstName": "anonymous (from a publication by pierre attaingnant,",
     "lastName": "1531)",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "antonArensky": {
-    "nameArr": [
-      "anton",
-      "arensky"
-    ],
+    "nameArr": ["anton", "arensky"],
     "firstName": "anton",
     "lastName": "arensky",
     "born": "1861",
     "died": "1906",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "antonWebern": {
-    "nameArr": [
-      "anton",
-      "webern"
-    ],
+    "nameArr": ["anton", "webern"],
     "firstName": "anton",
     "lastName": "webern",
     "born": "1883",
     "died": "1945",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "antoninDvorak": {
-    "nameArr": [
-      "antonin",
-      "dvorak"
-    ],
+    "nameArr": ["antonin", "dvorak"],
     "firstName": "antonin",
     "lastName": "dvorak",
     "born": "1841",
     "died": "1904",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "antonioVivaldi": {
-    "nameArr": [
-      "antonio",
-      "vivaldi"
-    ],
+    "nameArr": ["antonio", "vivaldi"],
     "firstName": "antonio",
     "lastName": "vivaldi",
     "born": "1678",
     "died": "1741",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "arniEgilsson": {
-    "nameArr": [
-      "árni",
-      "egilsson"
-    ],
+    "nameArr": ["árni", "egilsson"],
     "firstName": "árni",
     "lastName": "egilsson",
     "born": "1939",
     "died": "",
+    "website": "",
     "photo": "/photos/arniEgilsson.jpg",
     "bio": ""
   },
   "bachMarimolin": {
-    "nameArr": [
-      "johann",
-      "sebastian",
-      "bach,",
-      "marimolin"
-    ],
+    "nameArr": ["johann", "sebastian", "bach,", "marimolin"],
     "firstName": "johann sebastian bach,",
     "lastName": "marimolin",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "bedrichSmetana": {
-    "nameArr": [
-      "bedrich",
-      "smetana"
-    ],
+    "nameArr": ["bedrich", "smetana"],
     "firstName": "bedrich",
     "lastName": "smetana",
     "born": "1824",
     "died": "1884",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "belaBartok": {
-    "nameArr": [
-      "béla",
-      "bartók"
-    ],
+    "nameArr": ["béla", "bartók"],
     "firstName": "béla",
     "lastName": "bartók",
     "born": "1881",
     "died": "1945",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "benjaminLees": {
-    "nameArr": [
-      "benjamin",
-      "lees"
-    ],
+    "nameArr": ["benjamin", "lees"],
     "firstName": "benjamin",
     "lastName": "lees",
     "born": "1924",
     "died": "",
+    "website": "",
     "photo": "/photos/benjaminLees.jpg",
     "bio": ""
   },
   "billyChilds": {
-    "nameArr": [
-      "billy",
-      "childs"
-    ],
+    "nameArr": ["billy", "childs"],
     "firstName": "billy",
     "lastName": "childs",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/billyChilds.jpg",
     "bio": ""
   },
   "bohuslavMartinu": {
-    "nameArr": [
-      "bohuslav",
-      "martinu"
-    ],
+    "nameArr": ["bohuslav", "martinu"],
     "firstName": "bohuslav",
     "lastName": "martinu",
     "born": "1890",
     "died": "1959",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "bruceBabcock": {
-    "nameArr": [
-      "bruce",
-      "babcock"
-    ],
+    "nameArr": ["bruce", "babcock"],
     "firstName": "bruce",
     "lastName": "babcock",
     "born": "1951",
     "died": "",
+    "website": "",
     "photo": "/photos/bruceBabcock.jpg",
     "bio": ""
   },
   "bruceBroughton": {
-    "nameArr": [
-      "bruce",
-      "broughton"
-    ],
+    "nameArr": ["bruce", "broughton"],
     "firstName": "bruce",
     "lastName": "broughton",
     "born": "1945",
     "died": "",
+    "website": "http://brucebroughton.com/",
     "photo": "/photos/bruceBroughton.jpg",
-    "bio": "<a href=\"http://brucebroughton.com/\" class=\"website\">Bruce Broughton's Website</a><p>One of the most versatile composers working today, Bruce Broughton writes in every medium, from theatrical releases and TV feature films to the concert stage and computer games.</p>"
+    "bio": "<p>One of the most versatile composers working today, Bruce Broughton writes in every medium, from theatrical releases and TV feature films to the concert stage and computer games.</p>"
   },
   "byronAdams": {
-    "nameArr": [
-      "byron",
-      "adams"
-    ],
+    "nameArr": ["byron", "adams"],
     "firstName": "byron",
     "lastName": "adams",
     "born": "1955",
     "died": "",
+    "website": "",
     "photo": "/photos/byronAdams.jpg",
     "bio": "<p>Byron Adams (b. 1955) earned a BM degree, magna cum laude, from Jacksonville University, studying piano with Mary Lou Wesley Krosnick and composition with Gurney Kennedy. He received an MM degree from USC, where his teachers included Halsey Stevens, Robert Linn, and Morten Lauridsen. He received his doctoral degree from Cornell University, studying composition with Karel Husa and musicology with William W. Austin. Byron Adams has had performances of his music in Europe, such as at the 26th “Warsaw Autumn” International Festival of Contemporary Music in Poland, the Leith Hill Festival in England, the Conservatoire Américain in Fontainebleau, France, and the Armenian Philharmonic Orchestra. His music has been performed in America by such institutions as the Syracuse Symphony Orchestra, Xtet, Chamber Music Palisades, Cantori New York, and at the National Convention of the American Guild of Organists.</p>"
   },
   "camilleSaintSaens": {
-    "nameArr": [
-      "camille",
-      "saint-saens"
-    ],
+    "nameArr": ["camille", "saint-saens"],
     "firstName": "camille",
     "lastName": "saint-saens",
     "born": "1835",
     "died": "1921",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "carlNielsen": {
-    "nameArr": [
-      "carl",
-      "nielsen"
-    ],
+    "nameArr": ["carl", "nielsen"],
     "firstName": "carl",
     "lastName": "nielsen",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "carlVonWeber": {
-    "nameArr": [
-      "carl",
-      "von",
-      "weber"
-    ],
+    "nameArr": ["carl", "von", "weber"],
     "firstName": "carl von",
     "lastName": "weber",
     "born": "1786",
     "died": "1826",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "cesarFranck": {
-    "nameArr": [
-      "césar",
-      "franck"
-    ],
+    "nameArr": ["césar", "franck"],
     "firstName": "césar",
     "lastName": "franck",
     "born": "1822",
     "died": "1890",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "charlesGriffes": {
-    "nameArr": [
-      "charles",
-      "tomlinson",
-      "griffes"
-    ],
+    "nameArr": ["charles", "tomlinson", "griffes"],
     "firstName": "charles tomlinson",
     "lastName": "griffes",
     "born": "1884",
     "died": "1920",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "charlesIves": {
-    "nameArr": [
-      "charles",
-      "ives"
-    ],
+    "nameArr": ["charles", "ives"],
     "firstName": "charles",
     "lastName": "ives",
     "born": "1874",
     "died": "1954",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "charlesMartinLoeffler": {
-    "nameArr": [
-      "charles",
-      "martin",
-      "loeffler"
-    ],
+    "nameArr": ["charles", "martin", "loeffler"],
     "firstName": "charles martin",
     "lastName": "loeffler",
     "born": "1861",
     "died": "1935",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "christopherStowens": {
-    "nameArr": [
-      "christopher",
-      "stowens"
-    ],
+    "nameArr": ["christopher", "stowens"],
     "firstName": "christopher",
     "lastName": "stowens",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "claudeDebussy": {
-    "nameArr": [
-      "claude",
-      "debussy"
-    ],
+    "nameArr": ["claude", "debussy"],
     "firstName": "claude",
     "lastName": "debussy",
     "born": "1862",
     "died": "1918",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "danielCatan": {
-    "nameArr": [
-      "daniel",
-      "catán"
-    ],
+    "nameArr": ["daniel", "catán"],
     "firstName": "daniel",
     "lastName": "catán",
     "born": "1949",
     "died": "",
+    "website": "",
     "photo": "/photos/danielCatan.jpg",
     "bio": ""
   },
   "danielLevitan": {
-    "nameArr": [
-      "daniel",
-      "levitan"
-    ],
+    "nameArr": ["daniel", "levitan"],
     "firstName": "daniel",
     "lastName": "levitan",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "danteDeSilva": {
-    "nameArr": [
-      "dante",
-      "de",
-      "silva"
-    ],
+    "nameArr": ["dante", "de", "silva"],
     "firstName": "dante de",
     "lastName": "silva",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/danteDeSilva.jpg",
     "bio": ""
   },
   "daveBrubeck": {
-    "nameArr": [
-      "dave",
-      "brubeck"
-    ],
+    "nameArr": ["dave", "brubeck"],
     "firstName": "dave",
     "lastName": "brubeck",
     "born": "1920",
     "died": "2012",
+    "website": "http://www.davebrubeck.com/live/",
     "photo": "",
-    "bio": "<a href=\"http://www.davebrubeck.com/live/\" class=\"website\">Dave Brubeck's Website</a><p>Dave Brubeck is considered one of the greatest artists in the history of modern music. With a career that spanned over six decades, his experiments in odd time signatures, improvised counterpoint, polyrhythm and polytonality remain hallmarks of innovation.  </p>"
+    "bio": "<p>Dave Brubeck is considered one of the greatest artists in the history of modern music. With a career that spanned over six decades, his experiments in odd time signatures, improvised counterpoint, polyrhythm and polytonality remain hallmarks of innovation.  </p>"
   },
   "davidConte": {
-    "nameArr": [
-      "david",
-      "conte"
-    ],
+    "nameArr": ["david", "conte"],
     "firstName": "david",
     "lastName": "conte",
     "born": "1955",
     "died": "",
+    "website": "http://davidconte.net/",
     "photo": "/photos/davidConte.jpg",
-    "bio": "<a href=\"http://davidconte.net/\" class=\"website\">David Conte's Website</a><p>David Conte (b. 1955) is currently Professor of Composition and Conductor of the Conservatory Chorus at the San Francisco Conservatory of Music. He has received commissions from Chanticleer, the San Francisco Symphony Chorus, the Dayton, Oakland and Stockton Symphonies, the American Guild of Organists, Sonoma City Opera and the Gerbode Foundation. Conte has composed four operas: The Dreamers; The Gift of the Magi; Firebird Motel; and America Tropical; these last two commissioned by San Francisco theater company Thick Description, for whom Conte has been Composer-In-Residence since 1991. He is also the composer of a musical, The Passion of Rita St. James, produced at the SF Conservatory in 2003. The Gift of the Magi has been produced by the Asheville Lyric Opera, Winnipeg Opera, Muddy River Opera Company, Greenburg American Opera, and Opera South. He has also composed songs for singers Barbara Bonney, Thomas Hampson and Phyllis Bryn-Julson. His work is represented on many commercial CD recordings. A Fulbright Scholar in Paris with Nadia Boulanger, a Ralph Vaughan Williams Fellow and an Aspen Music Festival Conducting Fellow, Conte earned his Bachelor’s degree from Bowling Green State University, where he studied with Ruth Inglefield and Wallace DePue, and his Master’s and Doctoral degrees from Cornell University where he studied with Karel Husa, Robert Palmer, Steven Stucky and Thomas Sokol. In 1982, Conte worked with Aaron Copland preparing a study of the composer’s sketches. He has taught at Cornell University, Keuka College, Colgate University and Interlochen. With composer Todd Boekelheide, Conte co-wrote the film score for the documentary Ballets Russes, shown at the Sundance and Toronto Film Festivals in 2005, (now available on DVD), and composed the music for the PBS documentary, Orozco: Man of Fire in 2006, to be aired on the American Masters Series in the fall of 2007. His composition The Nine Muses was commissioned by the American Choral Director’s Association for their National Convention and was premiered on March 8th, 2007, in Miami.</p>"
+    "bio": "<p>David Conte (b. 1955) is currently Professor of Composition and Conductor of the Conservatory Chorus at the San Francisco Conservatory of Music. He has received commissions from Chanticleer, the San Francisco Symphony Chorus, the Dayton, Oakland and Stockton Symphonies, the American Guild of Organists, Sonoma City Opera and the Gerbode Foundation. Conte has composed four operas: The Dreamers; The Gift of the Magi; Firebird Motel; and America Tropical; these last two commissioned by San Francisco theater company Thick Description, for whom Conte has been Composer-In-Residence since 1991. He is also the composer of a musical, The Passion of Rita St. James, produced at the SF Conservatory in 2003. The Gift of the Magi has been produced by the Asheville Lyric Opera, Winnipeg Opera, Muddy River Opera Company, Greenburg American Opera, and Opera South. He has also composed songs for singers Barbara Bonney, Thomas Hampson and Phyllis Bryn-Julson. His work is represented on many commercial CD recordings. A Fulbright Scholar in Paris with Nadia Boulanger, a Ralph Vaughan Williams Fellow and an Aspen Music Festival Conducting Fellow, Conte earned his Bachelor’s degree from Bowling Green State University, where he studied with Ruth Inglefield and Wallace DePue, and his Master’s and Doctoral degrees from Cornell University where he studied with Karel Husa, Robert Palmer, Steven Stucky and Thomas Sokol. In 1982, Conte worked with Aaron Copland preparing a study of the composer’s sketches. He has taught at Cornell University, Keuka College, Colgate University and Interlochen. With composer Todd Boekelheide, Conte co-wrote the film score for the documentary Ballets Russes, shown at the Sundance and Toronto Film Festivals in 2005, (now available on DVD), and composed the music for the PBS documentary, Orozco: Man of Fire in 2006, to be aired on the American Masters Series in the fall of 2007. His composition The Nine Muses was commissioned by the American Choral Director’s Association for their National Convention and was premiered on March 8th, 2007, in Miami.</p>"
   },
   "davidGoodman": {
-    "nameArr": [
-      "david",
-      "goodman"
-    ],
+    "nameArr": ["david", "goodman"],
     "firstName": "david",
     "lastName": "goodman",
     "born": "1953",
     "died": "",
+    "website": "http://yrmusic.com/v2/artists/bios/artist.php?ID=13",
     "photo": "/photos/davidGoodman.jpg",
-    "bio": "<a href=\"http://yrmusic.com/v2/artists/bios/artist.php?ID=13\" class=\"website\">David Goodman's Website</a><p>David Goodman — composer, pianist and conductor — has composed works for orchestra, chorus, solo voice, jazz ensemble, brass choir, electronic media, theater and film and has received awards from The American Academy and Institute of Arts and Letters, ASCAP, the National Orchestral Association, and Who’s Who in America. His Canto de esperanza has received critical acclaim throughout the United States, Europe and Latin America and is included on GMCLA’s Diversity CD. His scores for the PBS documentaries Reina de la selva and Darkness Into Light have been broadcast nationally and in Europe and received awards at the Houston International Film Festival.</p>"
+    "bio": "<p>David Goodman — composer, pianist and conductor — has composed works for orchestra, chorus, solo voice, jazz ensemble, brass choir, electronic media, theater and film and has received awards from The American Academy and Institute of Arts and Letters, ASCAP, the National Orchestral Association, and Who’s Who in America. His Canto de esperanza has received critical acclaim throughout the United States, Europe and Latin America and is included on GMCLA’s Diversity CD. His scores for the PBS documentaries Reina de la selva and Darkness Into Light have been broadcast nationally and in Europe and received awards at the Houston International Film Festival.</p>"
   },
   "davidLefkowitz": {
-    "nameArr": [
-      "david",
-      "lefkowitz"
-    ],
+    "nameArr": ["david", "lefkowitz"],
     "firstName": "david",
     "lastName": "lefkowitz",
     "born": "1964",
     "died": "",
+    "website": "http://davidlefkowitz.com/",
     "photo": "/photos/davidLefkowitz.jpg",
-    "bio": "<a href=\"http://davidlefkowitz.com/\" class=\"website\">David Lefkowitz's Website</a><p>Composer and music theorist DAVID S. LEFKOWITZ enjoys national and international renown, having performances in Canada, Mexico, England, the Netherlands, Spain, Germany, Italy, Switzerland, The Ukraine, Egypt, Israel, Japan, China, Hong Kong, and Taiwan, and throughout the United States.<br>\nHe has won many national and international competitions, including the Fukui Harp Music Awards Competition (twice), and the American Society of Composers, Authors, &amp; Publishers (ASCAP) Grants to Young Composers Competition, the National Association of Composers, USA (NACUSA) Young Composer Competition, the Guild of Temple Musicians, Pacific Composers’ Forum, Chicago Civic Orchestra, Washington International Competition, Society for New Music’s Brian M. Israel Prize, the ALEA III International Competition, and the Gaudeamus Music Week. He has also been a Meet-The-Composer Composer in Residence.<br>\nAs a music theorist, David S. Lefkowitz has written articles on set theory, and on the piano music of Arnold Schoenberg, and is currently at work on an undergraduate music theory textbook. He has presented papers throughout the United States, as well as Spain and Hawaii.<br>\nDavid S. Lefkowitz received his BA from Cornell University where he studied composition with Karel Husa. He then went on to University of Pennsylvania, studying with George Crumb and receiving his MA in 1990, and The Eastman School of Music, studying primarily with Joseph Schwantner and Samuel Adler, completing his Ph.D. in 1994. He is currently Associate Professor of Music Composition and Theory at UCLA.</p>"
+    "bio": "<p>Composer and music theorist DAVID S. LEFKOWITZ enjoys national and international renown, having performances in Canada, Mexico, England, the Netherlands, Spain, Germany, Italy, Switzerland, The Ukraine, Egypt, Israel, Japan, China, Hong Kong, and Taiwan, and throughout the United States.<br>\nHe has won many national and international competitions, including the Fukui Harp Music Awards Competition (twice), and the American Society of Composers, Authors, & Publishers (ASCAP) Grants to Young Composers Competition, the National Association of Composers, USA (NACUSA) Young Composer Competition, the Guild of Temple Musicians, Pacific Composers’ Forum, Chicago Civic Orchestra, Washington International Competition, Society for New Music’s Brian M. Israel Prize, the ALEA III International Competition, and the Gaudeamus Music Week. He has also been a Meet-The-Composer Composer in Residence.<br>\nAs a music theorist, David S. Lefkowitz has written articles on set theory, and on the piano music of Arnold Schoenberg, and is currently at work on an undergraduate music theory textbook. He has presented papers throughout the United States, as well as Spain and Hawaii.<br>\nDavid S. Lefkowitz received his BA from Cornell University where he studied composition with Karel Husa. He then went on to University of Pennsylvania, studying with George Crumb and receiving his MA in 1990, and The Eastman School of Music, studying primarily with Joseph Schwantner and Samuel Adler, completing his Ph.D. in 1994. He is currently Associate Professor of Music Composition and Theory at UCLA.</p>"
   },
   "dmitriShostakovich": {
-    "nameArr": [
-      "dmitri",
-      "shostakovich"
-    ],
+    "nameArr": ["dmitri", "shostakovich"],
     "firstName": "dmitri",
     "lastName": "shostakovich",
     "born": "1906",
     "died": "1975",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "donaldCrockett": {
-    "nameArr": [
-      "donald",
-      "crockett"
-    ],
+    "nameArr": ["donald", "crockett"],
     "firstName": "donald",
     "lastName": "crockett",
     "born": "1951",
     "died": "",
+    "website": "",
     "photo": "/photos/donaldCrockett.jpg",
     "bio": ""
   },
   "duaneTatro": {
-    "nameArr": [
-      "duane",
-      "tatro"
-    ],
+    "nameArr": ["duane", "tatro"],
     "firstName": "duane",
     "lastName": "tatro",
     "born": "1927",
     "died": "",
+    "website": "http://www.asmac.org/templates/System/details.asp?id=39902&amp;PID=478610",
     "photo": "/photos/duaneTatro.jpg",
-    "bio": "<a href=\"http://www.asmac.org/templates/System/details.asp?id=39902&amp;PID=478610\" class=\"website\">Duane Tatro's Website</a><p>Duane L Tatro, a native of Van Nuys California, has composed extensively for television ad film, as well as writing live concert media works for orchestra, wind ensemble, chamber ensembles, and electronic instruments. In his early career, he worked professionally as an instrumentalist: playing clarinet, saxophone, and bassoon.</p>"
+    "bio": "<p>Duane L Tatro, a native of Van Nuys California, has composed extensively for television ad film, as well as writing live concert media works for orchestra, wind ensemble, chamber ensembles, and electronic instruments. In his early career, he worked professionally as an instrumentalist: playing clarinet, saxophone, and bassoon.</p>"
   },
   "dwayneMilburn": {
-    "nameArr": [
-      "dwayne",
-      "milburn"
-    ],
+    "nameArr": ["dwayne", "milburn"],
     "firstName": "dwayne",
     "lastName": "milburn",
     "born": "1963",
     "died": "",
+    "website": "",
     "photo": "/photos/dwayneMilburn.jpg",
     "bio": "<p>Major Dwayne S. Milburn (b. 1963) is a native of Baltimore, Maryland. In 1986 he graduated from UCLA with a BFA in Music and received a Master of Music in Orchestral Conducting from the Cleveland Institute of Music in 1992. He received his Ph.D. in Music from UCLA in 2009.</p>"
   },
   "elaineBarkin": {
-    "nameArr": [
-      "elaine",
-      "barkin"
-    ],
+    "nameArr": ["elaine", "barkin"],
     "firstName": "elaine",
     "lastName": "barkin",
     "born": "1932",
     "died": "",
+    "website": "",
     "photo": "/photos/elaineBarkin.jpg",
     "bio": ""
   },
   "enriqueGonzalezMedina": {
-    "nameArr": [
-      "enrique",
-      "gonzález-medina"
-    ],
+    "nameArr": ["enrique", "gonzález-medina"],
     "firstName": "enrique",
     "lastName": "gonzález-medina",
     "born": "1954",
     "died": "",
+    "website": "http://www.enriquegm.com/",
     "photo": "/photos/enriqueGonzalezMedina.jpg",
-    "bio": "<a href=\"http://www.enriquegm.com/\" class=\"website\">Enrique González-Medina's Website</a><p>Originally from Tijuana, Baja California (Mexico), Enrique Gonzalez-Medina has presented new works with soloists, ensembles and orchestras from Mexico, the United States, Italy, and Colombia. He recently finished his Concertino íntimo, for piano and small orchestra, a commission by the Baja California Orchestra, scheduled to be premiered in 2008. In 2006 he concluded and premiered the composition of the Baja California Songbook, a song collection of twenty-five settings of poems by five Baja California poets. Among his recent works, his children’s opera How Nanita Learned to Make Flan, a 2003 commission by Cincinnati Opera, has had over one hundred and fifty performances in the United States. He was also commissioned to compose the quartet Concierto barroco by Pacific Serenades. This same ensemble selected this work for their upcoming CD Border Crossings (2007). In 2002, the guitarist Felix Bullock premiered his guitar concerto Medellin Concerto in Colombia, and the Mexican duo of soprano Claudia Montiel and guitarist Carlos Bernal recorded his song cycle The Teacher’s Verses for their CD La Cuerda del Tiempo on the Quindecim Recordings label (Mexico). Enrique Gonzalez-Medina studied composition in Mexico City attending the National Autonomous University of Mexico (UNAM), and in the United States, he graduated from The Mannes College of Music (B.M.) and CSLA (M.M.). Since 1997 he is a member of the piano faculty of the Pasadena Conservatory of Music. Excerpts from his compositions, scores and recordings, can be downloaded from the website: www.enriquegm.com.</p>"
+    "bio": "<p>Originally from Tijuana, Baja California (Mexico), Enrique Gonzalez-Medina has presented new works with soloists, ensembles and orchestras from Mexico, the United States, Italy, and Colombia. He recently finished his Concertino íntimo, for piano and small orchestra, a commission by the Baja California Orchestra, scheduled to be premiered in 2008. In 2006 he concluded and premiered the composition of the Baja California Songbook, a song collection of twenty-five settings of poems by five Baja California poets. Among his recent works, his children’s opera How Nanita Learned to Make Flan, a 2003 commission by Cincinnati Opera, has had over one hundred and fifty performances in the United States. He was also commissioned to compose the quartet Concierto barroco by Pacific Serenades. This same ensemble selected this work for their upcoming CD Border Crossings (2007). In 2002, the guitarist Felix Bullock premiered his guitar concerto Medellin Concerto in Colombia, and the Mexican duo of soprano Claudia Montiel and guitarist Carlos Bernal recorded his song cycle The Teacher’s Verses for their CD La Cuerda del Tiempo on the Quindecim Recordings label (Mexico). Enrique Gonzalez-Medina studied composition in Mexico City attending the National Autonomous University of Mexico (UNAM), and in the United States, he graduated from The Mannes College of Music (B.M.) and CSLA (M.M.). Since 1997 he is a member of the piano faculty of the Pasadena Conservatory of Music. Excerpts from his compositions, scores and recordings, can be downloaded from the website: www.enriquegm.com.</p>"
   },
   "ericCharnofsky": {
-    "nameArr": [
-      "eric",
-      "charnofsky"
-    ],
+    "nameArr": ["eric", "charnofsky"],
     "firstName": "eric",
     "lastName": "charnofsky",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/ericCharnofsky.jpg",
     "bio": ""
   },
   "ernestBloch": {
-    "nameArr": [
-      "ernest",
-      "bloch"
-    ],
+    "nameArr": ["ernest", "bloch"],
     "firstName": "ernest",
     "lastName": "bloch",
     "born": "1880",
     "died": "1959",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "ernestChausson": {
-    "nameArr": [
-      "ernest",
-      "chausson"
-    ],
+    "nameArr": ["ernest", "chausson"],
     "firstName": "ernest",
     "lastName": "chausson",
     "born": "1855",
     "died": "1899",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "ernoDohnanyi": {
-    "nameArr": [
-      "ernö",
-      "dohnanyi"
-    ],
+    "nameArr": ["ernö", "dohnanyi"],
     "firstName": "ernö",
     "lastName": "dohnanyi",
     "born": "1877",
     "died": "1960",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "eugeneFriesen": {
-    "nameArr": [
-      "eugene",
-      "friesen"
-    ],
+    "nameArr": ["eugene", "friesen"],
     "firstName": "eugene",
     "lastName": "friesen",
     "born": "1952",
     "died": "",
+    "website": "http://www.celloman.com/",
     "photo": "/photos/eugeneFriesen.jpg",
-    "bio": "<a href=\"http://www.celloman.com/\" class=\"website\">Eugene Friesen's Website</a><p>EUGENE FRIESEN, composer/cellist, is at the forefront of a new generation of musicians versed in classical, popular and world music. A graduate of the Yale School of Music, he is active as a performer, composer, teacher and recording artist.<br>\nFriesen’s gift for the responsive flow of improvisatory music has been featured in concerts all over the world with the Paul Winter Consort, Trio Globo, and with poets Yevgeny Yevtushenko and Coleman Barks. He has performed as a soloist at the International Cello Festival in Manchester, England; Rencontres d’Ensembles de Violoncelles in Beauvais, France; International Cello Encounter in Rio de Janeiro, Brazil; and at the World Cello Congress in Baltimore, Maryland.<br>\nHis compositional credits include five albums of original music: Sono Miho, In The Shade Of Angels, New Friend, Arms Around You and The Song of Rivers; Grasslands, a symphony premiered on the Kansas prairie in 1997; Earth Requiem: Stories of Hope, an oratorio first performed in 1991; The Brementown Musicians with Bob Hoskins for Rabbit Ears Productions in 1992; Sabbaths, settings of poems by Wendell Berry premiered by the Brattleboro Music Center in 1999; and numerous scores for documentary films. Eugene’s music can also be heard on the recordings of Trio Globo, which he founded in 1992 with Howard Levy and Glen Velez.<br>\nFriesen has garnered four Grammy awards as a member of the Paul Winter Consort since 1978.<br>\nFriesen was the 1999 recipient of grants from the Lila Wallace/Reader’s Digest Fund and Continental Harmony to compose a symphonic setting of Carl Sandburg’s PRAIRIE, which was premiered in June of 2001 at PrairieFest in Kansas.<br>\nCelloMan, his one-man show for young audiences, features a wide variety of music on solo cello: classical, jazz, blues and rock. Created in collaboration with maskmaker/choreographer Robert Faust, CelloMan has been performed widely in the United States and Canada. The CelloMan video was released in 1999.<br>\nEugene is an artist-in-residence at the Cathedral of St. John the Divine in New York City, and is a Professor of Music at the Berklee College of Music in Boston. He lives in Vermont with his wife Wendy and four children.</p>"
+    "bio": "<p>EUGENE FRIESEN, composer/cellist, is at the forefront of a new generation of musicians versed in classical, popular and world music. A graduate of the Yale School of Music, he is active as a performer, composer, teacher and recording artist.<br>\nFriesen’s gift for the responsive flow of improvisatory music has been featured in concerts all over the world with the Paul Winter Consort, Trio Globo, and with poets Yevgeny Yevtushenko and Coleman Barks. He has performed as a soloist at the International Cello Festival in Manchester, England; Rencontres d’Ensembles de Violoncelles in Beauvais, France; International Cello Encounter in Rio de Janeiro, Brazil; and at the World Cello Congress in Baltimore, Maryland.<br>\nHis compositional credits include five albums of original music: Sono Miho, In The Shade Of Angels, New Friend, Arms Around You and The Song of Rivers; Grasslands, a symphony premiered on the Kansas prairie in 1997; Earth Requiem: Stories of Hope, an oratorio first performed in 1991; The Brementown Musicians with Bob Hoskins for Rabbit Ears Productions in 1992; Sabbaths, settings of poems by Wendell Berry premiered by the Brattleboro Music Center in 1999; and numerous scores for documentary films. Eugene’s music can also be heard on the recordings of Trio Globo, which he founded in 1992 with Howard Levy and Glen Velez.<br>\nFriesen has garnered four Grammy awards as a member of the Paul Winter Consort since 1978.<br>\nFriesen was the 1999 recipient of grants from the Lila Wallace/Reader’s Digest Fund and Continental Harmony to compose a symphonic setting of Carl Sandburg’s PRAIRIE, which was premiered in June of 2001 at PrairieFest in Kansas.<br>\nCelloMan, his one-man show for young audiences, features a wide variety of music on solo cello: classical, jazz, blues and rock. Created in collaboration with maskmaker/choreographer Robert Faust, CelloMan has been performed widely in the United States and Canada. The CelloMan video was released in 1999.<br>\nEugene is an artist-in-residence at the Cathedral of St. John the Divine in New York City, and is a Professor of Music at the Berklee College of Music in Boston. He lives in Vermont with his wife Wendy and four children.</p>"
   },
   "felixMendelssohn": {
-    "nameArr": [
-      "felix",
-      "mendelssohn"
-    ],
+    "nameArr": ["felix", "mendelssohn"],
     "firstName": "felix",
     "lastName": "mendelssohn",
     "born": "1809",
     "died": "1847",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "francescoGeminiani": {
-    "nameArr": [
-      "francesco",
-      "geminiani"
-    ],
+    "nameArr": ["francesco", "geminiani"],
     "firstName": "francesco",
     "lastName": "geminiani",
     "born": "1687",
     "died": "1762",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "francisPoulenc": {
-    "nameArr": [
-      "francis",
-      "poulenc"
-    ],
+    "nameArr": ["francis", "poulenc"],
     "firstName": "francis",
     "lastName": "poulenc",
     "born": "1899",
     "died": "1963",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "francoisCouperin": {
-    "nameArr": [
-      "francois",
-      "couperin"
-    ],
+    "nameArr": ["francois", "couperin"],
     "firstName": "francois",
     "lastName": "couperin",
     "born": "1668",
     "died": "1733",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "francoisDevienne": {
-    "nameArr": [
-      "francois",
-      "devienne"
-    ],
+    "nameArr": ["francois", "devienne"],
     "firstName": "francois",
     "lastName": "devienne",
     "born": "1759",
     "died": "1803",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "francoisFrancoeur": {
-    "nameArr": [
-      "françois",
-      "francoeur"
-    ],
+    "nameArr": ["françois", "francoeur"],
     "firstName": "françois",
     "lastName": "francoeur",
     "born": "1698",
     "died": "1787",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "frankMartin": {
-    "nameArr": [
-      "frank",
-      "martin"
-    ],
+    "nameArr": ["frank", "martin"],
     "firstName": "frank",
     "lastName": "martin",
     "born": "1890",
     "died": "1974",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "franzJosefHaydn": {
-    "nameArr": [
-      "franz",
-      "josef",
-      "haydn"
-    ],
+    "nameArr": ["franz", "josef", "haydn"],
     "firstName": "franz josef",
     "lastName": "haydn",
     "born": "1732",
     "died": "1809",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "franzSchubert": {
-    "nameArr": [
-      "franz",
-      "schubert"
-    ],
+    "nameArr": ["franz", "schubert"],
     "firstName": "franz",
     "lastName": "schubert",
     "born": "1797",
     "died": "1828",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "fredericChopin": {
-    "nameArr": [
-      "frederic",
-      "chopin"
-    ],
+    "nameArr": ["frederic", "chopin"],
     "firstName": "frederic",
     "lastName": "chopin",
     "born": "1810",
     "died": "1849",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "gabrielFaure": {
-    "nameArr": [
-      "gabriel",
-      "fauré"
-    ],
+    "nameArr": ["gabriel", "fauré"],
     "firstName": "gabriel",
     "lastName": "fauré",
     "born": "1845",
     "died": "1924",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "gabrielaLenaFrank": {
-    "nameArr": [
-      "gabriela",
-      "lena",
-      "frank"
-    ],
+    "nameArr": ["gabriela", "lena", "frank"],
     "firstName": "gabriela lena",
     "lastName": "frank",
     "born": "1972",
     "died": "",
+    "website": "http://www.schirmer.com/Default.aspx?TabId=2419&amp;State_2872=2&amp;composerId_2872=2388",
     "photo": "/photos/gabrielaLenaFrank.jpg",
-    "bio": "<a href=\"http://www.schirmer.com/Default.aspx?TabId=2419&amp;State_2872=2&amp;composerId_2872=2388\" class=\"website\">Gabriela Lena Frank's Website</a><p>Identity has always been at the center of Gabriela Lena Frank’s music. Born in Berkeley, California, to a mother of mixed Peruvian/Chinese ancestry and a father of Lithuanian/Jewish descent, Frank explores her multicultural heritage most ardently through her compositions. Inspired by the works of Bela BartÃ³k and Alberto Ginastera, Frank is something of a musical anthropologist. She has travelled extensively throughout South America and her pieces reflect and refract her studies of Latin-American folklore, incorporating poetry, mythology, and native musical styles into a western classical framework that is uniquely her own. She writes challenging idiomatic parts for solo instrumentalists, vocalists, chamber ensembles, and orchestras.</p>"
+    "bio": "<p>Identity has always been at the center of Gabriela Lena Frank’s music. Born in Berkeley, California, to a mother of mixed Peruvian/Chinese ancestry and a father of Lithuanian/Jewish descent, Frank explores her multicultural heritage most ardently through her compositions. Inspired by the works of Bela BartÃ³k and Alberto Ginastera, Frank is something of a musical anthropologist. She has travelled extensively throughout South America and her pieces reflect and refract her studies of Latin-American folklore, incorporating poetry, mythology, and native musical styles into a western classical framework that is uniquely her own. She writes challenging idiomatic parts for solo instrumentalists, vocalists, chamber ensembles, and orchestras.</p>"
   },
   "garyBachlund": {
-    "nameArr": [
-      "gary",
-      "bachlund"
-    ],
+    "nameArr": ["gary", "bachlund"],
     "firstName": "gary",
     "lastName": "bachlund",
     "born": "1947",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "georgFridericHandel": {
-    "nameArr": [
-      "georg",
-      "frideric",
-      "handel"
-    ],
+    "nameArr": ["georg", "frideric", "handel"],
     "firstName": "georg frideric",
     "lastName": "handel",
     "born": "1685",
     "died": "1759",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "georgTelemann": {
-    "nameArr": [
-      "georg",
-      "telemann"
-    ],
+    "nameArr": ["georg", "telemann"],
     "firstName": "georg",
     "lastName": "telemann",
     "born": "1681",
     "died": "1767",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "gernotWolfgang": {
-    "nameArr": [
-      "gernot",
-      "wolfgang"
-    ],
+    "nameArr": ["gernot", "wolfgang"],
     "firstName": "gernot",
     "lastName": "wolfgang",
     "born": "1957",
     "died": "",
+    "website": "http://www.gernotwolfgang.com/",
     "photo": "/photos/gernotWolfgang.jpg",
-    "bio": "<a href=\"http://www.gernotwolfgang.com/\" class=\"website\">Gernot Wolfgang's Website</a><p>Born in Bad Gastein, Austria in 1957, Gernot Wolfgang currently resides in Los Angeles. He is a graduate of the program “Scoring for Motion Pictures and TV” at USC, and holds degrees from Berklee College of Music in Boston and the University of Music in Graz, Austria.</p>"
+    "bio": "<p>Born in Bad Gastein, Austria in 1957, Gernot Wolfgang currently resides in Los Angeles. He is a graduate of the program “Scoring for Motion Pictures and TV” at USC, and holds degrees from Berklee College of Music in Boston and the University of Music in Graz, Austria.</p>"
   },
   "giuseppeTartini": {
-    "nameArr": [
-      "giuseppe",
-      "tartini"
-    ],
+    "nameArr": ["giuseppe", "tartini"],
     "firstName": "giuseppe",
     "lastName": "tartini",
     "born": "1692",
     "died": "1770",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "hugoWolf": {
-    "nameArr": [
-      "hugo",
-      "wolf"
-    ],
+    "nameArr": ["hugo", "wolf"],
     "firstName": "hugo",
     "lastName": "wolf",
     "born": "1860",
     "died": "1903",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "ianKrouse": {
-    "nameArr": [
-      "ian",
-      "krouse"
-    ],
+    "nameArr": ["ian", "krouse"],
     "firstName": "ian",
     "lastName": "krouse",
     "born": "1956",
     "died": "",
+    "website": "http://iankrouse.com/",
     "photo": "/photos/ianKrouse.jpg",
-    "bio": "<a href=\"http://iankrouse.com/\" class=\"website\">Ian Krouse's Website</a><p>Composer Ian Krouse was born in 1956 in Olney, Maryland. His music is well known to lovers of guitar music, especially those who follow the Los Angeles Guitar Quartet. In recent years, Krouse’s works have been performed by such orchestras as the Chicago Symphony, the Mexico City Chamber Orchestra, Pasadena Chamber Orchestra, Ukrainian Radio and Television Orchestra, Armenian and Cairo Philharmonic Orchestras, American Youth Symphony, and UCLA and USC Orchestras.</p>"
+    "bio": "<p>Composer Ian Krouse was born in 1956 in Olney, Maryland. His music is well known to lovers of guitar music, especially those who follow the Los Angeles Guitar Quartet. In recent years, Krouse’s works have been performed by such orchestras as the Chicago Symphony, the Mexico City Chamber Orchestra, Pasadena Chamber Orchestra, Ukrainian Radio and Television Orchestra, Armenian and Cairo Philharmonic Orchestras, American Youth Symphony, and UCLA and USC Orchestras.</p>"
   },
   "igorStravinsky": {
-    "nameArr": [
-      "igor",
-      "stravinsky"
-    ],
+    "nameArr": ["igor", "stravinsky"],
     "firstName": "igor",
     "lastName": "stravinsky",
     "born": "1882",
     "died": "1971",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "jackBody": {
-    "nameArr": [
-      "jack",
-      "body"
-    ],
+    "nameArr": ["jack", "body"],
     "firstName": "jack",
     "lastName": "body",
     "born": "1944",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "jakeHeggie": {
-    "nameArr": [
-      "jake",
-      "heggie"
-    ],
+    "nameArr": ["jake", "heggie"],
     "firstName": "jake",
     "lastName": "heggie",
     "born": "1961",
     "died": "",
+    "website": "http://jakeheggie.com/",
     "photo": "/photos/jakeHeggie.jpg",
-    "bio": "<a href=\"http://jakeheggie.com/\" class=\"website\">Jake Heggie's Website</a><p>Jake Heggie is the composer of the operas <i>Dead Man Walking</i> (libretto: Terrence McNally), <i>The End of the Affair</i> (libretto: Heather McDonald), <i>To Hell and Back</i> (libretto: Gene Scheer), <i>At the Statue of Venus</i> (libretto: McNally), more than 200 art songs, plus orchestral and chamber music. Upcoming works include a chamber opera for Frederica von Stade titled <i>Last Acts</i> (libretto by Scheer, based on an original story by McNally) for the Houston Grand Opera and San Francisco Opera, and collaborative projects with the Metropolitan Opera and Lincoln Center Theater, Dallas Opera, San Francisco Opera, London’s Wigmore Hall and Pacific Serenades in Los Angeles. Heggie’s operas have been performed by more than a dozen American companies including San Francisco Opera, New York City Opera, Houston Grand Opera, Cincinnati Opera, Baltimore Opera, Opera Pacific and Seattle Opera. Recently, the operas have been featured in international productions by companies in Australia, Canada, Germany, Sweden, Ireland and Austria. In 2007 alone, <i>Dead Man Walking</i> has received more than 50 performances. Other major works by Heggie include the theatrical song cycle <i>For a Look or a Touch</i> (libretto by Gene Scheer, based on stories from the film <i>Paragraph 175</i>), the song cycles <i>The Deepest Desire</i> (poetry by Sister Helen Prejean), <i>Statuesque and Rise and Fall</i> (poetry by Gene Scheer), <i>Here and Gone</i> (poetry by Housman and Lindsay), and the cello concerto <i>Holy The Firm: Essay for Cello and Orchestra</i>. Recordings include <i>Dead Man Walking</i> (ERATO), <i>Flesh and Stone</i> (Americus), <i>The Faces of Love</i> (RCA Red Seal), and <i>The Deepest Desire</i> (Eloquentia). Heggie was the recipient of a 2005/2006 Guggenheim Foundation Fellowship and has been composer-in-residence for the San Francisco Opera, Eos Orchestra, and Vail Valley Music Festival. Singers he collaborates with as pianist and composer include Frederica von Stade, Susan Graham, Audra McDonald, Joyce DiDonato, Kiri Te Kanawa, Kristine Jepson, Isabel Bayrakdarian, Patti LuPone, Kristin Clayton, Leah Partridge, Zheng Cao, Paul Groves, Nicholas Phan, Keith Phares and Bryn Terfel. Jake Heggie lives in San Francisco.</p>"
+    "bio": "<p>Jake Heggie is the composer of the operas <i>Dead Man Walking</i> (libretto: Terrence McNally), <i>The End of the Affair</i> (libretto: Heather McDonald), <i>To Hell and Back</i> (libretto: Gene Scheer), <i>At the Statue of Venus</i> (libretto: McNally), more than 200 art songs, plus orchestral and chamber music. Upcoming works include a chamber opera for Frederica von Stade titled <i>Last Acts</i> (libretto by Scheer, based on an original story by McNally) for the Houston Grand Opera and San Francisco Opera, and collaborative projects with the Metropolitan Opera and Lincoln Center Theater, Dallas Opera, San Francisco Opera, London’s Wigmore Hall and Pacific Serenades in Los Angeles. Heggie’s operas have been performed by more than a dozen American companies including San Francisco Opera, New York City Opera, Houston Grand Opera, Cincinnati Opera, Baltimore Opera, Opera Pacific and Seattle Opera. Recently, the operas have been featured in international productions by companies in Australia, Canada, Germany, Sweden, Ireland and Austria. In 2007 alone, <i>Dead Man Walking</i> has received more than 50 performances. Other major works by Heggie include the theatrical song cycle <i>For a Look or a Touch</i> (libretto by Gene Scheer, based on stories from the film <i>Paragraph 175</i>), the song cycles <i>The Deepest Desire</i> (poetry by Sister Helen Prejean), <i>Statuesque and Rise and Fall</i> (poetry by Gene Scheer), <i>Here and Gone</i> (poetry by Housman and Lindsay), and the cello concerto <i>Holy The Firm: Essay for Cello and Orchestra</i>. Recordings include <i>Dead Man Walking</i> (ERATO), <i>Flesh and Stone</i> (Americus), <i>The Faces of Love</i> (RCA Red Seal), and <i>The Deepest Desire</i> (Eloquentia). Heggie was the recipient of a 2005/2006 Guggenheim Foundation Fellowship and has been composer-in-residence for the San Francisco Opera, Eos Orchestra, and Vail Valley Music Festival. Singers he collaborates with as pianist and composer include Frederica von Stade, Susan Graham, Audra McDonald, Joyce DiDonato, Kiri Te Kanawa, Kristine Jepson, Isabel Bayrakdarian, Patti LuPone, Kristin Clayton, Leah Partridge, Zheng Cao, Paul Groves, Nicholas Phan, Keith Phares and Bryn Terfel. Jake Heggie lives in San Francisco.</p>"
   },
   "jeffKryka": {
-    "nameArr": [
-      "jeff",
-      "kryka"
-    ],
+    "nameArr": ["jeff", "kryka"],
     "firstName": "jeff",
     "lastName": "kryka",
     "born": "1984",
     "died": "",
+    "website": "http://www.jeffkryka.com/Composer/News.html",
     "photo": "/photos/jeffKryka.jpg",
-    "bio": "<a href=\"http://www.jeffkryka.com/Composer/News.html\" class=\"website\">Jeff Kryka's Website</a><p>Composer Jeff Kryka has been awarded by Turner Classic Movies, ASCAP, the RMA L.A., the Henry Mancini Foundation, and has had works performed in concert by virtuoso violinist Anne Akiko Meyers, the University of Wisconsin-Madison Symphony Orchestra, the University of Wisconsin-Madison Concert Band, and the Heartland Symphony Orchestra.</p>"
+    "bio": "<p>Composer Jeff Kryka has been awarded by Turner Classic Movies, ASCAP, the RMA L.A., the Henry Mancini Foundation, and has had works performed in concert by virtuoso violinist Anne Akiko Meyers, the University of Wisconsin-Madison Symphony Orchestra, the University of Wisconsin-Madison Concert Band, and the Heartland Symphony Orchestra.</p>"
   },
   "jeffreyParola": {
-    "nameArr": [
-      "jeffrey",
-      "parola"
-    ],
+    "nameArr": ["jeffrey", "parola"],
     "firstName": "jeffrey",
     "lastName": "parola",
     "born": "1979",
     "died": "",
+    "website": "http://www.parola.org/blog/",
     "photo": "/photos/jeffreyParola.jpg",
-    "bio": "<a href=\"http://www.parola.org/blog/\" class=\"website\">Jeffrey Parola's Website</a><p>Jeffrey Parola is an American composer of numerous orchestral, chamber, and choral/vocal works. His music is varied and eclectic, reflecting a wide range of musical influences. Jeffrey’s recent major professional commissions include Concerto for Clarinet and Chamber Orchestra, written for clarinetist Paul Green and the Atlantic Classical Orchestra and conductor Stewart Robertson, which premiered to critical acclaim in Florida in March 2014. this view of life, a piece for chorus and string quartet, was written for Choral Chameleon, directed by Vince Peterson, which premiered in New York City in May 2013. Upcoming commissions include a piece for bassoon and string quartet for a professional Los Angeles-based ensemble to be premiered in June 2014, and a piece for the BluePrint New Music Ensemble, to be premiered in Spring 2016 with Nicole Paiement conducting.</p>"
+    "bio": "<p>Jeffrey Parola is an American composer of numerous orchestral, chamber, and choral/vocal works. His music is varied and eclectic, reflecting a wide range of musical influences. Jeffrey’s recent major professional commissions include Concerto for Clarinet and Chamber Orchestra, written for clarinetist Paul Green and the Atlantic Classical Orchestra and conductor Stewart Robertson, which premiered to critical acclaim in Florida in March 2014. this view of life, a piece for chorus and string quartet, was written for Choral Chameleon, directed by Vince Peterson, which premiered in New York City in May 2013. Upcoming commissions include a piece for bassoon and string quartet for a professional Los Angeles-based ensemble to be premiered in June 2014, and a piece for the BluePrint New Music Ensemble, to be premiered in Spring 2016 with Nicole Paiement conducting.</p>"
   },
   "jeremyBeck": {
-    "nameArr": [
-      "jeremy",
-      "beck"
-    ],
+    "nameArr": ["jeremy", "beck"],
     "firstName": "jeremy",
     "lastName": "beck",
     "born": "1960",
     "died": "",
+    "website": "",
     "photo": "/photos/jeremyBeck.jpg",
     "bio": ""
   },
   "jeremyCavaterra": {
-    "nameArr": [
-      "jeremy",
-      "cavaterra"
-    ],
+    "nameArr": ["jeremy", "cavaterra"],
     "firstName": "jeremy",
     "lastName": "cavaterra",
     "born": "1971",
     "died": "",
+    "website": "",
     "photo": "/photos/jeremyCavaterra.jpg",
     "bio": "<p>Jeremy Cavaterra was born in New York City in 1971. His music has been performed by soloists, chamber groups, and orchestras internationally. As a pianist he has appeared as both soloist and collaborative artist with ensembles, instrumentalists, and singers, often performing his own work. His teachers included Tania Agins and Robert Turner (piano) and Mark Carlson (composition) in Los Angeles before he returned to New York to study composition at Manhattan School of Music as a scholarship student of Giampaolo Bracali.</p>"
   },
   "joelMcneely": {
-    "nameArr": [
-      "joel",
-      "mcneely"
-    ],
+    "nameArr": ["joel", "mcneely"],
     "firstName": "joel",
     "lastName": "mcneely",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/joelMcneely.jpg",
     "bio": ""
   },
   "johannKrebs": {
-    "nameArr": [
-      "johann",
-      "krebs"
-    ],
+    "nameArr": ["johann", "krebs"],
     "firstName": "johann",
     "lastName": "krebs",
     "born": "1713",
     "died": "1780",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "johannSebastianBach": {
-    "nameArr": [
-      "johann",
-      "sebastian",
-      "bach"
-    ],
+    "nameArr": ["johann", "sebastian", "bach"],
     "firstName": "johann sebastian",
     "lastName": "bach",
     "born": "1685",
     "died": "1750",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "johannesBrahms": {
-    "nameArr": [
-      "johannes",
-      "brahms"
-    ],
+    "nameArr": ["johannes", "brahms"],
     "firstName": "johannes",
     "lastName": "brahms",
     "born": "1833",
     "died": "1897",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "johnBiggs": {
-    "nameArr": [
-      "john",
-      "biggs"
-    ],
+    "nameArr": ["john", "biggs"],
     "firstName": "john",
     "lastName": "biggs",
     "born": "1932",
     "died": "",
+    "website": "",
     "photo": "/photos/johnBiggs.jpg",
     "bio": ""
   },
   "johnColtraneThomasOboeLee": {
-    "nameArr": [
-      "john",
-      "coltrane,",
-      "thomas",
-      "oboe",
-      "lee"
-    ],
+    "nameArr": ["john", "coltrane,", "thomas", "oboe", "lee"],
     "firstName": "john coltrane, thomas oboe",
     "lastName": "lee",
     "born": "1926",
     "died": "1967",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "johnDaversa": {
-    "nameArr": [
-      "john",
-      "daversa"
-    ],
+    "nameArr": ["john", "daversa"],
     "firstName": "john",
     "lastName": "daversa",
     "born": "1972",
     "died": "",
+    "website": "http://johndaversa.com/",
     "photo": "/photos/johnDaversa.jpg",
-    "bio": "<a href=\"http://johndaversa.com/\" class=\"website\">John Daversa's Website</a><p>Coming from a musical family, composer John Daversa took an immediate interest in music at an early age; first through piano and voice, and later with trumpet and EVI (Electric Valve Instrument). He quickly absorbed all of the music playing around the house which included Chopin, Miles Davis, Earth Wind and Fire, Ella Fitzgerald, Aretha Franklin, Willie Nelson, Frank Sinatra, Nancy Wilson, Stevie Wonder, and of course the soundtrack of Disney’s Jungle Book featuring Louis Prima. By the age of 15, jazz had become part of John’s identity as he attended the Los Angeles Music Magnet, Hamilton High School Academy of the Arts, from 1989 to 1991. After high school, he attended UCLA, studying with classical trumpet virtuosi Mario Guarneri and Malcolm McNab. Although John’s musical interests were firmly placed in jazz (playing trumpet and electric bass in the UCLA jazz bands), he pursued a Bachelor of Arts degree with a concentration in classical composition. During that time, John won the Herb Alpert Award, David Joel Miller Award, National Trumpet Competition, and the ITG Jazz Soloist Competition.</p>"
+    "bio": "<p>Coming from a musical family, composer John Daversa took an immediate interest in music at an early age; first through piano and voice, and later with trumpet and EVI (Electric Valve Instrument). He quickly absorbed all of the music playing around the house which included Chopin, Miles Davis, Earth Wind and Fire, Ella Fitzgerald, Aretha Franklin, Willie Nelson, Frank Sinatra, Nancy Wilson, Stevie Wonder, and of course the soundtrack of Disney’s Jungle Book featuring Louis Prima. By the age of 15, jazz had become part of John’s identity as he attended the Los Angeles Music Magnet, Hamilton High School Academy of the Arts, from 1989 to 1991. After high school, he attended UCLA, studying with classical trumpet virtuosi Mario Guarneri and Malcolm McNab. Although John’s musical interests were firmly placed in jazz (playing trumpet and electric bass in the UCLA jazz bands), he pursued a Bachelor of Arts degree with a concentration in classical composition. During that time, John won the Herb Alpert Award, David Joel Miller Award, National Trumpet Competition, and the ITG Jazz Soloist Competition.</p>"
   },
   "johnMaxwellAnderson": {
-    "nameArr": [
-      "john",
-      "maxwell",
-      "anderson"
-    ],
+    "nameArr": ["john", "maxwell", "anderson"],
     "firstName": "john maxwell",
     "lastName": "anderson",
     "born": "1948",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "johnSteinmetz": {
-    "nameArr": [
-      "john",
-      "steinmetz"
-    ],
+    "nameArr": ["john", "steinmetz"],
     "firstName": "john",
     "lastName": "steinmetz",
     "born": "1951",
     "died": "",
+    "website": "",
     "photo": "/photos/johnSteinmetz.jpg",
     "bio": ""
   },
   "josephSuk": {
-    "nameArr": [
-      "joseph",
-      "suk"
-    ],
+    "nameArr": ["joseph", "suk"],
     "firstName": "joseph",
     "lastName": "suk",
     "born": "1874",
     "died": "1935",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "justinMorell": {
-    "nameArr": [
-      "justin",
-      "morell"
-    ],
+    "nameArr": ["justin", "morell"],
     "firstName": "justin",
     "lastName": "morell",
     "born": "1973",
     "died": "",
+    "website": "http://justinmorell.com/blog/?page_id=6",
     "photo": "/photos/justinMorell.jpg",
-    "bio": "<a href=\"http://justinmorell.com/blog/?page_id=6\" class=\"website\">Justin Morell's Website</a><p>Justin Morell is a composer and guitarist living in Portland, Oregon. Some of his recent chamber works have been premiered by the American Creators Ensemble at the Oregon Bach Festival, the So Percussion Ensemble, the Eugene Contemporary Chamber Ensemble, the Onyx String Quartet, Fireworks Ensemble, and the University of Oregon Saxophone Quartet. In addition to writing for the concert stage, Justin has also written many works for small and large jazz ensembles. His works are regularly performed by the Oregon Jazz Ensemble and the Eugene Composers’ Jazz Orchestra, and his Jazz Ensemble No. 1 (2003) was a winner at the Third International Thad Jones Composition Competition in Copenhagen. Justin has released six CDs of original compositions, including the critically acclaimed <i>triOrange</i> which featured bassist Todd Sickafoose and pianist Leonard Thompson. His CD <i>The music of Steely Dan</i>, a reinterpretation of songs for jazz quintet, was named one of the best CDs of the year by WBEZ Chicago. He can also be heard on CDs, television, and film as a guitarist and as a drummer, as well as recording engineer and producer. Justin holds a BA from UCLA, an MA from California State University East Bay, and a PhD from the University of Oregon where he studied under Rob Kyr and David Crumb.</p>"
+    "bio": "<p>Justin Morell is a composer and guitarist living in Portland, Oregon. Some of his recent chamber works have been premiered by the American Creators Ensemble at the Oregon Bach Festival, the So Percussion Ensemble, the Eugene Contemporary Chamber Ensemble, the Onyx String Quartet, Fireworks Ensemble, and the University of Oregon Saxophone Quartet. In addition to writing for the concert stage, Justin has also written many works for small and large jazz ensembles. His works are regularly performed by the Oregon Jazz Ensemble and the Eugene Composers’ Jazz Orchestra, and his Jazz Ensemble No. 1 (2003) was a winner at the Third International Thad Jones Composition Competition in Copenhagen. Justin has released six CDs of original compositions, including the critically acclaimed <i>triOrange</i> which featured bassist Todd Sickafoose and pianist Leonard Thompson. His CD <i>The music of Steely Dan</i>, a reinterpretation of songs for jazz quintet, was named one of the best CDs of the year by WBEZ Chicago. He can also be heard on CDs, television, and film as a guitarist and as a drummer, as well as recording engineer and producer. Justin holds a BA from UCLA, an MA from California State University East Bay, and a PhD from the University of Oregon where he studied under Rob Kyr and David Crumb.</p>"
   },
   "kathrynMishell": {
-    "nameArr": [
-      "kathryn",
-      "mishell"
-    ],
+    "nameArr": ["kathryn", "mishell"],
     "firstName": "kathryn",
     "lastName": "mishell",
     "born": "1940",
     "died": "",
+    "website": "",
     "photo": "/photos/kathrynMishell.jpeg",
     "bio": ""
   },
   "katisseBuckingham": {
-    "nameArr": [
-      "katisse",
-      "buckingham"
-    ],
+    "nameArr": ["katisse", "buckingham"],
     "firstName": "katisse",
     "lastName": "buckingham",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/katisseBuckingham.jpg",
     "bio": ""
   },
   "kemenceciNikolaki": {
-    "nameArr": [
-      "kemençeci",
-      "nikolaki"
-    ],
+    "nameArr": ["kemençeci", "nikolaki"],
     "firstName": "kemençeci",
     "lastName": "nikolaki",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "kennethFroelich": {
-    "nameArr": [
-      "kenneth",
-      "froelich"
-    ],
+    "nameArr": ["kenneth", "froelich"],
     "firstName": "kenneth",
     "lastName": "froelich",
     "born": "1977",
     "died": "",
+    "website": "http://kennethfroelich.com",
     "photo": "/photos/kennethFroelich.jpg",
-    "bio": "<a href=\"http://kennethfroelich.com\" class=\"website\">Kenneth Froelich's Website</a><p>Described as “energetic, exciting, and rhythmically dynamic,” composer Kenneth D. Froelich’s music has been performed internationally in England, Germany, Italy, France, Slovenia, Finland, Canada, Peru, Argentina, Chile, and China, as well as numerous major cities across the United States. Emerging as a vibrant new voice in the world of contemporary chamber and orchestral music, Kenneth has been honored with awards from ASCAP, the National Association of Composers/USA, Meet the Composer, the Percussive Arts Society, the American Composers Forum, and the Society of Composers Inc.</p>"
+    "bio": "<p>Described as “energetic, exciting, and rhythmically dynamic,” composer Kenneth D. Froelich’s music has been performed internationally in England, Germany, Italy, France, Slovenia, Finland, Canada, Peru, Argentina, Chile, and China, as well as numerous major cities across the United States. Emerging as a vibrant new voice in the world of contemporary chamber and orchestral music, Kenneth has been honored with awards from ASCAP, the National Association of Composers/USA, Meet the Composer, the Percussive Arts Society, the American Composers Forum, and the Society of Composers Inc.</p>"
   },
   "larryLipkis": {
-    "nameArr": [
-      "larry",
-      "lipkis"
-    ],
+    "nameArr": ["larry", "lipkis"],
     "firstName": "larry",
     "lastName": "lipkis",
     "born": "1951",
     "died": "",
+    "website": "",
     "photo": "/photos/larryLipkis.jpg",
     "bio": ""
   },
   "lauraKarpman": {
-    "nameArr": [
-      "laura",
-      "karpman"
-    ],
+    "nameArr": ["laura", "karpman"],
     "firstName": "laura",
     "lastName": "karpman",
     "born": "1959",
     "died": "",
+    "website": "http://laurakarpman.com/",
     "photo": "/photos/lauraKarpmann.jpg",
-    "bio": "<a href=\"http://laurakarpman.com/\" class=\"website\">Laura Karpman's Website</a><p>A composer who brings to her music feverish imagination, impeccable musicianship, complexity, versatility, unbridled joy, and fearlessness, Laura Karpman is, in the words of George Manahan, music director of New York City Opera, “a rare combination of heart and groin.” With four Emmys, a GANG award and numerous nominations, Karpman’s credits include scores such as Steven Spielberg’s 20-hour miniseries Taken, Odyssey 5, Masters of Science Fiction, The Tournament, Craft in America, Man in the Chair, The Annihilation of Fish, and The Living Edens, video games like Microsoft’s new Disneyland Adventure, Everquest 2, Kung Fu Panda 2: The Kaboom of Doom, Untold Legends: Dark Kingdom, Field Commander, additional music for Halo 3 and Jericho, among others. Commissioned by Carnegie Hall, Karpman’s multimedia opera ASK YOUR MAMA, written for Jessye Norman, The Roots, jazz singer, and orchestra, on a text by Langston Hughes, premiered to critical acclaim. Karpman was named one of the most important women in Hollywood by Variety Magazine. She received her doctorate from The Juilliard School where she studied music composition with Milton Babbitt, and is a professor with a joint appointment in the UCLA School of Theater, Film and Television and School of Music.</p>"
+    "bio": "<p>A composer who brings to her music feverish imagination, impeccable musicianship, complexity, versatility, unbridled joy, and fearlessness, Laura Karpman is, in the words of George Manahan, music director of New York City Opera, “a rare combination of heart and groin.” With four Emmys, a GANG award and numerous nominations, Karpman’s credits include scores such as Steven Spielberg’s 20-hour miniseries Taken, Odyssey 5, Masters of Science Fiction, The Tournament, Craft in America, Man in the Chair, The Annihilation of Fish, and The Living Edens, video games like Microsoft’s new Disneyland Adventure, Everquest 2, Kung Fu Panda 2: The Kaboom of Doom, Untold Legends: Dark Kingdom, Field Commander, additional music for Halo 3 and Jericho, among others. Commissioned by Carnegie Hall, Karpman’s multimedia opera ASK YOUR MAMA, written for Jessye Norman, The Roots, jazz singer, and orchestra, on a text by Langston Hughes, premiered to critical acclaim. Karpman was named one of the most important women in Hollywood by Variety Magazine. She received her doctorate from The Juilliard School where she studied music composition with Milton Babbitt, and is a professor with a joint appointment in the UCLA School of Theater, Film and Television and School of Music.</p>"
   },
   "leonardBernstein": {
-    "nameArr": [
-      "leonard",
-      "bernstein"
-    ],
+    "nameArr": ["leonard", "bernstein"],
     "firstName": "leonard",
     "lastName": "bernstein",
     "born": "1918",
     "died": "1990",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "lesThimmig": {
-    "nameArr": [
-      "les",
-      "thimmig"
-    ],
+    "nameArr": ["les", "thimmig"],
     "firstName": "les",
     "lastName": "thimmig",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "leslieDrayton": {
-    "nameArr": [
-      "leslie",
-      "drayton"
-    ],
+    "nameArr": ["leslie", "drayton"],
     "firstName": "leslie",
     "lastName": "drayton",
     "born": "1950",
     "died": "",
+    "website": "",
     "photo": "/photos/leslieDrayton.jpg",
-    "bio": "<p>Leslie Drayton’s fascination with music began as a toddler when his mother discovered that he would pick out melodies on a neighbor’s piano. He began formal musical training at around 5 or 6 years of age by studying piano, clarinet, and bongo drums. At age 11, jazz great Benny Carter, a family friend, gave him a trumpet. Leslie decided at age 15 that he wanted to be a professional musician when he joined a local youth band. Through his association with the youth band he was taught arranging, composing, and music preparation skills. Upon graduating from Los Angeles High School, he attended L. A. Valley College and later transferred to CSULA where he earned a BA in Music Education. During his college years, Leslie began his professional music career by playing and writing for local R &amp; B bands, big bands, and also as a seminal member of the group, Earth, Wind, and Fire. During these early years, Leslie began to formulate his own compositional ideas and began composing and rehearsing his own musical aggregations.</p>"
+    "bio": "<p>Leslie Drayton’s fascination with music began as a toddler when his mother discovered that he would pick out melodies on a neighbor’s piano. He began formal musical training at around 5 or 6 years of age by studying piano, clarinet, and bongo drums. At age 11, jazz great Benny Carter, a family friend, gave him a trumpet. Leslie decided at age 15 that he wanted to be a professional musician when he joined a local youth band. Through his association with the youth band he was taught arranging, composing, and music preparation skills. Upon graduating from Los Angeles High School, he attended L. A. Valley College and later transferred to CSULA where he earned a BA in Music Education. During his college years, Leslie began his professional music career by playing and writing for local R & B bands, big bands, and also as a seminal member of the group, Earth, Wind, and Fire. During these early years, Leslie began to formulate his own compositional ideas and began composing and rehearsing his own musical aggregations.</p>"
   },
   "ludwigVanBeethoven": {
-    "nameArr": [
-      "ludwig",
-      "van",
-      "beethoven"
-    ],
+    "nameArr": ["ludwig", "van", "beethoven"],
     "firstName": "ludwig van",
     "lastName": "beethoven",
     "born": "1770",
     "died": "1826",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "luigiBoccherini": {
-    "nameArr": [
-      "luigi",
-      "boccherini"
-    ],
+    "nameArr": ["luigi", "boccherini"],
     "firstName": "luigi",
     "lastName": "boccherini",
     "born": "1743",
     "died": "1805",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "mariaNewman": {
-    "nameArr": [
-      "maria",
-      "newman"
-    ],
+    "nameArr": ["maria", "newman"],
     "firstName": "maria",
     "lastName": "newman",
     "born": "1960",
     "died": "",
+    "website": "",
     "photo": "/photos/mariaNewman.jpg",
     "bio": "<p>Composer Maria Newman was born into one of the most famous and influential musical families in Hollywood. The youngest daughter of the nine-time Academy Award-winning composer/conductor, Alfred Newman, she grew up surrounded by great music and fine musicians. She graduated from both the Eastman School of Music and Yale University with high honors and has since become known as a serious composer in the field of concert music.</p>"
   },
   "markCarlson": {
-    "nameArr": [
-      "mark",
-      "carlson"
-    ],
+    "nameArr": ["mark", "carlson"],
     "firstName": "mark",
     "lastName": "carlson",
     "born": "1952",
     "died": "",
+    "website": "http://markcarlsonmusic.com",
     "photo": "/photos/markCarlson.jpg",
-    "bio": "<a href=\"http://markcarlsonmusic.com\" class=\"website\">Mark Carlson's Website</a><p>Composer and flutist Mark Carlson is the Founder and Artistic Director of Pacific Serenades. His lyrical, emotionally powerful, and stylistically unique music has earned him the admiration of audiences and musicians throughout the United States, Canada, Mexico, and Europe. A versatile composer, his nearly 100 works include art songs, chamber and choral music, concertos, large ensemble works, and songs for musical theater.</p>"
+    "bio": "<p>Composer and flutist Mark Carlson is the Founder and Artistic Director of Pacific Serenades. His lyrical, emotionally powerful, and stylistically unique music has earned him the admiration of audiences and musicians throughout the United States, Canada, Mexico, and Europe. A versatile composer, his nearly 100 works include art songs, chamber and choral music, concertos, large ensemble works, and songs for musical theater.</p>"
   },
   "martinAmlin": {
-    "nameArr": [
-      "martin",
-      "amlin"
-    ],
+    "nameArr": ["martin", "amlin"],
     "firstName": "martin",
     "lastName": "amlin",
     "born": "1953",
     "died": "",
+    "website": "http://www.martinamlin.com/info.asp?pb=195&amp;pg=1",
     "photo": "/photos/martinAmlin.jpg",
-    "bio": "<a href=\"http://www.martinamlin.com/info.asp?pb=195&amp;pg=1\" class=\"website\">Martin Amlin's Website</a><p>Composer and pianist Martin Amlin has received grants from the National Endowment for the Arts, the Tanglewood Music Center, the Massachusetts Cultural Council, the Massachusetts Artists Foundation, the St. Botolph Club Foundation, and the Massachusetts Council for the Arts. He was a recipient of an ASCAP Grant to Young Composers and has received many ASCAPlus Awards. He has been a resident at Yaddo, the Virginia Center for the Creative Arts, and the MacDowell Colony, where he was named a Norlin Fellow. His compositions have been performed throughout the world and are published by the Theodore Presser Company.</p>"
+    "bio": "<p>Composer and pianist Martin Amlin has received grants from the National Endowment for the Arts, the Tanglewood Music Center, the Massachusetts Cultural Council, the Massachusetts Artists Foundation, the St. Botolph Club Foundation, and the Massachusetts Council for the Arts. He was a recipient of an ASCAP Grant to Young Composers and has received many ASCAPlus Awards. He has been a resident at Yaddo, the Virginia Center for the Creative Arts, and the MacDowell Colony, where he was named a Norlin Fellow. His compositions have been performed throughout the world and are published by the Theodore Presser Company.</p>"
   },
   "mauriceRavel": {
-    "nameArr": [
-      "maurice",
-      "ravel"
-    ],
+    "nameArr": ["maurice", "ravel"],
     "firstName": "maurice",
     "lastName": "ravel",
     "born": "1875",
     "died": "1937",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "maxBruch": {
-    "nameArr": [
-      "max",
-      "bruch"
-    ],
+    "nameArr": ["max", "bruch"],
     "firstName": "max",
     "lastName": "bruch",
     "born": "1838",
     "died": "1920",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "melanieSparks": {
-    "nameArr": [
-      "melanie",
-      "sparks"
-    ],
+    "nameArr": ["melanie", "sparks"],
     "firstName": "melanie",
     "lastName": "sparks",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "michaelKibbe": {
-    "nameArr": [
-      "michael",
-      "kibbe"
-    ],
+    "nameArr": ["michael", "kibbe"],
     "firstName": "michael",
     "lastName": "kibbe",
     "born": "1945",
     "died": "",
+    "website": "http://michaelkibbe.com/",
     "photo": "/photos/mikeKibbe.jpg",
-    "bio": "<a href=\"http://michaelkibbe.com/\" class=\"website\">Michael Kibbe's Website</a><p>Originally from the San Diego area, Michael Kibbe has a BM in music performance on oboe and bassoon, a MA in composition from CSU Northridge, and completed doctoral course work at UCLA. His total creative output is over 240 concert works, including two string quartets, 13 wind quintets, a large variety of mixed chamber music for winds, strings, brass, harp, keyboards and percussion. His catalogue includes works for band, orchestra and concertos. Kibbe?s compositions have been performed throughout the United States, Mexico, Europe, Israel and China.</p>"
+    "bio": "<p>Originally from the San Diego area, Michael Kibbe has a BM in music performance on oboe and bassoon, a MA in composition from CSU Northridge, and completed doctoral course work at UCLA. His total creative output is over 240 concert works, including two string quartets, 13 wind quintets, a large variety of mixed chamber music for winds, strings, brass, harp, keyboards and percussion. His catalogue includes works for band, orchestra and concertos. Kibbe?s compositions have been performed throughout the United States, Mexico, Europe, Israel and China.</p>"
   },
   "miguelDelAguila": {
-    "nameArr": [
-      "miguel",
-      "del",
-      "aguila"
-    ],
+    "nameArr": ["miguel", "del", "aguila"],
     "firstName": "miguel del",
     "lastName": "aguila",
     "born": "1957",
     "died": "",
+    "website": "http://www.migueldelaguila.com",
     "photo": "/photos/miguelDelAguila.jpg",
-    "bio": "<a href=\"http://www.migueldelaguila.com\" class=\"website\">Miguel del Aguila's Website</a><p>Composer <b>Miguel del Aguila</b>was born in Montevideo, Uruguay and moved to the U.S. in 1978. After graduating from the San Francisco Conservatory of Music, he traveled to Vienna to further his music studies. After ten years in Vienna, during which time he was active as composer, pianist, conductor, and music teacher, he returned in 1992 to live in Southern California. Numerous premieres of his works followed, and in 1994 <i>Los Angeles Times</i> critics chose him “resident music man of the year” and later “One of the West Coast’s most promisingand enterprising young composers.” He was honored with a Kennedy Center Friedheim Award in 1995 and was awarded several California Arts Council Fellowships and Residencies between 1996 and2000. Del Aguila’s catalog of over 70 works includes opera, orchestral, choral, solo, and chamberworks as well as incidental music for theater and film. International premieres of his works have been broadcast worldwide by radio and TV. To date, his works have been recordedon 15 different CD’s by major labels and artists. Since 1986 a number of his works have been published by Peermusic.</p>"
+    "bio": "<p>Composer <b>Miguel del Aguila</b>was born in Montevideo, Uruguay and moved to the U.S. in 1978. After graduating from the San Francisco Conservatory of Music, he traveled to Vienna to further his music studies. After ten years in Vienna, during which time he was active as composer, pianist, conductor, and music teacher, he returned in 1992 to live in Southern California. Numerous premieres of his works followed, and in 1994 <i>Los Angeles Times</i> critics chose him “resident music man of the year” and later “One of the West Coast’s most promisingand enterprising young composers.” He was honored with a Kennedy Center Friedheim Award in 1995 and was awarded several California Arts Council Fellowships and Residencies between 1996 and2000. Del Aguila’s catalog of over 70 works includes opera, orchestral, choral, solo, and chamberworks as well as incidental music for theater and film. International premieres of his works have been broadcast worldwide by radio and TV. To date, his works have been recordedon 15 different CD’s by major labels and artists. Since 1986 a number of his works have been published by Peermusic.</p>"
   },
   "munirBeken": {
-    "nameArr": [
-      "münir",
-      "beken"
-    ],
+    "nameArr": ["münir", "beken"],
     "firstName": "münir",
     "lastName": "beken",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/munirBeken.jpg",
     "bio": ""
   },
   "myraKestenbaum": {
-    "nameArr": [
-      "myra",
-      "kestenbaum"
-    ],
+    "nameArr": ["myra", "kestenbaum"],
     "firstName": "myra",
     "lastName": "kestenbaum",
     "born": "1932",
     "died": "2001",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "nRimskyKorsakov": {
-    "nameArr": [
-      "n.",
-      "rimsky-korsakov"
-    ],
+    "nameArr": ["n.", "rimsky-korsakov"],
     "firstName": "n.",
     "lastName": "rimsky-korsakov",
     "born": "1844",
     "died": "1908",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "nedRorem": {
-    "nameArr": [
-      "ned",
-      "rorem"
-    ],
+    "nameArr": ["ned", "rorem"],
     "firstName": "ned",
     "lastName": "rorem",
     "born": "1923",
     "died": "",
+    "website": "",
     "photo": "/photos/nedRorem.jpg",
     "bio": ""
   },
   "olivierMessiaen": {
-    "nameArr": [
-      "olivier",
-      "messiaen"
-    ],
+    "nameArr": ["olivier", "messiaen"],
     "firstName": "olivier",
     "lastName": "messiaen",
     "born": "1908",
     "died": "1992",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "paulChihara": {
-    "nameArr": [
-      "paul",
-      "chihara"
-    ],
+    "nameArr": ["paul", "chihara"],
     "firstName": "paul",
     "lastName": "chihara",
     "born": "1938",
     "died": "",
+    "website": "",
     "photo": "/photos/paulChihara.jpg",
-    "bio": "<p>Paul Seiko Chihara was born in Seattle, Washington in 1938, and received his Doctorate from Cornell University. His teachers include Robert Palmer, Nadia Boulanger in Paris, Ernst Pepping in Berlin, and Gunther Schuller at Tanglewood. Chihara was composer-in-residence at the Marlboro Music Festival in Vermont in 1972, the Mancini Institute, and the first composer-in-residence with the Los Angeles Chamber Orchestra, Neville Marriner, conductor. He was visiting composer at the Edinburgh Festival (1971), and has guest taught often at Tanglewood. He has recently been named Composer of the Year (2008-9) by the Classical Recording Foundation in New York.<br>\nMr. Chihara’s numerous awards include The Lili Boulanger Memorial Award, the Guggenheim and Fulbright Fellowships, the Aaron Copland Fund, and National Endowment for the Arts, as well as commissions from the Boston Symphony, the London Symphony Orchestra, the Los Angeles Philharmonic, the New Japan Philharmonic, the Cleveland Orchestra, the Chicago Symphony, the New Juilliard Ensemble, and the Orpheus. He was the composer-in-residence at the San Francisco Ballet from 1973-1986, where he composed the first full-length American ballet, The Tempest.<br>\nProfessor Chihara has composed scores for over 100 motion pictures, including Kiki’s Delivery Service, and Crossing Delancey. His works for television include China Beach, Noble House, Brave New World, An American Family, and 100 Centre Street. Mr. Chihara also served as music supervisor at Buena Vista Pictures (Walt Disney Co.). Active in the New York musical theatre world, Mr. Chihara served as musical consultant and arranger for Duke Ellington’s Sophisticated Ladies, and was the composer for James Clavell’s Shogun, the Musical. He is a Professor of Music at UCLA, and Chair of the Visual Media.<br>\nProfessor Chihara’s works have been widely recorded. His compositions appear on many labels including BMG Records, Reference Recordings, CRI, Music and Art, Vox Candide, New World Records, The Louisville Orchestra First Editions Records, Bridge Records, and Albany Records.</p>"
+    "bio": "<p>Paul Seiko Chihara was born in Seattle, Washington in 1938, and received his Doctorate from Cornell University. His teachers include Robert Palmer, Nadia Boulanger in Paris, Ernst Pepping in Berlin, and Gunther Schuller at Tanglewood. Chihara was composer-in-residence at the Marlboro Music Festival in Vermont in 1972, the Mancini Institute, and the first composer-in-residence with the Los Angeles Chamber Orchestra, Neville Marriner, conductor. He was visiting composer at the Edinburgh Festival (1971), and has guest taught often at Tanglewood. He has recently been named Composer of the Year (2008-9) by the Classical Recording Foundation in New York.</p><p>Mr. Chihara’s numerous awards include The Lili Boulanger Memorial Award, the Guggenheim and Fulbright Fellowships, the Aaron Copland Fund, and National Endowment for the Arts, as well as commissions from the Boston Symphony, the London Symphony Orchestra, the Los Angeles Philharmonic, the New Japan Philharmonic, the Cleveland Orchestra, the Chicago Symphony, the New Juilliard Ensemble, and the Orpheus. He was the composer-in-residence at the San Francisco Ballet from 1973-1986, where he composed the first full-length American ballet, The Tempest.</p><p>Professor Chihara has composed scores for over 100 motion pictures, including Kiki’s Delivery Service, and Crossing Delancey. His works for television include China Beach, Noble House, Brave New World, An American Family, and 100 Centre Street. Mr. Chihara also served as music supervisor at Buena Vista Pictures (Walt Disney Co.). Active in the New York musical theatre world, Mr. Chihara served as musical consultant and arranger for Duke Ellington’s Sophisticated Ladies, and was the composer for James Clavell’s Shogun, the Musical. He is a Professor of Music at UCLA, and Chair of the Visual Media.</p><p>Professor Chihara’s works have been widely recorded. His compositions appear on many labels including BMG Records, Reference Recordings, CRI, Music and Art, Vox Candide, New World Records, The Louisville Orchestra First Editions Records, Bridge Records, and Albany Records.</p>"
   },
   "paulHindemith": {
-    "nameArr": [
-      "paul",
-      "hindemith"
-    ],
+    "nameArr": ["paul", "hindemith"],
     "firstName": "paul",
     "lastName": "hindemith",
     "born": "1895",
     "died": "1963",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "paulReale": {
-    "nameArr": [
-      "paul",
-      "reale"
-    ],
+    "nameArr": ["paul", "reale"],
     "firstName": "paul",
     "lastName": "reale",
     "born": "1943",
     "died": "",
+    "website": "",
     "photo": "/photos/paulReale.jpg",
     "bio": ""
   },
   "peterKnell": {
-    "nameArr": [
-      "peter",
-      "knell"
-    ],
+    "nameArr": ["peter", "knell"],
     "firstName": "peter",
     "lastName": "knell",
     "born": "1970",
     "died": "",
+    "website": "",
     "photo": "/photos/peterKnell.jpg",
     "bio": "<p>Composer Peter Knell (b. 1970) has received awards in numerous national and international competitions, including First Prizes in the Winnipeg Symphony Orchestra’s 10th New Music Festival International Composers Competition, the Indiana State University Contemporary Music Festival, the Louisville Orchestra Competition, and the Omaha Symphony Guild International New Music Competition. He was awarded Second Prizes in the Fourth International Witold Lutoslawski Composers Competition, the First International Composers’ Competition “In Memoriam Zoltán Kodály,” and the Cincinnati Symphony Orchestra’s Young Composers Competition. He has also received a Fulbright Fellowship, a BMI Student Composer Award, two ASCAP Foundation Morton Gould Young Composers Awards, grants from the Paloheimo Foundation and Meet the Composer, and commissions from the Winnipeg Symphony Orchestra, Barlow Endowment for Music Composition, Oakland East Bay Symphony, Renee B. Fisher Foundation, and Dale Warland Singers.</p>"
   },
   "peterSchickele": {
-    "nameArr": [
-      "peter",
-      "schickele"
-    ],
+    "nameArr": ["peter", "schickele"],
     "firstName": "peter",
     "lastName": "schickele",
     "born": "1935",
     "died": "",
+    "website": "http://www.schickele.com/",
     "photo": "/photos/peterSchickele.jpg",
-    "bio": "<a href=\"http://www.schickele.com/\" class=\"website\">Peter Schickele's Website</a><p>Composer, musician, author, satirist-Peter Schickele is internationally recognized as one of the most versatile artists in the field of music. His works, now well in excess of 100 for symphony orchestras, choral groups, chamber ensembles, voice, movies and television, have given him “a leading role in the ever-more-prominent school of American composers who unselfconsciously blend all levels of American music.” (John Rockwell, The New York Times)</p>"
+    "bio": "<p>Composer, musician, author, satirist-Peter Schickele is internationally recognized as one of the most versatile artists in the field of music. His works, now well in excess of 100 for symphony orchestras, choral groups, chamber ensembles, voice, movies and television, have given him “a leading role in the ever-more-prominent school of American composers who unselfconsciously blend all levels of American music.” (John Rockwell, The New York Times)</p>"
   },
   "peterYatesAndMatthewElgart": {
-    "nameArr": [
-      "peter",
-      "yates",
-      "&amp;",
-      "matthew",
-      "elgart"
-    ],
-    "firstName": "peter yates &amp; matthew",
+    "nameArr": ["peter", "yates", "&", "matthew", "elgart"],
+    "firstName": "peter yates & matthew",
     "lastName": "elgart",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "richardStrauss": {
-    "nameArr": [
-      "richard",
-      "strauss"
-    ],
+    "nameArr": ["richard", "strauss"],
     "firstName": "richard",
     "lastName": "strauss",
     "born": "1864",
     "died": "1949",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "robertAldridge": {
-    "nameArr": [
-      "robert",
-      "aldridge"
-    ],
+    "nameArr": ["robert", "aldridge"],
     "firstName": "robert",
     "lastName": "aldridge",
     "born": "1954",
     "died": "",
+    "website": "",
     "photo": "/photos/robertAldridge.jpg",
     "bio": ""
   },
   "robertKyr": {
-    "nameArr": [
-      "robert",
-      "kyr"
-    ],
+    "nameArr": ["robert", "kyr"],
     "firstName": "robert",
     "lastName": "kyr",
     "born": "1952",
     "died": "",
+    "website": "",
     "photo": "/photos/robertKyr.jpg",
     "bio": ""
   },
   "robertSchumann": {
-    "nameArr": [
-      "robert",
-      "schumann"
-    ],
+    "nameArr": ["robert", "schumann"],
     "firstName": "robert",
     "lastName": "schumann",
     "born": "1810",
     "died": "1856",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "rogerBourland": {
-    "nameArr": [
-      "roger",
-      "bourland"
-    ],
+    "nameArr": ["roger", "bourland"],
     "firstName": "roger",
     "lastName": "bourland",
     "born": "1952",
     "died": "",
+    "website": "",
     "photo": "/photos/rogerBourland.jpg",
     "bio": ""
   },
   "russellSteinberg": {
-    "nameArr": [
-      "russell",
-      "steinberg"
-    ],
+    "nameArr": ["russell", "steinberg"],
     "firstName": "russell",
     "lastName": "steinberg",
     "born": "1959",
     "died": "",
+    "website": "",
     "photo": "/photos/russellsteinberg.jpg",
     "bio": ""
   },
   "selectedRussian": {
-    "nameArr": [
-      "selected",
-      "russian"
-    ],
+    "nameArr": ["selected", "russian"],
     "firstName": "selected",
     "lastName": "russian",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "sergeiProkofiev": {
-    "nameArr": [
-      "sergei",
-      "prokofiev"
-    ],
+    "nameArr": ["sergei", "prokofiev"],
     "firstName": "sergei",
     "lastName": "prokofiev",
     "born": "1891",
     "died": "1953",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "sergeiRachmaninoff": {
-    "nameArr": [
-      "sergei",
-      "rachmaninoff"
-    ],
+    "nameArr": ["sergei", "rachmaninoff"],
     "firstName": "sergei",
     "lastName": "rachmaninoff",
     "born": "1873",
     "died": "1943",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "sharonFarber": {
-    "nameArr": [
-      "sharon",
-      "farber"
-    ],
+    "nameArr": ["sharon", "farber"],
     "firstName": "sharon",
     "lastName": "farber",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/sharonFarber.jpg",
     "bio": ""
   },
   "shirleyWalker": {
-    "nameArr": [
-      "shirley",
-      "walker"
-    ],
+    "nameArr": ["shirley", "walker"],
     "firstName": "shirley",
     "lastName": "walker",
     "born": "1945",
     "died": "2006",
+    "website": "",
     "photo": "/photos/shirleyWalker.jpg",
     "bio": ""
   },
   "stephenCohn": {
-    "nameArr": [
-      "stephen",
-      "cohn"
-    ],
+    "nameArr": ["stephen", "cohn"],
     "firstName": "stephen",
     "lastName": "cohn",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "/photos/stephenCohn.jpg",
     "bio": ""
   },
   "steveReich": {
-    "nameArr": [
-      "steve",
-      "reich"
-    ],
+    "nameArr": ["steve", "reich"],
     "firstName": "steve",
     "lastName": "reich",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "stevenScher": {
-    "nameArr": [
-      "steven",
-      "scher"
-    ],
+    "nameArr": ["steven", "scher"],
     "firstName": "steven",
     "lastName": "scher",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "tanburiCemilBey": {
-    "nameArr": [
-      "tanburi",
-      "cemil",
-      "bey"
-    ],
+    "nameArr": ["tanburi", "cemil", "bey"],
     "firstName": "tanburi cemil",
     "lastName": "bey",
     "born": "1871",
     "died": "1916",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "taniaFrench": {
-    "nameArr": [
-      "tania",
-      "french"
-    ],
+    "nameArr": ["tania", "french"],
     "firstName": "tania",
     "lastName": "french",
     "born": "1963",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "theodoreNorman": {
-    "nameArr": [
-      "theodore",
-      "norman"
-    ],
+    "nameArr": ["theodore", "norman"],
     "firstName": "theodore",
     "lastName": "norman",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "traditional": {
-    "nameArr": [
-      "traditional"
-    ],
+    "nameArr": ["traditional"],
     "firstName": "",
     "lastName": "traditional",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "vaughanWilliams": {
-    "nameArr": [
-      "vaughan",
-      "williams"
-    ],
+    "nameArr": ["vaughan", "williams"],
     "firstName": "vaughan",
     "lastName": "williams",
     "born": "1872",
     "died": "1958",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "vincentLuebeck": {
-    "nameArr": [
-      "vincent",
-      "luebeck"
-    ],
+    "nameArr": ["vincent", "luebeck"],
     "firstName": "vincent",
     "lastName": "luebeck",
     "born": "1654",
     "died": "1740",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "williamWeingarden": {
-    "nameArr": [
-      "william",
-      "weingarden"
-    ],
+    "nameArr": ["william", "weingarden"],
     "firstName": "william",
     "lastName": "weingarden",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "wolfgangMozart": {
-    "nameArr": [
-      "wolfgang",
-      "mozart"
-    ],
+    "nameArr": ["wolfgang", "mozart"],
     "firstName": "wolfgang",
     "lastName": "mozart",
     "born": "1756",
     "died": "1791",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "yalilGuerra": {
-    "nameArr": [
-      "yalil",
-      "guerra"
-    ],
+    "nameArr": ["yalil", "guerra"],
     "firstName": "yalil",
     "lastName": "guerra",
     "born": "1973",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "zelmanBokser": {
-    "nameArr": [
-      "zelman",
-      "bokser"
-    ],
+    "nameArr": ["zelman", "bokser"],
     "firstName": "zelman",
     "lastName": "bokser",
     "born": "",
     "died": "",
+    "website": "",
     "photo": "",
     "bio": ""
   },
   "zoltanKodaly": {
-    "nameArr": [
-      "zoltan",
-      "kodàly"
-    ],
+    "nameArr": ["zoltan", "kodàly"],
     "firstName": "zoltan",
     "lastName": "kodàly",
     "born": "1882",
     "died": "1967",
+    "website": "",
     "photo": "",
     "bio": ""
   }

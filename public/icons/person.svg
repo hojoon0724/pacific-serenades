@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-7221b741-5d4b-428a-b64e-c304f882fe30" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 460 460">
+  <defs>
+    <linearGradient id="uuid-ec4b4c42-e333-4cac-9e74-ccabfa943c65" x1="208.28" y1="-18.22" x2="251.72" y2="478.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00add8"/>
+      <stop offset=".4" stop-color="#36b1aa"/>
+      <stop offset=".75" stop-color="#62b57d"/>
+      <stop offset="1" stop-color="#d1dd68"/>
+    </linearGradient>
+    <linearGradient id="uuid-b81a5633-7869-4ea1-a4aa-5dfc29af6c41" x1="230" y1="460" x2="230" y2="58.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00add8"/>
+      <stop offset=".26" stop-color="#36b1aa"/>
+      <stop offset=".61" stop-color="#62b57d"/>
+      <stop offset=".91" stop-color="#d1dd68"/>
+    </linearGradient>
+  </defs>
+  <g id="uuid-19f63a29-a36b-4863-8dcd-7e05448a6bad" data-name="Layer 1">
+    <rect width="460" height="460" style="fill: url(#uuid-ec4b4c42-e333-4cac-9e74-ccabfa943c65); opacity: .2;"/>
+    <rect width="460" height="460" style="fill: #fff; opacity: .2;"/>
+    <path d="M341.56,170.06c0,61.62-49.94,111.56-111.56,111.56s-111.55-49.94-111.55-111.56,49.94-111.55,111.55-111.55,111.56,49.94,111.56,111.55ZM230,296.61C137.05,296.61,54.14,339.55,0,406.68v53.32h460v-53.32c-54.13-67.13-137.05-110.07-230-110.07Z" style="fill: url(#uuid-b81a5633-7869-4ea1-a4aa-5dfc29af6c41); fill-rule: evenodd; opacity: .6;"/>
+  </g>
+</svg>
