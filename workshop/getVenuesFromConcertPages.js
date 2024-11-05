@@ -102,8 +102,7 @@ function readAllFilesThenWriteInOneFile(dir) {
 
           // Return the promise from getPageMainSection
           return getPageMainSection(fullPath, venuesRegex).then((venueData) => {
-            console.log(folderNameCamel);
-            console.log(venueData);
+            // console.log(venueData);
             allVenues.push(venueData); // Collect venue data
           });
         }
