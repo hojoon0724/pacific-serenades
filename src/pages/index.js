@@ -6,6 +6,8 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <div className="top-container flex flex-col justify-center items-center">
+      <img src="/logos/pacser-mainWave.svg" />
+      {/* <WaveBg /> */}
       <Landing />
     </div>
   );

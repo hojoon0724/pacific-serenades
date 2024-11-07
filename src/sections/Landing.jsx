@@ -7,10 +7,10 @@ export default function Landing({}) {
   return (
     <section className="section-landing flex flex-col justify-center items-center">
       <div className="message-box-container">
-        <div className="message-box-left w-6/12">
+        <div className="message-box-left">
           <StatementJeff />
         </div>
-        <div className="message-box-right w-6/12">
+        <div className="message-box-right">
           <StatementMark />
         </div>
       </div>
