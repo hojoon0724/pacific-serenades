@@ -2,6 +2,11 @@ const fs = require("fs").promises;
 const path = require("path");
 
 const sourceFolder = "./allMusicians";
+const destinationFile = "./allMusicians.json";
+
+function writeToFile(file, content) {
+  fs.writeFile(file, JSON.stringify(content, null, 2));
+}
 
 async function processFile(filePath) {
   try {
@@ -15,7 +20,8 @@ async function processFile(filePath) {
     // console.log(objectKey);
     // console.log(parsedData[objectKey]);
 
-    finalResultArr = { ...finalResultArr, ...newMusician };
+    return parsedData[objectKey];
+    // finalResultArr = { ...finalResultArr, ...newMusician };
     // const musicianData = content[objectKey]; // Accesses the nested object
 
     // console.log(`Object key: ${objectKey}`); // Logs: "yukikoKamei"
@@ -28,7 +34,7 @@ async function processFile(filePath) {
 }
 
 async function processDirectory(dir) {
-  let results = {};
+  let results = [];
   // console.log(`Reading directory: ${dir}`);
 
   try {
@@ -36,34 +42,39 @@ async function processDirectory(dir) {
 
     for (const entry of entries) {
       const fullPath = path.join(dir, entry.name);
+      // console.log(fullPath);
 
       if (entry.isDirectory()) {
-        // console.log(`Found directory: ${fullPath}`);
-        await processDirectory(fullPath).then((stuff) => {
-          // console.log("stuff", stuff);
-          results.push(...stuff);
-        }); // Recurse into subdirectory
+        console.log("this is a folder yo");
+        //   // console.log(`Found directory: ${fullPath}`);
+        //   // await processDirectory(fullPath).then((stuff) => {
+        //   // console.log("stuff", stuff);
+        //   // results.push(...stuff);
+        //   // }); // Recurse into subdirectory
       } else if (entry.isFile()) {
-        // console.log(`Found file: ${fullPath}`);
+        //   // console.log(`Found file: ${fullPath}`);
         const extractedFromFile = await processFile(fullPath);
-        const parsedData = JSON.parse(extractedFromFile);
-
-        // const objectKey = Object.keys(parsedData)[0];
-
-        // let newMusician = {
-        //   [objectKey]: {
-        //     id: objectKey,
-        //     fullName: parsedData[objectKey].fullName,
-        //     firstName: parsedData[objectKey].firstName,
-        //     lastName: parsedData[objectKey].lastName,
-        //     instrument: parsedData[objectKey].instrument,
-        //   },
+        console.log("extracted from file", extractedFromFile);
+        // const parsedData = JSON.parse(extractedFromFile);
+        // console.log(parsedData);
+        const objectKey = extractedFromFile.id;
+        let newMusician = {
+          [objectKey]: {
+            id: objectKey,
+            fullName: extractedFromFile.fullName,
+            firstName: extractedFromFile.firstName,
+            lastName: extractedFromFile.lastName,
+            instrument: extractedFromFile.instrument,
+          },
+          // };
+          // console.log(newMusician);
+        };
+        results = { ...results, ...newMusician };
+        // console.log(`reslusts`, results);
+        // results.push(...extractedFromFile);
+        // console.log("processedData", processedData);
+        // Placeholder: Here we'll later process each file
       }
-      results = { ...results, ...newMusician };
-      console.log(`reslusts`, results);
-      // results.push(...extractedFromFile);
-      // console.log("processedData", processedData);
-      // Placeholder: Here we'll later process each file
     }
   } catch (err) {
     console.error(`Error reading directory ${dir}:`, err);
@@ -77,8 +88,10 @@ async function main() {
 
   let dataToBeWritten = await processDirectory(sourceFolder);
   // console.log("main function ended");
-  // console.log("dataToBeWritten", dataToBeWritten);
+  console.log("dataToBeWritten", dataToBeWritten);
   return dataToBeWritten;
 }
 
-main();
+main().then((data) => {
+  writeToFile(destinationFile, data);
+});

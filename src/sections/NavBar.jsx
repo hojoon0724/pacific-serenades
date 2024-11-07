@@ -10,34 +10,43 @@ import {
 
 import Link from 'next/link';
 import PacSerWideLockup from '@/components/PacSerWideLockup';
+import PacSerStackLockup from '@/components/PacSerStackLockup';
 import WaveBg from '@/components/WaveBg';
 
 export default function NavBar({}) {
   return (
-    <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-center mx-auto">
-      <Navbar maxWidth="full">
-        <NavbarBrand>
-          <div className="top-logo w-[300px]">
-            <Link href="/">
-              <PacSerWideLockup fillColor={'--ps-dark'} />
-            </Link>
-          </div>
-        </NavbarBrand>
-        <NavbarContent className="hidden sm:flex gap-4" justify="end">
-          <NavbarItem>
-            <Link color="foreground" href="/about">
-              About
-            </Link>
-          </NavbarItem>
-          <NavbarItem>
-            <Link href="/past-seasons">History</Link>
-          </NavbarItem>
-          <NavbarItem>
-            <Link href="/contact">Contact</Link>
-          </NavbarItem>
-        </NavbarContent>
-      </Navbar>
-    </div>
+    <>
+      <WaveBg />
+      <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-center mx-auto pb-[7vw]">
+        <Navbar maxWidth="full" isBlurred="false" style={{ backgroundColor: 'transparent', padding: '0' }}>
+          <NavbarBrand>
+            <div className="top-logo w-[200px]">
+              <Link href="/">
+                <PacSerStackLockup fillColor={'--ps-dark'} />
+              </Link>
+            </div>
+          </NavbarBrand>
+
+          <NavbarContent className="hidden sm:flex gap-4" justify="end">
+            <NavbarItem>
+              <Link href="/about">About</Link>
+            </NavbarItem>
+
+            <NavbarItem>
+              <Link href="/past-seasons">History</Link>
+            </NavbarItem>
+
+            <NavbarItem>
+              <Link href="/past-concerts">past-concerts</Link>
+            </NavbarItem>
+
+            <NavbarItem>
+              <Link href="/contact">Contact</Link>
+            </NavbarItem>
+          </NavbarContent>
+        </Navbar>
+      </div>
+    </>
   );
 }
 

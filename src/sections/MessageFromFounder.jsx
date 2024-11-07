@@ -3,7 +3,7 @@ import StatementJeff from '@/components/StatementJeff';
 import StatementMark from '@/components/StatementMark';
 import WaveBg from '@/components/WaveBg';
 
-export default function Landing({}) {
+export default function MessageFromFounder({}) {
   return (
     <section className="section-landing flex flex-col justify-center items-center">
       <div className="message-box-container">
