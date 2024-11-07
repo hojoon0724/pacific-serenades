@@ -1,0 +1,10 @@
+{
+  "elizabethBaker": {
+    "id": "elizabethBaker",
+    "fullName": "Elizabeth Baker",
+    "firstName": "Elizabeth",
+    "lastName": " Baker",
+    "instrument": "violin",
+    "photoUrl": "elizabethBaker.jpg"
+  }
+}

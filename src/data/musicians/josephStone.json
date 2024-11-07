@@ -1,0 +1,10 @@
+{
+  "josephStone": {
+    "id": "josephStone",
+    "fullName": "Joseph Stone",
+    "firstName": "Joseph",
+    "lastName": " Stone",
+    "instrument": "oboe",
+    "photoUrl": "josephStone.jpg"
+  }
+}
