@@ -1,0 +1,48 @@
+{
+  "fromTheDepthsOfSoul": {
+    "concertTitle": "From the depths of soul",
+    "dates": [
+      {
+        "day": "1996-02-04T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David Speltz & Connie Kupka on Mt. Washington"
+      },
+      {
+        "day": "1996-02-04T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      },
+      {
+        "day": "1996-02-12T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Trio in G major, Hob. XV: 15",
+        "workYear": "1790",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for flute, cello, and piano"
+      },
+      {
+        "workName": "From One Who Stays",
+        "workYear": "1991",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for mezzo-soprano, flute, cello, and piano"
+      },
+      {
+        "workName": "Sonata in G minor, Op. 19",
+        "workYear": "1901",
+        "workComposer": "sergeiRachmaninoff",
+        "workInstrumentation": "for cello and piano"
+      }
+    ],
+    "musicians": [
+      "kathleenRoland",
+      "markCarlson",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

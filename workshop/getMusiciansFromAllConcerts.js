@@ -4,10 +4,36 @@ const path = require("path");
 const sourceFolder = "./concertsOld";
 // const sourceFolder = "./sampleData";
 const destinationFolder = "./allMusicians";
-const destinationFile = "./allMusicians.json";
+const destinationFile = "./allConcertsData.json";
 
-const topBlock = { startStr: '<ul class="musicians">', endStr: "</ul>" };
+// concertTitleBlock
+const concertTitleBlock = { startStr: "<h1>", endStr: "</h1>" };
+
+// date and location main block
+const concertDateAndLocationSection = { startStr: '<ul class="venues">', endStr: "</ul>" };
+// search within the date and location block
+const oneConcertDateAndLocation = { startStr: "<li>", endStr: "</li>" };
+// search within oneConcertDateAndLocation
+const concertDay = { startStr: '<span class="day">', endStr: "</span>" };
+const concertTime = { startStr: '<span class="time">', endStr: "</span>" };
+const concertVenue = { startStr: '<span class="venue">', endStr: "</span>" };
+//todo "/index.html" ? { startStr: '/index.html">', endStr:'</a>'};
+
+// programDataBlock
+const programDataBlock = { startStr: '<ul class="pieces">', endStr: "</ul>" };
+// search within programDataBlock
+const pieceBlock = { startStr: "<li>", endStr: "</li>" };
+// search within pieceBlock
+const workNameBlock = { startStr: '<span class="piece">', endStr: '<span class="year">' };
+const workYearBlock = { startStr: '<span class="year">', endStr: "</span></span>" };
+//* workComposerBlock has midStr, use makeRegexMid
+const workComposerBlock = { startStr: '<span class="composer">', midStr: 'index.html">', endStr: "</a>" };
+const workInstrumentationBlock = { startStr: '<span class="instrumentation"', endStr: "</span>" };
+
+const musicianTopBlock = { startStr: '<ul class="musicians">', endStr: "</ul>" };
+// search musicianBlock within musicianTopBlock
 const musicianBlock = { startStr: "<li>", endStr: "</li>" };
+//search within musicianBlock
 const nameBlock = { startStr: 'index.html">', endStr: "</a>" };
 const instrumentBlock = { startStr: 'class="instrument">', endStr: "</span" };
 
@@ -81,8 +107,8 @@ async function processFile(filePath) {
     const content = await fs.readFile(filePath, "utf-8");
     const finalResultArr = [];
 
-    // Extract top-level sections using `topBlock`
-    const sectionRegex = makeRegex(topBlock);
+    // Extract top-level sections using `musicianTopBlock`
+    const sectionRegex = makeRegex(musicianTopBlock);
     const sections = extractMatches([content], sectionRegex);
     // console.log("Extracted top-level sections:", sections);
 

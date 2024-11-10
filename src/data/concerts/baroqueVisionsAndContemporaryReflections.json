@@ -1,0 +1,56 @@
+{
+  "baroqueVisionsAndContemporaryReflections": {
+    "concertTitle": "Baroque visions and contemporary reflections",
+    "dates": [
+      {
+        "day": "1995-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Storyopolis in Beverly Hills"
+      },
+      {
+        "day": "1995-05-21T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata in G minor, BWV 1030b",
+        "workYear": "1717",
+        "workComposer": "johannSebastianBach",
+        "workInstrumentation": "for oboe and harpsichord"
+      },
+      {
+        "workName": "Sonata in B flat major for bassoon and cello, KV 292",
+        "workYear": "1775",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for bassoon and cello"
+      },
+      {
+        "workName": "Mixed Blessings",
+        "workYear": "1995",
+        "workComposer": "johnSteinmetz",
+        "workInstrumentation": "for oboe, bassoon, violin, cello, and harpsichord"
+      },
+      {
+        "workName": "Sonata in G minor, BWV 1001",
+        "workYear": "1720",
+        "workComposer": "johannSebastianBach",
+        "workInstrumentation": "for solo violin"
+      },
+      {
+        "workName": "Concerto a Quattro in D minor, HWV 361",
+        "workYear": "",
+        "workComposer": "georgFridericHandel",
+        "workInstrumentation": "for oboe, bassoon, violin, and basso continuo"
+      }
+    ],
+    "musicians": [
+      "allanVogel",
+      "kennethMunday",
+      "rogerWilkie",
+      "davidSpeltz",
+      "owenBurdick"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "aSongRecital": {
+    "concertTitle": "A Song Recital",
+    "dates": [
+      {
+        "day": "1987-07-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Harvey S. Perloff in Westwood"
+      },
+      {
+        "day": "1987-07-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Selected Songs",
+        "workYear": "",
+        "workComposer": "richardStrauss",
+        "workInstrumentation": "for baritone and piano"
+      },
+      {
+        "workName": "Four Songs, Op. 2",
+        "workYear": "1899",
+        "workComposer": "albanBerg",
+        "workInstrumentation": "for voice and piano"
+      },
+      {
+        "workName": "Selected Songs",
+        "workYear": "",
+        "workComposer": "gabrielFaure",
+        "workInstrumentation": "for baritone and piano"
+      },
+      {
+        "workName": "This Is the Garden",
+        "workYear": "1987",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for baritone and piano"
+      },
+      {
+        "workName": "Selected Songs",
+        "workYear": "",
+        "workComposer": "charlesIves",
+        "workInstrumentation": "for baritone and piano"
+      }
+    ],
+    "musicians": [
+      "miltonFriesen",
+      "laraineStivers"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "darkWoodsAndGleamingCities": {
+    "concertTitle": "Dark woods and gleaming cities",
+    "dates": [
+      {
+        "day": "2008-04-26T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana"
+      },
+      {
+        "day": "2008-04-27T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "day": "2008-04-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Fantasy for Four Instruments",
+        "workYear": "2008",
+        "workComposer": "jeremyCavaterra",
+        "workInstrumentation": "for clarinet, bassoon, viola, and piano"
+      },
+      {
+        "workName": "Märchenbilder (Fairytale Pictures), Op. 113",
+        "workYear": "",
+        "workComposer": "robertSchumann",
+        "workInstrumentation": "for viola and piano"
+      },
+      {
+        "workName": "Premiere Rhapsodie",
+        "workYear": "1910",
+        "workComposer": "claudeDebussy",
+        "workInstrumentation": "for clarinet and piano"
+      },
+      {
+        "workName": "Suite",
+        "workYear": "",
+        "workComposer": "alexandreTansman",
+        "workInstrumentation": "for bassoon and piano"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "judithFarmer",
+      "rolandKato",
+      "aykeAgus"
+    ]
+  }
+}

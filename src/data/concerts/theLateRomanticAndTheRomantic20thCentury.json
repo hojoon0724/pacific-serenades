@@ -1,0 +1,48 @@
+{
+  "theLateRomanticAndTheRomantic20thCentury": {
+    "concertTitle": "The Late Romantic and the romantic 20th century",
+    "dates": [
+      {
+        "day": "1995-04-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+      },
+      {
+        "day": "1995-04-23T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata for clarinet and piano",
+        "workYear": "1941",
+        "workComposer": "leonardBernstein"
+      },
+      {
+        "workName": "Quartet",
+        "workYear": "1994",
+        "workComposer": "myraKestenbaum",
+        "workInstrumentation": "for flute, clarinet, cello, and piano"
+      },
+      {
+        "workName": "Ballade for flute and piano",
+        "workYear": "1939",
+        "workComposer": "frankMartin",
+        "workInstrumentation": "for flute and piano"
+      },
+      {
+        "workName": "Sonata in E minor, Op. 38",
+        "workYear": "1862",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for cello and piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

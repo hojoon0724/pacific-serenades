@@ -1,7 +1,7 @@
 const fs = require("fs").promises;
 const path = require("path");
 
-const sourceFile = "./allMusicians.json";
+const sourceFile = "./allConcertsData.json";
 
 function writeToFile(file, content) {
   fs.writeFile(file, JSON.stringify(content, null, 2));
@@ -38,6 +38,6 @@ makeIndividualMusician().then((data) => {
     const object = {
       [key]: value,
     };
-    writeToFile(`./processedMusicians/${key}.json`, object);
+    writeToFile(`./concertData/${key}.json`, object);
   }
 });

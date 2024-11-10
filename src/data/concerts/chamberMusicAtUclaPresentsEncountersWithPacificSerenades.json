@@ -1,0 +1,44 @@
+{
+  "chamberMusicAtUclaPresentsEncountersWithPacificSerenades": {
+    "concertTitle": "Chamber Music at UCLA Presents Encounters with Pacific Serenades",
+    "dates": [
+      {
+        "day": "2006-05-24T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Schoenberg Auditorium"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Piano Quartet",
+        "workYear": "1992",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Four Painters",
+        "workYear": "2001",
+        "workComposer": "rogerBourland",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Ratte Quartett",
+        "workYear": "2006",
+        "workComposer": "danteDeSilva",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Manic States",
+        "workYear": "2006",
+        "workComposer": "dwayneMilburn",
+        "workInstrumentation": "for piano quartet"
+      }
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

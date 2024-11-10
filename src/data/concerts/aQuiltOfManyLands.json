@@ -1,0 +1,60 @@
+{
+  "aQuiltOfManyLands": {
+    "concertTitle": "a quilt of many lands",
+    "dates": [
+      {
+        "day": "2002-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Ralph & Norma Wolfstein in Los Feliz"
+      },
+      {
+        "day": "2002-03-11T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "day": "2002-03-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Pièces en concert",
+        "workYear": "",
+        "workComposer": "francoisCouperin",
+        "workInstrumentation": "for cello and harpsichord"
+      },
+      {
+        "workName": "Sonata in E minor, BWV 1034",
+        "workYear": "1717",
+        "workComposer": "johannSebastianBach",
+        "workInstrumentation": "for flute and basso continuo"
+      },
+      {
+        "workName": "Concierto barroco",
+        "workYear": "2002",
+        "workComposer": "enriqueGonzalezMedina",
+        "workInstrumentation": "for flute, violin, cello, and harpsichord"
+      },
+      {
+        "workName": "Sonata in G minor, Op. 1, No. 10",
+        "workYear": "1731",
+        "workComposer": "giuseppeTartini",
+        "workInstrumentation": "for violin and basso continuo"
+      },
+      {
+        "workName": "Sonata in B flat major, Op. 2, No. 3",
+        "workYear": "",
+        "workComposer": "georgFridericHandel",
+        "workInstrumentation": "for flute, oboe, basso continuo"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "claytonHaslop",
+      "davidSpeltz",
+      "patriciaMabee"
+    ]
+  }
+}

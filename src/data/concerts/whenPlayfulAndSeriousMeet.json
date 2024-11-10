@@ -1,0 +1,50 @@
+{
+  "whenPlayfulAndSeriousMeet": {
+    "concertTitle": "When playful and serious meet",
+    "dates": [
+      {
+        "day": "1996-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+      },
+      {
+        "day": "1996-03-10T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata No. 1 in F major, Op. 5, No. 1",
+        "workYear": "1796",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "Contrasts",
+        "workYear": "1938",
+        "workComposer": "belaBartok",
+        "workInstrumentation": "for clarinet, violin, piano"
+      },
+      {
+        "workName": "Tarantella, Op. 6",
+        "workYear": "",
+        "workComposer": "camilleSaintSaens",
+        "workInstrumentation": "for flute, clarinet, and piano"
+      },
+      {
+        "workName": "Serenade No.2: Paintings",
+        "workYear": "1986",
+        "workComposer": "rogerBourland",
+        "workInstrumentation": "for flute, clarinet, violin, cello, piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "miwakoWatanabe",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

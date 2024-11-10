@@ -1,0 +1,43 @@
+{
+  "marchConcert1993": {
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "day": "1993-03-14T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David & Helene Rottapel in Sherman Oaks"
+      },
+      {
+        "day": "1993-03-14T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "String Trio in E flat major, Op. 3",
+        "workYear": "1792",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for violin, viola, and cello"
+      },
+      {
+        "workName": "Aubade",
+        "workYear": "1992",
+        "workComposer": "paulChihara",
+        "workInstrumentation": "for flute, violin, viola, and cello"
+      },
+      {
+        "workName": "Serenade, Op. 10",
+        "workYear": "1902",
+        "workComposer": "ernoDohnanyi",
+        "workInstrumentation": "for violin, viola, and cello"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "rogerWilkie",
+      "victoriaMiskolczy",
+      "davidSpeltz"
+    ]
+  }
+}

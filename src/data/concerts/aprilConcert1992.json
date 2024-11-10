@@ -1,0 +1,42 @@
+{
+  "aprilConcert1992": {
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "day": "1992-04-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank"
+      },
+      {
+        "day": "1992-04-26T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "American Baroque",
+        "workYear": "1992",
+        "workComposer": "rogerBourland",
+        "workInstrumentation": "for piano trio"
+      },
+      {
+        "workName": "Sonata for Violoncello and Piano in G minor, Op. 65",
+        "workYear": "1845",
+        "workComposer": "fredericChopin",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "Trio in E minor, Op. 90",
+        "workYear": "1891",
+        "workComposer": "antoninDvorak",
+        "workInstrumentation": "for piano trio"
+      }
+    ],
+    "musicians": [
+      "miwakoWatanabe",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "marchConcert1989": {
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "day": "1989-03-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Eugene Holt in Studio City"
+      },
+      {
+        "day": "1989-03-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata for Violin and Piano",
+        "workYear": "1927",
+        "workComposer": "mauriceRavel",
+        "workInstrumentation": "for violin and piano"
+      },
+      {
+        "workName": "Behind the Gathering Clouds",
+        "workYear": "1989",
+        "workComposer": "zelmanBokser",
+        "workInstrumentation": "for violin, cello, and piano"
+      },
+      {
+        "workName": "Trio in G minor, Op. 15",
+        "workYear": "1880",
+        "workComposer": "bedrichSmetana",
+        "workInstrumentation": "for violin, cello, and piano"
+      }
+    ],
+    "musicians": [
+      "rochelleAbramson",
+      "sebastianToettcher",
+      "gayleBlankenburg"
+    ]
+  }
+}
