@@ -1,7 +1,10 @@
 {
   "adrienneAlbert": {
     "id": "adrienneAlbert",
-    "nameArr": ["adrienne", "albert"],
+    "nameArr": [
+      "adrienne",
+      "albert"
+    ],
     "firstName": "adrienne",
     "lastName": "albert",
     "born": "",
@@ -12,7 +15,10 @@
   },
   "albanBerg": {
     "id": "albanBerg",
-    "nameArr": ["alban", "berg"],
+    "nameArr": [
+      "alban",
+      "berg"
+    ],
     "firstName": "alban",
     "lastName": "berg",
     "born": "1885",
@@ -23,7 +29,10 @@
   },
   "alexShapiro": {
     "id": "alexShapiro",
-    "nameArr": ["alex", "shapiro"],
+    "nameArr": [
+      "alex",
+      "shapiro"
+    ],
     "firstName": "alex",
     "lastName": "shapiro",
     "born": "1962",
@@ -34,7 +43,10 @@
   },
   "alexanderScriabin": {
     "id": "alexanderScriabin",
-    "nameArr": ["alexander", "scriabin"],
+    "nameArr": [
+      "alexander",
+      "scriabin"
+    ],
     "firstName": "alexander",
     "lastName": "scriabin",
     "born": "",
@@ -45,7 +57,10 @@
   },
   "alexandraPierce": {
     "id": "alexandraPierce",
-    "nameArr": ["alexandra", "pierce"],
+    "nameArr": [
+      "alexandra",
+      "pierce"
+    ],
     "firstName": "alexandra",
     "lastName": "pierce",
     "born": "1934",
@@ -56,7 +71,10 @@
   },
   "alexandreTansman": {
     "id": "alexandreTansman",
-    "nameArr": ["alexandre", "tansman"],
+    "nameArr": [
+      "alexandre",
+      "tansman"
+    ],
     "firstName": "alexandre",
     "lastName": "tansman",
     "born": "1897",
@@ -67,7 +85,16 @@
   },
   "anonymousAntonioGardane": {
     "id": "anonymousAntonioGardane",
-    "nameArr": ["anonymous", "(from", "a", "publication", "by", "antonio", "gardane,", "1551)"],
+    "nameArr": [
+      "anonymous",
+      "(from",
+      "a",
+      "publication",
+      "by",
+      "antonio",
+      "gardane,",
+      "1551)"
+    ],
     "firstName": "anonymous (from a publication by antonio gardane,",
     "lastName": "1551)",
     "born": "",
@@ -78,7 +105,16 @@
   },
   "anonymousPierreAttaingnant": {
     "id": "anonymousPierreAttaingnant",
-    "nameArr": ["anonymous", "(from", "a", "publication", "by", "pierre", "attaingnant,", "1531)"],
+    "nameArr": [
+      "anonymous",
+      "(from",
+      "a",
+      "publication",
+      "by",
+      "pierre",
+      "attaingnant,",
+      "1531)"
+    ],
     "firstName": "anonymous (from a publication by pierre attaingnant,",
     "lastName": "1531)",
     "born": "",
@@ -89,7 +125,10 @@
   },
   "antonArensky": {
     "id": "antonArensky",
-    "nameArr": ["anton", "arensky"],
+    "nameArr": [
+      "anton",
+      "arensky"
+    ],
     "firstName": "anton",
     "lastName": "arensky",
     "born": "1861",
@@ -100,7 +139,10 @@
   },
   "antonWebern": {
     "id": "antonWebern",
-    "nameArr": ["anton", "webern"],
+    "nameArr": [
+      "anton",
+      "webern"
+    ],
     "firstName": "anton",
     "lastName": "webern",
     "born": "1883",
@@ -111,7 +153,10 @@
   },
   "antoninDvorak": {
     "id": "antoninDvorak",
-    "nameArr": ["antonin", "dvorak"],
+    "nameArr": [
+      "antonin",
+      "dvorak"
+    ],
     "firstName": "antonin",
     "lastName": "dvorak",
     "born": "1841",
@@ -122,7 +167,10 @@
   },
   "antonioVivaldi": {
     "id": "antonioVivaldi",
-    "nameArr": ["antonio", "vivaldi"],
+    "nameArr": [
+      "antonio",
+      "vivaldi"
+    ],
     "firstName": "antonio",
     "lastName": "vivaldi",
     "born": "1678",
@@ -133,7 +181,10 @@
   },
   "arniEgilsson": {
     "id": "arniEgilsson",
-    "nameArr": ["árni", "egilsson"],
+    "nameArr": [
+      "árni",
+      "egilsson"
+    ],
     "firstName": "árni",
     "lastName": "egilsson",
     "born": "1939",
@@ -144,7 +195,12 @@
   },
   "bachMarimolin": {
     "id": "bachMarimolin",
-    "nameArr": ["johann", "sebastian", "bach,", "marimolin"],
+    "nameArr": [
+      "johann",
+      "sebastian",
+      "bach,",
+      "marimolin"
+    ],
     "firstName": "johann sebastian bach,",
     "lastName": "marimolin",
     "born": "",
@@ -155,7 +211,10 @@
   },
   "bedrichSmetana": {
     "id": "bedrichSmetana",
-    "nameArr": ["bedrich", "smetana"],
+    "nameArr": [
+      "bedrich",
+      "smetana"
+    ],
     "firstName": "bedrich",
     "lastName": "smetana",
     "born": "1824",
@@ -166,7 +225,10 @@
   },
   "belaBartok": {
     "id": "belaBartok",
-    "nameArr": ["béla", "bartók"],
+    "nameArr": [
+      "béla",
+      "bartók"
+    ],
     "firstName": "béla",
     "lastName": "bartók",
     "born": "1881",
@@ -177,7 +239,10 @@
   },
   "benjaminLees": {
     "id": "benjaminLees",
-    "nameArr": ["benjamin", "lees"],
+    "nameArr": [
+      "benjamin",
+      "lees"
+    ],
     "firstName": "benjamin",
     "lastName": "lees",
     "born": "1924",
@@ -188,7 +253,10 @@
   },
   "billyChilds": {
     "id": "billyChilds",
-    "nameArr": ["billy", "childs"],
+    "nameArr": [
+      "billy",
+      "childs"
+    ],
     "firstName": "billy",
     "lastName": "childs",
     "born": "",
@@ -199,7 +267,10 @@
   },
   "bohuslavMartinu": {
     "id": "bohuslavMartinu",
-    "nameArr": ["bohuslav", "martinu"],
+    "nameArr": [
+      "bohuslav",
+      "martinu"
+    ],
     "firstName": "bohuslav",
     "lastName": "martinu",
     "born": "1890",
@@ -210,7 +281,10 @@
   },
   "bruceBabcock": {
     "id": "bruceBabcock",
-    "nameArr": ["bruce", "babcock"],
+    "nameArr": [
+      "bruce",
+      "babcock"
+    ],
     "firstName": "bruce",
     "lastName": "babcock",
     "born": "1951",
@@ -221,7 +295,10 @@
   },
   "bruceBroughton": {
     "id": "bruceBroughton",
-    "nameArr": ["bruce", "broughton"],
+    "nameArr": [
+      "bruce",
+      "broughton"
+    ],
     "firstName": "bruce",
     "lastName": "broughton",
     "born": "1945",
@@ -232,7 +309,10 @@
   },
   "byronAdams": {
     "id": "byronAdams",
-    "nameArr": ["byron", "adams"],
+    "nameArr": [
+      "byron",
+      "adams"
+    ],
     "firstName": "byron",
     "lastName": "adams",
     "born": "1955",
@@ -243,7 +323,10 @@
   },
   "camilleSaintSaens": {
     "id": "camilleSaintSaens",
-    "nameArr": ["camille", "saint-saens"],
+    "nameArr": [
+      "camille",
+      "saint-saens"
+    ],
     "firstName": "camille",
     "lastName": "saint-saens",
     "born": "1835",
@@ -254,7 +337,10 @@
   },
   "carlNielsen": {
     "id": "carlNielsen",
-    "nameArr": ["carl", "nielsen"],
+    "nameArr": [
+      "carl",
+      "nielsen"
+    ],
     "firstName": "carl",
     "lastName": "nielsen",
     "born": "",
@@ -265,7 +351,11 @@
   },
   "carlVonWeber": {
     "id": "carlVonWeber",
-    "nameArr": ["carl", "von", "weber"],
+    "nameArr": [
+      "carl",
+      "von",
+      "weber"
+    ],
     "firstName": "carl von",
     "lastName": "weber",
     "born": "1786",
@@ -276,7 +366,10 @@
   },
   "cesarFranck": {
     "id": "cesarFranck",
-    "nameArr": ["césar", "franck"],
+    "nameArr": [
+      "césar",
+      "franck"
+    ],
     "firstName": "césar",
     "lastName": "franck",
     "born": "1822",
@@ -287,7 +380,11 @@
   },
   "charlesGriffes": {
     "id": "charlesGriffes",
-    "nameArr": ["charles", "tomlinson", "griffes"],
+    "nameArr": [
+      "charles",
+      "tomlinson",
+      "griffes"
+    ],
     "firstName": "charles tomlinson",
     "lastName": "griffes",
     "born": "1884",
@@ -298,7 +395,10 @@
   },
   "charlesIves": {
     "id": "charlesIves",
-    "nameArr": ["charles", "ives"],
+    "nameArr": [
+      "charles",
+      "ives"
+    ],
     "firstName": "charles",
     "lastName": "ives",
     "born": "1874",
@@ -309,7 +409,11 @@
   },
   "charlesMartinLoeffler": {
     "id": "charlesMartinLoeffler",
-    "nameArr": ["charles", "martin", "loeffler"],
+    "nameArr": [
+      "charles",
+      "martin",
+      "loeffler"
+    ],
     "firstName": "charles martin",
     "lastName": "loeffler",
     "born": "1861",
@@ -320,7 +424,10 @@
   },
   "christopherStowens": {
     "id": "christopherStowens",
-    "nameArr": ["christopher", "stowens"],
+    "nameArr": [
+      "christopher",
+      "stowens"
+    ],
     "firstName": "christopher",
     "lastName": "stowens",
     "born": "",
@@ -331,7 +438,10 @@
   },
   "claudeDebussy": {
     "id": "claudeDebussy",
-    "nameArr": ["claude", "debussy"],
+    "nameArr": [
+      "claude",
+      "debussy"
+    ],
     "firstName": "claude",
     "lastName": "debussy",
     "born": "1862",
@@ -342,7 +452,10 @@
   },
   "danielCatan": {
     "id": "danielCatan",
-    "nameArr": ["daniel", "catán"],
+    "nameArr": [
+      "daniel",
+      "catán"
+    ],
     "firstName": "daniel",
     "lastName": "catán",
     "born": "1949",
@@ -353,7 +466,10 @@
   },
   "danielLevitan": {
     "id": "danielLevitan",
-    "nameArr": ["daniel", "levitan"],
+    "nameArr": [
+      "daniel",
+      "levitan"
+    ],
     "firstName": "daniel",
     "lastName": "levitan",
     "born": "",
@@ -364,7 +480,11 @@
   },
   "danteDeSilva": {
     "id": "danteDeSilva",
-    "nameArr": ["dante", "de", "silva"],
+    "nameArr": [
+      "dante",
+      "de",
+      "silva"
+    ],
     "firstName": "dante de",
     "lastName": "silva",
     "born": "",
@@ -375,7 +495,10 @@
   },
   "daveBrubeck": {
     "id": "daveBrubeck",
-    "nameArr": ["dave", "brubeck"],
+    "nameArr": [
+      "dave",
+      "brubeck"
+    ],
     "firstName": "dave",
     "lastName": "brubeck",
     "born": "1920",
@@ -386,7 +509,10 @@
   },
   "davidConte": {
     "id": "davidConte",
-    "nameArr": ["david", "conte"],
+    "nameArr": [
+      "david",
+      "conte"
+    ],
     "firstName": "david",
     "lastName": "conte",
     "born": "1955",
@@ -397,7 +523,10 @@
   },
   "davidGoodman": {
     "id": "davidGoodman",
-    "nameArr": ["david", "goodman"],
+    "nameArr": [
+      "david",
+      "goodman"
+    ],
     "firstName": "david",
     "lastName": "goodman",
     "born": "1953",
@@ -408,7 +537,10 @@
   },
   "davidLefkowitz": {
     "id": "davidLefkowitz",
-    "nameArr": ["david", "lefkowitz"],
+    "nameArr": [
+      "david",
+      "lefkowitz"
+    ],
     "firstName": "david",
     "lastName": "lefkowitz",
     "born": "1964",
@@ -419,7 +551,10 @@
   },
   "dmitriShostakovich": {
     "id": "dmitriShostakovich",
-    "nameArr": ["dmitri", "shostakovich"],
+    "nameArr": [
+      "dmitri",
+      "shostakovich"
+    ],
     "firstName": "dmitri",
     "lastName": "shostakovich",
     "born": "1906",
@@ -430,7 +565,10 @@
   },
   "donaldCrockett": {
     "id": "donaldCrockett",
-    "nameArr": ["donald", "crockett"],
+    "nameArr": [
+      "donald",
+      "crockett"
+    ],
     "firstName": "donald",
     "lastName": "crockett",
     "born": "1951",
@@ -441,7 +579,10 @@
   },
   "duaneTatro": {
     "id": "duaneTatro",
-    "nameArr": ["duane", "tatro"],
+    "nameArr": [
+      "duane",
+      "tatro"
+    ],
     "firstName": "duane",
     "lastName": "tatro",
     "born": "1927",
@@ -452,7 +593,10 @@
   },
   "dwayneMilburn": {
     "id": "dwayneMilburn",
-    "nameArr": ["dwayne", "milburn"],
+    "nameArr": [
+      "dwayne",
+      "milburn"
+    ],
     "firstName": "dwayne",
     "lastName": "milburn",
     "born": "1963",
@@ -463,7 +607,10 @@
   },
   "elaineBarkin": {
     "id": "elaineBarkin",
-    "nameArr": ["elaine", "barkin"],
+    "nameArr": [
+      "elaine",
+      "barkin"
+    ],
     "firstName": "elaine",
     "lastName": "barkin",
     "born": "1932",
@@ -474,7 +621,10 @@
   },
   "enriqueGonzalezMedina": {
     "id": "enriqueGonzalezMedina",
-    "nameArr": ["enrique", "gonzález-medina"],
+    "nameArr": [
+      "enrique",
+      "gonzález-medina"
+    ],
     "firstName": "enrique",
     "lastName": "gonzález-medina",
     "born": "1954",
@@ -485,7 +635,10 @@
   },
   "ericCharnofsky": {
     "id": "ericCharnofsky",
-    "nameArr": ["eric", "charnofsky"],
+    "nameArr": [
+      "eric",
+      "charnofsky"
+    ],
     "firstName": "eric",
     "lastName": "charnofsky",
     "born": "",
@@ -496,7 +649,10 @@
   },
   "ernestBloch": {
     "id": "ernestBloch",
-    "nameArr": ["ernest", "bloch"],
+    "nameArr": [
+      "ernest",
+      "bloch"
+    ],
     "firstName": "ernest",
     "lastName": "bloch",
     "born": "1880",
@@ -507,7 +663,10 @@
   },
   "ernestChausson": {
     "id": "ernestChausson",
-    "nameArr": ["ernest", "chausson"],
+    "nameArr": [
+      "ernest",
+      "chausson"
+    ],
     "firstName": "ernest",
     "lastName": "chausson",
     "born": "1855",
@@ -518,7 +677,10 @@
   },
   "ernoDohnanyi": {
     "id": "ernoDohnanyi",
-    "nameArr": ["ernö", "dohnanyi"],
+    "nameArr": [
+      "ernö",
+      "dohnanyi"
+    ],
     "firstName": "ernö",
     "lastName": "dohnanyi",
     "born": "1877",
@@ -529,7 +691,10 @@
   },
   "eugeneFriesen": {
     "id": "eugeneFriesen",
-    "nameArr": ["eugene", "friesen"],
+    "nameArr": [
+      "eugene",
+      "friesen"
+    ],
     "firstName": "eugene",
     "lastName": "friesen",
     "born": "1952",
@@ -540,7 +705,10 @@
   },
   "felixMendelssohn": {
     "id": "felixMendelssohn",
-    "nameArr": ["felix", "mendelssohn"],
+    "nameArr": [
+      "felix",
+      "mendelssohn"
+    ],
     "firstName": "felix",
     "lastName": "mendelssohn",
     "born": "1809",
@@ -551,7 +719,10 @@
   },
   "francescoGeminiani": {
     "id": "francescoGeminiani",
-    "nameArr": ["francesco", "geminiani"],
+    "nameArr": [
+      "francesco",
+      "geminiani"
+    ],
     "firstName": "francesco",
     "lastName": "geminiani",
     "born": "1687",
@@ -562,7 +733,10 @@
   },
   "francisPoulenc": {
     "id": "francisPoulenc",
-    "nameArr": ["francis", "poulenc"],
+    "nameArr": [
+      "francis",
+      "poulenc"
+    ],
     "firstName": "francis",
     "lastName": "poulenc",
     "born": "1899",
@@ -573,7 +747,10 @@
   },
   "francoisCouperin": {
     "id": "francoisCouperin",
-    "nameArr": ["francois", "couperin"],
+    "nameArr": [
+      "francois",
+      "couperin"
+    ],
     "firstName": "francois",
     "lastName": "couperin",
     "born": "1668",
@@ -584,7 +761,10 @@
   },
   "francoisDevienne": {
     "id": "francoisDevienne",
-    "nameArr": ["francois", "devienne"],
+    "nameArr": [
+      "francois",
+      "devienne"
+    ],
     "firstName": "francois",
     "lastName": "devienne",
     "born": "1759",
@@ -595,7 +775,10 @@
   },
   "francoisFrancoeur": {
     "id": "francoisFrancoeur",
-    "nameArr": ["françois", "francoeur"],
+    "nameArr": [
+      "françois",
+      "francoeur"
+    ],
     "firstName": "françois",
     "lastName": "francoeur",
     "born": "1698",
@@ -606,7 +789,10 @@
   },
   "frankMartin": {
     "id": "frankMartin",
-    "nameArr": ["frank", "martin"],
+    "nameArr": [
+      "frank",
+      "martin"
+    ],
     "firstName": "frank",
     "lastName": "martin",
     "born": "1890",
@@ -617,7 +803,11 @@
   },
   "franzJosefHaydn": {
     "id": "franzJosefHaydn",
-    "nameArr": ["franz", "josef", "haydn"],
+    "nameArr": [
+      "franz",
+      "josef",
+      "haydn"
+    ],
     "firstName": "franz josef",
     "lastName": "haydn",
     "born": "1732",
@@ -628,7 +818,10 @@
   },
   "franzSchubert": {
     "id": "franzSchubert",
-    "nameArr": ["franz", "schubert"],
+    "nameArr": [
+      "franz",
+      "schubert"
+    ],
     "firstName": "franz",
     "lastName": "schubert",
     "born": "1797",
@@ -639,7 +832,10 @@
   },
   "fredericChopin": {
     "id": "fredericChopin",
-    "nameArr": ["frederic", "chopin"],
+    "nameArr": [
+      "frederic",
+      "chopin"
+    ],
     "firstName": "frederic",
     "lastName": "chopin",
     "born": "1810",
@@ -650,7 +846,10 @@
   },
   "gabrielFaure": {
     "id": "gabrielFaure",
-    "nameArr": ["gabriel", "fauré"],
+    "nameArr": [
+      "gabriel",
+      "fauré"
+    ],
     "firstName": "gabriel",
     "lastName": "fauré",
     "born": "1845",
@@ -661,7 +860,11 @@
   },
   "gabrielaLenaFrank": {
     "id": "gabrielaLenaFrank",
-    "nameArr": ["gabriela", "lena", "frank"],
+    "nameArr": [
+      "gabriela",
+      "lena",
+      "frank"
+    ],
     "firstName": "gabriela lena",
     "lastName": "frank",
     "born": "1972",
@@ -672,7 +875,10 @@
   },
   "garyBachlund": {
     "id": "garyBachlund",
-    "nameArr": ["gary", "bachlund"],
+    "nameArr": [
+      "gary",
+      "bachlund"
+    ],
     "firstName": "gary",
     "lastName": "bachlund",
     "born": "1947",
@@ -683,7 +889,11 @@
   },
   "georgFridericHandel": {
     "id": "georgFridericHandel",
-    "nameArr": ["georg", "frideric", "handel"],
+    "nameArr": [
+      "georg",
+      "frideric",
+      "handel"
+    ],
     "firstName": "georg frideric",
     "lastName": "handel",
     "born": "1685",
@@ -694,7 +904,10 @@
   },
   "georgTelemann": {
     "id": "georgTelemann",
-    "nameArr": ["georg", "telemann"],
+    "nameArr": [
+      "georg",
+      "telemann"
+    ],
     "firstName": "georg",
     "lastName": "telemann",
     "born": "1681",
@@ -705,7 +918,10 @@
   },
   "gernotWolfgang": {
     "id": "gernotWolfgang",
-    "nameArr": ["gernot", "wolfgang"],
+    "nameArr": [
+      "gernot",
+      "wolfgang"
+    ],
     "firstName": "gernot",
     "lastName": "wolfgang",
     "born": "1957",
@@ -716,7 +932,10 @@
   },
   "giuseppeTartini": {
     "id": "giuseppeTartini",
-    "nameArr": ["giuseppe", "tartini"],
+    "nameArr": [
+      "giuseppe",
+      "tartini"
+    ],
     "firstName": "giuseppe",
     "lastName": "tartini",
     "born": "1692",
@@ -727,7 +946,10 @@
   },
   "hugoWolf": {
     "id": "hugoWolf",
-    "nameArr": ["hugo", "wolf"],
+    "nameArr": [
+      "hugo",
+      "wolf"
+    ],
     "firstName": "hugo",
     "lastName": "wolf",
     "born": "1860",
@@ -738,7 +960,10 @@
   },
   "ianKrouse": {
     "id": "ianKrouse",
-    "nameArr": ["ian", "krouse"],
+    "nameArr": [
+      "ian",
+      "krouse"
+    ],
     "firstName": "ian",
     "lastName": "krouse",
     "born": "1956",
@@ -749,7 +974,10 @@
   },
   "igorStravinsky": {
     "id": "igorStravinsky",
-    "nameArr": ["igor", "stravinsky"],
+    "nameArr": [
+      "igor",
+      "stravinsky"
+    ],
     "firstName": "igor",
     "lastName": "stravinsky",
     "born": "1882",
@@ -760,7 +988,10 @@
   },
   "jackBody": {
     "id": "jackBody",
-    "nameArr": ["jack", "body"],
+    "nameArr": [
+      "jack",
+      "body"
+    ],
     "firstName": "jack",
     "lastName": "body",
     "born": "1944",
@@ -771,7 +1002,10 @@
   },
   "jakeHeggie": {
     "id": "jakeHeggie",
-    "nameArr": ["jake", "heggie"],
+    "nameArr": [
+      "jake",
+      "heggie"
+    ],
     "firstName": "jake",
     "lastName": "heggie",
     "born": "1961",
@@ -782,7 +1016,10 @@
   },
   "jeffKryka": {
     "id": "jeffKryka",
-    "nameArr": ["jeff", "kryka"],
+    "nameArr": [
+      "jeff",
+      "kryka"
+    ],
     "firstName": "jeff",
     "lastName": "kryka",
     "born": "1984",
@@ -793,7 +1030,10 @@
   },
   "jeffreyParola": {
     "id": "jeffreyParola",
-    "nameArr": ["jeffrey", "parola"],
+    "nameArr": [
+      "jeffrey",
+      "parola"
+    ],
     "firstName": "jeffrey",
     "lastName": "parola",
     "born": "1979",
@@ -804,7 +1044,10 @@
   },
   "jeremyBeck": {
     "id": "jeremyBeck",
-    "nameArr": ["jeremy", "beck"],
+    "nameArr": [
+      "jeremy",
+      "beck"
+    ],
     "firstName": "jeremy",
     "lastName": "beck",
     "born": "1960",
@@ -815,7 +1058,10 @@
   },
   "jeremyCavaterra": {
     "id": "jeremyCavaterra",
-    "nameArr": ["jeremy", "cavaterra"],
+    "nameArr": [
+      "jeremy",
+      "cavaterra"
+    ],
     "firstName": "jeremy",
     "lastName": "cavaterra",
     "born": "1971",
@@ -826,7 +1072,10 @@
   },
   "joelMcneely": {
     "id": "joelMcneely",
-    "nameArr": ["joel", "mcneely"],
+    "nameArr": [
+      "joel",
+      "mcneely"
+    ],
     "firstName": "joel",
     "lastName": "mcneely",
     "born": "",
@@ -837,7 +1086,10 @@
   },
   "johannKrebs": {
     "id": "johannKrebs",
-    "nameArr": ["johann", "krebs"],
+    "nameArr": [
+      "johann",
+      "krebs"
+    ],
     "firstName": "johann",
     "lastName": "krebs",
     "born": "1713",
@@ -848,7 +1100,11 @@
   },
   "johannSebastianBach": {
     "id": "johannSebastianBach",
-    "nameArr": ["johann", "sebastian", "bach"],
+    "nameArr": [
+      "johann",
+      "sebastian",
+      "bach"
+    ],
     "firstName": "johann sebastian",
     "lastName": "bach",
     "born": "1685",
@@ -859,7 +1115,10 @@
   },
   "johannesBrahms": {
     "id": "johannesBrahms",
-    "nameArr": ["johannes", "brahms"],
+    "nameArr": [
+      "johannes",
+      "brahms"
+    ],
     "firstName": "johannes",
     "lastName": "brahms",
     "born": "1833",
@@ -870,7 +1129,10 @@
   },
   "johnBiggs": {
     "id": "johnBiggs",
-    "nameArr": ["john", "biggs"],
+    "nameArr": [
+      "john",
+      "biggs"
+    ],
     "firstName": "john",
     "lastName": "biggs",
     "born": "1932",
@@ -881,7 +1143,13 @@
   },
   "johnColtraneThomasOboeLee": {
     "id": "johnColtraneThomasOboeLee",
-    "nameArr": ["john", "coltrane,", "thomas", "oboe", "lee"],
+    "nameArr": [
+      "john",
+      "coltrane,",
+      "thomas",
+      "oboe",
+      "lee"
+    ],
     "firstName": "john coltrane, thomas oboe",
     "lastName": "lee",
     "born": "1926",
@@ -892,7 +1160,10 @@
   },
   "johnDaversa": {
     "id": "johnDaversa",
-    "nameArr": ["john", "daversa"],
+    "nameArr": [
+      "john",
+      "daversa"
+    ],
     "firstName": "john",
     "lastName": "daversa",
     "born": "1972",
@@ -903,7 +1174,11 @@
   },
   "johnMaxwellAnderson": {
     "id": "johnMaxwellAnderson",
-    "nameArr": ["john", "maxwell", "anderson"],
+    "nameArr": [
+      "john",
+      "maxwell",
+      "anderson"
+    ],
     "firstName": "john maxwell",
     "lastName": "anderson",
     "born": "1948",
@@ -914,7 +1189,10 @@
   },
   "johnSteinmetz": {
     "id": "johnSteinmetz",
-    "nameArr": ["john", "steinmetz"],
+    "nameArr": [
+      "john",
+      "steinmetz"
+    ],
     "firstName": "john",
     "lastName": "steinmetz",
     "born": "1951",
@@ -925,7 +1203,10 @@
   },
   "josephSuk": {
     "id": "josephSuk",
-    "nameArr": ["joseph", "suk"],
+    "nameArr": [
+      "joseph",
+      "suk"
+    ],
     "firstName": "joseph",
     "lastName": "suk",
     "born": "1874",
@@ -936,7 +1217,10 @@
   },
   "justinMorell": {
     "id": "justinMorell",
-    "nameArr": ["justin", "morell"],
+    "nameArr": [
+      "justin",
+      "morell"
+    ],
     "firstName": "justin",
     "lastName": "morell",
     "born": "1973",
@@ -947,7 +1231,10 @@
   },
   "kathrynMishell": {
     "id": "kathrynMishell",
-    "nameArr": ["kathryn", "mishell"],
+    "nameArr": [
+      "kathryn",
+      "mishell"
+    ],
     "firstName": "kathryn",
     "lastName": "mishell",
     "born": "1940",
@@ -958,7 +1245,10 @@
   },
   "katisseBuckingham": {
     "id": "katisseBuckingham",
-    "nameArr": ["katisse", "buckingham"],
+    "nameArr": [
+      "katisse",
+      "buckingham"
+    ],
     "firstName": "katisse",
     "lastName": "buckingham",
     "born": "",
@@ -969,7 +1259,10 @@
   },
   "kemenceciNikolaki": {
     "id": "kemenceciNikolaki",
-    "nameArr": ["kemençeci", "nikolaki"],
+    "nameArr": [
+      "kemençeci",
+      "nikolaki"
+    ],
     "firstName": "kemençeci",
     "lastName": "nikolaki",
     "born": "",
@@ -980,7 +1273,10 @@
   },
   "kennethFroelich": {
     "id": "kennethFroelich",
-    "nameArr": ["kenneth", "froelich"],
+    "nameArr": [
+      "kenneth",
+      "froelich"
+    ],
     "firstName": "kenneth",
     "lastName": "froelich",
     "born": "1977",
@@ -991,7 +1287,10 @@
   },
   "larryLipkis": {
     "id": "larryLipkis",
-    "nameArr": ["larry", "lipkis"],
+    "nameArr": [
+      "larry",
+      "lipkis"
+    ],
     "firstName": "larry",
     "lastName": "lipkis",
     "born": "1951",
@@ -1002,7 +1301,10 @@
   },
   "lauraKarpman": {
     "id": "lauraKarpman",
-    "nameArr": ["laura", "karpman"],
+    "nameArr": [
+      "laura",
+      "karpman"
+    ],
     "firstName": "laura",
     "lastName": "karpman",
     "born": "1959",
@@ -1013,7 +1315,10 @@
   },
   "leonardBernstein": {
     "id": "leonardBernstein",
-    "nameArr": ["leonard", "bernstein"],
+    "nameArr": [
+      "leonard",
+      "bernstein"
+    ],
     "firstName": "leonard",
     "lastName": "bernstein",
     "born": "1918",
@@ -1024,7 +1329,10 @@
   },
   "lesThimmig": {
     "id": "lesThimmig",
-    "nameArr": ["les", "thimmig"],
+    "nameArr": [
+      "les",
+      "thimmig"
+    ],
     "firstName": "les",
     "lastName": "thimmig",
     "born": "",
@@ -1035,7 +1343,10 @@
   },
   "leslieDrayton": {
     "id": "leslieDrayton",
-    "nameArr": ["leslie", "drayton"],
+    "nameArr": [
+      "leslie",
+      "drayton"
+    ],
     "firstName": "leslie",
     "lastName": "drayton",
     "born": "1950",
@@ -1046,7 +1357,11 @@
   },
   "ludwigVanBeethoven": {
     "id": "ludwigVanBeethoven",
-    "nameArr": ["ludwig", "van", "beethoven"],
+    "nameArr": [
+      "ludwig",
+      "van",
+      "beethoven"
+    ],
     "firstName": "ludwig van",
     "lastName": "beethoven",
     "born": "1770",
@@ -1057,7 +1372,10 @@
   },
   "luigiBoccherini": {
     "id": "luigiBoccherini",
-    "nameArr": ["luigi", "boccherini"],
+    "nameArr": [
+      "luigi",
+      "boccherini"
+    ],
     "firstName": "luigi",
     "lastName": "boccherini",
     "born": "1743",
@@ -1068,7 +1386,10 @@
   },
   "mariaNewman": {
     "id": "mariaNewman",
-    "nameArr": ["maria", "newman"],
+    "nameArr": [
+      "maria",
+      "newman"
+    ],
     "firstName": "maria",
     "lastName": "newman",
     "born": "1960",
@@ -1079,7 +1400,10 @@
   },
   "markCarlson": {
     "id": "markCarlson",
-    "nameArr": ["mark", "carlson"],
+    "nameArr": [
+      "mark",
+      "carlson"
+    ],
     "firstName": "mark",
     "lastName": "carlson",
     "born": "1952",
@@ -1090,7 +1414,10 @@
   },
   "martinAmlin": {
     "id": "martinAmlin",
-    "nameArr": ["martin", "amlin"],
+    "nameArr": [
+      "martin",
+      "amlin"
+    ],
     "firstName": "martin",
     "lastName": "amlin",
     "born": "1953",
@@ -1101,7 +1428,10 @@
   },
   "mauriceRavel": {
     "id": "mauriceRavel",
-    "nameArr": ["maurice", "ravel"],
+    "nameArr": [
+      "maurice",
+      "ravel"
+    ],
     "firstName": "maurice",
     "lastName": "ravel",
     "born": "1875",
@@ -1112,7 +1442,10 @@
   },
   "maxBruch": {
     "id": "maxBruch",
-    "nameArr": ["max", "bruch"],
+    "nameArr": [
+      "max",
+      "bruch"
+    ],
     "firstName": "max",
     "lastName": "bruch",
     "born": "1838",
@@ -1123,7 +1456,10 @@
   },
   "melanieSparks": {
     "id": "melanieSparks",
-    "nameArr": ["melanie", "sparks"],
+    "nameArr": [
+      "melanie",
+      "sparks"
+    ],
     "firstName": "melanie",
     "lastName": "sparks",
     "born": "",
@@ -1134,7 +1470,10 @@
   },
   "michaelKibbe": {
     "id": "michaelKibbe",
-    "nameArr": ["michael", "kibbe"],
+    "nameArr": [
+      "michael",
+      "kibbe"
+    ],
     "firstName": "michael",
     "lastName": "kibbe",
     "born": "1945",
@@ -1145,7 +1484,11 @@
   },
   "miguelDelAguila": {
     "id": "miguelDelAguila",
-    "nameArr": ["miguel", "del", "aguila"],
+    "nameArr": [
+      "miguel",
+      "del",
+      "aguila"
+    ],
     "firstName": "miguel del",
     "lastName": "aguila",
     "born": "1957",
@@ -1156,7 +1499,10 @@
   },
   "munirBeken": {
     "id": "munirBeken",
-    "nameArr": ["münir", "beken"],
+    "nameArr": [
+      "münir",
+      "beken"
+    ],
     "firstName": "münir",
     "lastName": "beken",
     "born": "",
@@ -1167,7 +1513,10 @@
   },
   "myraKestenbaum": {
     "id": "myraKestenbaum",
-    "nameArr": ["myra", "kestenbaum"],
+    "nameArr": [
+      "myra",
+      "kestenbaum"
+    ],
     "firstName": "myra",
     "lastName": "kestenbaum",
     "born": "1932",
@@ -1178,7 +1527,10 @@
   },
   "nRimskyKorsakov": {
     "id": "nRimskyKorsakov",
-    "nameArr": ["n.", "rimsky-korsakov"],
+    "nameArr": [
+      "n.",
+      "rimsky-korsakov"
+    ],
     "firstName": "n.",
     "lastName": "rimsky-korsakov",
     "born": "1844",
@@ -1189,7 +1541,10 @@
   },
   "nedRorem": {
     "id": "nedRorem",
-    "nameArr": ["ned", "rorem"],
+    "nameArr": [
+      "ned",
+      "rorem"
+    ],
     "firstName": "ned",
     "lastName": "rorem",
     "born": "1923",
@@ -1200,7 +1555,10 @@
   },
   "olivierMessiaen": {
     "id": "olivierMessiaen",
-    "nameArr": ["olivier", "messiaen"],
+    "nameArr": [
+      "olivier",
+      "messiaen"
+    ],
     "firstName": "olivier",
     "lastName": "messiaen",
     "born": "1908",
@@ -1211,7 +1569,10 @@
   },
   "paulChihara": {
     "id": "paulChihara",
-    "nameArr": ["paul", "chihara"],
+    "nameArr": [
+      "paul",
+      "chihara"
+    ],
     "firstName": "paul",
     "lastName": "chihara",
     "born": "1938",
@@ -1222,7 +1583,10 @@
   },
   "paulHindemith": {
     "id": "paulHindemith",
-    "nameArr": ["paul", "hindemith"],
+    "nameArr": [
+      "paul",
+      "hindemith"
+    ],
     "firstName": "paul",
     "lastName": "hindemith",
     "born": "1895",
@@ -1233,7 +1597,10 @@
   },
   "paulReale": {
     "id": "paulReale",
-    "nameArr": ["paul", "reale"],
+    "nameArr": [
+      "paul",
+      "reale"
+    ],
     "firstName": "paul",
     "lastName": "reale",
     "born": "1943",
@@ -1244,7 +1611,10 @@
   },
   "peterKnell": {
     "id": "peterKnell",
-    "nameArr": ["peter", "knell"],
+    "nameArr": [
+      "peter",
+      "knell"
+    ],
     "firstName": "peter",
     "lastName": "knell",
     "born": "1970",
@@ -1255,7 +1625,10 @@
   },
   "peterSchickele": {
     "id": "peterSchickele",
-    "nameArr": ["peter", "schickele"],
+    "nameArr": [
+      "peter",
+      "schickele"
+    ],
     "firstName": "peter",
     "lastName": "schickele",
     "born": "1935",
@@ -1266,7 +1639,13 @@
   },
   "peterYatesAndMatthewElgart": {
     "id": "peterYatesAndMatthewElgart",
-    "nameArr": ["peter", "yates", "&", "matthew", "elgart"],
+    "nameArr": [
+      "peter",
+      "yates",
+      "&",
+      "matthew",
+      "elgart"
+    ],
     "firstName": "peter yates & matthew",
     "lastName": "elgart",
     "born": "",
@@ -1277,7 +1656,10 @@
   },
   "richardStrauss": {
     "id": "richardStrauss",
-    "nameArr": ["richard", "strauss"],
+    "nameArr": [
+      "richard",
+      "strauss"
+    ],
     "firstName": "richard",
     "lastName": "strauss",
     "born": "1864",
@@ -1288,7 +1670,10 @@
   },
   "robertAldridge": {
     "id": "robertAldridge",
-    "nameArr": ["robert", "aldridge"],
+    "nameArr": [
+      "robert",
+      "aldridge"
+    ],
     "firstName": "robert",
     "lastName": "aldridge",
     "born": "1954",
@@ -1299,7 +1684,10 @@
   },
   "robertKyr": {
     "id": "robertKyr",
-    "nameArr": ["robert", "kyr"],
+    "nameArr": [
+      "robert",
+      "kyr"
+    ],
     "firstName": "robert",
     "lastName": "kyr",
     "born": "1952",
@@ -1310,7 +1698,10 @@
   },
   "robertSchumann": {
     "id": "robertSchumann",
-    "nameArr": ["robert", "schumann"],
+    "nameArr": [
+      "robert",
+      "schumann"
+    ],
     "firstName": "robert",
     "lastName": "schumann",
     "born": "1810",
@@ -1321,7 +1712,10 @@
   },
   "rogerBourland": {
     "id": "rogerBourland",
-    "nameArr": ["roger", "bourland"],
+    "nameArr": [
+      "roger",
+      "bourland"
+    ],
     "firstName": "roger",
     "lastName": "bourland",
     "born": "1952",
@@ -1332,7 +1726,10 @@
   },
   "russellSteinberg": {
     "id": "russellSteinberg",
-    "nameArr": ["russell", "steinberg"],
+    "nameArr": [
+      "russell",
+      "steinberg"
+    ],
     "firstName": "russell",
     "lastName": "steinberg",
     "born": "1959",
@@ -1343,7 +1740,10 @@
   },
   "selectedRussian": {
     "id": "selectedRussian",
-    "nameArr": ["selected", "russian"],
+    "nameArr": [
+      "selected",
+      "russian"
+    ],
     "firstName": "selected",
     "lastName": "russian",
     "born": "",
@@ -1354,7 +1754,10 @@
   },
   "sergeiProkofiev": {
     "id": "sergeiProkofiev",
-    "nameArr": ["sergei", "prokofiev"],
+    "nameArr": [
+      "sergei",
+      "prokofiev"
+    ],
     "firstName": "sergei",
     "lastName": "prokofiev",
     "born": "1891",
@@ -1365,7 +1768,10 @@
   },
   "sergeiRachmaninoff": {
     "id": "sergeiRachmaninoff",
-    "nameArr": ["sergei", "rachmaninoff"],
+    "nameArr": [
+      "sergei",
+      "rachmaninoff"
+    ],
     "firstName": "sergei",
     "lastName": "rachmaninoff",
     "born": "1873",
@@ -1376,7 +1782,10 @@
   },
   "sharonFarber": {
     "id": "sharonFarber",
-    "nameArr": ["sharon", "farber"],
+    "nameArr": [
+      "sharon",
+      "farber"
+    ],
     "firstName": "sharon",
     "lastName": "farber",
     "born": "",
@@ -1387,7 +1796,10 @@
   },
   "shirleyWalker": {
     "id": "shirleyWalker",
-    "nameArr": ["shirley", "walker"],
+    "nameArr": [
+      "shirley",
+      "walker"
+    ],
     "firstName": "shirley",
     "lastName": "walker",
     "born": "1945",
@@ -1398,7 +1810,10 @@
   },
   "stephenCohn": {
     "id": "stephenCohn",
-    "nameArr": ["stephen", "cohn"],
+    "nameArr": [
+      "stephen",
+      "cohn"
+    ],
     "firstName": "stephen",
     "lastName": "cohn",
     "born": "",
@@ -1409,7 +1824,10 @@
   },
   "steveReich": {
     "id": "steveReich",
-    "nameArr": ["steve", "reich"],
+    "nameArr": [
+      "steve",
+      "reich"
+    ],
     "firstName": "steve",
     "lastName": "reich",
     "born": "",
@@ -1420,7 +1838,10 @@
   },
   "stevenScher": {
     "id": "stevenScher",
-    "nameArr": ["steven", "scher"],
+    "nameArr": [
+      "steven",
+      "scher"
+    ],
     "firstName": "steven",
     "lastName": "scher",
     "born": "",
@@ -1431,7 +1852,11 @@
   },
   "tanburiCemilBey": {
     "id": "tanburiCemilBey",
-    "nameArr": ["tanburi", "cemil", "bey"],
+    "nameArr": [
+      "tanburi",
+      "cemil",
+      "bey"
+    ],
     "firstName": "tanburi cemil",
     "lastName": "bey",
     "born": "1871",
@@ -1442,7 +1867,10 @@
   },
   "taniaFrench": {
     "id": "taniaFrench",
-    "nameArr": ["tania", "french"],
+    "nameArr": [
+      "tania",
+      "french"
+    ],
     "firstName": "tania",
     "lastName": "french",
     "born": "1963",
@@ -1453,7 +1881,10 @@
   },
   "theodoreNorman": {
     "id": "theodoreNorman",
-    "nameArr": ["theodore", "norman"],
+    "nameArr": [
+      "theodore",
+      "norman"
+    ],
     "firstName": "theodore",
     "lastName": "norman",
     "born": "",
@@ -1464,7 +1895,9 @@
   },
   "traditional": {
     "id": "traditional",
-    "nameArr": ["traditional"],
+    "nameArr": [
+      "traditional"
+    ],
     "firstName": "",
     "lastName": "traditional",
     "born": "",
@@ -1475,7 +1908,10 @@
   },
   "vaughanWilliams": {
     "id": "vaughanWilliams",
-    "nameArr": ["vaughan", "williams"],
+    "nameArr": [
+      "vaughan",
+      "williams"
+    ],
     "firstName": "vaughan",
     "lastName": "williams",
     "born": "1872",
@@ -1486,7 +1922,10 @@
   },
   "vincentLuebeck": {
     "id": "vincentLuebeck",
-    "nameArr": ["vincent", "luebeck"],
+    "nameArr": [
+      "vincent",
+      "luebeck"
+    ],
     "firstName": "vincent",
     "lastName": "luebeck",
     "born": "1654",
@@ -1497,7 +1936,10 @@
   },
   "williamWeingarden": {
     "id": "williamWeingarden",
-    "nameArr": ["william", "weingarden"],
+    "nameArr": [
+      "william",
+      "weingarden"
+    ],
     "firstName": "william",
     "lastName": "weingarden",
     "born": "",
@@ -1508,7 +1950,10 @@
   },
   "wolfgangMozart": {
     "id": "wolfgangMozart",
-    "nameArr": ["wolfgang", "mozart"],
+    "nameArr": [
+      "wolfgang",
+      "mozart"
+    ],
     "firstName": "wolfgang",
     "lastName": "mozart",
     "born": "1756",
@@ -1519,7 +1964,10 @@
   },
   "yalilGuerra": {
     "id": "yalilGuerra",
-    "nameArr": ["yalil", "guerra"],
+    "nameArr": [
+      "yalil",
+      "guerra"
+    ],
     "firstName": "yalil",
     "lastName": "guerra",
     "born": "1973",
@@ -1530,7 +1978,10 @@
   },
   "zelmanBokser": {
     "id": "zelmanBokser",
-    "nameArr": ["zelman", "bokser"],
+    "nameArr": [
+      "zelman",
+      "bokser"
+    ],
     "firstName": "zelman",
     "lastName": "bokser",
     "born": "",
@@ -1541,7 +1992,10 @@
   },
   "zoltanKodaly": {
     "id": "zoltanKodaly",
-    "nameArr": ["zoltan", "kodàly"],
+    "nameArr": [
+      "zoltan",
+      "kodàly"
+    ],
     "firstName": "zoltan",
     "lastName": "kodàly",
     "born": "1882",
