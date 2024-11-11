@@ -1,12 +1,8 @@
 {
   "wolfgangMozart": {
     "id": "wolfgangMozart",
-    "nameArr": [
-      "wolfgang",
-      "mozart"
-    ],
-    "firstName": "wolfgang",
-    "lastName": "mozart",
+    "firstName": "Wolfgang",
+    "lastName": "Mozart",
     "born": "1756",
     "died": "1791",
     "website": "",

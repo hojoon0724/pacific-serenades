@@ -1,12 +1,8 @@
 {
   "richardStrauss": {
     "id": "richardStrauss",
-    "nameArr": [
-      "richard",
-      "strauss"
-    ],
-    "firstName": "richard",
-    "lastName": "strauss",
+    "firstName": "Richard",
+    "lastName": "Strauss",
     "born": "1864",
     "died": "1949",
     "website": "",

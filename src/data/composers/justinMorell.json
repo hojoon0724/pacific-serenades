@@ -1,12 +1,8 @@
 {
   "justinMorell": {
     "id": "justinMorell",
-    "nameArr": [
-      "justin",
-      "morell"
-    ],
-    "firstName": "justin",
-    "lastName": "morell",
+    "firstName": "Justin",
+    "lastName": "Morell",
     "born": "1973",
     "died": "",
     "website": "http://justinmorell.com/blog/?page_id=6",

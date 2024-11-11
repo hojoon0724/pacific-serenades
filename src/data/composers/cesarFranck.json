@@ -1,12 +1,8 @@
 {
   "cesarFranck": {
     "id": "cesarFranck",
-    "nameArr": [
-      "césar",
-      "franck"
-    ],
-    "firstName": "césar",
-    "lastName": "franck",
+    "firstName": "César",
+    "lastName": "Franck",
     "born": "1822",
     "died": "1890",
     "website": "",

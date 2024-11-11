@@ -1,15 +1,11 @@
 {
   "bruceBabcock": {
     "id": "bruceBabcock",
-    "nameArr": [
-      "bruce",
-      "babcock"
-    ],
-    "firstName": "bruce",
-    "lastName": "babcock",
+    "firstName": "Bruce",
+    "lastName": "Babcock",
     "born": "1951",
     "died": "",
-    "website": "",
+    "website": "http://brucebabcock.net/",
     "photo": "/photos/bruceBabcock.jpg",
     "bio": ""
   }

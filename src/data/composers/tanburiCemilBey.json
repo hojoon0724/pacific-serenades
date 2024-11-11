@@ -1,13 +1,8 @@
 {
   "tanburiCemilBey": {
     "id": "tanburiCemilBey",
-    "nameArr": [
-      "tanburi",
-      "cemil",
-      "bey"
-    ],
-    "firstName": "tanburi cemil",
-    "lastName": "bey",
+    "firstName": "Tanburi Cemil",
+    "lastName": "Bey",
     "born": "1871",
     "died": "1916",
     "website": "",

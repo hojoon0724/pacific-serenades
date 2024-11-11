@@ -1,12 +1,8 @@
 {
   "gabrielFaure": {
     "id": "gabrielFaure",
-    "nameArr": [
-      "gabriel",
-      "fauré"
-    ],
-    "firstName": "gabriel",
-    "lastName": "fauré",
+    "firstName": "Gabriel",
+    "lastName": "Fauré",
     "born": "1845",
     "died": "1924",
     "website": "",

@@ -1,12 +1,8 @@
 {
   "josephSuk": {
     "id": "josephSuk",
-    "nameArr": [
-      "joseph",
-      "suk"
-    ],
-    "firstName": "joseph",
-    "lastName": "suk",
+    "firstName": "Joseph",
+    "lastName": "Suk",
     "born": "1874",
     "died": "1935",
     "website": "",

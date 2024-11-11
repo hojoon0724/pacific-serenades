@@ -1,15 +1,11 @@
 {
   "taniaFrench": {
     "id": "taniaFrench",
-    "nameArr": [
-      "tania",
-      "french"
-    ],
-    "firstName": "tania",
-    "lastName": "french",
+    "firstName": "Tania",
+    "lastName": "French",
     "born": "1963",
     "died": "",
-    "website": "",
+    "website": "http://www.musicdreaming.com/",
     "photo": "",
     "bio": ""
   }

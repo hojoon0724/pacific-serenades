@@ -1,15 +1,11 @@
 {
   "johnBiggs": {
     "id": "johnBiggs",
-    "nameArr": [
-      "john",
-      "biggs"
-    ],
-    "firstName": "john",
-    "lastName": "biggs",
+    "firstName": "John",
+    "lastName": "Biggs",
     "born": "1932",
     "died": "",
-    "website": "",
+    "website": "http://www.consortpress.com/Bio.Reviews.html",
     "photo": "/photos/johnBiggs.jpg",
     "bio": ""
   }

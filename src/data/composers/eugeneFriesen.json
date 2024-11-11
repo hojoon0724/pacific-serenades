@@ -1,12 +1,8 @@
 {
   "eugeneFriesen": {
     "id": "eugeneFriesen",
-    "nameArr": [
-      "eugene",
-      "friesen"
-    ],
-    "firstName": "eugene",
-    "lastName": "friesen",
+    "firstName": "Eugene",
+    "lastName": "Friesen",
     "born": "1952",
     "died": "",
     "website": "http://www.celloman.com/",

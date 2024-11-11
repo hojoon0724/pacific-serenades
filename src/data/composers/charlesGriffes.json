@@ -1,13 +1,8 @@
 {
   "charlesGriffes": {
     "id": "charlesGriffes",
-    "nameArr": [
-      "charles",
-      "tomlinson",
-      "griffes"
-    ],
-    "firstName": "charles tomlinson",
-    "lastName": "griffes",
+    "firstName": "Charles Tomlinson",
+    "lastName": "Griffes",
     "born": "1884",
     "died": "1920",
     "website": "",

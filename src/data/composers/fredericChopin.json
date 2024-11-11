@@ -1,12 +1,8 @@
 {
   "fredericChopin": {
     "id": "fredericChopin",
-    "nameArr": [
-      "frederic",
-      "chopin"
-    ],
-    "firstName": "frederic",
-    "lastName": "chopin",
+    "firstName": "Frederic",
+    "lastName": "Chopin",
     "born": "1810",
     "died": "1849",
     "website": "",

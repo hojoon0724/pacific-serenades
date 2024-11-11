@@ -1,12 +1,8 @@
 {
   "antonioVivaldi": {
     "id": "antonioVivaldi",
-    "nameArr": [
-      "antonio",
-      "vivaldi"
-    ],
-    "firstName": "antonio",
-    "lastName": "vivaldi",
+    "firstName": "Antonio",
+    "lastName": "Vivaldi",
     "born": "1678",
     "died": "1741",
     "website": "",

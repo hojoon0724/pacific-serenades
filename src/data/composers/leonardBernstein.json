@@ -1,12 +1,8 @@
 {
   "leonardBernstein": {
     "id": "leonardBernstein",
-    "nameArr": [
-      "leonard",
-      "bernstein"
-    ],
-    "firstName": "leonard",
-    "lastName": "bernstein",
+    "firstName": "Leonard",
+    "lastName": "Bernstein",
     "born": "1918",
     "died": "1990",
     "website": "",

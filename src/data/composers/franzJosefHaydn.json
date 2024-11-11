@@ -1,13 +1,8 @@
 {
   "franzJosefHaydn": {
     "id": "franzJosefHaydn",
-    "nameArr": [
-      "franz",
-      "josef",
-      "haydn"
-    ],
-    "firstName": "franz josef",
-    "lastName": "haydn",
+    "firstName": "Franz Josef",
+    "lastName": "Haydn",
     "born": "1732",
     "died": "1809",
     "website": "",

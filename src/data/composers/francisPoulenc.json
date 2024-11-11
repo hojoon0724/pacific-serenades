@@ -1,12 +1,8 @@
 {
   "francisPoulenc": {
     "id": "francisPoulenc",
-    "nameArr": [
-      "francis",
-      "poulenc"
-    ],
-    "firstName": "francis",
-    "lastName": "poulenc",
+    "firstName": "Francis",
+    "lastName": "Poulenc",
     "born": "1899",
     "died": "1963",
     "website": "",

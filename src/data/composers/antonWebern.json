@@ -1,12 +1,8 @@
 {
   "antonWebern": {
     "id": "antonWebern",
-    "nameArr": [
-      "anton",
-      "webern"
-    ],
-    "firstName": "anton",
-    "lastName": "webern",
+    "firstName": "Anton",
+    "lastName": "Webern",
     "born": "1883",
     "died": "1945",
     "website": "",

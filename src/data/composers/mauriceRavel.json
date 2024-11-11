@@ -1,12 +1,8 @@
 {
   "mauriceRavel": {
     "id": "mauriceRavel",
-    "nameArr": [
-      "maurice",
-      "ravel"
-    ],
-    "firstName": "maurice",
-    "lastName": "ravel",
+    "firstName": "Maurice",
+    "lastName": "Ravel",
     "born": "1875",
     "died": "1937",
     "website": "",

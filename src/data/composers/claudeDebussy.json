@@ -1,12 +1,8 @@
 {
   "claudeDebussy": {
     "id": "claudeDebussy",
-    "nameArr": [
-      "claude",
-      "debussy"
-    ],
-    "firstName": "claude",
-    "lastName": "debussy",
+    "firstName": "Claude",
+    "lastName": "Debussy",
     "born": "1862",
     "died": "1918",
     "website": "",

@@ -1,12 +1,8 @@
 {
   "vincentLuebeck": {
     "id": "vincentLuebeck",
-    "nameArr": [
-      "vincent",
-      "luebeck"
-    ],
-    "firstName": "vincent",
-    "lastName": "luebeck",
+    "firstName": "Vincent",
+    "lastName": "Luebeck",
     "born": "1654",
     "died": "1740",
     "website": "",

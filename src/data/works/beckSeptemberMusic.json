@@ -1,0 +1,41 @@
+{
+  "beckSeptemberMusic": {
+    "id": "beckSeptemberMusic",
+    "workName": "September Music",
+    "workYear": "2002",
+    "workComposer": "jeremyBeck",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_101_1317&amp;products_id=8983",
+    "video": [],
+    "audio": [
+      [
+        "Be03-Part1a.mp3",
+        "Part 1a"
+      ],
+      [
+        "Be03-Part1b.mp3",
+        "Part 1b"
+      ],
+      [
+        "Be03-Part2a.mp3",
+        "Part 2a"
+      ],
+      [
+        "Be03-Part2b.mp3",
+        "Part 2b"
+      ],
+      [
+        "Be03-Part3a.mp3",
+        "Part 3a"
+      ],
+      [
+        "Be03-Part3b.mp3",
+        "Part 3b"
+      ],
+      [
+        "Be03-Part3end.mp3",
+        "Conclusion"
+      ]
+    ],
+    "description": ""
+  }
+}

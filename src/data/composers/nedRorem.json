@@ -1,15 +1,11 @@
 {
   "nedRorem": {
     "id": "nedRorem",
-    "nameArr": [
-      "ned",
-      "rorem"
-    ],
-    "firstName": "ned",
-    "lastName": "rorem",
+    "firstName": "Ned",
+    "lastName": "Rorem",
     "born": "1923",
     "died": "",
-    "website": "",
+    "website": "http://www.nedrorem.com/",
     "photo": "/photos/nedRorem.jpg",
     "bio": ""
   }

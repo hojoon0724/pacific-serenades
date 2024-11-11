@@ -1,15 +1,11 @@
 {
   "larryLipkis": {
     "id": "larryLipkis",
-    "nameArr": [
-      "larry",
-      "lipkis"
-    ],
-    "firstName": "larry",
-    "lastName": "lipkis",
+    "firstName": "Larry",
+    "lastName": "Lipkis",
     "born": "1951",
     "died": "",
-    "website": "",
+    "website": "http://www.larrylipkis.com/",
     "photo": "/photos/larryLipkis.jpg",
     "bio": ""
   }

@@ -1,0 +1,17 @@
+{
+  "carlsonStarryNight": {
+    "id": "carlsonStarryNight",
+    "workName": "Starry Night",
+    "workYear": "1989",
+    "workComposer": "markCarlson",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=8288",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=p2SRe41UoWg",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [],
+    "description": ""
+  }
+}

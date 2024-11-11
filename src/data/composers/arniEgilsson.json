@@ -1,15 +1,11 @@
 {
   "arniEgilsson": {
     "id": "arniEgilsson",
-    "nameArr": [
-      "árni",
-      "egilsson"
-    ],
-    "firstName": "árni",
-    "lastName": "egilsson",
+    "firstName": "Árni",
+    "lastName": "Egilsson",
     "born": "1939",
     "died": "",
-    "website": "",
+    "website": "http://www.arnaeus-music.com/",
     "photo": "/photos/arniEgilsson.jpg",
     "bio": ""
   }

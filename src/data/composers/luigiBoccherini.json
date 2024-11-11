@@ -1,12 +1,8 @@
 {
   "luigiBoccherini": {
     "id": "luigiBoccherini",
-    "nameArr": [
-      "luigi",
-      "boccherini"
-    ],
-    "firstName": "luigi",
-    "lastName": "boccherini",
+    "firstName": "Luigi",
+    "lastName": "Boccherini",
     "born": "1743",
     "died": "1805",
     "website": "",

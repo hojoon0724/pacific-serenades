@@ -1,13 +1,8 @@
 {
   "johnMaxwellAnderson": {
     "id": "johnMaxwellAnderson",
-    "nameArr": [
-      "john",
-      "maxwell",
-      "anderson"
-    ],
-    "firstName": "john maxwell",
-    "lastName": "anderson",
+    "firstName": "John Maxwell",
+    "lastName": "Anderson",
     "born": "1948",
     "died": "",
     "website": "",

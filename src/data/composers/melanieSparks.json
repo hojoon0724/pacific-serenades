@@ -1,12 +1,8 @@
 {
   "melanieSparks": {
     "id": "melanieSparks",
-    "nameArr": [
-      "melanie",
-      "sparks"
-    ],
-    "firstName": "melanie",
-    "lastName": "sparks",
+    "firstName": "Melanie",
+    "lastName": "Sparks",
     "born": "",
     "died": "",
     "website": "",

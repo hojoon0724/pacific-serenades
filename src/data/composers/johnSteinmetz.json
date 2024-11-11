@@ -1,15 +1,11 @@
 {
   "johnSteinmetz": {
     "id": "johnSteinmetz",
-    "nameArr": [
-      "john",
-      "steinmetz"
-    ],
-    "firstName": "john",
-    "lastName": "steinmetz",
+    "firstName": "John",
+    "lastName": "Steinmetz",
     "born": "1951",
     "died": "",
-    "website": "",
+    "website": "http://www.johnsteinmetz.org/",
     "photo": "/photos/johnSteinmetz.jpg",
     "bio": ""
   }

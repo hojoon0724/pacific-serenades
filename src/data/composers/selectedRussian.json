@@ -1,12 +1,8 @@
 {
   "selectedRussian": {
     "id": "selectedRussian",
-    "nameArr": [
-      "selected",
-      "russian"
-    ],
-    "firstName": "selected",
-    "lastName": "russian",
+    "firstName": "Selected",
+    "lastName": "Russian",
     "born": "",
     "died": "",
     "website": "",

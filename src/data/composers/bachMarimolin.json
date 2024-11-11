@@ -1,14 +1,8 @@
 {
   "bachMarimolin": {
     "id": "bachMarimolin",
-    "nameArr": [
-      "johann",
-      "sebastian",
-      "bach,",
-      "marimolin"
-    ],
-    "firstName": "johann sebastian bach,",
-    "lastName": "marimolin",
+    "firstName": "Johann Sebastian Bach,",
+    "lastName": "Marimolin",
     "born": "",
     "died": "",
     "website": "",

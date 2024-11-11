@@ -1,14 +1,31 @@
 const fs = require("fs").promises;
 const path = require("path");
 
-const mainSection = { startStr: "", endStr: "" };
-const workName = { startStr: "", endStr: "" };
-const workYear = { startStr: "", endStr: "" };
-const workComposer = { startStr: "", endStr: "" };
-const purchaseLink = { startStr: "", endStr: "" };
-const videoLinks = { startStr: "", endStr: "" };
-const audioLinks = { startStr: "", endStr: "" };
-const dataName7 = { startStr: "", endStr: "" };
+const metadataSection = { startStr: '{"@context":', endStr: "</script>" };
+const fileName = { startStr: '"@id":"http://pacser.org/music/', endStr: '/","url":' };
+
+const mainSection = { startStr: '<main class="main music" role="main">', endStr: "</main>" };
+const workName = { startStr: "<h1>", endStr: "</h1>" };
+const workYear = { startStr: '<span class="composed">Composed in ', endStr: "</span>" };
+const workComposer = { startStr: '<span class="composer">', midStr: "/composers/", endStr: '/index.html">' };
+const purchaseLink = { startStr: "<!-- Purchase links -->", midStr: '<a href="', endStr: '" class="button">' };
+
+const videoBlock = { startStr: '<ul class="video-links">', endStr: "</ul>" };
+const videoEntry = { startStr: "<li>", endStr: "</li>" };
+const videoLabel = { startStr: '<span class="video-label">', endStr: "</span>" };
+const videoUrl = { startStr: '<a href="', endStr: '" class="video-link">' };
+
+const audioBlock = { startStr: '<ul class="audio-files">', endStr: "</ul>" };
+const audioEntry = { startStr: "<li>", endStr: "</li>" };
+const audioLabel = { startStr: '<span class="audio-label">', endStr: "</span>" };
+const audioUrl = { startStr: '<a href="', midStr: "(?:[^\\/]*\\/){6}", endStr: '">' };
+
+const descriptionSection = { startStr: "<!-- Description -->", endStr: "<!-- Video links -->" };
+
+const sourceFolder = "./music";
+
+const destinationFolder = "./allWorks";
+const destinationFile = "./allWorks.json";
 
 function makeRegex(input) {
   const { startStr, endStr } = input;
@@ -41,83 +58,67 @@ function writeToFile(file, content) {
 async function processFile(filePath) {
   try {
     const content = await fs.readFile(filePath, "utf-8");
+    // console.log("processFile started");
     let finalResultArr = {};
 
+    const fileNameData = extractMatches([content], makeRegex(fileName));
     // Extract the data portion
-    const dataSection = extractMatches([content], makeRegex(relevantData));
-    const concertTitle = extractMatches([dataSection], makeRegex(concertTitleBlock));
-    // console.log(concertTitle);
+    const mainSectionData = extractMatches([content], makeRegex(mainSection));
+    const descriptionInHtml = extractMatches([mainSectionData], makeRegex(descriptionSection));
+    const fileNameCamel = fileNameData[0].toLowerCase().replace(/-./g, (x) => x[1].toUpperCase());
 
-    const dateLocationSection = extractMatches([dataSection], makeRegex(concertDateAndLocationSection));
-    const oneDateLocationBlock = extractMatches([dateLocationSection], makeRegex(oneConcertDateAndLocation));
-    let locationArr = [];
-    oneDateLocationBlock.forEach((item) => {
-      item.includes('<a href="')
-        ? locationArr.push({
-            day: new Date(`${extractMatches([item], makeRegex(concertDay))[0]}, ${convertTo24Hours(extractMatches([item], makeRegex(concertTime))[0])}`),
-            time: convertTo24Hours(extractMatches([item], makeRegex(concertTime))[0]),
-            venue: extractMatches([item], makeRegexWithMiddle(concertVenueWithUrl))[0],
-          })
-        : locationArr.push({
-            day: new Date(`${extractMatches([item], makeRegex(concertDay))[0]}, ${convertTo24Hours(extractMatches([item], makeRegex(concertTime))[0])}`),
-            time: convertTo24Hours(extractMatches([item], makeRegex(concertTime))[0]),
-            venue: extractMatches([item], makeRegex(concertVenue))[0],
-          });
+    const workNameData = extractMatches([mainSectionData], makeRegex(workName));
+    const workYearData = extractMatches([mainSectionData], makeRegex(workYear));
+    const workComposerData = extractMatches([mainSectionData], makeRegexWithMiddle(workComposer));
+    const workComposerId = workComposerData[0].toLowerCase().replace(/-./g, (x) => x[1].toUpperCase());
+    const purchaseLinkData = extractMatches([mainSectionData], makeRegexWithMiddle(purchaseLink));
+
+    const videoBlockData = extractMatches([mainSectionData], makeRegex(videoBlock));
+    const videoEntryData = extractMatches([videoBlockData], makeRegex(videoEntry));
+
+    let videoData = [];
+    videoEntryData.forEach((entry) => {
+      const videoUrlData = extractMatches([entry], makeRegex(videoUrl));
+      const videoLabelData = extractMatches([entry], makeRegex(videoLabel));
+      videoData.push([videoUrlData[0], videoLabelData[0]]);
     });
 
-    const programBlock = extractMatches([dataSection], makeRegex(programDataBlock));
-    // console.log(programBlock);
-    const oneWorkBlock = extractMatches([programBlock], makeRegex(pieceBlock));
-    // console.log(oneWorkBlock);
+    const audioBlockData = extractMatches([mainSectionData], makeRegex(audioBlock));
+    const audioEntryData = extractMatches([audioBlockData], makeRegex(audioEntry));
 
-    let worksArr = [];
-    oneWorkBlock.forEach((item) => {
-      // console.log(item);
-      item.includes("<a href")
-        ? worksArr.push({
-            workName: extractMatches([item], makeRegex(workNameBlock))[0],
-            workYear: extractMatches([item], makeRegex(workYearBlock))[0] ? extractMatches([item], makeRegex(workYearBlock))[0] : "",
-            workComposer: extractMatches([item], makeRegex(workComposerBlock))[0]
-              .toLowerCase()
-              .replace(/-./g, (x) => x[1].toUpperCase()),
-            workInstrumentation: extractMatches([item], makeRegex(workInstrumentationBlock))[0],
-          })
-        : worksArr.push({
-            workName: extractMatches([item], makeRegex(workNameBlock))[0],
-            workYear: extractMatches([item], makeRegex(workYearBlock))[0] ? extractMatches([item], makeRegex(workYearBlock))[0] : "",
-            workComposer: extractMatches([item], makeRegex(workComposerBlock))[0],
-            workInstrumentation: extractMatches([item], makeRegex(workInstrumentationBlock))[0],
-          });
+    let audioData = [];
+    audioEntryData.forEach((entry) => {
+      const audioUrlData = extractMatches([entry], makeRegexWithMiddle(audioUrl));
+      const audioLabelData = extractMatches([entry], makeRegex(audioLabel));
+      audioData.push([audioUrlData[0], audioLabelData[0]]);
     });
 
-    const performersBlock = extractMatches([dataSection], makeRegex(musicianTopBlock));
-    const oneMusicianBlock = extractMatches([performersBlock], makeRegex(musicianBlock));
+    // console.log(" ");
+    // console.log(fileNameCamel);
+    // console.log(workNameData);
+    // console.log(workYearData);
+    // console.log(workComposerData);
+    // console.log(purchaseLinkData);
+    // console.log(videoEntryData);
+    // console.log(videoData);
+    // console.log(audioData);
 
-    let musiciansArr = [];
-    oneMusicianBlock.forEach((item) => {
-      musiciansArr.push(
-        extractMatches([item], makeRegex(nameBlock))[0]
-          .toLowerCase()
-          .replace(/-./g, (x) => x[1].toUpperCase())
-      );
-    });
-    // console.log(musiciansArr);
-
-    const fileName = extractMatches([filePath], makeRegex(fileNameFromPath))[0];
-    const fileCamel = fileName ? fileName.replace(/-./g, (x) => x[1].toUpperCase()) : "";
-
-    let concert = {
-      [fileCamel]: {
-        concertTitle: concertTitle[0],
-        dates: locationArr,
-        program: worksArr,
-        musicians: musiciansArr,
+    let work = {
+      [fileNameCamel]: {
+        id: fileNameCamel,
+        workName: workNameData[0] ? workNameData[0] : "",
+        workYear: workYearData[0] ? workYearData[0] : "",
+        workComposer: workComposerId,
+        purchaseLink: purchaseLinkData[0] ? purchaseLinkData[0] : "",
+        video: videoData,
+        audio: audioData,
+        description: descriptionInHtml[0] ? descriptionInHtml[0] : "",
       },
     };
 
-    // finalResultArr.push(concert);
-    finalResultArr = { ...finalResultArr, ...concert };
-    // console.dir(finalResultArr);
+    // console.log(work);
+
+    finalResultArr = { ...finalResultArr, ...work };
 
     return finalResultArr;
   } catch (err) {
@@ -159,6 +160,18 @@ async function main() {
 
   let dataToBeWritten = await processDirectory(sourceFolder);
   // console.log("main function ended");
-  // console.log("dataToBeWritten", dataToBeWritten);
+  console.log("dataToBeWritten", dataToBeWritten);
   return dataToBeWritten;
 }
+
+main().then((data) => {
+  // console.log("data to be written", data);
+  writeToFile(destinationFile, data);
+  for (const [key, value] of Object.entries(data)) {
+    const concert = {
+      [key]: value,
+    };
+    console.log(concert);
+    writeToFile(`${destinationFolder}/${key}.json`, concert);
+  }
+});

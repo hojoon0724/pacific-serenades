@@ -1,12 +1,8 @@
 {
   "elaineBarkin": {
     "id": "elaineBarkin",
-    "nameArr": [
-      "elaine",
-      "barkin"
-    ],
-    "firstName": "elaine",
-    "lastName": "barkin",
+    "firstName": "Elaine",
+    "lastName": "Barkin",
     "born": "1932",
     "died": "",
     "website": "",

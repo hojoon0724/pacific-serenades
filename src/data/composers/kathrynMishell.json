@@ -1,16 +1,12 @@
 {
   "kathrynMishell": {
     "id": "kathrynMishell",
-    "nameArr": [
-      "kathryn",
-      "mishell"
-    ],
-    "firstName": "kathryn",
-    "lastName": "mishell",
+    "firstName": "Kathryn",
+    "lastName": "Mishell",
     "born": "1940",
     "died": "",
-    "website": "",
-    "photo": "/photos/kathrynMishell.jpeg",
+    "website": "http://www.intothelightradio.org/km.html",
+    "photo": "/photos/kathrynMishell.jpg",
     "bio": ""
   }
 }

@@ -1,12 +1,8 @@
 {
   "danielLevitan": {
     "id": "danielLevitan",
-    "nameArr": [
-      "daniel",
-      "levitan"
-    ],
-    "firstName": "daniel",
-    "lastName": "levitan",
+    "firstName": "Daniel",
+    "lastName": "Levitan",
     "born": "",
     "died": "",
     "website": "",

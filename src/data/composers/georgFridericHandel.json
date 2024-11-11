@@ -1,13 +1,8 @@
 {
   "georgFridericHandel": {
     "id": "georgFridericHandel",
-    "nameArr": [
-      "georg",
-      "frideric",
-      "handel"
-    ],
-    "firstName": "georg frideric",
-    "lastName": "handel",
+    "firstName": "Georg Frideric",
+    "lastName": "Handel",
     "born": "1685",
     "died": "1759",
     "website": "",

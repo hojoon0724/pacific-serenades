@@ -1,13 +1,8 @@
 {
   "johannSebastianBach": {
     "id": "johannSebastianBach",
-    "nameArr": [
-      "johann",
-      "sebastian",
-      "bach"
-    ],
-    "firstName": "johann sebastian",
-    "lastName": "bach",
+    "firstName": "Johann Sebastian",
+    "lastName": "Bach",
     "born": "1685",
     "died": "1750",
     "website": "",

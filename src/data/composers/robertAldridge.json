@@ -1,12 +1,8 @@
 {
   "robertAldridge": {
     "id": "robertAldridge",
-    "nameArr": [
-      "robert",
-      "aldridge"
-    ],
-    "firstName": "robert",
-    "lastName": "aldridge",
+    "firstName": "Robert",
+    "lastName": "Aldridge",
     "born": "1954",
     "died": "",
     "website": "",

@@ -1,12 +1,8 @@
 {
   "jakeHeggie": {
     "id": "jakeHeggie",
-    "nameArr": [
-      "jake",
-      "heggie"
-    ],
-    "firstName": "jake",
-    "lastName": "heggie",
+    "firstName": "Jake",
+    "lastName": "Heggie",
     "born": "1961",
     "died": "",
     "website": "http://jakeheggie.com/",

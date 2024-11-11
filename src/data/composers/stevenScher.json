@@ -1,12 +1,8 @@
 {
   "stevenScher": {
     "id": "stevenScher",
-    "nameArr": [
-      "steven",
-      "scher"
-    ],
-    "firstName": "steven",
-    "lastName": "scher",
+    "firstName": "Steven",
+    "lastName": "Scher",
     "born": "",
     "died": "",
     "website": "",

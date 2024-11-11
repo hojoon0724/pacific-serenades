@@ -1,15 +1,11 @@
 {
   "benjaminLees": {
     "id": "benjaminLees",
-    "nameArr": [
-      "benjamin",
-      "lees"
-    ],
-    "firstName": "benjamin",
-    "lastName": "lees",
+    "firstName": "Benjamin",
+    "lastName": "Lees",
     "born": "1924",
     "died": "",
-    "website": "",
+    "website": "http://www.benjaminlees.com/",
     "photo": "/photos/benjaminLees.jpg",
     "bio": ""
   }

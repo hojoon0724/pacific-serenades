@@ -1,0 +1,41 @@
+{
+  "milburnChamberJams": {
+    "id": "milburnChamberJams",
+    "workName": "Chamber Jams",
+    "workYear": "2010",
+    "workComposer": "dwayneMilburn",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=Chamber+Jams",
+    "video": [],
+    "audio": [
+      [
+        "mil11-1a.mp3",
+        "Excerpt: Mvt. 1 (1)"
+      ],
+      [
+        "mil11-1b.mp3",
+        "Excerpt: Mvt. 1 (2)"
+      ],
+      [
+        "mil11-2a.mp3",
+        "Excerpt: Mvt. 2 (1)"
+      ],
+      [
+        "mil11-2b.mp3",
+        "Excerpt: Mvt. 2 (2)"
+      ],
+      [
+        "mil11-3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "mil11-3b.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "mil11-4.mp3",
+        "Excerpt: Conclusion"
+      ]
+    ],
+    "description": ""
+  }
+}

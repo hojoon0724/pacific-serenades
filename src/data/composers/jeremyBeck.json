@@ -1,15 +1,11 @@
 {
   "jeremyBeck": {
     "id": "jeremyBeck",
-    "nameArr": [
-      "jeremy",
-      "beck"
-    ],
-    "firstName": "jeremy",
-    "lastName": "beck",
+    "firstName": "Jeremy",
+    "lastName": "Beck",
     "born": "1960",
     "died": "",
-    "website": "",
+    "website": "http://www.beckmusic.org",
     "photo": "/photos/jeremyBeck.jpg",
     "bio": ""
   }

@@ -1,15 +1,11 @@
 {
   "vaughanWilliams": {
     "id": "vaughanWilliams",
-    "nameArr": [
-      "vaughan",
-      "williams"
-    ],
-    "firstName": "vaughan",
-    "lastName": "williams",
+    "firstName": "Vaughan",
+    "lastName": "Williams",
     "born": "1872",
     "died": "1958",
-    "website": "",
+    "website": "http://www.rvwsociety.com/",
     "photo": "",
     "bio": ""
   }

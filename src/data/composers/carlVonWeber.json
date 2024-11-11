@@ -1,13 +1,8 @@
 {
   "carlVonWeber": {
     "id": "carlVonWeber",
-    "nameArr": [
-      "carl",
-      "von",
-      "weber"
-    ],
-    "firstName": "carl von",
-    "lastName": "weber",
+    "firstName": "Carl von",
+    "lastName": "Weber",
     "born": "1786",
     "died": "1826",
     "website": "",

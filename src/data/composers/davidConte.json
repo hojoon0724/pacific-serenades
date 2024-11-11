@@ -1,12 +1,8 @@
 {
   "davidConte": {
     "id": "davidConte",
-    "nameArr": [
-      "david",
-      "conte"
-    ],
-    "firstName": "david",
-    "lastName": "conte",
+    "firstName": "David",
+    "lastName": "Conte",
     "born": "1955",
     "died": "",
     "website": "http://davidconte.net/",

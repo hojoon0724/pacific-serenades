@@ -1,15 +1,11 @@
 {
   "paulReale": {
     "id": "paulReale",
-    "nameArr": [
-      "paul",
-      "reale"
-    ],
-    "firstName": "paul",
-    "lastName": "reale",
+    "firstName": "Paul",
+    "lastName": "Reale",
     "born": "1943",
     "died": "",
-    "website": "",
+    "website": "http://www.minotaurz.com/minotaur/",
     "photo": "/photos/paulReale.jpg",
     "bio": ""
   }

@@ -1,15 +1,11 @@
 {
   "yalilGuerra": {
     "id": "yalilGuerra",
-    "nameArr": [
-      "yalil",
-      "guerra"
-    ],
-    "firstName": "yalil",
-    "lastName": "guerra",
+    "firstName": "Yalil",
+    "lastName": "Guerra",
     "born": "1973",
     "died": "",
-    "website": "",
+    "website": "http://www.yalilguerra.com/Home.html",
     "photo": "",
     "bio": ""
   }

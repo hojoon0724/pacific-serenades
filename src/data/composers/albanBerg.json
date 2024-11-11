@@ -1,12 +1,8 @@
 {
   "albanBerg": {
     "id": "albanBerg",
-    "nameArr": [
-      "alban",
-      "berg"
-    ],
-    "firstName": "alban",
-    "lastName": "berg",
+    "firstName": "Alban",
+    "lastName": "Berg",
     "born": "1885",
     "died": "1935",
     "website": "",

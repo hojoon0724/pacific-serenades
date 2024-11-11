@@ -1,13 +1,8 @@
 {
   "charlesMartinLoeffler": {
     "id": "charlesMartinLoeffler",
-    "nameArr": [
-      "charles",
-      "martin",
-      "loeffler"
-    ],
-    "firstName": "charles martin",
-    "lastName": "loeffler",
+    "firstName": "Charles Martin",
+    "lastName": "Loeffler",
     "born": "1861",
     "died": "1935",
     "website": "",

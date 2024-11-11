@@ -1,12 +1,8 @@
 {
   "francoisDevienne": {
     "id": "francoisDevienne",
-    "nameArr": [
-      "francois",
-      "devienne"
-    ],
-    "firstName": "francois",
-    "lastName": "devienne",
+    "firstName": "Francois",
+    "lastName": "Devienne",
     "born": "1759",
     "died": "1803",
     "website": "",

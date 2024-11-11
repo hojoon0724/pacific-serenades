@@ -1,12 +1,8 @@
 {
   "bedrichSmetana": {
     "id": "bedrichSmetana",
-    "nameArr": [
-      "bedrich",
-      "smetana"
-    ],
-    "firstName": "bedrich",
-    "lastName": "smetana",
+    "firstName": "Bedrich",
+    "lastName": "Smetana",
     "born": "1824",
     "died": "1884",
     "website": "",

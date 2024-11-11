@@ -1,0 +1,42 @@
+{
+  "carlsonBatikViolinSonata": {
+    "id": "carlsonBatikViolinSonata",
+    "workName": "Batik",
+    "workYear": "2010",
+    "workComposer": "markCarlson",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7644",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=hDYtDcm4Iwo&amp;list=PLWzOF_7a7S5nvpn3vvEU5pC4xRx_kHm5-",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [
+      [
+        "Car10-part1a.mp3",
+        "Excerpt: Waves (1)"
+      ],
+      [
+        "Car10-1b.mp3",
+        "Excerpt: Waves (2)"
+      ],
+      [
+        "Car10-1c.mp3",
+        "Excerpt: Waves (3)"
+      ],
+      [
+        "Car10-2a.mp3",
+        "Excerpt: The Homeward Heart (1)"
+      ],
+      [
+        "Car10-2b.mp3",
+        "Excerpt: The Homeward Heart (2)"
+      ],
+      [
+        "Car10-2f.mp3",
+        "Excerpt: The Homeward Heart (3)"
+      ]
+    ],
+    "description": ""
+  }
+}

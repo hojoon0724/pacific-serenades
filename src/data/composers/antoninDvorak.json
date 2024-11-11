@@ -1,12 +1,8 @@
 {
   "antoninDvorak": {
     "id": "antoninDvorak",
-    "nameArr": [
-      "antonin",
-      "dvorak"
-    ],
-    "firstName": "antonin",
-    "lastName": "dvorak",
+    "firstName": "Antonin",
+    "lastName": "Dvorak",
     "born": "1841",
     "died": "1904",
     "website": "",

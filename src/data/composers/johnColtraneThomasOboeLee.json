@@ -1,15 +1,8 @@
 {
   "johnColtraneThomasOboeLee": {
     "id": "johnColtraneThomasOboeLee",
-    "nameArr": [
-      "john",
-      "coltrane,",
-      "thomas",
-      "oboe",
-      "lee"
-    ],
-    "firstName": "john coltrane, thomas oboe",
-    "lastName": "lee",
+    "firstName": "John Coltrane, Thomas Oboe",
+    "lastName": "Lee",
     "born": "1926",
     "died": "1967",
     "website": "",

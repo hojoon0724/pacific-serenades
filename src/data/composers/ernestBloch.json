@@ -1,15 +1,11 @@
 {
   "ernestBloch": {
     "id": "ernestBloch",
-    "nameArr": [
-      "ernest",
-      "bloch"
-    ],
-    "firstName": "ernest",
-    "lastName": "bloch",
+    "firstName": "Ernest",
+    "lastName": "Bloch",
     "born": "1880",
     "died": "1959",
-    "website": "",
+    "website": "http://www.schirmer.com/default.aspx?TabId=2419&amp;State_2872=2&amp;ComposerId_2872=131",
     "photo": "",
     "bio": ""
   }

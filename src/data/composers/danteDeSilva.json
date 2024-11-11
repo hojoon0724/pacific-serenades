@@ -1,13 +1,8 @@
 {
   "danteDeSilva": {
     "id": "danteDeSilva",
-    "nameArr": [
-      "dante",
-      "de",
-      "silva"
-    ],
-    "firstName": "dante de",
-    "lastName": "silva",
+    "firstName": "Dante de",
+    "lastName": "Silva",
     "born": "",
     "died": "",
     "website": "",

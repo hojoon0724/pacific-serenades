@@ -1,12 +1,8 @@
 {
   "olivierMessiaen": {
     "id": "olivierMessiaen",
-    "nameArr": [
-      "olivier",
-      "messiaen"
-    ],
-    "firstName": "olivier",
-    "lastName": "messiaen",
+    "firstName": "Olivier",
+    "lastName": "Messiaen",
     "born": "1908",
     "died": "1992",
     "website": "",

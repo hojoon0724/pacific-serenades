@@ -1,13 +1,8 @@
 {
   "ludwigVanBeethoven": {
     "id": "ludwigVanBeethoven",
-    "nameArr": [
-      "ludwig",
-      "van",
-      "beethoven"
-    ],
-    "firstName": "ludwig van",
-    "lastName": "beethoven",
+    "firstName": "Ludwig van",
+    "lastName": "Beethoven",
     "born": "1770",
     "died": "1826",
     "website": "",

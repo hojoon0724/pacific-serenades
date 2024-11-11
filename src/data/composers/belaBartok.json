@@ -1,12 +1,8 @@
 {
   "belaBartok": {
     "id": "belaBartok",
-    "nameArr": [
-      "béla",
-      "bartók"
-    ],
-    "firstName": "béla",
-    "lastName": "bartók",
+    "firstName": "Béla",
+    "lastName": "Bartók",
     "born": "1881",
     "died": "1945",
     "website": "",

@@ -1,12 +1,8 @@
 {
   "kemenceciNikolaki": {
     "id": "kemenceciNikolaki",
-    "nameArr": [
-      "kemençeci",
-      "nikolaki"
-    ],
-    "firstName": "kemençeci",
-    "lastName": "nikolaki",
+    "firstName": "Kemençeci",
+    "lastName": "Nikolaki",
     "born": "",
     "died": "",
     "website": "",

@@ -1,15 +1,11 @@
 {
   "danielCatan": {
     "id": "danielCatan",
-    "nameArr": [
-      "daniel",
-      "catán"
-    ],
-    "firstName": "daniel",
-    "lastName": "catán",
+    "firstName": "Daniel",
+    "lastName": "Catán",
     "born": "1949",
     "died": "",
-    "website": "",
+    "website": "http://www.schirmer.com/composers/catan/",
     "photo": "/photos/danielCatan.jpg",
     "bio": ""
   }

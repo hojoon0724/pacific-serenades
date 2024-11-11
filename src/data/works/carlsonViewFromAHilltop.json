@@ -1,0 +1,37 @@
+{
+  "carlsonViewFromAHilltop": {
+    "id": "carlsonViewFromAHilltop",
+    "workName": "View from a Hilltop",
+    "workYear": "2009",
+    "workComposer": "markCarlson",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=9328",
+    "video": [],
+    "audio": [
+      [
+        "Ca09-Part1a.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Ca09-Part2a.mp3",
+        "Excerpt 2a"
+      ],
+      [
+        "Ca09-Part2b-.mp3",
+        "Excerpt 2b"
+      ],
+      [
+        "Ca09-Part3.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Ca09-Part4.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Ca09-Part5.mp3",
+        "Excerpt 5"
+      ]
+    ],
+    "description": ""
+  }
+}

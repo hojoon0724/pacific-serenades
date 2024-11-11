@@ -1,16 +1,12 @@
 {
   "jeremyCavaterra": {
     "id": "jeremyCavaterra",
-    "nameArr": [
-      "jeremy",
-      "cavaterra"
-    ],
-    "firstName": "jeremy",
-    "lastName": "cavaterra",
+    "firstName": "Jeremy",
+    "lastName": "Cavaterra",
     "born": "1971",
     "died": "",
     "website": "",
     "photo": "/photos/jeremyCavaterra.jpg",
-    "bio": "<p>Jeremy Cavaterra was born in New York City in 1971. His music has been performed by soloists, chamber groups, and orchestras internationally. As a pianist he has appeared as both soloist and collaborative artist with ensembles, instrumentalists, and singers, often performing his own work. His teachers included Tania Agins and Robert Turner (piano) and Mark Carlson (composition) in Los Angeles before he returned to New York to study composition at Manhattan School of Music as a scholarship student of Giampaolo Bracali.</p>"
+    "bio": "<p>Jeremy Cavaterra was born in New York City in 1971. His music has been performed by soloists, chamber groups, and orchestras internationally. As a pianist he has appeared as both soloist and collaborative artist with ensembles, instrumentalists, and singers, often performing his own work. His teachers included Tania Agins and Robert Turner (piano) and Mark Carlson (composition) in Los Angeles before he returned to New York to study composition at Manhattan School of Music as a scholarship student of Giampaolo Bracali.</p>\n<p>Some of his recently premiered works include <i>Sextet for Piano and Strings</i> (2014), commissioned and performed by The Salastina Music Society in conjunction with Junior Chamber Music; <i>Monterey Suite</i> (2014), commissioned and performed by the Master Sinfonia Chamber Orchestra in Palo Alto; and <i>Trio for Harp, Flute, and Viola</i> (2013), commissioned and performed by The Myriad Trio / Art of Élan in San Diego.</p>\n<p>Jeremy Cavaterra is the Composer-in-Residence for The Salastina Music Society.</p>"
   }
 }

@@ -1,15 +1,11 @@
 {
   "donaldCrockett": {
     "id": "donaldCrockett",
-    "nameArr": [
-      "donald",
-      "crockett"
-    ],
-    "firstName": "donald",
-    "lastName": "crockett",
+    "firstName": "Donald",
+    "lastName": "Crockett",
     "born": "1951",
     "died": "",
-    "website": "",
+    "website": "http://www.donaldcrockett.com/",
     "photo": "/photos/donaldCrockett.jpg",
     "bio": ""
   }

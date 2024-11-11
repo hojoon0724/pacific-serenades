@@ -1,12 +1,8 @@
 {
   "sergeiRachmaninoff": {
     "id": "sergeiRachmaninoff",
-    "nameArr": [
-      "sergei",
-      "rachmaninoff"
-    ],
-    "firstName": "sergei",
-    "lastName": "rachmaninoff",
+    "firstName": "Sergei",
+    "lastName": "Rachmaninoff",
     "born": "1873",
     "died": "1943",
     "website": "",

@@ -1,12 +1,8 @@
 {
   "zoltanKodaly": {
     "id": "zoltanKodaly",
-    "nameArr": [
-      "zoltan",
-      "kodàly"
-    ],
-    "firstName": "zoltan",
-    "lastName": "kodàly",
+    "firstName": "Zoltan",
+    "lastName": "Kodàly",
     "born": "1882",
     "died": "1967",
     "website": "",

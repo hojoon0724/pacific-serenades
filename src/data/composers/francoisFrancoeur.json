@@ -1,12 +1,8 @@
 {
   "francoisFrancoeur": {
     "id": "francoisFrancoeur",
-    "nameArr": [
-      "françois",
-      "francoeur"
-    ],
-    "firstName": "françois",
-    "lastName": "francoeur",
+    "firstName": "François",
+    "lastName": "Francoeur",
     "born": "1698",
     "died": "1787",
     "website": "",

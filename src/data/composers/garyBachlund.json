@@ -1,12 +1,8 @@
 {
   "garyBachlund": {
     "id": "garyBachlund",
-    "nameArr": [
-      "gary",
-      "bachlund"
-    ],
-    "firstName": "gary",
-    "lastName": "bachlund",
+    "firstName": "Gary",
+    "lastName": "Bachlund",
     "born": "1947",
     "died": "",
     "website": "",

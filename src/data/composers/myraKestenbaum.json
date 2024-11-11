@@ -1,12 +1,8 @@
 {
   "myraKestenbaum": {
     "id": "myraKestenbaum",
-    "nameArr": [
-      "myra",
-      "kestenbaum"
-    ],
-    "firstName": "myra",
-    "lastName": "kestenbaum",
+    "firstName": "Myra",
+    "lastName": "Kestenbaum",
     "born": "1932",
     "died": "2001",
     "website": "",

@@ -1,12 +1,8 @@
 {
   "felixMendelssohn": {
     "id": "felixMendelssohn",
-    "nameArr": [
-      "felix",
-      "mendelssohn"
-    ],
-    "firstName": "felix",
-    "lastName": "mendelssohn",
+    "firstName": "Felix",
+    "lastName": "Mendelssohn",
     "born": "1809",
     "died": "1847",
     "website": "",
