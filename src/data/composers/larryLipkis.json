@@ -1,9 +1,16 @@
 {
-  "nameArr": ["larry", "lipkis"],
-  "firstName": "larry",
-  "lastName": "lipkis",
-  "born": "1951",
-  "died": "",
-  "photo": "/photos/larryLipkis.jpg",
-  "bio": ""
+  "larryLipkis": {
+    "id": "larryLipkis",
+    "nameArr": [
+      "larry",
+      "lipkis"
+    ],
+    "firstName": "larry",
+    "lastName": "lipkis",
+    "born": "1951",
+    "died": "",
+    "website": "",
+    "photo": "/photos/larryLipkis.jpg",
+    "bio": ""
+  }
 }

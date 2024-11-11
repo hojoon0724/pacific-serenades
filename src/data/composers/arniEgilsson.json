@@ -1,9 +1,16 @@
 {
-  "nameArr": ["árni", "egilsson"],
-  "firstName": "árni",
-  "lastName": "egilsson",
-  "born": "1939",
-  "died": "",
-  "photo": "/photos/arniEgilsson.jpg",
-  "bio": ""
+  "arniEgilsson": {
+    "id": "arniEgilsson",
+    "nameArr": [
+      "árni",
+      "egilsson"
+    ],
+    "firstName": "árni",
+    "lastName": "egilsson",
+    "born": "1939",
+    "died": "",
+    "website": "",
+    "photo": "/photos/arniEgilsson.jpg",
+    "bio": ""
+  }
 }

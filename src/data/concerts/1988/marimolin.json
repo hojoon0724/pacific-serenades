@@ -1,0 +1,75 @@
+{
+  "marimolin": {
+    "id": "marimolin",
+    "year": "1988",
+    "concertTitle": "Marimolin",
+    "dates": [
+      {
+        "date": "1988-02-24T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Stanley & Theodora Cornyn in Sherman Oaks",
+        "venueId": "stanleyAndTheodoraCornynHome"
+      },
+      {
+        "date": "1988-02-25T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata #1 in g minor for Xaccomanied violin",
+        "workYear": "1986",
+        "workComposer": "bachMarimolin",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "Brechstimme",
+        "workYear": "1987",
+        "workComposer": "stevenScher",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "Stanzas, Book VIII (selected movements)",
+        "workYear": "1987",
+        "workComposer": "lesThimmig",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "[be]coming together apart",
+        "workYear": "1987",
+        "workComposer": "elaineBarkin",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "Duo for Violin and Marimba",
+        "workYear": "1988",
+        "workComposer": "danielLevitan",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "Naima",
+        "workYear": "1987",
+        "workComposer": "johnColtraneThomasOboeLee",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "Amazing Grace (traditional)",
+        "workYear": "1986",
+        "workComposer": "melanieSparks",
+        "workInstrumentation": "for violin and marimba"
+      },
+      {
+        "workName": "For Miro Vlabimian",
+        "workYear": "1986",
+        "workComposer": "christopherStowens",
+        "workInstrumentation": "for violin and marimba"
+      }
+    ],
+    "musicians": [
+      "sharanLeventhal",
+      "nancyZeltsman"
+    ]
+  }
+}

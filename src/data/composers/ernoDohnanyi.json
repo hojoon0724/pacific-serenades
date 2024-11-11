@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "ernö",
-    "dohnanyi"
-  ],
-  "firstName": "ernö",
-  "lastName": "dohnanyi",
-  "born": "1877",
-  "died": "1960",
-  "photo": "",
-  "bio": ""
+  "ernoDohnanyi": {
+    "id": "ernoDohnanyi",
+    "nameArr": [
+      "ernö",
+      "dohnanyi"
+    ],
+    "firstName": "ernö",
+    "lastName": "dohnanyi",
+    "born": "1877",
+    "died": "1960",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

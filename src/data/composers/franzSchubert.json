@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "franz",
-    "schubert"
-  ],
-  "firstName": "franz",
-  "lastName": "schubert",
-  "born": "1797",
-  "died": "1828",
-  "photo": "",
-  "bio": ""
+  "franzSchubert": {
+    "id": "franzSchubert",
+    "nameArr": [
+      "franz",
+      "schubert"
+    ],
+    "firstName": "franz",
+    "lastName": "schubert",
+    "born": "1797",
+    "died": "1828",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

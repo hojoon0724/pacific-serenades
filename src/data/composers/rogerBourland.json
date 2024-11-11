@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "roger",
-    "bourland"
-  ],
-  "firstName": "roger",
-  "lastName": "bourland",
-  "born": "1952",
-  "died": "",
-  "photo": "/photos/rogerBourland.jpg",
-  "bio": ""
+  "rogerBourland": {
+    "id": "rogerBourland",
+    "nameArr": [
+      "roger",
+      "bourland"
+    ],
+    "firstName": "roger",
+    "lastName": "bourland",
+    "born": "1952",
+    "died": "",
+    "website": "",
+    "photo": "/photos/rogerBourland.jpg",
+    "bio": ""
+  }
 }

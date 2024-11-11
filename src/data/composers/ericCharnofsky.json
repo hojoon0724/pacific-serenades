@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "eric",
-    "charnofsky"
-  ],
-  "firstName": "eric",
-  "lastName": "charnofsky",
-  "born": "",
-  "died": "",
-  "photo": "/photos/ericCharnofsky.jpg",
-  "bio": ""
+  "ericCharnofsky": {
+    "id": "ericCharnofsky",
+    "nameArr": [
+      "eric",
+      "charnofsky"
+    ],
+    "firstName": "eric",
+    "lastName": "charnofsky",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/ericCharnofsky.jpg",
+    "bio": ""
+  }
 }

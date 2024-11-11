@@ -1,9 +1,16 @@
 {
-  "nameArr": ["john", "biggs"],
-  "firstName": "john",
-  "lastName": "biggs",
-  "born": "1932",
-  "died": "",
-  "photo": "/photos/johnBiggs.jpg",
-  "bio": ""
+  "johnBiggs": {
+    "id": "johnBiggs",
+    "nameArr": [
+      "john",
+      "biggs"
+    ],
+    "firstName": "john",
+    "lastName": "biggs",
+    "born": "1932",
+    "died": "",
+    "website": "",
+    "photo": "/photos/johnBiggs.jpg",
+    "bio": ""
+  }
 }

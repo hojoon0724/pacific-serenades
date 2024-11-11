@@ -1,9 +1,16 @@
 {
-  "nameArr": ["kathryn", "mishell"],
-  "firstName": "kathryn",
-  "lastName": "mishell",
-  "born": "1940",
-  "died": "",
-  "photo": "/photos/kathrynMishell.jpeg",
-  "bio": ""
+  "kathrynMishell": {
+    "id": "kathrynMishell",
+    "nameArr": [
+      "kathryn",
+      "mishell"
+    ],
+    "firstName": "kathryn",
+    "lastName": "mishell",
+    "born": "1940",
+    "died": "",
+    "website": "",
+    "photo": "/photos/kathrynMishell.jpeg",
+    "bio": ""
+  }
 }

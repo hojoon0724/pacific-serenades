@@ -1,9 +1,16 @@
 {
-  "nameArr": ["dmitri", "shostakovich"],
-  "firstName": "dmitri",
-  "lastName": "shostakovich",
-  "born": "1906",
-  "died": "1975",
-  "photo": "",
-  "bio": ""
+  "dmitriShostakovich": {
+    "id": "dmitriShostakovich",
+    "nameArr": [
+      "dmitri",
+      "shostakovich"
+    ],
+    "firstName": "dmitri",
+    "lastName": "shostakovich",
+    "born": "1906",
+    "died": "1975",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

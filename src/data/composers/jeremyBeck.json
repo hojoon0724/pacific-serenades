@@ -1,9 +1,16 @@
 {
-  "nameArr": ["jeremy", "beck"],
-  "firstName": "jeremy",
-  "lastName": "beck",
-  "born": "1960",
-  "died": "",
-  "photo": "/photos/jeremyBeck.jpg",
-  "bio": ""
+  "jeremyBeck": {
+    "id": "jeremyBeck",
+    "nameArr": [
+      "jeremy",
+      "beck"
+    ],
+    "firstName": "jeremy",
+    "lastName": "beck",
+    "born": "1960",
+    "died": "",
+    "website": "",
+    "photo": "/photos/jeremyBeck.jpg",
+    "bio": ""
+  }
 }

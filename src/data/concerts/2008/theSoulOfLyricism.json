@@ -1,0 +1,66 @@
+{
+  "theSoulOfLyricism": {
+    "id": "theSoulOfLyricism",
+    "year": "2008",
+    "concertTitle": "The soul of lyricism",
+    "dates": [
+      {
+        "date": "2008-05-31T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "Home of Edwin & Leilani Raquel in Hancock Park",
+        "venueId": "edwinAndLeilaniRaquelHancockParkHome"
+      },
+      {
+        "date": "2008-06-01T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2008-06-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Friendly Persuasions",
+        "workYear": "2008",
+        "workComposer": "jakeHeggie",
+        "workInstrumentation": "for tenor, flute, oboe, cello, and harpsichord"
+      },
+      {
+        "workName": "Sonata in B minor, BWV 1030",
+        "workYear": "",
+        "workComposer": "johannSebastianBach",
+        "workInstrumentation": "for flute and harpsichord"
+      },
+      {
+        "workName": "Sonata in F major, Op. 2, No. 4",
+        "workYear": "",
+        "workComposer": "georgFridericHandel",
+        "workInstrumentation": "for flute, oboe, and basso continuo"
+      },
+      {
+        "workName": "Sonata in C minor, RV 53",
+        "workYear": "",
+        "workComposer": "antonioVivaldi",
+        "workInstrumentation": "for oboe and basso continuo"
+      },
+      {
+        "workName": "Selected Arias",
+        "workYear": "",
+        "workComposer": "johannSebastianBach",
+        "workInstrumentation": "for tenor, with flute and oboe obbligato, and basso continuo"
+      }
+    ],
+    "musicians": [
+      "nicholasPhan",
+      "markCarlson",
+      "leslieReed",
+      "davidSpeltz",
+      "patriciaMabee"
+    ]
+  }
+}

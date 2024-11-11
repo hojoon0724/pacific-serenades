@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "dwayne",
-    "milburn"
-  ],
-  "firstName": "dwayne",
-  "lastName": "milburn",
-  "born": "1963",
-  "died": "",
-  "photo": "/photos/dwayneMilburn.jpg",
-  "bio": "<p>Major Dwayne S. Milburn (b. 1963) is a native of Baltimore, Maryland. In 1986 he graduated from UCLA with a BFA in Music and received a Master of Music in Orchestral Conducting from the Cleveland Institute of Music in 1992. He received his Ph.D. in Music from UCLA in 2009.</p>"
+  "dwayneMilburn": {
+    "id": "dwayneMilburn",
+    "nameArr": [
+      "dwayne",
+      "milburn"
+    ],
+    "firstName": "dwayne",
+    "lastName": "milburn",
+    "born": "1963",
+    "died": "",
+    "website": "",
+    "photo": "/photos/dwayneMilburn.jpg",
+    "bio": "<p>Major Dwayne S. Milburn (b. 1963) is a native of Baltimore, Maryland. In 1986 he graduated from UCLA with a BFA in Music and received a Master of Music in Orchestral Conducting from the Cleveland Institute of Music in 1992. He received his Ph.D. in Music from UCLA in 2009.</p>"
+  }
 }

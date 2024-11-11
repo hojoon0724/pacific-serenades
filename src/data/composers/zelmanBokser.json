@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "zelman",
-    "bokser"
-  ],
-  "firstName": "zelman",
-  "lastName": "bokser",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "zelmanBokser": {
+    "id": "zelmanBokser",
+    "nameArr": [
+      "zelman",
+      "bokser"
+    ],
+    "firstName": "zelman",
+    "lastName": "bokser",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

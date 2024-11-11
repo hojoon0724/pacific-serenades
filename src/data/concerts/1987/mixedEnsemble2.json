@@ -1,0 +1,48 @@
+{
+  "mixedEnsemble2": {
+    "id": "mixedEnsemble2",
+    "year": "1987",
+    "concertTitle": "Mixed Ensemble",
+    "dates": [
+      {
+        "date": "1987-01-21T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
+      },
+      {
+        "date": "1987-01-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Piano Trio No. 1 in D minor, Op. 49",
+        "workYear": "1839",
+        "workComposer": "felixMendelssohn",
+        "workInstrumentation": "for violin, cello, and piano"
+      },
+      {
+        "workName": "Contrasts",
+        "workYear": "1938",
+        "workComposer": "belaBartok",
+        "workInstrumentation": "for clarinet, violin, piano"
+      },
+      {
+        "workName": "Serenade No.2: Paintings",
+        "workYear": "1986",
+        "workComposer": "rogerBourland",
+        "workInstrumentation": "for flute, clarinet, violin, cello, piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "peterMarsh",
+      "stevenErdody",
+      "deloresStevens"
+    ]
+  }
+}

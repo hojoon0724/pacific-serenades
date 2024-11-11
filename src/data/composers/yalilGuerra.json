@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "yalil",
-    "guerra"
-  ],
-  "firstName": "yalil",
-  "lastName": "guerra",
-  "born": "1973",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "yalilGuerra": {
+    "id": "yalilGuerra",
+    "nameArr": [
+      "yalil",
+      "guerra"
+    ],
+    "firstName": "yalil",
+    "lastName": "guerra",
+    "born": "1973",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

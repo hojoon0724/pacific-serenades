@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "melanie",
-    "sparks"
-  ],
-  "firstName": "melanie",
-  "lastName": "sparks",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "melanieSparks": {
+    "id": "melanieSparks",
+    "nameArr": [
+      "melanie",
+      "sparks"
+    ],
+    "firstName": "melanie",
+    "lastName": "sparks",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

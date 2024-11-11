@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "johann",
-    "krebs"
-  ],
-  "firstName": "johann",
-  "lastName": "krebs",
-  "born": "1713",
-  "died": "1780",
-  "photo": "",
-  "bio": ""
+  "johannKrebs": {
+    "id": "johannKrebs",
+    "nameArr": [
+      "johann",
+      "krebs"
+    ],
+    "firstName": "johann",
+    "lastName": "krebs",
+    "born": "1713",
+    "died": "1780",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

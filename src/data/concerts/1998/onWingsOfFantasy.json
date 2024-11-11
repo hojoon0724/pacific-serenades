@@ -1,0 +1,51 @@
+{
+  "onWingsOfFantasy": {
+    "id": "onWingsOfFantasy",
+    "year": "1998",
+    "concertTitle": "On Wings of Fantasy",
+    "dates": [
+      {
+        "date": "1998-04-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "1998-04-19T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata for cello and piano in C major",
+        "workYear": "",
+        "workComposer": "luigiBoccherini",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "Sonata for Cello and Piano",
+        "workYear": "1998",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "Fantasiestücke, Op. 73",
+        "workYear": "1849",
+        "workComposer": "robertSchumann",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "Sonata for cello and piano, Op. 40",
+        "workYear": "1940",
+        "workComposer": "dmitriShostakovich",
+        "workInstrumentation": "for cello and piano"
+      }
+    ],
+    "musicians": [
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

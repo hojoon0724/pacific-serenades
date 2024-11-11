@@ -1,9 +1,16 @@
 {
-  "nameArr": ["bruce", "babcock"],
-  "firstName": "bruce",
-  "lastName": "babcock",
-  "born": "1951",
-  "died": "",
-  "photo": "/photos/bruceBabcock.jpg",
-  "bio": ""
+  "bruceBabcock": {
+    "id": "bruceBabcock",
+    "nameArr": [
+      "bruce",
+      "babcock"
+    ],
+    "firstName": "bruce",
+    "lastName": "babcock",
+    "born": "1951",
+    "died": "",
+    "website": "",
+    "photo": "/photos/bruceBabcock.jpg",
+    "bio": ""
+  }
 }

@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "theodore",
-    "norman"
-  ],
-  "firstName": "theodore",
-  "lastName": "norman",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "theodoreNorman": {
+    "id": "theodoreNorman",
+    "nameArr": [
+      "theodore",
+      "norman"
+    ],
+    "firstName": "theodore",
+    "lastName": "norman",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

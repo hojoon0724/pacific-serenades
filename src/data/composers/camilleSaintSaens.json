@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "camille",
-    "saint-saens"
-  ],
-  "firstName": "camille",
-  "lastName": "saint-saens",
-  "born": "1835",
-  "died": "1921",
-  "photo": "",
-  "bio": ""
+  "camilleSaintSaens": {
+    "id": "camilleSaintSaens",
+    "nameArr": [
+      "camille",
+      "saint-saens"
+    ],
+    "firstName": "camille",
+    "lastName": "saint-saens",
+    "born": "1835",
+    "died": "1921",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

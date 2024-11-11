@@ -1,0 +1,53 @@
+{
+  "februaryConcert1994": {
+    "id": "februaryConcert1994",
+    "year": "1994",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1994-02-20T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1994-02-20T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Suite No. 2 in D minor, BWV 1008",
+        "workYear": "1721",
+        "workComposer": "johannSebastianBach",
+        "workInstrumentation": "for solo cello"
+      },
+      {
+        "workName": "First Sonata for flute and piano",
+        "workYear": "1951",
+        "workComposer": "bohuslavMartinu",
+        "workInstrumentation": "for flute and piano"
+      },
+      {
+        "workName": "Trio in B flat major, Op. 11",
+        "workYear": "1798",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for clarinet, cello, and piano"
+      },
+      {
+        "workName": "Quartet",
+        "workYear": "1994",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for flute, clarinet/bass clarinet, cello, and piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

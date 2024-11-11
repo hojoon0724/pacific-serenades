@@ -1,9 +1,16 @@
 {
-  "nameArr": ["russell", "steinberg"],
-  "firstName": "russell",
-  "lastName": "steinberg",
-  "born": "1959",
-  "died": "",
-  "photo": "/photos/russellsteinberg.jpg",
-  "bio": ""
+  "russellSteinberg": {
+    "id": "russellSteinberg",
+    "nameArr": [
+      "russell",
+      "steinberg"
+    ],
+    "firstName": "russell",
+    "lastName": "steinberg",
+    "born": "1959",
+    "died": "",
+    "website": "",
+    "photo": "/photos/russellsteinberg.jpg",
+    "bio": ""
+  }
 }

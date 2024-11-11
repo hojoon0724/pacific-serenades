@@ -1,18 +1,22 @@
 {
-  "nameArr": [
-    "anonymous",
-    "(from",
-    "a",
-    "publication",
-    "by",
-    "antonio",
-    "gardane,",
-    "1551)"
-  ],
-  "firstName": "anonymous (from a publication by antonio gardane,",
-  "lastName": "1551)",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "anonymousAntonioGardane": {
+    "id": "anonymousAntonioGardane",
+    "nameArr": [
+      "anonymous",
+      "(from",
+      "a",
+      "publication",
+      "by",
+      "antonio",
+      "gardane,",
+      "1551)"
+    ],
+    "firstName": "anonymous (from a publication by antonio gardane,",
+    "lastName": "1551)",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

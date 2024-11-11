@@ -1,9 +1,16 @@
 {
-  "nameArr": ["münir", "beken"],
-  "firstName": "münir",
-  "lastName": "beken",
-  "born": "",
-  "died": "",
-  "photo": "/photos/munirBeken.jpg",
-  "bio": ""
+  "munirBeken": {
+    "id": "munirBeken",
+    "nameArr": [
+      "münir",
+      "beken"
+    ],
+    "firstName": "münir",
+    "lastName": "beken",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/munirBeken.jpg",
+    "bio": ""
+  }
 }

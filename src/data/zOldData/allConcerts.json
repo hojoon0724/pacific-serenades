@@ -3,19 +3,22 @@
     "concertTitle": "25/99",
     "dates": [
       {
-        "day": "2011-01-30T04:00:00.000Z",
+        "date": "2011-01-30T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Edwin & Leilani Raquel in Fremont Place"
+        "venue": "Home of Edwin & Leilani Raquel in Fremont Place",
+        "venueId": "edwinAndLeilaniRaquelHome"
       },
       {
-        "day": "2011-01-31T00:00:00.000Z",
+        "date": "2011-01-31T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2011-02-09T04:00:00.000Z",
+        "date": "2011-02-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -56,19 +59,22 @@
     "concertTitle": "25/100",
     "dates": [
       {
-        "day": "2011-03-13T04:00:00.000Z",
+        "date": "2011-03-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Bonnie MacBird and Alan Kay in Brentwood"
+        "venue": "Home of Bonnie MacBird & Alan Kay in Brentwood",
+        "venueId": "bonnieMacBirdAndAlanKayHome"
       },
       {
-        "day": "2011-03-13T23:00:00.000Z",
+        "date": "2011-03-13T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2011-03-16T03:00:00.000Z",
+        "date": "2011-03-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -103,19 +109,22 @@
     "concertTitle": "25/101",
     "dates": [
       {
-        "day": "2011-04-30T23:00:00.000Z",
+        "date": "2011-04-30T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Ronna Binn-Hersh and Louis R. Hersh"
+        "venue": "Home of Ronna Binn-Hersh and Louis R. Hersh",
+        "venueId": "ronnaAndLouisHershHome"
       },
       {
-        "day": "2011-05-01T23:00:00.000Z",
+        "date": "2011-05-01T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2011-05-04T03:00:00.000Z",
+        "date": "2011-05-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -143,19 +152,22 @@
     "concertTitle": "25/102",
     "dates": [
       {
-        "day": "2011-06-04T23:00:00.000Z",
+        "date": "2011-06-04T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Ellen & Harvey Knell (The Blacker House) in Pasadena"
+        "venue": "Home of Ellen & Harvey Knell (The Blacker House) in Pasadena",
+        "venueId": "ellenAndHarveyKnellHome"
       },
       {
-        "day": "2011-06-05T23:00:00.000Z",
+        "date": "2011-06-05T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2011-06-08T03:00:00.000Z",
+        "date": "2011-06-08T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -189,19 +201,22 @@
     "concertTitle": "A Cascade of Gemstones",
     "dates": [
       {
-        "day": "2001-06-22T03:00:00.000Z",
+        "date": "2001-06-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2001-06-03T23:00:00.000Z",
+        "date": "2001-06-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2001-06-06T03:00:00.000Z",
+        "date": "2001-06-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -236,19 +251,22 @@
     "concertTitle": "A glistening fountain of sounds",
     "dates": [
       {
-        "day": "2003-05-18T03:00:00.000Z",
+        "date": "2003-05-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Elyse & Stanley Grinstein in Brentwood"
+        "venue": "Home of Elyse & Stanley Grinstein in Brentwood",
+        "venueId": "elyseAndStanleyGrinsteinHome"
       },
       {
-        "day": "2003-05-18T23:00:00.000Z",
+        "date": "2003-05-18T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2003-05-21T03:00:00.000Z",
+        "date": "2003-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -277,19 +295,22 @@
     "concertTitle": "A portal from here to then",
     "dates": [
       {
-        "day": "2006-03-26T04:00:00.000Z",
+        "date": "2006-03-26T04:00:00.000Z",
         "time": "20:00",
-        "venue": "NEW LOCATION-at the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2006-03-27T00:00:00.000Z",
+        "date": "2006-03-27T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2006-03-29T04:00:00.000Z",
+        "date": "2006-03-29T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -324,9 +345,10 @@
     "concertTitle": "A Potpourri/PacSer, the Next Generation",
     "dates": [
       {
-        "day": "2015-06-11T03:00:00.000Z",
+        "date": "2015-06-11T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood City Council Chambers"
+        "venue": "The West Hollywood City Council Chambers",
+        "venueId": "westHollywoodCityCouncilChambers"
       }
     ],
     "program": [
@@ -373,19 +395,22 @@
     "concertTitle": "a quilt of many lands",
     "dates": [
       {
-        "day": "2002-03-10T04:00:00.000Z",
+        "date": "2002-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Ralph & Norma Wolfstein in Los Feliz"
+        "venue": "Home of Ralph & Norma Wolfstein in Los Feliz",
+        "venueId": "ralphAndNormaWolfsteinHome"
       },
       {
-        "day": "2002-03-11T00:00:00.000Z",
+        "date": "2002-03-11T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2002-03-13T04:00:00.000Z",
+        "date": "2002-03-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -426,19 +451,22 @@
     "concertTitle": "A Romance with Rhapsody",
     "dates": [
       {
-        "day": "1999-01-31T04:00:00.000Z",
+        "date": "1999-01-31T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "1999-02-01T00:00:00.000Z",
+        "date": "1999-02-01T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "1999-02-03T04:00:00.000Z",
+        "date": "1999-02-03T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -473,19 +501,22 @@
     "concertTitle": "A Sensory Celebration",
     "dates": [
       {
-        "day": "1998-02-08T04:00:00.000Z",
+        "date": "1998-02-08T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1998-02-08T22:00:00.000Z",
+        "date": "1998-02-08T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1998-02-11T03:20:00.000Z",
+        "date": "1998-02-11T03:20:00.000Z",
         "time": "19:20",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -514,14 +545,16 @@
     "concertTitle": "A Song Recital",
     "dates": [
       {
-        "day": "1987-07-22T03:00:00.000Z",
+        "date": "1987-07-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Harvey S. Perloff in Westwood"
+        "venue": "Home of Mrs. Harvey S. Perloff in Westwood",
+        "venueId": "mrsHarveyPerloffHome"
       },
       {
-        "day": "1987-07-23T03:00:00.000Z",
+        "date": "1987-07-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Morgan-Wixson Theater"
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
       }
     ],
     "program": [
@@ -562,9 +595,10 @@
     "concertTitle": "Aloud & Proud: chamber music by lesbian and gay composers",
     "dates": [
       {
-        "day": "2012-06-02T03:00:00.000Z",
+        "date": "2012-06-02T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood Library"
+        "venue": "The West Hollywood Library",
+        "venueId": "westHollywoodLibrary"
       }
     ],
     "program": [
@@ -593,19 +627,28 @@
     "concertTitle": "An Aural Kaleidoscope",
     "dates": [
       {
-        "day": "1999-03-07T04:00:00.000Z",
+        "date": "1999-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Aleen Leslie in Beverly Hills"
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
       },
       {
-        "day": "1999-03-08T00:00:00.000Z",
+        "date": "1999-03-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1999-03-08T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "1999-03-10T04:00:00.000Z",
+        "date": "1999-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -634,19 +677,22 @@
     "concertTitle": "An Intoxicating Bouquet",
     "dates": [
       {
-        "day": "2001-02-11T04:00:00.000Z",
+        "date": "2001-02-11T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein in Los Angeles"
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
       },
       {
-        "day": "2001-02-12T00:00:00.000Z",
+        "date": "2001-02-12T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2001-02-23T04:00:00.000Z",
+        "date": "2001-02-23T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -675,14 +721,16 @@
     "concertTitle": "April Concert",
     "dates": [
       {
-        "day": "1989-04-13T03:00:00.000Z",
+        "date": "1989-04-13T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Ted Tanaka & Diana Ho in Venice"
+        "venue": "Home of Ted Tanaka & Diana Ho in Venice",
+        "venueId": "tedTanakaAndDianaHoHome"
       },
       {
-        "day": "1989-04-12T03:00:00.000Z",
+        "date": "1989-04-12T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -717,14 +765,16 @@
     "concertTitle": "April Concert",
     "dates": [
       {
-        "day": "1990-04-04T03:00:00.000Z",
+        "date": "1990-04-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks"
+        "venue": "Home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
       },
       {
-        "day": "1990-04-05T03:00:00.000Z",
+        "date": "1990-04-05T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -753,14 +803,16 @@
     "concertTitle": "April Concert",
     "dates": [
       {
-        "day": "1991-02-03T04:00:00.000Z",
+        "date": "1991-02-03T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks"
+        "venue": "Home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
       },
       {
-        "day": "1991-02-03T22:00:00.000Z",
+        "date": "1991-02-03T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -789,14 +841,16 @@
     "concertTitle": "April Concert",
     "dates": [
       {
-        "day": "1992-04-26T03:00:00.000Z",
+        "date": "1992-04-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1992-04-26T21:00:00.000Z",
+        "date": "1992-04-26T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -825,14 +879,22 @@
     "concertTitle": "April Concert",
     "dates": [
       {
-        "day": "1993-04-18T03:00:00.000Z",
+        "date": "1993-04-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein"
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
       },
       {
-        "day": "1993-04-18T21:00:00.000Z",
+        "date": "1993-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1993-04-18T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -861,14 +923,16 @@
     "concertTitle": "April Concert",
     "dates": [
       {
-        "day": "1994-05-01T03:00:00.000Z",
+        "date": "1994-05-01T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Barbara & John McLoughlin"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "barbaraAndJohnMcLoughlinHome"
       },
       {
-        "day": "1994-05-01T21:00:00.000Z",
+        "date": "1994-05-01T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -897,19 +961,22 @@
     "concertTitle": "Aria in Woods and Metals",
     "dates": [
       {
-        "day": "2000-04-16T03:00:00.000Z",
+        "date": "2000-04-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2000-04-16T23:00:00.000Z",
+        "date": "2000-04-16T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2000-04-26T03:00:00.000Z",
+        "date": "2000-04-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -938,14 +1005,16 @@
     "concertTitle": "Baroque visions and contemporary reflections",
     "dates": [
       {
-        "day": "1995-05-21T03:00:00.000Z",
+        "date": "1995-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Storyopolis in Beverly Hills"
+        "venue": "Storyopolis in Beverly Hills",
+        "venueId": "storyopolisBeverlyHills"
       },
       {
-        "day": "1995-05-21T21:00:00.000Z",
+        "date": "1995-05-21T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -986,19 +1055,22 @@
     "concertTitle": "Batik",
     "dates": [
       {
-        "day": "2010-04-24T23:00:00.000Z",
+        "date": "2010-04-24T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Edwin & Leilani Raquel in Fremont Place"
+        "venue": "Home of Edwin & Leilani Raquel in Fremont Place",
+        "venueId": "edwinAndLeilaniRaquelHome"
       },
       {
-        "day": "2010-04-25T23:00:00.000Z",
+        "date": "2010-04-25T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2010-04-28T03:00:00.000Z",
+        "date": "2010-04-28T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1027,19 +1099,22 @@
     "concertTitle": "Blue waves, snowy peaks",
     "dates": [
       {
-        "day": "2004-04-25T03:00:00.000Z",
+        "date": "2004-04-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2004-04-25T23:00:00.000Z",
+        "date": "2004-04-25T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2004-04-28T03:00:00.000Z",
+        "date": "2004-04-28T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1074,18 +1149,22 @@
     "concertTitle": "Bridging Worlds with Song",
     "dates": [
       {
-        "day": "2000-02-06T04:00:00.000Z",
+        "date": "2000-02-06T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "2000-02-07T00:00:00.000Z",
+        "date": "2000-02-06T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "2000-02-07T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
-      },
-      {
-        "day": "2000-02-09T04:00:00.000Z",
-        "time": "20:00"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       }
     ],
     "program": [
@@ -1113,9 +1192,10 @@
     "concertTitle": "Carnegie Hall Recital",
     "dates": [
       {
-        "day": "1994-09-24T09:00:03.000Z",
+        "date": "1994-09-24T09:00:03.000Z",
         "time": "2::3",
-        "venue": "Weill Recital Hall"
+        "venue": "Weill Recital Hall",
+        "venueId": "weillRecitalHall"
       }
     ],
     "program": [
@@ -1150,9 +1230,10 @@
     "concertTitle": "Chamber Music at UCLA Presents Encounters with Pacific Serenades",
     "dates": [
       {
-        "day": "2006-05-24T03:00:00.000Z",
+        "date": "2006-05-24T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Schoenberg Auditorium"
+        "venue": "Schoenberg Auditorium",
+        "venueId": "schoenbergAuditorium"
       }
     ],
     "program": [
@@ -1187,19 +1268,22 @@
     "concertTitle": "Circle of blue",
     "dates": [
       {
-        "day": "2009-05-02T23:00:00.000Z",
+        "date": "2009-05-02T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Susan Key & Michael Pratt in Brentwood"
+        "venue": "Home of Susan Key & Michael Pratt in Brentwood",
+        "venueId": "susanKeyAndMichaelPrattHome"
       },
       {
-        "day": "2009-05-03T23:00:00.000Z",
+        "date": "2009-05-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2009-05-06T03:00:00.000Z",
+        "date": "2009-05-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1228,14 +1312,16 @@
     "concertTitle": "Clarinet Quintet",
     "dates": [
       {
-        "day": "1988-03-25T04:00:00.000Z",
+        "date": "1988-03-25T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Dr. & Mrs. Mohammed Gharavi"
+        "venue": "Home of Dr. & Mrs. Mohammed Gharavi",
+        "venueId": "drAndMrsMohammedGharaviHome"
       },
       {
-        "day": "1988-03-24T04:00:00.000Z",
+        "date": "1988-03-24T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -1264,9 +1350,10 @@
     "concertTitle": "Concert II",
     "dates": [
       {
-        "day": "1986-06-29T22:00:00.000Z",
+        "date": "1986-06-29T22:00:00.000Z",
         "time": "15:00",
-        "venue": "Morgan-Wixson Theater"
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
       }
     ],
     "program": [
@@ -1295,19 +1382,22 @@
     "concertTitle": "Cross-pollination",
     "dates": [
       {
-        "day": "2012-03-04T04:00:00.000Z",
+        "date": "2012-03-04T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Gloria Putnam & Stephen Rudicel (The Zane Grey House) in Altadena"
+        "venue": "Home of Gloria Putnam & Stephen Rudicel (The Zane Grey House) in Altadena",
+        "venueId": "gloriaPutnamAndStephenRudicelHome"
       },
       {
-        "day": "2012-03-05T00:00:00.000Z",
+        "date": "2012-03-05T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2012-03-14T03:00:00.000Z",
+        "date": "2012-03-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1336,19 +1426,22 @@
     "concertTitle": "Currents",
     "dates": [
       {
-        "day": "2013-06-01T23:00:00.000Z",
+        "date": "2013-06-01T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Bonnie MacBird & Alan Kay in Brentwood"
+        "venue": "Home of Bonnie MacBird & Alan Kay in Brentwood",
+        "venueId": "MacBird & bonnieMacBirdAndAlanKayHome"
       },
       {
-        "day": "2013-06-02T23:00:00.000Z",
+        "date": "2013-06-02T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2013-06-05T03:00:00.000Z",
+        "date": "2013-06-05T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1381,19 +1474,22 @@
     "concertTitle": "Dark woods and gleaming cities",
     "dates": [
       {
-        "day": "2008-04-26T23:00:00.000Z",
+        "date": "2008-04-26T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana"
+        "venue": "Home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana",
+        "venueId": "ronnaAndLouisHershHome"
       },
       {
-        "day": "2008-04-27T23:00:00.000Z",
+        "date": "2008-04-27T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2008-04-30T03:00:00.000Z",
+        "date": "2008-04-30T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1428,19 +1524,22 @@
     "concertTitle": "Enchantment & Elegance",
     "dates": [
       {
-        "day": "1997-03-09T04:00:00.000Z",
+        "date": "1997-03-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Robert & Ruth Peck in Pasadena (The Cordelia Culbertson House)"
+        "venue": "Home of Robert & Ruth Peck in Pasadena (The Cordelia Culbertson House)",
+        "venueId": "robertAndRuthPeckHome"
       },
       {
-        "day": "1997-03-10T00:00:00.000Z",
+        "date": "1997-03-10T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1997-03-12T04:00:00.000Z",
+        "date": "1997-03-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1475,19 +1574,22 @@
     "concertTitle": "Enfolded in velvet",
     "dates": [
       {
-        "day": "2003-03-09T04:00:00.000Z",
+        "date": "2003-03-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Alice & Joe Coulombe in Pasadena"
+        "venue": "Home of Alice & Joe Coulombe in Pasadena",
+        "venueId": "aliceAndJoeCoulombeHome"
       },
       {
-        "day": "2003-03-10T00:00:00.000Z",
+        "date": "2003-03-10T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2003-03-12T04:00:00.000Z",
+        "date": "2003-03-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1522,19 +1624,22 @@
     "concertTitle": "Entwining Branches",
     "dates": [
       {
-        "day": "2001-03-18T04:00:00.000Z",
+        "date": "2001-03-18T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Anne Keeler in Pacific Palisades"
+        "venue": "Home of Anne Keeler in Pacific Palisades",
+        "venueId": "anneKeelerHome"
       },
       {
-        "day": "2001-03-19T00:00:00.000Z",
+        "date": "2001-03-19T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2001-03-21T04:00:00.000Z",
+        "date": "2001-03-21T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1563,14 +1668,22 @@
     "concertTitle": "February Concert",
     "dates": [
       {
-        "day": "1990-02-28T04:00:00.000Z",
+        "date": "1990-02-28T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mark & Lynn Schiffmacher in Sherman Oaks"
+        "venue": "Home of Mark & Lynn Schiffmacher in Sherman Oaks",
+        "venueId": "markAndLynnSchiffmacherHome"
       },
       {
-        "day": "1990-03-01T04:00:00.000Z",
+        "date": "1990-03-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Clark Library"
+        "venue": "Clark Library",
+        "venueId": "westHollywoodLibrary"
+      },
+      {
+        "date": "1990-03-01T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Clark Library",
+        "venueId": "clarkLibrary"
       }
     ],
     "program": [
@@ -1611,14 +1724,22 @@
     "concertTitle": "February Concert",
     "dates": [
       {
-        "day": "1991-05-19T03:00:00.000Z",
+        "date": "1991-05-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein"
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
       },
       {
-        "day": "1991-05-19T21:00:00.000Z",
+        "date": "1991-05-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1991-05-19T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -1646,14 +1767,22 @@
     "concertTitle": "February Concert",
     "dates": [
       {
-        "day": "1992-02-02T04:00:00.000Z",
+        "date": "1992-02-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein"
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
       },
       {
-        "day": "1992-02-02T22:00:00.000Z",
+        "date": "1992-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1992-02-02T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -1682,14 +1811,16 @@
     "concertTitle": "February Concert",
     "dates": [
       {
-        "day": "1993-02-14T04:00:00.000Z",
+        "date": "1993-02-14T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1993-02-14T22:00:00.000Z",
+        "date": "1993-02-14T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -1718,14 +1849,16 @@
     "concertTitle": "February Concert",
     "dates": [
       {
-        "day": "1994-02-20T04:00:00.000Z",
+        "date": "1994-02-20T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1994-02-20T22:00:00.000Z",
+        "date": "1994-02-20T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -1756,28 +1889,26 @@
     ],
     "musicians": ["markCarlson", "garyGray", "davidSpeltz", "aykeAgus"]
   },
-  "feed": {
-    "dates": [],
-    "program": [],
-    "musicians": []
-  },
   "fromSageFilledCanyonsAndVerdantRivers": {
     "concertTitle": "From sage-filled canyons and verdant rivers",
     "dates": [
       {
-        "day": "2004-03-07T04:00:00.000Z",
+        "date": "2004-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "2004-03-08T00:00:00.000Z",
+        "date": "2004-03-08T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2004-03-17T04:00:00.000Z",
+        "date": "2004-03-17T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1812,19 +1943,22 @@
     "concertTitle": "From the depths of soul",
     "dates": [
       {
-        "day": "1996-02-04T04:00:00.000Z",
+        "date": "1996-02-04T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David Speltz & Connie Kupka on Mt. Washington"
+        "venue": "Home of David Speltz & Connie Kupka on Mt. Washington",
+        "venueId": "davidSpeltzAndConnieKupkaHome"
       },
       {
-        "day": "1996-02-04T22:00:00.000Z",
+        "date": "1996-02-04T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1996-02-12T00:00:00.000Z",
+        "date": "1996-02-12T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1853,19 +1987,22 @@
     "concertTitle": "From the lyric soul",
     "dates": [
       {
-        "day": "2003-04-13T03:00:00.000Z",
+        "date": "2003-04-13T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2003-04-13T23:00:00.000Z",
+        "date": "2003-04-13T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2003-04-23T03:00:00.000Z",
+        "date": "2003-04-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1906,19 +2043,28 @@
     "concertTitle": "Grafts & Hybrids",
     "dates": [
       {
-        "day": "2012-05-19T23:00:00.000Z",
+        "date": "2012-05-19T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Kimberly Rose & Michael Shannon in La Cañada"
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
-        "day": "2012-05-20T23:00:00.000Z",
+        "date": "2012-05-19T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
-        "day": "2012-05-30T03:00:00.000Z",
+        "date": "2012-05-20T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2012-05-30T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1947,19 +2093,22 @@
     "concertTitle": "Hauntings, Joy, and Triumph",
     "dates": [
       {
-        "day": "1999-05-23T03:00:00.000Z",
+        "date": "1999-05-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "1999-05-23T23:00:00.000Z",
+        "date": "1999-05-23T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "1999-06-02T03:00:00.000Z",
+        "date": "1999-06-02T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -1988,19 +2137,22 @@
     "concertTitle": "High Tide",
     "dates": [
       {
-        "day": "2013-03-17T03:00:00.000Z",
+        "date": "2013-03-17T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The home of Ronna Binn-Hersh & Louis R Hersh"
+        "venue": "Home of Ronna Binn-Hersh and Louis R. Hersh in Tarzana",
+        "venueId": "ronnaBinnHershHome"
       },
       {
-        "day": "2013-03-17T23:00:00.000Z",
+        "date": "2013-03-17T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2013-03-20T03:00:00.000Z",
+        "date": "2013-03-20T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2028,19 +2180,28 @@
     "concertTitle": "Intersections",
     "dates": [
       {
-        "day": "2006-04-30T03:00:00.000Z",
+        "date": "2006-04-30T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ronna Binn in Tarzana"
+        "venue": "Home of Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "2006-04-30T23:00:00.000Z",
+        "date": "2006-04-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Ronna Binn in Tarzana",
+        "venueId": "ronnaBinnHomeTarzana"
+      },
+      {
+        "date": "2006-04-30T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2006-05-03T03:00:00.000Z",
+        "date": "2006-05-03T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2069,14 +2230,16 @@
     "concertTitle": "January Concert",
     "dates": [
       {
-        "day": "1989-01-26T04:00:00.000Z",
+        "date": "1989-01-26T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Helene & David Rottapel in Sherman Oaks"
+        "venue": "Home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
       },
       {
-        "day": "1989-01-27T04:00:00.000Z",
+        "date": "1989-01-27T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2111,14 +2274,22 @@
     "concertTitle": "January Concert",
     "dates": [
       {
-        "day": "1990-01-24T04:00:00.000Z",
+        "date": "1990-01-24T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mr. & Mrs. Dirk Zimmerman in Beverly Hills"
+        "venue": "Home of Dirk & Susan Zimmerman in Beverly Hills",
+        "venueId": "dirkAndSusanZimmermanHome"
       },
       {
-        "day": "1990-01-26T04:00:00.000Z",
+        "date": "1990-01-26T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Clark Library"
+        "venue": "Clark Library",
+        "venueId": "westHollywoodLibrary"
+      },
+      {
+        "date": "1990-01-26T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Clark Library",
+        "venueId": "clarkLibrary"
       }
     ],
     "program": [
@@ -2147,14 +2318,22 @@
     "concertTitle": "January Concert",
     "dates": [
       {
-        "day": "1994-01-23T04:00:00.000Z",
+        "date": "1994-01-23T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein"
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
       },
       {
-        "day": "1994-01-23T22:00:00.000Z",
+        "date": "1994-01-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1994-01-23T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2182,19 +2361,22 @@
     "concertTitle": "Like a warm zephyr",
     "dates": [
       {
-        "day": "2004-06-06T03:00:00.000Z",
+        "date": "2004-06-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Elyse & Stanley Grinstein in Brentwood"
+        "venue": "Home of Elyse & Stanley Grinstein in Brentwood",
+        "venueId": "elyseAndStanleyGrinsteinHome"
       },
       {
-        "day": "2004-06-06T23:00:00.000Z",
+        "date": "2004-06-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2004-06-09T03:40:00.000Z",
+        "date": "2004-06-09T03:40:00.000Z",
         "time": "20:40",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2223,19 +2405,22 @@
     "concertTitle": "Luminous Refractions of Soul",
     "dates": [
       {
-        "day": "2000-05-21T03:00:00.000Z",
+        "date": "2000-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Anne Keeler in Pacific Palisades"
+        "venue": "Home of Anne Keeler in Pacific Palisades",
+        "venueId": "anneKeelerHome"
       },
       {
-        "day": "2000-05-21T23:00:00.000Z",
+        "date": "2000-05-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2000-05-31T03:00:00.000Z",
+        "date": "2000-05-31T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2264,14 +2449,16 @@
     "concertTitle": "March Concert",
     "dates": [
       {
-        "day": "1989-03-23T04:00:00.000Z",
+        "date": "1989-03-23T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Eugene Holt in Studio City"
+        "venue": "Home of Eugene Holt in Studio City",
+        "venueId": "eugeneHoltHome"
       },
       {
-        "day": "1989-03-22T04:00:00.000Z",
+        "date": "1989-03-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2300,14 +2487,22 @@
     "concertTitle": "March Concert",
     "dates": [
       {
-        "day": "1991-04-14T03:00:00.000Z",
+        "date": "1991-04-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Aleen Leslie in Beverly Hills"
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
       },
       {
-        "day": "1991-04-14T21:00:00.000Z",
+        "date": "1991-04-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1991-04-14T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2342,14 +2537,16 @@
     "concertTitle": "March Concert",
     "dates": [
       {
-        "day": "1992-03-08T04:00:00.000Z",
+        "date": "1992-03-08T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Dirk & Susan Zimmerman in Beverly Hills"
+        "venue": "Home of Dirk & Susan Zimmerman in Beverly Hills",
+        "venueId": "dirkAndSusanZimmermanHome"
       },
       {
-        "day": "1992-05-08T21:00:00.000Z",
+        "date": "1992-05-08T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2378,14 +2575,16 @@
     "concertTitle": "March Concert",
     "dates": [
       {
-        "day": "1993-03-14T04:00:00.000Z",
+        "date": "1993-03-14T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks"
+        "venue": "Home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
       },
       {
-        "day": "1993-03-14T22:00:00.000Z",
+        "date": "1993-03-14T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2414,14 +2613,22 @@
     "concertTitle": "March Concert",
     "dates": [
       {
-        "day": "1994-03-27T04:00:00.000Z",
+        "date": "1994-03-27T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Aleen Leslie in Beverly Hills"
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
       },
       {
-        "day": "1994-03-27T22:00:00.000Z",
+        "date": "1994-03-27T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1994-03-27T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2450,14 +2657,16 @@
     "concertTitle": "Marimolin",
     "dates": [
       {
-        "day": "1988-02-24T04:00:00.000Z",
+        "date": "1988-02-24T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Stanley & Theodora Cornyn in Sherman Oaks"
+        "venue": "Home of Stanley & Theodora Cornyn in Sherman Oaks",
+        "venueId": "stanleyAndTheodoraCornynHome"
       },
       {
-        "day": "1988-02-25T04:00:00.000Z",
+        "date": "1988-02-25T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2516,19 +2725,22 @@
     "concertTitle": "Mavericks and Magicians",
     "dates": [
       {
-        "day": "2008-03-02T04:00:00.000Z",
+        "date": "2008-03-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2008-03-03T00:00:00.000Z",
+        "date": "2008-03-03T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2008-03-05T04:00:00.000Z",
+        "date": "2008-03-05T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2556,14 +2768,16 @@
     "concertTitle": "May Concert",
     "dates": [
       {
-        "day": "1990-05-09T03:00:00.000Z",
+        "date": "1990-05-09T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mr. & Mrs. Joseph Livio in Westwood"
+        "venue": "Home of Mr. & Mrs. Joseph Livio in Westwood",
+        "venueId": "josephLivioHome"
       },
       {
-        "day": "1990-05-10T03:00:00.000Z",
+        "date": "1990-05-10T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2592,14 +2806,16 @@
     "concertTitle": "May Concert",
     "dates": [
       {
-        "day": "1991-03-10T04:00:00.000Z",
+        "date": "1991-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Bruce & Beverly Gladstone in Sherman Oaks"
+        "venue": "Home of Bruce & Beverly Gladstone in Sherman Oaks",
+        "venueId": "bruceAndBeverlyGladstoneHome"
       },
       {
-        "day": "1991-03-10T22:00:00.000Z",
+        "date": "1991-03-10T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2628,14 +2844,16 @@
     "concertTitle": "May Concert",
     "dates": [
       {
-        "day": "1992-05-31T03:00:00.000Z",
+        "date": "1992-05-31T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Bruce & Beverly Gladstone in Sherman Oaks"
+        "venue": "Home of Bruce & Beverly Gladstone in Sherman Oaks",
+        "venueId": "bruceAndBeverlyGladstoneHome"
       },
       {
-        "day": "1992-05-31T21:00:00.000Z",
+        "date": "1992-05-31T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2670,14 +2888,22 @@
     "concertTitle": "May Concert",
     "dates": [
       {
-        "day": "1993-05-16T03:00:00.000Z",
+        "date": "1993-05-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "1993-05-16T21:00:00.000Z",
+        "date": "1993-05-16T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1993-05-16T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2706,14 +2932,16 @@
     "concertTitle": "Mixed Ensemble",
     "dates": [
       {
-        "day": "1988-01-06T04:00:00.000Z",
+        "date": "1988-01-06T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Helene & David Rottapel in Sherman Oaks"
+        "venue": "Home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
       },
       {
-        "day": "1988-01-07T04:00:00.000Z",
+        "date": "1988-01-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2742,14 +2970,16 @@
     "concertTitle": "Mixed Ensemble",
     "dates": [
       {
-        "day": "1987-01-21T04:00:00.000Z",
+        "date": "1987-01-21T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Helene & David Rottapel in Sherman Oaks"
+        "venue": "Home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
       },
       {
-        "day": "1987-01-22T04:00:00.000Z",
+        "date": "1987-01-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Morgan-Wixson Theater"
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
       }
     ],
     "program": [
@@ -2778,19 +3008,22 @@
     "concertTitle": "Mixed Up World",
     "dates": [
       {
-        "day": "2010-03-07T04:00:00.000Z",
+        "date": "2010-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana"
+        "venue": "Home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana",
+        "venueId": "ronnaAndLouisHershHome"
       },
       {
-        "day": "2010-03-08T00:00:00.000Z",
+        "date": "2010-03-08T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2010-03-10T04:00:00.000Z",
+        "date": "2010-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2824,19 +3057,22 @@
     "concertTitle": "Music among friends",
     "dates": [
       {
-        "day": "2009-03-22T03:00:00.000Z",
+        "date": "2009-03-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana"
+        "venue": "Home of Ronna Binn-Hersh & Louis R. Hersh in Tarzana",
+        "venueId": "ronnaAndLouisHershHome"
       },
       {
-        "day": "2009-03-22T23:00:00.000Z",
+        "date": "2009-03-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2009-03-25T03:00:00.000Z",
+        "date": "2009-03-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2865,19 +3101,22 @@
     "concertTitle": "“Music, when soft voices die, vibrates in the memory.”  -Percy Bysshe Shelley",
     "dates": [
       {
-        "day": "2005-05-22T03:00:00.000Z",
+        "date": "2005-05-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Bonnie MacBird and Alan Kay in Brentwood"
+        "venue": "Home of Bonnie MacBird & Alan Kay in Brentwood",
+        "venueId": "bonnieMacBirdAndAlanKayHome"
       },
       {
-        "day": "2005-05-22T23:00:00.000Z",
+        "date": "2005-05-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2005-05-25T03:00:00.000Z",
+        "date": "2005-05-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2906,14 +3145,22 @@
     "concertTitle": "New Friends, Old Treasures",
     "dates": [
       {
-        "day": "1997-02-16T04:00:00.000Z",
+        "date": "1997-02-16T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "1997-02-16T22:00:00.000Z",
+        "date": "1997-02-16T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1997-02-16T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -2942,19 +3189,22 @@
     "concertTitle": "Ode to imagination",
     "dates": [
       {
-        "day": "2010-06-05T23:00:00.000Z",
+        "date": "2010-06-05T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Barry & Donna Goldfarb in Brentwood"
+        "venue": "Home of Barry & Donna Goldfarb in Brentwood",
+        "venueId": "barryAndDonnaGoldfarbHome"
       },
       {
-        "day": "2010-06-06T23:00:00.000Z",
+        "date": "2010-06-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2010-06-09T03:00:00.000Z",
+        "date": "2010-06-09T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -2982,19 +3232,22 @@
     "concertTitle": "Of golden hills and dark forests",
     "dates": [
       {
-        "day": "2004-02-01T04:00:00.000Z",
+        "date": "2004-02-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Diego Miralles & Michelle Feynman in Altadena"
+        "venue": "Home of Diego Miralles & Michelle Feynman in Altadena",
+        "venueId": "diegoMirallesAndMichelleFeynmanHome"
       },
       {
-        "day": "2004-02-02T00:00:00.000Z",
+        "date": "2004-02-02T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2004-02-11T04:00:00.000Z",
+        "date": "2004-02-11T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3023,9 +3276,10 @@
     "concertTitle": "Old First Concerts presents Pacific Serenades",
     "dates": [
       {
-        "day": "1998-01-11T09:00:04.000Z",
+        "date": "1998-01-11T09:00:04.000Z",
         "time": "1::4",
-        "venue": "Old First Church"
+        "venue": "Old First Church",
+        "venueId": "oldFirstChurch"
       }
     ],
     "program": [
@@ -3054,18 +3308,16 @@
     "concertTitle": "on a loom of light and shadow",
     "dates": [
       {
-        "day": "2002-02-22T04:00:00.000Z",
+        "date": "2002-02-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2002-02-04T00:00:00.000Z",
+        "date": "2002-02-04T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
-      },
-      {
-        "day": "2002-02-13T04:00:00.000Z",
-        "time": "20:00"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       }
     ],
     "program": [
@@ -3094,14 +3346,16 @@
     "concertTitle": "On Wings of Fantasy",
     "dates": [
       {
-        "day": "1998-04-19T03:00:00.000Z",
+        "date": "1998-04-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "1998-04-19T21:00:00.000Z",
+        "date": "1998-04-19T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3136,19 +3390,22 @@
     "concertTitle": "Out of bounds",
     "dates": [
       {
-        "day": "2006-06-04T03:00:00.000Z",
+        "date": "2006-06-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ellen & Harvey Knell in Pasadena (the Blacker House)"
+        "venue": "Home of Ellen & Harvey Knell in Pasadena (the Blacker House)",
+        "venueId": "ellenAndHarveyKnellPasadenaHome"
       },
       {
-        "day": "2006-06-04T23:00:00.000Z",
+        "date": "2006-06-04T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2006-06-07T03:00:00.000Z",
+        "date": "2006-06-07T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3177,14 +3434,16 @@
     "concertTitle": "Passion knows no country",
     "dates": [
       {
-        "day": "1996-04-14T03:00:00.000Z",
+        "date": "1996-04-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1996-04-14T21:00:00.000Z",
+        "date": "1996-04-14T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3213,14 +3472,16 @@
     "concertTitle": "Passion knows no country",
     "dates": [
       {
-        "day": "1995-02-12T04:00:00.000Z",
+        "date": "1995-02-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1995-02-12T22:00:00.000Z",
+        "date": "1995-02-12T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3249,14 +3510,16 @@
     "concertTitle": "Playful, Sparkling, Magical",
     "dates": [
       {
-        "day": "1998-05-17T03:00:00.000Z",
+        "date": "1998-05-17T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "1998-05-17T21:00:00.000Z",
+        "date": "1998-05-17T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3284,19 +3547,22 @@
     "concertTitle": "Radio Waves",
     "dates": [
       {
-        "day": "2013-02-10T04:00:00.000Z",
+        "date": "2013-02-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The home of Michael Schneikert & Karen Otamura in Pasadena"
+        "venue": "Home of Michael Schneikert & Karen Otamura in Pasadena",
+        "venueId": "michaelSchneikertAndKarenOtamuraHome"
       },
       {
-        "day": "2013-02-11T00:00:00.000Z",
+        "date": "2013-02-11T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2013-02-13T04:00:00.000Z",
+        "date": "2013-02-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3331,19 +3597,22 @@
     "concertTitle": "Scattering",
     "dates": [
       {
-        "day": "2012-04-14T23:00:00.000Z",
+        "date": "2012-04-14T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Richard Norton & Stephanie Rasines (The Culbertson Sisters House) in Pasadena"
+        "venue": "Home of Richard Norton & Stephanie Rasines (The Culbertson Sisters House) in Pasadena",
+        "venueId": "richardNortonAndStephanieRasinesHome"
       },
       {
-        "day": "2012-04-15T23:00:00.000Z",
+        "date": "2012-04-15T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2012-04-18T03:00:00.000Z",
+        "date": "2012-04-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3372,19 +3641,22 @@
     "concertTitle": "Secret Pathways, Hidden Treasures",
     "dates": [
       {
-        "day": "2001-04-22T03:00:00.000Z",
+        "date": "2001-04-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "2001-04-22T23:00:00.000Z",
+        "date": "2001-04-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2001-05-02T03:00:00.000Z",
+        "date": "2001-05-02T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3413,14 +3685,22 @@
     "concertTitle": "Sense & Sensuality",
     "dates": [
       {
-        "day": "2014-06-21T23:00:00.000Z",
+        "date": "2014-06-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Kimberly Rose & Michael Shannon in La Cañada"
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
-        "day": "2014-06-26T03:00:00.000Z",
+        "date": "2014-06-21T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
+      },
+      {
+        "date": "2014-06-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood City Council Chambers"
+        "venue": "The West Hollywood City Council Chambers",
+        "venueId": "westHollywoodCityCouncilChambers"
       }
     ],
     "program": [
@@ -3449,14 +3729,16 @@
     "concertTitle": "Smiles of a Summer Day",
     "dates": [
       {
-        "day": "2016-06-26T11:00:00.000Z",
+        "date": "2016-06-26T11:00:00.000Z",
         "time": "4:00",
-        "venue": "The Home of Mark Freund & Trice Koopman in Pacific Palisades"
+        "venue": "Home of Mark Freund & Trice Koopman in Pacific Palisades",
+        "venueId": "markFreundAndTriceKoopmanHome"
       },
       {
-        "day": "2016-06-28T15:00:00.000Z",
+        "date": "2016-06-28T15:00:00.000Z",
         "time": "8:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3485,19 +3767,28 @@
     "concertTitle": "Spanning worlds",
     "dates": [
       {
-        "day": "2006-02-19T04:00:00.000Z",
+        "date": "2006-02-19T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Kimberly Rose & Michael Shannon in La Cañada  NEW LOCATION"
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
-        "day": "2006-02-20T00:00:00.000Z",
+        "date": "2006-02-19T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
+      },
+      {
+        "date": "2006-02-20T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2006-02-22T04:00:00.000Z",
+        "date": "2006-02-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3526,19 +3817,22 @@
     "concertTitle": "spinning a harmonious web",
     "dates": [
       {
-        "day": "2002-04-14T03:00:00.000Z",
+        "date": "2002-04-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "2002-04-14T23:00:00.000Z",
+        "date": "2002-04-14T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2002-04-24T03:00:00.000Z",
+        "date": "2002-04-24T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3567,19 +3861,22 @@
     "concertTitle": "Sublime & Soulful",
     "dates": [
       {
-        "day": "1997-05-18T03:00:00.000Z",
+        "date": "1997-05-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1997-05-18T21:00:00.000Z",
+        "date": "1997-05-18T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1997-05-21T03:00:00.000Z",
+        "date": "1997-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3608,19 +3905,22 @@
     "concertTitle": "“Such harmony is in immortal souls.” -Shakespeare",
     "dates": [
       {
-        "day": "2005-01-09T04:00:00.000Z",
+        "date": "2005-01-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ellene & Harvey Knell in Pasadena (The Blacker House)"
+        "venue": "Home of Ellene & Harvey Knell in Pasadena (The Blacker House)",
+        "venueId": "elleneAndHarveyKnellPasadenaHome"
       },
       {
-        "day": "2005-01-10T00:00:00.000Z",
+        "date": "2005-01-10T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2005-01-12T04:00:00.000Z",
+        "date": "2005-01-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3655,19 +3955,22 @@
     "concertTitle": "Summer Fire, Autumn Embers",
     "dates": [
       {
-        "day": "1998-03-15T04:00:00.000Z",
+        "date": "1998-03-15T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills"
+        "venue": "Home of Mrs. Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
       },
       {
-        "day": "1998-03-15T22:00:00.000Z",
+        "date": "1998-03-15T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1998-03-18T03:30:00.000Z",
+        "date": "1998-03-18T03:30:00.000Z",
         "time": "19:30",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3696,19 +3999,22 @@
     "concertTitle": "“Sweep softly thy strings…” -Walter de la Mare",
     "dates": [
       {
-        "day": "2005-02-13T04:00:00.000Z",
+        "date": "2005-02-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Alice & Joe Coulombe in Pasadena"
+        "venue": "Home of Alice & Joe Coulombe in Pasadena",
+        "venueId": "aliceAndJoeCoulombeHome"
       },
       {
-        "day": "2005-02-14T00:00:00.000Z",
+        "date": "2005-02-14T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2005-02-16T04:00:00.000Z",
+        "date": "2005-02-16T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3742,24 +4048,28 @@
     "concertTitle": "Tendrils",
     "dates": [
       {
-        "day": "2012-01-29T04:00:00.000Z",
+        "date": "2012-01-29T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Trice Koopman & Mark Freund in Pacific Palisades"
+        "venue": "Home of Trice Koopman & Mark Freund in Pacific Palisades",
+        "venueId": "triceKoopmanAndMarkFreundHome"
       },
       {
-        "day": "2012-01-30T00:00:00.000Z",
+        "date": "2012-01-30T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2012-02-01T04:00:00.000Z",
+        "date": "2012-02-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       },
       {
-        "day": "2012-02-02T04:00:00.000Z",
+        "date": "2012-02-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood City Council Chambers"
+        "venue": "The West Hollywood City Council Chambers",
+        "venueId": "westHollywoodCityCouncilChambers"
       }
     ],
     "program": [
@@ -3788,14 +4098,16 @@
     "concertTitle": "The Angeles String Quartet",
     "dates": [
       {
-        "day": "1989-05-25T03:00:00.000Z",
+        "date": "1989-05-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mr. & Mrs. Edward Renwick in Pasadena"
+        "venue": "Home of Mr. & Mrs. Edward Renwick in Pasadena",
+        "venueId": "mrAndMrsEdwardRenwickHome"
       },
       {
-        "day": "1989-05-26T03:00:00.000Z",
+        "date": "1989-05-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3824,14 +4136,22 @@
     "concertTitle": "The Elgart/Yates Guitar Duo",
     "dates": [
       {
-        "day": "1988-05-04T03:00:00.000Z",
+        "date": "1988-05-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie"
+        "venue": "Home of Mrs. Aleen Leslie",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
       },
       {
-        "day": "1988-05-05T03:00:00.000Z",
+        "date": "1988-05-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "Home of Mrs. Aleen Leslie",
+        "venueId": "mrsAleenLeslieHome"
+      },
+      {
+        "date": "1988-05-05T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3902,19 +4222,22 @@
     "concertTitle": "The Garden of Celestial Delights",
     "dates": [
       {
-        "day": "1999-04-18T03:00:00.000Z",
+        "date": "1999-04-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank"
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
       },
       {
-        "day": "1999-04-18T23:00:00.000Z",
+        "date": "1999-04-18T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "1999-04-28T03:00:00.000Z",
+        "date": "1999-04-28T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -3949,14 +4272,16 @@
     "concertTitle": "The Late Romantic and the romantic 20th century",
     "dates": [
       {
-        "day": "1995-04-23T03:00:00.000Z",
+        "date": "1995-04-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "1995-04-23T21:00:00.000Z",
+        "date": "1995-04-23T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -3990,14 +4315,16 @@
     "concertTitle": "The Satori String Quartet",
     "dates": [
       {
-        "day": "1987-05-20T03:00:00.000Z",
+        "date": "1987-05-20T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills"
+        "venue": "Home of Mrs. Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
       },
       {
-        "day": "1987-05-21T03:00:00.000Z",
+        "date": "1987-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Morgan-Wixson Theater"
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
       }
     ],
     "program": [
@@ -4026,19 +4353,22 @@
     "concertTitle": "The soul of chamber music-strings and beyond",
     "dates": [
       {
-        "day": "1995-03-19T04:00:00.000Z",
+        "date": "1995-03-19T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks"
+        "venue": "Home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
       },
       {
-        "day": "1995-03-19T22:00:00.000Z",
+        "date": "1995-03-19T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1995-04-09T21:00:00.000Z",
+        "date": "1995-04-09T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4067,19 +4397,22 @@
     "concertTitle": "The soul of lyricism",
     "dates": [
       {
-        "day": "2008-05-31T23:00:00.000Z",
+        "date": "2008-05-31T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Edwin & Leilani Raquel in Hancock Park"
+        "venue": "Home of Edwin & Leilani Raquel in Hancock Park",
+        "venueId": "edwinAndLeilaniRaquelHancockParkHome"
       },
       {
-        "day": "2008-06-01T23:00:00.000Z",
+        "date": "2008-06-01T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2008-06-04T03:00:00.000Z",
+        "date": "2008-06-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4120,19 +4453,22 @@
     "concertTitle": "The splendor of virtuosity",
     "dates": [
       {
-        "day": "2003-02-02T04:00:00.000Z",
+        "date": "2003-02-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Paul & Martine Verhoeven in Pacific Palisades"
+        "venue": "Home of Paul & Martine Verhoeven in Pacific Palisades",
+        "venueId": "paulAndMartineVerhoevenHome"
       },
       {
-        "day": "2003-02-03T00:00:00.000Z",
+        "date": "2003-02-03T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2003-02-05T04:00:00.000Z",
+        "date": "2003-02-05T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4167,19 +4503,22 @@
     "concertTitle": "The Three B’s…(and a little Messiaen)",
     "dates": [
       {
-        "day": "1997-04-13T03:00:00.000Z",
+        "date": "1997-04-13T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana"
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
       },
       {
-        "day": "1997-04-13T21:00:00.000Z",
+        "date": "1997-04-13T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1997-04-16T03:00:00.000Z",
+        "date": "1997-04-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4214,14 +4553,16 @@
     "concertTitle": "The Ur-Concert",
     "dates": [
       {
-        "day": "1982-03-06T04:00:00.000Z",
+        "date": "1982-03-06T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Lee Burns"
+        "venue": "Home of Lee Burns",
+        "venueId": "leeBurnsHome"
       },
       {
-        "day": "1982-03-07T04:00:00.000Z",
+        "date": "1982-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Lee Burns"
+        "venue": "Home of Lee Burns",
+        "venueId": "leeBurnsHome"
       }
     ],
     "program": [
@@ -4286,9 +4627,10 @@
     "concertTitle": "The Westwood Wind Quintet",
     "dates": [
       {
-        "day": "1987-07-19T03:00:00.000Z",
+        "date": "1987-07-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Jane Welton in Bel-Air"
+        "venue": "Home of Jane Welton in Bel-Air",
+        "venueId": "janeWeltonBelAirHome"
       }
     ],
     "program": [
@@ -4323,19 +4665,22 @@
     "concertTitle": "The world is our community",
     "dates": [
       {
-        "day": "2009-02-08T04:00:00.000Z",
+        "date": "2009-02-08T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Stephen & Sonya Blake in Valley Glen"
+        "venue": "Home of Stephen & Sonya Blake in Valley Glen",
+        "venueId": "stephenAndSonyaBlakeHome"
       },
       {
-        "day": "2009-02-09T00:00:00.000Z",
+        "date": "2009-02-09T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2009-02-11T04:00:00.000Z",
+        "date": "2009-02-11T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4382,19 +4727,22 @@
     "concertTitle": "“There is a magic made by melody…” -Elizabeth Bishop",
     "dates": [
       {
-        "day": "2005-04-03T04:00:00.000Z",
+        "date": "2005-04-03T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2005-04-03T23:00:00.000Z",
+        "date": "2005-04-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2005-04-06T03:00:00.000Z",
+        "date": "2005-04-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4423,19 +4771,22 @@
     "concertTitle": "Three centuries of lyricism",
     "dates": [
       {
-        "day": "1996-04-19T03:00:00.000Z",
+        "date": "1996-04-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein in Los Angeles"
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
       },
       {
-        "day": "1996-04-19T21:00:00.000Z",
+        "date": "1996-04-19T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       },
       {
-        "day": "1996-04-21T03:00:00.000Z",
+        "date": "1996-04-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4469,19 +4820,22 @@
     "concertTitle": "Through Mist and Shadow",
     "dates": [
       {
-        "day": "2000-03-11T23:00:00.000Z",
+        "date": "2000-03-11T23:00:00.000Z",
         "time": "15:00",
-        "venue": "the home of David & Dona Schultz in Pasadena"
+        "venue": "Home of David & Dona Schultz in Pasadena",
+        "venueId": "davidAndDonaSchultzHome"
       },
       {
-        "day": "2000-03-13T03:00:00.000Z",
+        "date": "2000-03-13T03:00:00.000Z",
         "time": "19:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2000-03-22T04:00:00.000Z",
+        "date": "2000-03-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4510,19 +4864,22 @@
     "concertTitle": "To the victims of war, a dedication to life",
     "dates": [
       {
-        "day": "2008-01-27T04:00:00.000Z",
+        "date": "2008-01-27T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Lucy McCoy & Paul Bacigalupo in Encino"
+        "venue": "Home of Lucy McCoy & Paul Bacigalupo in Encino",
+        "venueId": "lucyMcCoyAndPaulBacigalupoHome"
       },
       {
-        "day": "2008-01-28T00:00:00.000Z",
+        "date": "2008-01-28T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2008-01-30T04:00:00.000Z",
+        "date": "2008-01-30T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4551,19 +4908,22 @@
     "concertTitle": "To youth! To wisdom!",
     "dates": [
       {
-        "day": "2010-01-31T04:00:00.000Z",
+        "date": "2010-01-31T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The home of Joanna Brody & Thomas Aujero Small in Culver City"
+        "venue": "Home of Joanna Brody & Thomas Aujero Small in Culver City",
+        "venueId": "joannaBrodyAndThomasAujeroSmallHome"
       },
       {
-        "day": "2010-02-01T00:00:00.000Z",
+        "date": "2010-02-01T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2010-02-10T04:00:00.000Z",
+        "date": "2010-02-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4591,19 +4951,22 @@
     "concertTitle": "Vibrations",
     "dates": [
       {
-        "day": "2013-05-04T23:00:00.000Z",
+        "date": "2013-05-04T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Mark Freund & Trice Koopman in Pacific Palisades"
+        "venue": "Home of Mark Freund & Trice Koopman in Pacific Palisades",
+        "venueId": "markFreundAndTriceKoopmanHome"
       },
       {
-        "day": "2013-05-05T23:00:00.000Z",
+        "date": "2013-05-05T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2013-05-08T03:00:00.000Z",
+        "date": "2013-05-08T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4630,19 +4993,22 @@
     "concertTitle": "We all are mortal",
     "dates": [
       {
-        "day": "2007-06-02T23:00:00.000Z",
+        "date": "2007-06-02T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Barry & Donna Goldfarb in Brentwood"
+        "venue": "Home of Barry & Donna Goldfarb in Brentwood",
+        "venueId": "barryAndDonnaGoldfarbHome"
       },
       {
-        "day": "2007-06-03T23:00:00.000Z",
+        "date": "2007-06-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2007-06-06T03:00:00.000Z",
+        "date": "2007-06-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4671,19 +5037,22 @@
     "concertTitle": "We all breath the same air",
     "dates": [
       {
-        "day": "2007-03-04T04:00:00.000Z",
+        "date": "2007-03-04T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Edwin & Leilani Raquel in Hancock Park"
+        "venue": "Home of Edwin & Leilani Raquel in Hancock Park",
+        "venueId": "edwinAndLeilaniRaquelHancockParkHome"
       },
       {
-        "day": "2007-03-05T00:00:00.000Z",
+        "date": "2007-03-05T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2007-03-07T04:00:00.000Z",
+        "date": "2007-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4711,19 +5080,28 @@
     "concertTitle": "We all cherish our children’s future",
     "dates": [
       {
-        "day": "2007-04-21T23:00:00.000Z",
+        "date": "2007-04-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Kimberly Rose & Michael Shannon in La Cañada"
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
-        "day": "2007-04-22T23:00:00.000Z",
+        "date": "2007-04-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
-        "day": "2007-04-25T03:00:00.000Z",
+        "date": "2007-04-22T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2007-04-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4758,19 +5136,22 @@
     "concertTitle": "We all inhabit this small planet",
     "dates": [
       {
-        "day": "2007-01-28T04:00:00.000Z",
+        "date": "2007-01-28T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2007-01-29T00:00:00.000Z",
+        "date": "2007-01-29T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       },
       {
-        "day": "2007-01-31T04:00:00.000Z",
+        "date": "2007-01-31T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4805,19 +5186,22 @@
     "concertTitle": "weavers of delight",
     "dates": [
       {
-        "day": "2002-05-12T03:00:00.000Z",
+        "date": "2002-05-12T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mary Anderson in Brentwood"
+        "venue": "Home of Mary Anderson in Brentwood",
+        "venueId": "maryAndersonHome"
       },
       {
-        "day": "2002-05-12T23:00:00.000Z",
+        "date": "2002-05-12T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2002-05-22T03:00:00.000Z",
+        "date": "2002-05-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [
@@ -4846,14 +5230,16 @@
     "concertTitle": "When playful and serious meet",
     "dates": [
       {
-        "day": "1996-03-10T04:00:00.000Z",
+        "date": "1996-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "1996-03-10T22:00:00.000Z",
+        "date": "1996-03-10T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel"
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
       }
     ],
     "program": [
@@ -4888,19 +5274,22 @@
     "concertTitle": "Woven of many strands",
     "dates": [
       {
-        "day": "2009-06-06T23:00:00.000Z",
+        "date": "2009-06-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of John & Barbara McLoughlin in Brentwood"
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
-        "day": "2009-06-07T23:00:00.000Z",
+        "date": "2009-06-07T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena"
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
       },
       {
-        "day": "2009-06-10T03:00:00.000Z",
+        "date": "2009-06-10T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center"
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
       }
     ],
     "program": [

@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "olivier",
-    "messiaen"
-  ],
-  "firstName": "olivier",
-  "lastName": "messiaen",
-  "born": "1908",
-  "died": "1992",
-  "photo": "",
-  "bio": ""
+  "olivierMessiaen": {
+    "id": "olivierMessiaen",
+    "nameArr": [
+      "olivier",
+      "messiaen"
+    ],
+    "firstName": "olivier",
+    "lastName": "messiaen",
+    "born": "1908",
+    "died": "1992",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

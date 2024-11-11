@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "richard",
-    "strauss"
-  ],
-  "firstName": "richard",
-  "lastName": "strauss",
-  "born": "1864",
-  "died": "1949",
-  "photo": "",
-  "bio": ""
+  "richardStrauss": {
+    "id": "richardStrauss",
+    "nameArr": [
+      "richard",
+      "strauss"
+    ],
+    "firstName": "richard",
+    "lastName": "strauss",
+    "born": "1864",
+    "died": "1949",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

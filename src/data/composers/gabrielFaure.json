@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "gabriel",
-    "fauré"
-  ],
-  "firstName": "gabriel",
-  "lastName": "fauré",
-  "born": "1845",
-  "died": "1924",
-  "photo": "",
-  "bio": ""
+  "gabrielFaure": {
+    "id": "gabrielFaure",
+    "nameArr": [
+      "gabriel",
+      "fauré"
+    ],
+    "firstName": "gabriel",
+    "lastName": "fauré",
+    "born": "1845",
+    "died": "1924",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

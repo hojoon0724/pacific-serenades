@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "francois",
-    "couperin"
-  ],
-  "firstName": "francois",
-  "lastName": "couperin",
-  "born": "1668",
-  "died": "1733",
-  "photo": "",
-  "bio": ""
+  "francoisCouperin": {
+    "id": "francoisCouperin",
+    "nameArr": [
+      "francois",
+      "couperin"
+    ],
+    "firstName": "francois",
+    "lastName": "couperin",
+    "born": "1668",
+    "died": "1733",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

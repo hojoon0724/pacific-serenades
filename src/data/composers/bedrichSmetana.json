@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "bedrich",
-    "smetana"
-  ],
-  "firstName": "bedrich",
-  "lastName": "smetana",
-  "born": "1824",
-  "died": "1884",
-  "photo": "",
-  "bio": ""
+  "bedrichSmetana": {
+    "id": "bedrichSmetana",
+    "nameArr": [
+      "bedrich",
+      "smetana"
+    ],
+    "firstName": "bedrich",
+    "lastName": "smetana",
+    "born": "1824",
+    "died": "1884",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

@@ -1,9 +1,16 @@
 {
-  "nameArr": ["alexandra", "pierce"],
-  "firstName": "alexandra",
-  "lastName": "pierce",
-  "born": "1934",
-  "died": "",
-  "photo": "/photos/alexandraPierce.jpg",
-  "bio": ""
+  "alexandraPierce": {
+    "id": "alexandraPierce",
+    "nameArr": [
+      "alexandra",
+      "pierce"
+    ],
+    "firstName": "alexandra",
+    "lastName": "pierce",
+    "born": "1934",
+    "died": "",
+    "website": "",
+    "photo": "/photos/alexandraPierce.jpg",
+    "bio": ""
+  }
 }

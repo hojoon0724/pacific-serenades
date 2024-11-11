@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "sergei",
-    "prokofiev"
-  ],
-  "firstName": "sergei",
-  "lastName": "prokofiev",
-  "born": "1891",
-  "died": "1953",
-  "photo": "",
-  "bio": ""
+  "sergeiProkofiev": {
+    "id": "sergeiProkofiev",
+    "nameArr": [
+      "sergei",
+      "prokofiev"
+    ],
+    "firstName": "sergei",
+    "lastName": "prokofiev",
+    "born": "1891",
+    "died": "1953",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

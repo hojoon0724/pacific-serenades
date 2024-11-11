@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "paul",
-    "hindemith"
-  ],
-  "firstName": "paul",
-  "lastName": "hindemith",
-  "born": "1895",
-  "died": "1963",
-  "photo": "",
-  "bio": ""
+  "paulHindemith": {
+    "id": "paulHindemith",
+    "nameArr": [
+      "paul",
+      "hindemith"
+    ],
+    "firstName": "paul",
+    "lastName": "hindemith",
+    "born": "1895",
+    "died": "1963",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

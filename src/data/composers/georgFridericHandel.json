@@ -1,13 +1,17 @@
 {
-  "nameArr": [
-    "georg",
-    "frideric",
-    "handel"
-  ],
-  "firstName": "georg frideric",
-  "lastName": "handel",
-  "born": "1685",
-  "died": "1759",
-  "photo": "",
-  "bio": ""
+  "georgFridericHandel": {
+    "id": "georgFridericHandel",
+    "nameArr": [
+      "georg",
+      "frideric",
+      "handel"
+    ],
+    "firstName": "georg frideric",
+    "lastName": "handel",
+    "born": "1685",
+    "died": "1759",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

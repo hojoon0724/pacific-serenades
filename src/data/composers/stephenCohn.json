@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "stephen",
-    "cohn"
-  ],
-  "firstName": "stephen",
-  "lastName": "cohn",
-  "born": "",
-  "died": "",
-  "photo": "/photos/stephenCohn.jpg",
-  "bio": ""
+  "stephenCohn": {
+    "id": "stephenCohn",
+    "nameArr": [
+      "stephen",
+      "cohn"
+    ],
+    "firstName": "stephen",
+    "lastName": "cohn",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/stephenCohn.jpg",
+    "bio": ""
+  }
 }

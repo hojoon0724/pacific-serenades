@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "alexander",
-    "scriabin"
-  ],
-  "firstName": "alexander",
-  "lastName": "scriabin",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "alexanderScriabin": {
+    "id": "alexanderScriabin",
+    "nameArr": [
+      "alexander",
+      "scriabin"
+    ],
+    "firstName": "alexander",
+    "lastName": "scriabin",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

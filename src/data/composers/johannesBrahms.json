@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "johannes",
-    "brahms"
-  ],
-  "firstName": "johannes",
-  "lastName": "brahms",
-  "born": "1833",
-  "died": "1897",
-  "photo": "",
-  "bio": ""
+  "johannesBrahms": {
+    "id": "johannesBrahms",
+    "nameArr": [
+      "johannes",
+      "brahms"
+    ],
+    "firstName": "johannes",
+    "lastName": "brahms",
+    "born": "1833",
+    "died": "1897",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

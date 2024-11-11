@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "jack",
-    "body"
-  ],
-  "firstName": "jack",
-  "lastName": "body",
-  "born": "1944",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "jackBody": {
+    "id": "jackBody",
+    "nameArr": [
+      "jack",
+      "body"
+    ],
+    "firstName": "jack",
+    "lastName": "body",
+    "born": "1944",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

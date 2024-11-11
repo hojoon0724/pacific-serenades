@@ -1,0 +1,54 @@
+{
+  "marchConcert1994": {
+    "id": "marchConcert1994",
+    "year": "1994",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1994-03-27T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
+      },
+      {
+        "date": "1994-03-27T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1994-03-27T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in D major, Op. 20, No. 4",
+        "workYear": "1772",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "String Quartet No. 2: Outcrops and Upshots",
+        "workYear": "1994",
+        "workComposer": "alexandraPierce",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "String Quintet in B flat major, Op. 87",
+        "workYear": "1845",
+        "workComposer": "felixMendelssohn",
+        "workInstrumentation": "for 2 violins, 2 violas, and cello"
+      }
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "sherylStaples",
+      "rolandKato",
+      "michaelNowak",
+      "davidSpeltz"
+    ]
+  }
+}

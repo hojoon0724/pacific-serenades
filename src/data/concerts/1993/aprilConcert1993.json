@@ -1,0 +1,54 @@
+{
+  "aprilConcert1993": {
+    "id": "aprilConcert1993",
+    "year": "1993",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1993-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1993-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1993-04-18T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "12 Variations on a Theme from Judas Maccabaeus of Handel",
+        "workYear": "1796",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "The Wexford Carol",
+        "workYear": "1992",
+        "workComposer": "paulReale",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Piano Quintet in F minor",
+        "workYear": "1879",
+        "workComposer": "cesarFranck",
+        "workInstrumentation": "for piano quintet"
+      }
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "connieKupka",
+      "victoriaMiskolczy",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

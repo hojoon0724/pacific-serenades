@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "joseph",
-    "suk"
-  ],
-  "firstName": "joseph",
-  "lastName": "suk",
-  "born": "1874",
-  "died": "1935",
-  "photo": "",
-  "bio": ""
+  "josephSuk": {
+    "id": "josephSuk",
+    "nameArr": [
+      "joseph",
+      "suk"
+    ],
+    "firstName": "joseph",
+    "lastName": "suk",
+    "born": "1874",
+    "died": "1935",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

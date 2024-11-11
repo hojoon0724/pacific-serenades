@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "giuseppe",
-    "tartini"
-  ],
-  "firstName": "giuseppe",
-  "lastName": "tartini",
-  "born": "1692",
-  "died": "1770",
-  "photo": "",
-  "bio": ""
+  "giuseppeTartini": {
+    "id": "giuseppeTartini",
+    "nameArr": [
+      "giuseppe",
+      "tartini"
+    ],
+    "firstName": "giuseppe",
+    "lastName": "tartini",
+    "born": "1692",
+    "died": "1770",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

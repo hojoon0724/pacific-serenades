@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "tania",
-    "french"
-  ],
-  "firstName": "tania",
-  "lastName": "french",
-  "born": "1963",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "taniaFrench": {
+    "id": "taniaFrench",
+    "nameArr": [
+      "tania",
+      "french"
+    ],
+    "firstName": "tania",
+    "lastName": "french",
+    "born": "1963",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

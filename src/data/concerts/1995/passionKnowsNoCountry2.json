@@ -1,0 +1,47 @@
+{
+  "passionKnowsNoCountry2": {
+    "id": "passionKnowsNoCountry2",
+    "year": "1995",
+    "concertTitle": "Passion knows no country",
+    "dates": [
+      {
+        "date": "1995-02-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1995-02-12T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata for viola and piano, Op. 11, No. 4",
+        "workYear": "1915",
+        "workComposer": "paulHindemith",
+        "workInstrumentation": "for viola and piano"
+      },
+      {
+        "workName": "Quartet in C minor, Op. 124",
+        "workYear": "1995",
+        "workComposer": "michaelKibbe",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Piano Quartet in C minor, Op. 15",
+        "workYear": "1879",
+        "workComposer": "gabrielFaure",
+        "workInstrumentation": "for violin, viola, cello, piano"
+      }
+    ],
+    "musicians": [
+      "miwakoWatanabe",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

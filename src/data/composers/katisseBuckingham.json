@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "katisse",
-    "buckingham"
-  ],
-  "firstName": "katisse",
-  "lastName": "buckingham",
-  "born": "",
-  "died": "",
-  "photo": "/photos/katisseBuckingham.jpg",
-  "bio": ""
+  "katisseBuckingham": {
+    "id": "katisseBuckingham",
+    "nameArr": [
+      "katisse",
+      "buckingham"
+    ],
+    "firstName": "katisse",
+    "lastName": "buckingham",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/katisseBuckingham.jpg",
+    "bio": ""
+  }
 }

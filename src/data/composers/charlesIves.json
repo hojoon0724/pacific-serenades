@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "charles",
-    "ives"
-  ],
-  "firstName": "charles",
-  "lastName": "ives",
-  "born": "1874",
-  "died": "1954",
-  "photo": "",
-  "bio": ""
+  "charlesIves": {
+    "id": "charlesIves",
+    "nameArr": [
+      "charles",
+      "ives"
+    ],
+    "firstName": "charles",
+    "lastName": "ives",
+    "born": "1874",
+    "died": "1954",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

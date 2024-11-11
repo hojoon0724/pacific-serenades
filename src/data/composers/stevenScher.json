@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "steven",
-    "scher"
-  ],
-  "firstName": "steven",
-  "lastName": "scher",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "stevenScher": {
+    "id": "stevenScher",
+    "nameArr": [
+      "steven",
+      "scher"
+    ],
+    "firstName": "steven",
+    "lastName": "scher",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

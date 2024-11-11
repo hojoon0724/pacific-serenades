@@ -1,0 +1,48 @@
+{
+  "mixedEnsemble": {
+    "id": "mixedEnsemble",
+    "year": "1988",
+    "concertTitle": "Mixed Ensemble",
+    "dates": [
+      {
+        "date": "1988-01-06T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
+      },
+      {
+        "date": "1988-01-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata in E flat major, Op. 120, No. 2",
+        "workYear": "1894",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet and piano"
+      },
+      {
+        "workName": "Serenade No. 2",
+        "workYear": "1987",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for flute (and piccolo), clarinet, violin, cello, and piano"
+      },
+      {
+        "workName": "Piano Trio in a minor",
+        "workYear": "1914",
+        "workComposer": "mauriceRavel",
+        "workInstrumentation": "for violin, cello, and piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "peterMarsh",
+      "stevenErdody",
+      "deloresStevens"
+    ]
+  }
+}

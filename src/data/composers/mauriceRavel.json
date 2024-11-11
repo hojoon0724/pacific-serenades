@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "maurice",
-    "ravel"
-  ],
-  "firstName": "maurice",
-  "lastName": "ravel",
-  "born": "1875",
-  "died": "1937",
-  "photo": "",
-  "bio": ""
+  "mauriceRavel": {
+    "id": "mauriceRavel",
+    "nameArr": [
+      "maurice",
+      "ravel"
+    ],
+    "firstName": "maurice",
+    "lastName": "ravel",
+    "born": "1875",
+    "died": "1937",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

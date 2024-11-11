@@ -1,0 +1,54 @@
+{
+  "crossPollination": {
+    "id": "crossPollination",
+    "year": "2012",
+    "concertTitle": "Cross-pollination",
+    "dates": [
+      {
+        "date": "2012-03-04T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Gloria Putnam & Stephen Rudicel (The Zane Grey House) in Altadena",
+        "venueId": "gloriaPutnamAndStephenRudicelHome"
+      },
+      {
+        "date": "2012-03-05T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2012-03-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Piano Quartet in Eb major, Op. 47",
+        "workYear": "1845",
+        "workComposer": "robertSchumann",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Cave Paintings",
+        "workYear": "2012",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for alto saxophone, violin, viola, cello, and piano"
+      },
+      {
+        "workName": "Four Pieces for violin and piano, Op.17",
+        "workYear": "",
+        "workComposer": "josephSuk",
+        "workInstrumentation": "for violin and piano"
+      }
+    ],
+    "musicians": [
+      "douglasMasek",
+      "rogerWilkie",
+      "rolandKato",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

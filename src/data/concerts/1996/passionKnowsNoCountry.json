@@ -1,0 +1,48 @@
+{
+  "passionKnowsNoCountry": {
+    "id": "passionKnowsNoCountry",
+    "year": "1996",
+    "concertTitle": "Passion knows no country",
+    "dates": [
+      {
+        "date": "1996-04-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1996-04-14T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in D minor, Op. 76, No. 2",
+        "workYear": "1797",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Quintet for Piano and Strings",
+        "workYear": "1990",
+        "workComposer": "davidConte",
+        "workInstrumentation": "for piano quintet"
+      },
+      {
+        "workName": "Piano Quintet in A major, Op. 81",
+        "workYear": "1887",
+        "workComposer": "antoninDvorak",
+        "workInstrumentation": "for piano quintet"
+      }
+    ],
+    "musicians": [
+      "claytonHaslop",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

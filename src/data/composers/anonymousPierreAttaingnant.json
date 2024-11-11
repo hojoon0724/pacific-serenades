@@ -1,18 +1,22 @@
 {
-  "nameArr": [
-    "anonymous",
-    "(from",
-    "a",
-    "publication",
-    "by",
-    "pierre",
-    "attaingnant,",
-    "1531)"
-  ],
-  "firstName": "anonymous (from a publication by pierre attaingnant,",
-  "lastName": "1531)",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "anonymousPierreAttaingnant": {
+    "id": "anonymousPierreAttaingnant",
+    "nameArr": [
+      "anonymous",
+      "(from",
+      "a",
+      "publication",
+      "by",
+      "pierre",
+      "attaingnant,",
+      "1531)"
+    ],
+    "firstName": "anonymous (from a publication by pierre attaingnant,",
+    "lastName": "1531)",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

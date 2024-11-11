@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "paul",
-    "reale"
-  ],
-  "firstName": "paul",
-  "lastName": "reale",
-  "born": "1943",
-  "died": "",
-  "photo": "/photos/paulReale.jpg",
-  "bio": ""
+  "paulReale": {
+    "id": "paulReale",
+    "nameArr": [
+      "paul",
+      "reale"
+    ],
+    "firstName": "paul",
+    "lastName": "reale",
+    "born": "1943",
+    "died": "",
+    "website": "",
+    "photo": "/photos/paulReale.jpg",
+    "bio": ""
+  }
 }

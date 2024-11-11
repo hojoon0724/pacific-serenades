@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "billy",
-    "childs"
-  ],
-  "firstName": "billy",
-  "lastName": "childs",
-  "born": "",
-  "died": "",
-  "photo": "/photos/billyChilds.jpg",
-  "bio": ""
+  "billyChilds": {
+    "id": "billyChilds",
+    "nameArr": [
+      "billy",
+      "childs"
+    ],
+    "firstName": "billy",
+    "lastName": "childs",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/billyChilds.jpg",
+    "bio": ""
+  }
 }

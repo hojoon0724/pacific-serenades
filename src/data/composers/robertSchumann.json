@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "robert",
-    "schumann"
-  ],
-  "firstName": "robert",
-  "lastName": "schumann",
-  "born": "1810",
-  "died": "1856",
-  "photo": "",
-  "bio": ""
+  "robertSchumann": {
+    "id": "robertSchumann",
+    "nameArr": [
+      "robert",
+      "schumann"
+    ],
+    "firstName": "robert",
+    "lastName": "schumann",
+    "born": "1810",
+    "died": "1856",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

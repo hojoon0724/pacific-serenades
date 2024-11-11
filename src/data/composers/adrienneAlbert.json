@@ -1,9 +1,16 @@
 {
-  "nameArr": ["adrienne", "albert"],
-  "firstName": "adrienne",
-  "lastName": "albert",
-  "born": "",
-  "died": "",
-  "photo": "/photos/adrienneAlbert.jpg",
-  "bio": ""
+  "adrienneAlbert": {
+    "id": "adrienneAlbert",
+    "nameArr": [
+      "adrienne",
+      "albert"
+    ],
+    "firstName": "adrienne",
+    "lastName": "albert",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/adrienneAlbert.jpg",
+    "bio": ""
+  }
 }

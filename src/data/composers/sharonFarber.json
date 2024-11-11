@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "sharon",
-    "farber"
-  ],
-  "firstName": "sharon",
-  "lastName": "farber",
-  "born": "",
-  "died": "",
-  "photo": "/photos/sharonFarber.jpg",
-  "bio": ""
+  "sharonFarber": {
+    "id": "sharonFarber",
+    "nameArr": [
+      "sharon",
+      "farber"
+    ],
+    "firstName": "sharon",
+    "lastName": "farber",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/sharonFarber.jpg",
+    "bio": ""
+  }
 }

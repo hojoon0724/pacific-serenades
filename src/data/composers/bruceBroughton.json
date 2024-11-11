@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "bruce",
-    "broughton"
-  ],
-  "firstName": "bruce",
-  "lastName": "broughton",
-  "born": "1945",
-  "died": "",
-  "photo": "/photos/bruceBroughton.jpg",
-  "bio": "<a href=\"http://brucebroughton.com/\" class=\"website\">Bruce Broughton's Website</a><p>One of the most versatile composers working today, Bruce Broughton writes in every medium, from theatrical releases and TV feature films to the concert stage and computer games.</p>"
+  "bruceBroughton": {
+    "id": "bruceBroughton",
+    "nameArr": [
+      "bruce",
+      "broughton"
+    ],
+    "firstName": "bruce",
+    "lastName": "broughton",
+    "born": "1945",
+    "died": "",
+    "website": "http://brucebroughton.com/",
+    "photo": "/photos/bruceBroughton.jpg",
+    "bio": "<p>One of the most versatile composers working today, Bruce Broughton writes in every medium, from theatrical releases and TV feature films to the concert stage and computer games.</p>"
+  }
 }

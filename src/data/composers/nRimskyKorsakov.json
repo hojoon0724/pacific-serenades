@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "n.",
-    "rimsky-korsakov"
-  ],
-  "firstName": "n.",
-  "lastName": "rimsky-korsakov",
-  "born": "1844",
-  "died": "1908",
-  "photo": "",
-  "bio": ""
+  "nRimskyKorsakov": {
+    "id": "nRimskyKorsakov",
+    "nameArr": [
+      "n.",
+      "rimsky-korsakov"
+    ],
+    "firstName": "n.",
+    "lastName": "rimsky-korsakov",
+    "born": "1844",
+    "died": "1908",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

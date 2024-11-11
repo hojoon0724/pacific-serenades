@@ -1,9 +1,16 @@
 {
-  "nameArr": ["robert", "kyr"],
-  "firstName": "robert",
-  "lastName": "kyr",
-  "born": "1952",
-  "died": "",
-  "photo": "/photos/robertKyr.jpg",
-  "bio": ""
+  "robertKyr": {
+    "id": "robertKyr",
+    "nameArr": [
+      "robert",
+      "kyr"
+    ],
+    "firstName": "robert",
+    "lastName": "kyr",
+    "born": "1952",
+    "died": "",
+    "website": "",
+    "photo": "/photos/robertKyr.jpg",
+    "bio": ""
+  }
 }

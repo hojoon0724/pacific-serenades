@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "claude",
-    "debussy"
-  ],
-  "firstName": "claude",
-  "lastName": "debussy",
-  "born": "1862",
-  "died": "1918",
-  "photo": "",
-  "bio": ""
+  "claudeDebussy": {
+    "id": "claudeDebussy",
+    "nameArr": [
+      "claude",
+      "debussy"
+    ],
+    "firstName": "claude",
+    "lastName": "debussy",
+    "born": "1862",
+    "died": "1918",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

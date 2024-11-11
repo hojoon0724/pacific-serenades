@@ -1,9 +1,19 @@
 {
-  "nameArr": ["peter", "yates", "&", "matthew", "elgart"],
-  "firstName": "peter yates & matthew",
-  "lastName": "elgart",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "peterYatesAndMatthewElgart": {
+    "id": "peterYatesAndMatthewElgart",
+    "nameArr": [
+      "peter",
+      "yates",
+      "&",
+      "matthew",
+      "elgart"
+    ],
+    "firstName": "peter yates & matthew",
+    "lastName": "elgart",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

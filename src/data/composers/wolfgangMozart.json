@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "wolfgang",
-    "mozart"
-  ],
-  "firstName": "wolfgang",
-  "lastName": "mozart",
-  "born": "1756",
-  "died": "1791",
-  "photo": "",
-  "bio": ""
+  "wolfgangMozart": {
+    "id": "wolfgangMozart",
+    "nameArr": [
+      "wolfgang",
+      "mozart"
+    ],
+    "firstName": "wolfgang",
+    "lastName": "mozart",
+    "born": "1756",
+    "died": "1791",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

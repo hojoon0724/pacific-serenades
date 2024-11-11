@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "selected",
-    "russian"
-  ],
-  "firstName": "selected",
-  "lastName": "russian",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "selectedRussian": {
+    "id": "selectedRussian",
+    "nameArr": [
+      "selected",
+      "russian"
+    ],
+    "firstName": "selected",
+    "lastName": "russian",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

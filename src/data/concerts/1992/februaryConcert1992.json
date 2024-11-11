@@ -1,0 +1,55 @@
+{
+  "februaryConcert1992": {
+    "id": "februaryConcert1992",
+    "year": "1992",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1992-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1992-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1992-02-02T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Trio in G major, Hob. XV: 15",
+        "workYear": "1790",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for flute, cello, and piano"
+      },
+      {
+        "workName": "Atlantic Serenade",
+        "workYear": "1991",
+        "workComposer": "martinAmlin",
+        "workInstrumentation": "for flute, clarinet, cello, and piano"
+      },
+      {
+        "workName": "Trio in a minor, Op. 114",
+        "workYear": "1891",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet, cello, and piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "raulHerrera",
+      "martinAmlin",
+      "jonathanStockhammer"
+    ]
+  }
+}

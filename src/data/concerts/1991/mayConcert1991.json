@@ -1,0 +1,46 @@
+{
+  "mayConcert1991": {
+    "id": "mayConcert1991",
+    "year": "1991",
+    "concertTitle": "May Concert",
+    "dates": [
+      {
+        "date": "1991-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Bruce & Beverly Gladstone in Sherman Oaks",
+        "venueId": "bruceAndBeverlyGladstoneHome"
+      },
+      {
+        "date": "1991-03-10T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Trio in E flat major, K. 498",
+        "workYear": "1786",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for clarinet, viola, and piano"
+      },
+      {
+        "workName": "Trio",
+        "workYear": "1991",
+        "workComposer": "johnMaxwellAnderson",
+        "workInstrumentation": "for clarinet, viola, and piano"
+      },
+      {
+        "workName": "Eight Pieces for clarinet, viola, and piano, Op. 83 (selected movements)",
+        "workYear": "1910",
+        "workComposer": "maxBruch",
+        "workInstrumentation": "for clarinet, viola, and piano"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "raymondTischer",
+      "raulHerrera"
+    ]
+  }
+}

@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "daniel",
-    "catán"
-  ],
-  "firstName": "daniel",
-  "lastName": "catán",
-  "born": "1949",
-  "died": "",
-  "photo": "/photos/danielCatan.jpg",
-  "bio": ""
+  "danielCatan": {
+    "id": "danielCatan",
+    "nameArr": [
+      "daniel",
+      "catán"
+    ],
+    "firstName": "daniel",
+    "lastName": "catán",
+    "born": "1949",
+    "died": "",
+    "website": "",
+    "photo": "/photos/danielCatan.jpg",
+    "bio": ""
+  }
 }

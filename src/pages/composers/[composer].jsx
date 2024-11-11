@@ -1,7 +1,7 @@
 import allComposers from '@/data/allComposers.json';
 import Image from 'next/image';
 import Link from 'next/link';
-import { camelToKebab } from '@/utils/camelToKebab';
+import { camelToKebab } from '../../utils/notInUse/camelToKebab';
 import ComposerComponent from '@/components/ComposerComponent';
 
 export async function getStaticPaths() {

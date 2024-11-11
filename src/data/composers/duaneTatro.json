@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "duane",
-    "tatro"
-  ],
-  "firstName": "duane",
-  "lastName": "tatro",
-  "born": "1927",
-  "died": "",
-  "photo": "/photos/duaneTatro.jpg",
-  "bio": "<a href=\"http://www.asmac.org/templates/System/details.asp?id=39902&amp;PID=478610\" class=\"website\">Duane Tatro's Website</a><p>Duane L Tatro, a native of Van Nuys California, has composed extensively for television ad film, as well as writing live concert media works for orchestra, wind ensemble, chamber ensembles, and electronic instruments. In his early career, he worked professionally as an instrumentalist: playing clarinet, saxophone, and bassoon.</p>"
+  "duaneTatro": {
+    "id": "duaneTatro",
+    "nameArr": [
+      "duane",
+      "tatro"
+    ],
+    "firstName": "duane",
+    "lastName": "tatro",
+    "born": "1927",
+    "died": "",
+    "website": "http://www.asmac.org/templates/System/details.asp?id=39902&amp;PID=478610",
+    "photo": "/photos/duaneTatro.jpg",
+    "bio": "<p>Duane L Tatro, a native of Van Nuys California, has composed extensively for television ad film, as well as writing live concert media works for orchestra, wind ensemble, chamber ensembles, and electronic instruments. In his early career, he worked professionally as an instrumentalist: playing clarinet, saxophone, and bassoon.</p>"
+  }
 }

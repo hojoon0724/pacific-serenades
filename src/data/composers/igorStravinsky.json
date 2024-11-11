@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "igor",
-    "stravinsky"
-  ],
-  "firstName": "igor",
-  "lastName": "stravinsky",
-  "born": "1882",
-  "died": "1971",
-  "photo": "",
-  "bio": ""
+  "igorStravinsky": {
+    "id": "igorStravinsky",
+    "nameArr": [
+      "igor",
+      "stravinsky"
+    ],
+    "firstName": "igor",
+    "lastName": "stravinsky",
+    "born": "1882",
+    "died": "1971",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

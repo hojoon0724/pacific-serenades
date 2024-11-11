@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "daniel",
-    "levitan"
-  ],
-  "firstName": "daniel",
-  "lastName": "levitan",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "danielLevitan": {
+    "id": "danielLevitan",
+    "nameArr": [
+      "daniel",
+      "levitan"
+    ],
+    "firstName": "daniel",
+    "lastName": "levitan",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

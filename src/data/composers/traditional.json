@@ -1,11 +1,15 @@
 {
-  "nameArr": [
-    "traditional"
-  ],
-  "firstName": "",
-  "lastName": "traditional",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "traditional": {
+    "id": "traditional",
+    "nameArr": [
+      "traditional"
+    ],
+    "firstName": "",
+    "lastName": "traditional",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

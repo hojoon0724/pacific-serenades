@@ -1,0 +1,51 @@
+{
+  "vibrations": {
+    "id": "vibrations",
+    "year": "2013",
+    "concertTitle": "Vibrations",
+    "dates": [
+      {
+        "date": "2013-05-04T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "Home of Mark Freund & Trice Koopman in Pacific Palisades",
+        "venueId": "markFreundAndTriceKoopmanHome"
+      },
+      {
+        "date": "2013-05-05T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2013-05-08T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      {
+        "workName": "String Theory",
+        "workYear": "2013",
+        "workComposer": "gernotWolfgang",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "String Quartet No. 2 in D minor",
+        "workYear": "1883",
+        "workComposer": "bedrichSmetana"
+      },
+      {
+        "workName": "String Quartet in B minor, Op. 64, No. 2",
+        "workYear": "1790",
+        "workComposer": "franzJosefHaydn"
+      }
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz"
+    ]
+  }
+}

@@ -1,9 +1,16 @@
 {
-  "nameArr": ["robert", "aldridge"],
-  "firstName": "robert",
-  "lastName": "aldridge",
-  "born": "1954",
-  "died": "",
-  "photo": "/photos/robertAldridge.jpg",
-  "bio": ""
+  "robertAldridge": {
+    "id": "robertAldridge",
+    "nameArr": [
+      "robert",
+      "aldridge"
+    ],
+    "firstName": "robert",
+    "lastName": "aldridge",
+    "born": "1954",
+    "died": "",
+    "website": "",
+    "photo": "/photos/robertAldridge.jpg",
+    "bio": ""
+  }
 }

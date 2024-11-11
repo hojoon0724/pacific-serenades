@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "christopher",
-    "stowens"
-  ],
-  "firstName": "christopher",
-  "lastName": "stowens",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "christopherStowens": {
+    "id": "christopherStowens",
+    "nameArr": [
+      "christopher",
+      "stowens"
+    ],
+    "firstName": "christopher",
+    "lastName": "stowens",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "peter",
-    "schickele"
-  ],
-  "firstName": "peter",
-  "lastName": "schickele",
-  "born": "1935",
-  "died": "",
-  "photo": "/photos/peterSchickele.jpg",
-  "bio": "<a href=\"http://www.schickele.com/\" class=\"website\">Peter Schickele's Website</a><p>Composer, musician, author, satirist-Peter Schickele is internationally recognized as one of the most versatile artists in the field of music. His works, now well in excess of 100 for symphony orchestras, choral groups, chamber ensembles, voice, movies and television, have given him “a leading role in the ever-more-prominent school of American composers who unselfconsciously blend all levels of American music.” (John Rockwell, The New York Times)</p>"
+  "peterSchickele": {
+    "id": "peterSchickele",
+    "nameArr": [
+      "peter",
+      "schickele"
+    ],
+    "firstName": "peter",
+    "lastName": "schickele",
+    "born": "1935",
+    "died": "",
+    "website": "http://www.schickele.com/",
+    "photo": "/photos/peterSchickele.jpg",
+    "bio": "<p>Composer, musician, author, satirist-Peter Schickele is internationally recognized as one of the most versatile artists in the field of music. His works, now well in excess of 100 for symphony orchestras, choral groups, chamber ensembles, voice, movies and television, have given him “a leading role in the ever-more-prominent school of American composers who unselfconsciously blend all levels of American music.” (John Rockwell, The New York Times)</p>"
+  }
 }

@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "max",
-    "bruch"
-  ],
-  "firstName": "max",
-  "lastName": "bruch",
-  "born": "1838",
-  "died": "1920",
-  "photo": "",
-  "bio": ""
+  "maxBruch": {
+    "id": "maxBruch",
+    "nameArr": [
+      "max",
+      "bruch"
+    ],
+    "firstName": "max",
+    "lastName": "bruch",
+    "born": "1838",
+    "died": "1920",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

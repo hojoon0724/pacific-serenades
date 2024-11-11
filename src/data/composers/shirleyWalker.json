@@ -1,9 +1,16 @@
 {
-  "nameArr": ["shirley", "walker"],
-  "firstName": "shirley",
-  "lastName": "walker",
-  "born": "1945",
-  "died": "2006",
-  "photo": "/photos/shirleyWalker.jpg",
-  "bio": ""
+  "shirleyWalker": {
+    "id": "shirleyWalker",
+    "nameArr": [
+      "shirley",
+      "walker"
+    ],
+    "firstName": "shirley",
+    "lastName": "walker",
+    "born": "1945",
+    "died": "2006",
+    "website": "",
+    "photo": "/photos/shirleyWalker.jpg",
+    "bio": ""
+  }
 }

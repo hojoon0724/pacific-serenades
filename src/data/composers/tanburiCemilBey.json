@@ -1,13 +1,17 @@
 {
-  "nameArr": [
-    "tanburi",
-    "cemil",
-    "bey"
-  ],
-  "firstName": "tanburi cemil",
-  "lastName": "bey",
-  "born": "1871",
-  "died": "1916",
-  "photo": "",
-  "bio": ""
+  "tanburiCemilBey": {
+    "id": "tanburiCemilBey",
+    "nameArr": [
+      "tanburi",
+      "cemil",
+      "bey"
+    ],
+    "firstName": "tanburi cemil",
+    "lastName": "bey",
+    "born": "1871",
+    "died": "1916",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

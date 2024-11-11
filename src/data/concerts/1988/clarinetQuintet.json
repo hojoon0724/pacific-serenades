@@ -1,0 +1,48 @@
+{
+  "clarinetQuintet": {
+    "id": "clarinetQuintet",
+    "year": "1988",
+    "concertTitle": "Clarinet Quintet",
+    "dates": [
+      {
+        "date": "1988-03-25T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Dr. & Mrs. Mohammed Gharavi",
+        "venueId": "drAndMrsMohammedGharaviHome"
+      },
+      {
+        "date": "1988-03-24T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartettsatz in C minor, D. 103",
+        "workYear": "1820",
+        "workComposer": "franzSchubert",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Graces and Furies",
+        "workYear": "1988",
+        "workComposer": "paulReale",
+        "workInstrumentation": "for clarinet and string quartet"
+      },
+      {
+        "workName": "Clarinet Quintet in B minor, Op. 115",
+        "workYear": "1891",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet & string quartet"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "peterMarsh",
+      "claudiaParducci",
+      "brianDembow",
+      "stevenErdody"
+    ]
+  }
+}

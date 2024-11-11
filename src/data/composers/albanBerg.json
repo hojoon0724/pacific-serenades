@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "alban",
-    "berg"
-  ],
-  "firstName": "alban",
-  "lastName": "berg",
-  "born": "1885",
-  "died": "1935",
-  "photo": "",
-  "bio": ""
+  "albanBerg": {
+    "id": "albanBerg",
+    "nameArr": [
+      "alban",
+      "berg"
+    ],
+    "firstName": "alban",
+    "lastName": "berg",
+    "born": "1885",
+    "died": "1935",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

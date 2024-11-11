@@ -1,9 +1,17 @@
 {
-  "nameArr": ["dante", "de", "silva"],
-  "firstName": "dante de",
-  "lastName": "silva",
-  "born": "",
-  "died": "",
-  "photo": "/photos/danteDeSilva.jpg",
-  "bio": ""
+  "danteDeSilva": {
+    "id": "danteDeSilva",
+    "nameArr": [
+      "dante",
+      "de",
+      "silva"
+    ],
+    "firstName": "dante de",
+    "lastName": "silva",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/danteDeSilva.jpg",
+    "bio": ""
+  }
 }

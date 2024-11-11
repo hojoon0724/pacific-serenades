@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "françois",
-    "francoeur"
-  ],
-  "firstName": "françois",
-  "lastName": "francoeur",
-  "born": "1698",
-  "died": "1787",
-  "photo": "",
-  "bio": ""
+  "francoisFrancoeur": {
+    "id": "francoisFrancoeur",
+    "nameArr": [
+      "françois",
+      "francoeur"
+    ],
+    "firstName": "françois",
+    "lastName": "francoeur",
+    "born": "1698",
+    "died": "1787",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

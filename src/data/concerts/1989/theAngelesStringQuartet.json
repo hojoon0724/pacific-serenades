@@ -1,0 +1,47 @@
+{
+  "theAngelesStringQuartet": {
+    "id": "theAngelesStringQuartet",
+    "year": "1989",
+    "concertTitle": "The Angeles String Quartet",
+    "dates": [
+      {
+        "date": "1989-05-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Mr. & Mrs. Edward Renwick in Pasadena",
+        "venueId": "mrAndMrsEdwardRenwickHome"
+      },
+      {
+        "date": "1989-05-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in G minor, Op. 74, No. 3",
+        "workYear": "1793",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Starry Night",
+        "workYear": "1989",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Quartet in E flat major, Op. 74",
+        "workYear": "1809",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for string quartet"
+      }
+    ],
+    "musicians": [
+      "kathleenLenski",
+      "rogerWilkie",
+      "brianDembow",
+      "stevenErdody"
+    ]
+  }
+}

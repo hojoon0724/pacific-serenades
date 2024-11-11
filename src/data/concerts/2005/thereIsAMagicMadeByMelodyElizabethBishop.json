@@ -1,0 +1,54 @@
+{
+  "thereIsAMagicMadeByMelodyElizabethBishop": {
+    "id": "thereIsAMagicMadeByMelodyElizabethBishop",
+    "year": "2005",
+    "concertTitle": "“There is a magic made by melody…” -Elizabeth Bishop",
+    "dates": [
+      {
+        "date": "2005-04-03T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2005-04-03T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2005-04-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Piano Quartet in G minor, K. 478",
+        "workYear": "1785",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Collage",
+        "workYear": "2005",
+        "workComposer": "peterKnell",
+        "workInstrumentation": "for piano quintet"
+      },
+      {
+        "workName": "Quintet in E flat major, Op. 44",
+        "workYear": "1843",
+        "workComposer": "robertSchumann",
+        "workInstrumentation": "for piano quintet"
+      }
+    ],
+    "musicians": [
+      "miwakoWatanabe",
+      "connieKupka",
+      "jamesDunham",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

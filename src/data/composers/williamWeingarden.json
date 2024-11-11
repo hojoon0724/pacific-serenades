@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "william",
-    "weingarden"
-  ],
-  "firstName": "william",
-  "lastName": "weingarden",
-  "born": "",
-  "died": "",
-  "photo": "",
-  "bio": ""
+  "williamWeingarden": {
+    "id": "williamWeingarden",
+    "nameArr": [
+      "william",
+      "weingarden"
+    ],
+    "firstName": "william",
+    "lastName": "weingarden",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

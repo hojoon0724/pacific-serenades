@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "georg",
-    "telemann"
-  ],
-  "firstName": "georg",
-  "lastName": "telemann",
-  "born": "1681",
-  "died": "1767",
-  "photo": "",
-  "bio": ""
+  "georgTelemann": {
+    "id": "georgTelemann",
+    "nameArr": [
+      "georg",
+      "telemann"
+    ],
+    "firstName": "georg",
+    "lastName": "telemann",
+    "born": "1681",
+    "died": "1767",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

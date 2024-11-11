@@ -1,12 +1,16 @@
 {
-  "nameArr": [
-    "frank",
-    "martin"
-  ],
-  "firstName": "frank",
-  "lastName": "martin",
-  "born": "1890",
-  "died": "1974",
-  "photo": "",
-  "bio": ""
+  "frankMartin": {
+    "id": "frankMartin",
+    "nameArr": [
+      "frank",
+      "martin"
+    ],
+    "firstName": "frank",
+    "lastName": "martin",
+    "born": "1890",
+    "died": "1974",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  }
 }

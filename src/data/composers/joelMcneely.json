@@ -1,9 +1,16 @@
 {
-  "nameArr": ["joel", "mcneely"],
-  "firstName": "joel",
-  "lastName": "mcneely",
-  "born": "",
-  "died": "",
-  "photo": "/photos/joelMcneely.jpg",
-  "bio": ""
+  "joelMcneely": {
+    "id": "joelMcneely",
+    "nameArr": [
+      "joel",
+      "mcneely"
+    ],
+    "firstName": "joel",
+    "lastName": "mcneely",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/joelMcneely.jpg",
+    "bio": ""
+  }
 }

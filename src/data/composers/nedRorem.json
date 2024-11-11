@@ -1,9 +1,16 @@
 {
-  "nameArr": ["ned", "rorem"],
-  "firstName": "ned",
-  "lastName": "rorem",
-  "born": "1923",
-  "died": "",
-  "photo": "/photos/nedRorem.jpg",
-  "bio": ""
+  "nedRorem": {
+    "id": "nedRorem",
+    "nameArr": [
+      "ned",
+      "rorem"
+    ],
+    "firstName": "ned",
+    "lastName": "rorem",
+    "born": "1923",
+    "died": "",
+    "website": "",
+    "photo": "/photos/nedRorem.jpg",
+    "bio": ""
+  }
 }
