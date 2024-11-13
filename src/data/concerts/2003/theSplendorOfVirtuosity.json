@@ -1,0 +1,39 @@
+{
+  "theSplendorOfVirtuosity": {
+    "id": "theSplendorOfVirtuosity",
+    "year": "2003",
+    "concertTitle": "The splendor of virtuosity",
+    "dates": [
+      {
+        "date": "2003-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Paul & Martine Verhoeven in Pacific Palisades",
+        "venueId": "paulAndMartineVerhoevenHome"
+      },
+      {
+        "date": "2003-02-03T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2003-02-05T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "roremTrio",
+      "chaussonAndanteAndAllegro",
+      "beckSeptemberMusic",
+      "smetanaTrio"
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

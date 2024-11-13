@@ -1,0 +1,41 @@
+{
+  "weaversOfDelight": {
+    "id": "weaversOfDelight",
+    "year": "2002",
+    "concertTitle": "weavers of delight",
+    "dates": [
+      {
+        "date": "2002-05-12T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mary Anderson in Brentwood",
+        "venueId": "maryAndersonHome"
+      },
+      {
+        "date": "2002-05-12T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2002-05-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "schubertStringTrio",
+      "wolfgangImpressions",
+      "beethovenSeptet"
+    ],
+    "musicians": [
+      "helenGoodeCastro",
+      "judithFarmer",
+      "brianOconnor",
+      "rogerWilkie",
+      "davidWalther",
+      "davidSpeltz",
+      "bruceMorgenthaler"
+    ]
+  }
+}

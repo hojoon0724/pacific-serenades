@@ -1,0 +1,33 @@
+{
+  "februaryConcert1993": {
+    "id": "februaryConcert1993",
+    "year": "1993",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1993-02-14T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1993-02-14T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "schumannStringQuartetAMinor",
+      "aldridgeThreeFolkSongs",
+      "mozartClarinetQuintet"
+    ],
+    "musicians": [
+      "garyGray",
+      "yukikoKamei",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz"
+    ]
+  }
+}

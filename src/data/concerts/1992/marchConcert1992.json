@@ -1,0 +1,32 @@
+{
+  "marchConcert1992": {
+    "id": "marchConcert1992",
+    "year": "1992",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1992-03-08T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Dirk & Susan Zimmerman in Beverly Hills",
+        "venueId": "dirkAndSusanZimmermanHome"
+      },
+      {
+        "date": "1992-05-08T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "schubertViolinSonataAMajor",
+      "carlsonPianoQuartet",
+      "schumannPianoQuartet"
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "victoriaMiskolczy",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

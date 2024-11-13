@@ -1,0 +1,36 @@
+{
+  "spanningWorlds": {
+    "id": "spanningWorlds",
+    "year": "2006",
+    "concertTitle": "Spanning worlds",
+    "dates": [
+      {
+        "date": "2006-02-20T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2006-02-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "mendelssohnOctet",
+      "haydnQuartetOp50No4",
+      "friesenOctetUnderTheSun"
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "miwakoWatanabe",
+      "sungilLee",
+      "brendanSpeltz",
+      "simonOswell",
+      "connieKupka",
+      "davidSpeltz",
+      "armenKsajikian"
+    ]
+  }
+}

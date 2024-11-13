@@ -1,0 +1,33 @@
+{
+  "theLateRomanticAndTheRomantic20thCentury": {
+    "id": "theLateRomanticAndTheRomantic20thCentury",
+    "year": "1995",
+    "concertTitle": "The Late Romantic and the romantic 20th century",
+    "dates": [
+      {
+        "date": "1995-04-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1995-04-23T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "bernsteinClarinetSonata",
+      "kestenbaumQuartet",
+      "martinBallade",
+      "brahmsEMinorCello"
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

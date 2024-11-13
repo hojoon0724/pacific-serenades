@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-export default function ComposerComponent({ composer }) {
+export default function ComposerComponent({ composer, works }) {
   return (
     <>
       <div className="composer-details-container flex flex-row items-center justify-start h-full">
@@ -34,6 +34,16 @@ export default function ComposerComponent({ composer }) {
       </div>
       <div className="composer-bio-container">
         <div className="composer-bio-text prose" dangerouslySetInnerHTML={{ __html: composer.bio }}></div>
+      </div>
+      <div className="composer-works">
+        <h2>Works</h2>
+        {works.map(work => (
+          <div className="work-container flex" key={work.id}>
+            <div className="work-name">{work.workName}</div>
+            <div className="work-year">{work.workYear}</div>
+            <div className="work-instrumentation">{work.instrumentation}</div>
+          </div>
+        ))}
       </div>
     </>
   );

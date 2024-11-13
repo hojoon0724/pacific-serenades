@@ -1,6 +1,6 @@
 {
-  "albertBetweenTheDarkAndDaylight2": {
-    "id": "albertBetweenTheDarkAndDaylight2",
+  "albertBetweenTheDarkAndDaylight": {
+    "id": "albertBetweenTheDarkAndDaylight",
     "workName": "Between the dark and daylight",
     "workYear": "2007",
     "workComposer": "adrienneAlbert",
@@ -36,6 +36,8 @@
         "Excerpt: Mvt. 3 (2)"
       ]
     ],
-    "description": ""
+    "description": "",
+    "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
+    "instrumentation": "for flute, harp, violin, viola, and cello"
   }
 }

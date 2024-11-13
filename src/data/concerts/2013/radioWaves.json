@@ -1,0 +1,39 @@
+{
+  "radioWaves": {
+    "id": "radioWaves",
+    "year": "2013",
+    "concertTitle": "Radio Waves",
+    "dates": [
+      {
+        "date": "2013-02-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The home of Michael Schneikert & Karen Otamura in Pasadena",
+        "venueId": "michaelSchneikertAndKarenOtamuraHome"
+      },
+      {
+        "date": "2013-02-11T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2013-02-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "bachCelloSuiteDMinor",
+      "brubeckTritonis",
+      "bachChaconne",
+      "friesenCelloQuartet"
+    ],
+    "musicians": [
+      "giovannaMoragaClayton",
+      "eugeneFriesen",
+      "davidSpeltz",
+      "johnWalz"
+    ]
+  }
+}

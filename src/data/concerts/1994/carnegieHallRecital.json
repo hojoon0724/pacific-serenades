@@ -1,0 +1,29 @@
+{
+  "carnegieHallRecital": {
+    "id": "carnegieHallRecital",
+    "year": "1994",
+    "concertTitle": "Carnegie Hall Recital",
+    "dates": [
+      {
+        "date": "1994-09-24T09:00:03.000Z",
+        "time": "2::3",
+        "venue": "Weill Recital Hall",
+        "venueId": "weillRecitalHall"
+      }
+    ],
+    "program": [
+      "aldridgeThreeFolkSongs",
+      "carlsonPianoQuartet",
+      "brahmsClarinetQuintet",
+      "poulenceClarinetSonata"
+    ],
+    "musicians": [
+      "garyGray",
+      "rogerWilkie",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

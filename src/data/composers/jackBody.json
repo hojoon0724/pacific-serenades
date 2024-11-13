@@ -1,0 +1,13 @@
+{
+  "jackBody": {
+    "id": "jackBody",
+    "fullName": "Jack Body",
+    "firstName": "Jack",
+    "lastName": "Body",
+    "born": "1944",
+    "died": "",
+    "website": "http://www.jackbody.com/",
+    "photo": "",
+    "bio": ""
+  }
+}

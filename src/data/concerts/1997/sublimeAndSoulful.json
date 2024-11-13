@@ -1,0 +1,38 @@
+{
+  "sublimeAndSoulful": {
+    "id": "sublimeAndSoulful",
+    "year": "1997",
+    "concertTitle": "Sublime & Soulful",
+    "dates": [
+      {
+        "date": "1997-05-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1997-05-18T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1997-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "brahmsViolinAMajor",
+      "steinbergMulholland",
+      "mozartPianoQuartet"
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "connieKupka",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

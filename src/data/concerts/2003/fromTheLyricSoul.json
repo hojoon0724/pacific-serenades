@@ -1,0 +1,41 @@
+{
+  "fromTheLyricSoul": {
+    "id": "fromTheLyricSoul",
+    "year": "2003",
+    "concertTitle": "From the lyric soul",
+    "dates": [
+      {
+        "date": "2003-04-13T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2003-04-13T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2003-04-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "francoeurSonataEMajor",
+      "bachlundEchoFromTheShore",
+      "tartiniDevilsTrill",
+      "bachThreeArias",
+      "telemannQuartetInGMinor"
+    ],
+    "musicians": [
+      "julianaGondek",
+      "allanVogel",
+      "claytonHaslop",
+      "davidSpeltz",
+      "patriciaMabee"
+    ]
+  }
+}

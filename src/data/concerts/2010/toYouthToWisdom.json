@@ -1,0 +1,39 @@
+{
+  "toYouthToWisdom": {
+    "id": "toYouthToWisdom",
+    "year": "2010",
+    "concertTitle": "To youth! To wisdom!",
+    "dates": [
+      {
+        "date": "2010-01-31T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The home of Joanna Brody & Thomas Aujero Small in Culver City",
+        "venueId": "joannaBrodyAndThomasAujeroSmallHome"
+      },
+      {
+        "date": "2010-02-01T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2010-02-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "brahmsStringQuintetFMajor",
+      "krykaQuintetessence",
+      "bartokDuos"
+    ],
+    "musicians": [
+      "terezaStanislav",
+      "brendanSpeltz",
+      "rolandKato",
+      "connieKupka",
+      "davidSpeltz"
+    ]
+  }
+}

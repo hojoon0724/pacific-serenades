@@ -1,0 +1,38 @@
+{
+  "circleOfBlue": {
+    "id": "circleOfBlue",
+    "year": "2009",
+    "concertTitle": "Circle of blue",
+    "dates": [
+      {
+        "date": "2009-05-02T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of Susan Key & Michael Pratt in Brentwood",
+        "venueId": "susanKeyAndMichaelPrattHome"
+      },
+      {
+        "date": "2009-05-03T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2009-05-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "mozartDuoGMajor",
+      "ravelStringQuartet",
+      "childsStringQuartet"
+    ],
+    "musicians": [
+      "robertoCani",
+      "connieKupka",
+      "davidWalther",
+      "davidSpeltz"
+    ]
+  }
+}

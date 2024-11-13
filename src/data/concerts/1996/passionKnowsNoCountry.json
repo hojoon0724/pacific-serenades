@@ -1,0 +1,33 @@
+{
+  "passionKnowsNoCountry": {
+    "id": "passionKnowsNoCountry",
+    "year": "1996",
+    "concertTitle": "Passion knows no country",
+    "dates": [
+      {
+        "date": "1996-04-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1996-04-14T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "haydnQuartetOp76No2",
+      "conteQuintet",
+      "dvorakPianoQuintet"
+    ],
+    "musicians": [
+      "claytonHaslop",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

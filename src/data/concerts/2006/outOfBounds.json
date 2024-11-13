@@ -1,0 +1,39 @@
+{
+  "outOfBounds": {
+    "id": "outOfBounds",
+    "year": "2006",
+    "concertTitle": "Out of bounds",
+    "dates": [
+      {
+        "date": "2006-06-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Ellen & Harvey Knell in Pasadena (the Blacker House)",
+        "venueId": "ellenAndHarveyKnellPasadenaHome"
+      },
+      {
+        "date": "2006-06-04T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2006-06-07T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "brahmsClarinetQuintet",
+      "haydnQuartetOp33No3",
+      "draytonVisionsAndReflections"
+    ],
+    "musicians": [
+      "garyGray",
+      "phillipLevy",
+      "connieKupka",
+      "davidWalther",
+      "davidSpeltz"
+    ]
+  }
+}

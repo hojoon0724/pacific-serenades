@@ -1,0 +1,13 @@
+{
+  "shirleyWalker": {
+    "id": "shirleyWalker",
+    "fullName": "Shirley Walker",
+    "firstName": "Shirley",
+    "lastName": "Walker",
+    "born": "1945",
+    "died": "2006",
+    "website": "http://walker.filmmusic.com/",
+    "photo": "/photos/shirleyWalker.jpg",
+    "bio": ""
+  }
+}

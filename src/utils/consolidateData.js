@@ -1,15 +1,17 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-// Composers // Concerts // Musicians //
+// Composers // Concerts // Musicians // Works
 
 const composersFolder = '../data/composers';
 const concertsFolder = '../data/concerts';
 const musiciansFolder = '../data/musicians';
+const worksFolder = '../data/works';
 
-const allComposers = '../data/allComposers.json';
-const allConcerts = '../data/allConcerts.json';
-const allMusicians = '../data/allMusicians.json';
+const composersData = '../data/composersData.json';
+const concertsData = '../data/concertsData.json';
+const musiciansData = '../data/musiciansData.json';
+const worksData = '../data/worksData.json';
 
 async function writeToFile(file, content) {
   try {
@@ -60,14 +62,18 @@ async function compileData(sourceFolder, targetFile) {
   return [dataToBeWritten, targetFile];
 }
 
-compileData(composersFolder, allComposers).then(data => {
+compileData(composersFolder, composersData).then(data => {
   writeToFile(data[1], data[0]);
 });
 
-compileData(concertsFolder, allConcerts).then(data => {
+compileData(concertsFolder, concertsData).then(data => {
   writeToFile(data[1], data[0]);
 });
 
-compileData(musiciansFolder, allMusicians).then(data => {
+compileData(musiciansFolder, musiciansData).then(data => {
+  writeToFile(data[1], data[0]);
+});
+
+compileData(worksFolder, worksData).then(data => {
   writeToFile(data[1], data[0]);
 });

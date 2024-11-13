@@ -1,12 +1,12 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import allComposers from '@/data/allComposers.json';
+import composersData from '@/data/composersData.json';
 
 export default function Composers() {
   return (
     <section className="flex flex-wrap mx-auto items-center w-fit justify-center">
-      {Object.keys(allComposers).map(key => {
-        const composer = allComposers[key];
+      {Object.keys(composersData).map(key => {
+        const composer = composersData[key];
         return (
           <Link href={`/composers/${key}`} key={key}>
             <div className="composer-container flex justify-start items-center p-4 w-[300px]" key={key}>

@@ -1,0 +1,32 @@
+{
+  "aSongRecital": {
+    "id": "aSongRecital",
+    "year": "1987",
+    "concertTitle": "A Song Recital",
+    "dates": [
+      {
+        "date": "1987-07-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Harvey S. Perloff in Westwood",
+        "venueId": "mrsHarveyPerloffHome"
+      },
+      {
+        "date": "1987-07-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": [
+      "straussSongs",
+      "bergOp2",
+      "faureSongs2010",
+      "carlsonThisIsTheGarden",
+      "ivesSongs1987"
+    ],
+    "musicians": [
+      "miltonFriesen",
+      "laraineStivers"
+    ]
+  }
+}

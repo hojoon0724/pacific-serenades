@@ -1,0 +1,33 @@
+{
+  "mixedEnsemble2": {
+    "id": "mixedEnsemble2",
+    "year": "1987",
+    "concertTitle": "Mixed Ensemble",
+    "dates": [
+      {
+        "date": "1987-01-21T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
+      },
+      {
+        "date": "1987-01-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": [
+      "mendelssohnDMinor",
+      "bartokContrasts",
+      "bourlandSerenadeNo2"
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "peterMarsh",
+      "stevenErdody",
+      "deloresStevens"
+    ]
+  }
+}
