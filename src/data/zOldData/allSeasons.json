@@ -1,7 +1,7 @@
 {
   "2016 Season": [
     {
-      "id": "smiles-of-a-summer-day",
+      "id": "smilesOfASummerDay",
       "year": "2016",
       "concertTitle": "Smiles of a Summer Day",
       "program": [
@@ -23,7 +23,7 @@
   ],
   "2015 Season": [
     {
-      "id": "a-potpourri-the-next-generation",
+      "id": "aPotpourriTheNextGeneration",
       "year": "2015",
       "concertTitle": "A Potpourri/PacSer, the Next Generation",
       "program": [
@@ -61,7 +61,7 @@
   ],
   "2014 Season": [
     {
-      "id": "sense-and-sensuality",
+      "id": "senseAndSensuality",
       "year": "2014",
       "concertTitle": "Sense & Sensuality",
       "program": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "id": "high-tide",
+      "id": "highTide",
       "year": "2013",
       "concertTitle": "High Tide",
       "program": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "id": "radio-waves",
+      "id": "radioWaves",
       "year": "2013",
       "concertTitle": "Radio Waves",
       "program": [
@@ -173,7 +173,7 @@
   ],
   "2012 Season": [
     {
-      "id": "aloud-and-proud-chamber-music-by-lesbian-and-gay-composers",
+      "id": "aloudAndProudChamberMusicByLesbianAndGayComposers",
       "year": "2012",
       "concertTitle": "Aloud & Proud: chamber music by lesbian and gay composers",
       "program": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "id": "grafts-and-hybrids",
+      "id": "graftsAndHybrids",
       "year": "2012",
       "concertTitle": "Grafts & Hybrids",
       "program": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "id": "cross-pollination",
+      "id": "crossPollination",
       "year": "2012",
       "concertTitle": "Cross-pollination",
       "program": [
@@ -277,7 +277,7 @@
   ],
   "2011 Season": [
     {
-      "id": "25-102",
+      "id": "25102",
       "year": "2011",
       "concertTitle": "25/102",
       "program": [
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "id": "25-101",
+      "id": "25101",
       "year": "2011",
       "concertTitle": "25/101",
       "program": [
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "id": "25-100",
+      "id": "25100",
       "year": "2011",
       "concertTitle": "25/100",
       "program": [
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "id": "25-99",
+      "id": "2599",
       "year": "2011",
       "concertTitle": "25/99",
       "program": [
@@ -376,7 +376,7 @@
   ],
   "2010 Season": [
     {
-      "id": "ode-to-imagination",
+      "id": "odeToImagination",
       "year": "2010",
       "concertTitle": "Ode to imagination",
       "program": [
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "id": "mixed-up-world",
+      "id": "mixedUpWorld",
       "year": "2010",
       "concertTitle": "Mixed Up World",
       "program": [
@@ -440,7 +440,7 @@
       ]
     },
     {
-      "id": "to-youth-to-wisdom",
+      "id": "toYouthToWisdom",
       "year": "2010",
       "concertTitle": "To youth! To wisdom!",
       "program": [
@@ -462,7 +462,7 @@
   ],
   "2009 Season": [
     {
-      "id": "woven-of-many-strands",
+      "id": "wovenOfManyStrands",
       "year": "2009",
       "concertTitle": "Woven of many strands",
       "program": [
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "id": "circle-of-blue",
+      "id": "circleOfBlue",
       "year": "2009",
       "concertTitle": "Circle of blue",
       "program": [
@@ -502,7 +502,7 @@
       ]
     },
     {
-      "id": "music-among-friends",
+      "id": "musicAmongFriends",
       "year": "2009",
       "concertTitle": "Music among friends",
       "program": [
@@ -522,7 +522,7 @@
       ]
     },
     {
-      "id": "the-world-is-our-community",
+      "id": "theWorldIsOurCommunity",
       "year": "2009",
       "concertTitle": "The world is our community",
       "program": [
@@ -556,7 +556,7 @@
   ],
   "2008 Season": [
     {
-      "id": "the-soul-of-lyricism",
+      "id": "theSoulOfLyricism",
       "year": "2008",
       "concertTitle": "The soul of lyricism",
       "program": [
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "id": "dark-woods-and-gleaming-cities",
+      "id": "darkWoodsAndGleamingCities",
       "year": "2008",
       "concertTitle": "Dark woods and gleaming cities",
       "program": [
@@ -608,7 +608,7 @@
       ]
     },
     {
-      "id": "mavericks-and-magicians",
+      "id": "mavericksAndMagicians",
       "year": "2008",
       "concertTitle": "Mavericks and Magicians",
       "program": [
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "id": "to-the-victims-of-war-a-dedication-to-life",
+      "id": "toTheVictimsOfWarADedicationToLife",
       "year": "2008",
       "concertTitle": "To the victims of war, a dedication to life",
       "program": [
@@ -650,7 +650,7 @@
   ],
   "2007 Season": [
     {
-      "id": "we-all-are-mortal",
+      "id": "weAllAreMortal",
       "year": "2007",
       "concertTitle": "We all are mortal",
       "program": [
@@ -670,7 +670,7 @@
       ]
     },
     {
-      "id": "we-all-cherish-our-childrens-future",
+      "id": "weAllCherishOurChildrensFuture",
       "year": "2007",
       "concertTitle": "We all cherish our children’s future",
       "program": [
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "id": "we-all-breath-the-same-air",
+      "id": "weAllBreathTheSameAir",
       "year": "2007",
       "concertTitle": "We all breath the same air",
       "program": [
@@ -714,7 +714,7 @@
       ]
     },
     {
-      "id": "we-all-inhabit-this-small-planet",
+      "id": "weAllInhabitThisSmallPlanet",
       "year": "2007",
       "concertTitle": "We all inhabit this small planet",
       "program": [
@@ -740,7 +740,7 @@
   ],
   "2006 Season": [
     {
-      "id": "out-of-bounds",
+      "id": "outOfBounds",
       "year": "2006",
       "concertTitle": "Out of bounds",
       "program": [
@@ -760,7 +760,7 @@
       ]
     },
     {
-      "id": "chamber-music-at-ucla-presents-encounters-with-pacific-serenades",
+      "id": "chamberMusicAtUclaPresentsEncountersWithPacificSerenades",
       "year": "2006",
       "concertTitle": "Chamber Music at UCLA Presents Encounters with Pacific Serenades",
       "program": [
@@ -805,7 +805,7 @@
       ]
     },
     {
-      "id": "a-portal-from-here-to-then",
+      "id": "aPortalFromHereToThen",
       "year": "2006",
       "concertTitle": "A portal from here to then",
       "program": [
@@ -829,7 +829,7 @@
       ]
     },
     {
-      "id": "spanning-worlds",
+      "id": "spanningWorlds",
       "year": "2006",
       "concertTitle": "Spanning worlds",
       "program": [
@@ -851,7 +851,7 @@
   ],
   "2005 Season": [
     {
-      "id": "music-when-soft-voices-die-vibrates-in-the-memory-percy-bysshe-shelley",
+      "id": "musicWhenSoftVoicesDieVibratesInTheMemoryPercyByssheShelley",
       "year": "2005",
       "concertTitle": "\"Music, when soft voices die, vibrates in the memory.\" -Percy Bysshe Shelley",
       "program": [
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "id": "there-is-a-magic-made-by-melody-elizabeth-bishop",
+      "id": "thereIsAMagicMadeByMelodyElizabethBishop",
       "year": "2005",
       "concertTitle": "“There is a magic made by melody…” -Elizabeth Bishop",
       "program": [
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "id": "sweep-softly-thy-strings-walter-de-la-mare",
+      "id": "sweepSoftlyThyStringsWalterDeLaMare",
       "year": "2005",
       "concertTitle": "“Sweep softly thy strings…” -Walter de la Mare",
       "program": [
@@ -916,7 +916,7 @@
       ]
     },
     {
-      "id": "such-harmony-is-in-immortal-souls-shakespeare",
+      "id": "suchHarmonyIsInImmortalSoulsShakespeare",
       "year": "2005",
       "concertTitle": "“Such harmony is in immortal souls.” -Shakespeare",
       "program": [
@@ -942,7 +942,7 @@
   ],
   "2004 Season": [
     {
-      "id": "like-a-warm-zephyr",
+      "id": "likeAWarmZephyr",
       "year": "2004",
       "concertTitle": "Like a warm zephyr",
       "program": [
@@ -962,7 +962,7 @@
       ]
     },
     {
-      "id": "blue-waves-snowy-peaks",
+      "id": "blueWavesSnowyPeaks",
       "year": "2004",
       "concertTitle": "Blue waves, snowy peaks",
       "program": [
@@ -986,7 +986,7 @@
       ]
     },
     {
-      "id": "from-sage-filled-canyons-and-verdant-rivers",
+      "id": "fromSageFilledCanyonsAndVerdantRivers",
       "year": "2004",
       "concertTitle": "From sage-filled canyons and verdant rivers",
       "program": [
@@ -1010,7 +1010,7 @@
       ]
     },
     {
-      "id": "of-golden-hills-and-dark-forests",
+      "id": "ofGoldenHillsAndDarkForests",
       "year": "2004",
       "concertTitle": "Of golden hills and dark forests",
       "program": [
@@ -1032,7 +1032,7 @@
   ],
   "2003 Season": [
     {
-      "id": "a-glistening-fountain-of-sounds",
+      "id": "aGlisteningFountainOfSounds",
       "year": "2003",
       "concertTitle": "A glistening fountain of sounds",
       "program": [
@@ -1052,7 +1052,7 @@
       ]
     },
     {
-      "id": "from-the-lyric-soul",
+      "id": "fromTheLyricSoul",
       "year": "2003",
       "concertTitle": "From the lyric soul",
       "program": [
@@ -1080,7 +1080,7 @@
       ]
     },
     {
-      "id": "enfolded-in-velvet",
+      "id": "enfoldedInVelvet",
       "year": "2003",
       "concertTitle": "Enfolded in velvet",
       "program": [
@@ -1104,7 +1104,7 @@
       ]
     },
     {
-      "id": "the-splendor-of-virtuosity",
+      "id": "theSplendorOfVirtuosity",
       "year": "2003",
       "concertTitle": "The splendor of virtuosity",
       "program": [
@@ -1130,7 +1130,7 @@
   ],
   "2002 Season": [
     {
-      "id": "weavers-of-delight",
+      "id": "weaversOfDelight",
       "year": "2002",
       "concertTitle": "weavers of delight",
       "program": [
@@ -1150,7 +1150,7 @@
       ]
     },
     {
-      "id": "spinning-a-harmonious-web",
+      "id": "spinningAHarmoniousWeb",
       "year": "2002",
       "concertTitle": "spinning a harmonious web",
       "program": [
@@ -1170,7 +1170,7 @@
       ]
     },
     {
-      "id": "a-quilt-of-many-lands",
+      "id": "aQuiltOfManyLands",
       "year": "2002",
       "concertTitle": "a quilt of many lands",
       "program": [
@@ -1198,7 +1198,7 @@
       ]
     },
     {
-      "id": "on-a-loom-of-light-and-shadow",
+      "id": "onALoomOfLightAndShadow",
       "year": "2002",
       "concertTitle": "on a loom of light and shadow",
       "program": [
@@ -1220,7 +1220,7 @@
   ],
   "2001 Season": [
     {
-      "id": "a-cascade-of-gemstones",
+      "id": "aCascadeOfGemstones",
       "year": "2001",
       "concertTitle": "A Cascade of Gemstones",
       "program": [
@@ -1244,7 +1244,7 @@
       ]
     },
     {
-      "id": "secret-pathways-hidden-treasures",
+      "id": "secretPathwaysHiddenTreasures",
       "year": "2001",
       "concertTitle": "Secret Pathways, Hidden Treasures",
       "program": [
@@ -1264,7 +1264,7 @@
       ]
     },
     {
-      "id": "entwining-branches",
+      "id": "entwiningBranches",
       "year": "2001",
       "concertTitle": "Entwining Branches",
       "program": [
@@ -1284,7 +1284,7 @@
       ]
     },
     {
-      "id": "an-intoxicating-bouquet",
+      "id": "anIntoxicatingBouquet",
       "year": "2001",
       "concertTitle": "An Intoxicating Bouquet",
       "program": [
@@ -1306,7 +1306,7 @@
   ],
   "2000 Season": [
     {
-      "id": "luminous-refractions-of-soul",
+      "id": "luminousRefractionsOfSoul",
       "year": "2000",
       "concertTitle": "Luminous Refractions of Soul",
       "program": [
@@ -1326,7 +1326,7 @@
       ]
     },
     {
-      "id": "aria-in-woods-and-metals",
+      "id": "ariaInWoodsAndMetals",
       "year": "2000",
       "concertTitle": "Aria in Woods and Metals",
       "program": [
@@ -1346,7 +1346,7 @@
       ]
     },
     {
-      "id": "through-mist-and-shadow",
+      "id": "throughMistAndShadow",
       "year": "2000",
       "concertTitle": "Through Mist and Shadow",
       "program": [
@@ -1366,7 +1366,7 @@
       ]
     },
     {
-      "id": "bridging-worlds-with-song",
+      "id": "bridgingWorldsWithSong",
       "year": "2000",
       "concertTitle": "Bridging Worlds with Song",
       "program": [
@@ -1388,7 +1388,7 @@
   ],
   "1999 Season": [
     {
-      "id": "hauntings-joy-and-triumph",
+      "id": "hauntingsJoyAndTriumph",
       "year": "1999",
       "concertTitle": "Hauntings, Joy, and Triumph",
       "program": [
@@ -1408,7 +1408,7 @@
       ]
     },
     {
-      "id": "the-garden-of-celestial-delights",
+      "id": "theGardenOfCelestialDelights",
       "year": "1999",
       "concertTitle": "The Garden of Celestial Delights",
       "program": [
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "id": "an-aural-kaleidoscope",
+      "id": "anAuralKaleidoscope",
       "year": "1999",
       "concertTitle": "An Aural Kaleidoscope",
       "program": [
@@ -1452,7 +1452,7 @@
       ]
     },
     {
-      "id": "a-romance-with-rhapsody",
+      "id": "aRomanceWithRhapsody",
       "year": "1999",
       "concertTitle": "A Romance with Rhapsody",
       "program": [
@@ -1478,7 +1478,7 @@
   ],
   "1998 Season": [
     {
-      "id": "playful-sparkling-magical",
+      "id": "playfulSparklingMagical",
       "year": "1998",
       "concertTitle": "Playful, Sparkling, Magical",
       "program": [
@@ -1498,7 +1498,7 @@
       ]
     },
     {
-      "id": "on-wings-of-fantasy",
+      "id": "onWingsOfFantasy",
       "year": "1998",
       "concertTitle": "On Wings of Fantasy",
       "program": [
@@ -1522,7 +1522,7 @@
       ]
     },
     {
-      "id": "summer-fire-autumn-embers",
+      "id": "summerFireAutumnEmbers",
       "year": "1998",
       "concertTitle": "Summer Fire, Autumn Embers",
       "program": [
@@ -1542,7 +1542,7 @@
       ]
     },
     {
-      "id": "a-sensory-celebration",
+      "id": "aSensoryCelebration",
       "year": "1998",
       "concertTitle": "A Sensory Celebration",
       "program": [
@@ -1562,7 +1562,7 @@
       ]
     },
     {
-      "id": "old-first-concerts-presents-pacific-serenades",
+      "id": "oldFirstConcertsPresentsPacificSerenades",
       "year": "1998",
       "concertTitle": "Old First Concerts presents Pacific Serenades",
       "program": [
@@ -1584,7 +1584,7 @@
   ],
   "1997 Season": [
     {
-      "id": "sublime-and-soulful",
+      "id": "sublimeAndSoulful",
       "year": "1997",
       "concertTitle": "Sublime & Soulful",
       "program": [
@@ -1604,7 +1604,7 @@
       ]
     },
     {
-      "id": "the-three-bs-and-a-little-messiaen",
+      "id": "theThreeBsAndALittleMessiaen",
       "year": "1997",
       "concertTitle": "The Three B’s…(and a little Messiaen)",
       "program": [
@@ -1628,7 +1628,7 @@
       ]
     },
     {
-      "id": "enchantment-and-elegance",
+      "id": "enchantmentAndElegance",
       "year": "1997",
       "concertTitle": "Enchantment & Elegance",
       "program": [
@@ -1652,7 +1652,7 @@
       ]
     },
     {
-      "id": "new-friends-old-treasures",
+      "id": "newFriendsOldTreasures",
       "year": "1997",
       "concertTitle": "New Friends, Old Treasures",
       "program": [
@@ -1674,7 +1674,7 @@
   ],
   "1996 Season": [
     {
-      "id": "three-centuries-of-lyricism",
+      "id": "threeCenturiesOfLyricism",
       "year": "1996",
       "concertTitle": "Three centuries of lyricism",
       "program": [
@@ -1698,7 +1698,7 @@
       ]
     },
     {
-      "id": "passion-knows-no-country",
+      "id": "passionKnowsNoCountry",
       "year": "1996",
       "concertTitle": "Passion knows no country",
       "program": [
@@ -1718,7 +1718,7 @@
       ]
     },
     {
-      "id": "when-playful-and-serious-meet",
+      "id": "whenPlayfulAndSeriousMeet",
       "year": "1996",
       "concertTitle": "When playful and serious meet",
       "program": [
@@ -1742,7 +1742,7 @@
       ]
     },
     {
-      "id": "from-the-depths-of-soul",
+      "id": "fromTheDepthsOfSoul",
       "year": "1996",
       "concertTitle": "From the depths of soul",
       "program": [
@@ -1764,7 +1764,7 @@
   ],
   "1995 Season": [
     {
-      "id": "baroque-visions-and-contemporary-reflections",
+      "id": "baroqueVisionsAndContemporaryReflections",
       "year": "1995",
       "concertTitle": "Baroque visions and contemporary reflections",
       "program": [
@@ -1792,7 +1792,7 @@
       ]
     },
     {
-      "id": "the-late-romantic-and-the-romantic-20th-century",
+      "id": "theLateRomanticAndTheRomantic20thCentury",
       "year": "1995",
       "concertTitle": "The Late Romantic and the romantic 20th century",
       "program": [
@@ -1816,7 +1816,7 @@
       ]
     },
     {
-      "id": "the-soul-of-chamber-music-strings-and-beyond",
+      "id": "theSoulOfChamberMusicStringsAndBeyond",
       "year": "1995",
       "concertTitle": "The soul of chamber music-strings and beyond",
       "program": [
@@ -1836,7 +1836,7 @@
       ]
     },
     {
-      "id": "passion-knows-no-country-2",
+      "id": "passionKnowsNoCountry2",
       "year": "1995",
       "concertTitle": "Passion knows no country",
       "program": [
@@ -1856,7 +1856,7 @@
       ]
     },
     {
-      "id": "carnegie-hall-recital",
+      "id": "carnegieHallRecital",
       "year": "1995",
       "concertTitle": "Carnegie Hall Recital",
       "program": [
@@ -1883,7 +1883,7 @@
   ],
   "1994 Season": [
     {
-      "id": "april-concert-1994",
+      "id": "aprilConcert1994",
       "year": "1994",
       "concertTitle": "April Concert",
       "program": [
@@ -1903,7 +1903,7 @@
       ]
     },
     {
-      "id": "march-concert-1994",
+      "id": "marchConcert1994",
       "year": "1994",
       "concertTitle": "March Concert",
       "program": [
@@ -1923,7 +1923,7 @@
       ]
     },
     {
-      "id": "february-concert-1994",
+      "id": "februaryConcert1994",
       "year": "1994",
       "concertTitle": "February Concert",
       "program": [
@@ -1947,7 +1947,7 @@
       ]
     },
     {
-      "id": "january-concert-1994",
+      "id": "januaryConcert1994",
       "year": "1994",
       "concertTitle": "January Concert",
       "program": [
@@ -1969,7 +1969,7 @@
   ],
   "1993 Season": [
     {
-      "id": "may-concert-1993",
+      "id": "mayConcert1993",
       "year": "1993",
       "concertTitle": "May Concert",
       "program": [
@@ -1989,7 +1989,7 @@
       ]
     },
     {
-      "id": "april-concert-1993",
+      "id": "aprilConcert1993",
       "year": "1993",
       "concertTitle": "April Concert",
       "program": [
@@ -2008,7 +2008,7 @@
       ]
     },
     {
-      "id": "march-concert-1993",
+      "id": "marchConcert1993",
       "year": "1993",
       "concertTitle": "March Concert",
       "program": [
@@ -2028,7 +2028,7 @@
       ]
     },
     {
-      "id": "february-concert-1993",
+      "id": "februaryConcert1993",
       "year": "1993",
       "concertTitle": "February Concert",
       "program": [
@@ -2050,7 +2050,7 @@
   ],
   "1992 Season": [
     {
-      "id": "may-concert-1992",
+      "id": "mayConcert1992",
       "year": "1992",
       "concertTitle": "May Concert",
       "program": [
@@ -2073,7 +2073,7 @@
       ]
     },
     {
-      "id": "april-concert-1992",
+      "id": "aprilConcert1992",
       "year": "1992",
       "concertTitle": "April Concert",
       "program": [
@@ -2093,7 +2093,7 @@
       ]
     },
     {
-      "id": "march-concert-1992",
+      "id": "marchConcert1992",
       "year": "1992",
       "concertTitle": "March Concert",
       "program": [
@@ -2113,7 +2113,7 @@
       ]
     },
     {
-      "id": "february-concert-1992",
+      "id": "februaryConcert1992",
       "year": "1992",
       "concertTitle": "February Concert",
       "program": [
@@ -2135,7 +2135,7 @@
   ],
   "1991—in memory of Charlie Swigart Season": [
     {
-      "id": "february-concert-1991",
+      "id": "februaryConcert1991",
       "year": "1991",
       "concertTitle": "February Concert",
       "program": [
@@ -2155,7 +2155,7 @@
       ]
     },
     {
-      "id": "march-concert-1991",
+      "id": "marchConcert1991",
       "year": "1991",
       "concertTitle": "March Concert",
       "program": [
@@ -2179,7 +2179,7 @@
       ]
     },
     {
-      "id": "may-concert-1991",
+      "id": "mayConcert1991",
       "year": "1991",
       "concertTitle": "May Concert",
       "program": [
@@ -2199,7 +2199,7 @@
       ]
     },
     {
-      "id": "april-concert-1991",
+      "id": "aprilConcert1991",
       "year": "1991",
       "concertTitle": "April Concert",
       "program": [
@@ -2221,7 +2221,7 @@
   ],
   "1990 Season": [
     {
-      "id": "may-concert-1990",
+      "id": "mayConcert1990",
       "year": "1990",
       "concertTitle": "May Concert",
       "program": [
@@ -2241,7 +2241,7 @@
       ]
     },
     {
-      "id": "april-concert-1990",
+      "id": "aprilConcert1990",
       "year": "1990",
       "concertTitle": "April Concert",
       "program": [
@@ -2261,7 +2261,7 @@
       ]
     },
     {
-      "id": "february-concert-1990",
+      "id": "februaryConcert1990",
       "year": "1990",
       "concertTitle": "February Concert",
       "program": [
@@ -2289,7 +2289,7 @@
       ]
     },
     {
-      "id": "january-concert-1990",
+      "id": "januaryConcert1990",
       "year": "1990",
       "concertTitle": "January Concert",
       "program": [
@@ -2311,7 +2311,7 @@
   ],
   "1989 Season": [
     {
-      "id": "the-angeles-string-quartet",
+      "id": "theAngelesStringQuartet",
       "year": "1989",
       "concertTitle": "The Angeles String Quartet",
       "program": [
@@ -2331,7 +2331,7 @@
       ]
     },
     {
-      "id": "april-concert-1989",
+      "id": "aprilConcert1989",
       "year": "1989",
       "concertTitle": "April Concert",
       "program": [
@@ -2355,7 +2355,7 @@
       ]
     },
     {
-      "id": "march-concert-1989",
+      "id": "marchConcert1989",
       "year": "1989",
       "concertTitle": "March Concert",
       "program": [
@@ -2375,7 +2375,7 @@
       ]
     },
     {
-      "id": "january-concert-1989",
+      "id": "januaryConcert1989",
       "year": "1989",
       "concertTitle": "January Concert",
       "program": [
@@ -2401,7 +2401,7 @@
   ],
   "1988 Season": [
     {
-      "id": "the-elgart-yates-guitar-duo",
+      "id": "theElgartYatesGuitarDuo",
       "year": "1988",
       "concertTitle": "The Elgart/Yates Guitar Duo",
       "program": [
@@ -2449,7 +2449,7 @@
       ]
     },
     {
-      "id": "clarinet-quintet",
+      "id": "clarinetQuintet",
       "year": "1988",
       "concertTitle": "Clarinet Quintet",
       "program": [
@@ -2508,7 +2508,7 @@
       ]
     },
     {
-      "id": "mixed-ensemble",
+      "id": "mixedEnsemble",
       "year": "1988",
       "concertTitle": "Mixed Ensemble",
       "program": [
@@ -2530,7 +2530,7 @@
   ],
   "1987 Season": [
     {
-      "id": "a-song-recital",
+      "id": "aSongRecital",
       "year": "1987",
       "concertTitle": "A Song Recital",
       "program": [
@@ -2558,7 +2558,7 @@
       ]
     },
     {
-      "id": "the-westwood-wind-quintet",
+      "id": "theWestwoodWindQuintet",
       "year": "1987",
       "concertTitle": "The Westwood Wind Quintet",
       "program": [
@@ -2582,7 +2582,7 @@
       ]
     },
     {
-      "id": "the-satori-string-quartet",
+      "id": "theSatoriStringQuartet",
       "year": "1987",
       "concertTitle": "The Satori String Quartet",
       "program": [
@@ -2602,7 +2602,7 @@
       ]
     },
     {
-      "id": "mixed-ensemble-2",
+      "id": "mixedEnsemble2",
       "year": "1987",
       "concertTitle": "Mixed Ensemble",
       "program": [
@@ -2624,7 +2624,7 @@
   ],
   "1986 Season": [
     {
-      "id": "concert-ii",
+      "id": "concertIi",
       "year": "1986",
       "concertTitle": "Concert II",
       "program": [
@@ -2645,7 +2645,7 @@
   ],
   "1982 Season": [
     {
-      "id": "the-ur-concert",
+      "id": "theUrConcert",
       "year": "1982",
       "concertTitle": "The Ur-Concert",
       "program": [

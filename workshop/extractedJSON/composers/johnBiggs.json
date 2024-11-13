@@ -1,0 +1,13 @@
+{
+  "johnBiggs": {
+    "id": "johnBiggs",
+    "fullName": "John Biggs",
+    "firstName": "John",
+    "lastName": "Biggs",
+    "born": "1932",
+    "died": "",
+    "website": "http://www.consortpress.com/Bio.Reviews.html",
+    "photo": "/photos/johnBiggs.jpg",
+    "bio": ""
+  }
+}

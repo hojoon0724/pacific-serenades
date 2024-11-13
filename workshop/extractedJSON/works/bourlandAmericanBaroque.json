@@ -1,0 +1,17 @@
+{
+  "bourlandAmericanBaroque": {
+    "id": "bourlandAmericanBaroque",
+    "workName": "American Baroque",
+    "workYear": "1992",
+    "workComposer": "rogerBourland",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_101_1163&amp;products_id=7642",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=lAgCStpp5_c",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [],
+    "description": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "lefkowitzDreamsPianoQuintet": {
+    "id": "lefkowitzDreamsPianoQuintet",
+    "workName": "Dreams: All of a Peace",
+    "workYear": "2007",
+    "workComposer": "davidLefkowitz",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_110_1173&amp;products_id=7753&amp;zenid=4d5124d242525b2aa864268ade2517cc",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=Ik9zDyb5Pl4&amp;list=PLWzOF_7a7S5mbLFRh_7TpwVZuCwxfyKyi",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [
+      [
+        "Dreams-1.mp3",
+        "Excerpt: Mvt. 1 (1)"
+      ],
+      [
+        "Dreams-1b.mp3",
+        "Excerpt: Mvt. 1 (2)"
+      ],
+      [
+        "Dreams-2.mp3",
+        "Excerpt: Mvt. 2 (1)"
+      ],
+      [
+        "Dreams-2b.mp3",
+        "Excerpt: Mvt. 2 (2)"
+      ],
+      [
+        "Dreams-2c.mp3",
+        "Excerpt: Mvt. 2 (3)"
+      ]
+    ],
+    "description": ""
+  }
+}

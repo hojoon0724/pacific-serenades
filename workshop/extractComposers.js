@@ -1,5 +1,12 @@
+// FULLY WORKING
+
 const fs = require("fs").promises;
 const path = require("path");
+
+const sourceFolder = "./htmlPages/composersPages";
+
+const destinationFolder = "./extractedJSON/composers";
+const destinationFile = "./extractedJSON/composersData.json";
 
 const metadataSection = { startStr: '{"@context":', endStr: "</script>" };
 const composerId = { startStr: '"@id":"http://pacser.org/composers/', endStr: '/","url":' };
@@ -10,12 +17,6 @@ const dates = { startStr: '<span class="years">(', endStr: ")</span>" };
 const website = { startStr: '<a href="', endStr: '" class="website">' };
 const photo = { startStr: '},"thumbnailUrl":"', endStr: '","datePublished"' };
 const bio = { startStr: "</h1>", midStr: "</span>", endStr: "<!--" };
-const bioNoWebsite = { startStr: "<a href", midStr: "</a>", endStr: "<!--" };
-
-const sourceFolder = "./allComposers";
-
-const destinationFolder = "./allComposersJSON";
-const destinationFile = "./allComposers.json";
 
 function writeToFile(file, content) {
   fs.writeFile(file, JSON.stringify(content, null, 2));
@@ -104,6 +105,7 @@ async function processFile(filePath) {
     let composer = {
       [composerIdData]: {
         id: composerIdData,
+        fullName: composerNameData,
         firstName: firstName,
         lastName: lastName,
         born: splitDates[0] ? splitDates[0] : "",
@@ -158,7 +160,7 @@ async function main() {
 
   let dataToBeWritten = await processDirectory(sourceFolder);
   // console.log("main function ended");
-  console.log("dataToBeWritten", dataToBeWritten);
+  // console.log("dataToBeWritten", dataToBeWritten);
   return dataToBeWritten;
 }
 

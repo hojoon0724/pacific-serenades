@@ -1,0 +1,17 @@
+{
+  "goodmanPianoQuartet": {
+    "id": "goodmanPianoQuartet",
+    "workName": "Piano Quartet",
+    "workYear": "1999",
+    "workComposer": "davidGoodman",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_105_1520&amp;products_id=10700",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=4bs-05gcwo0&amp;list=PLWzOF_7a7S5numLU7OgpWmciB4_gHqhWt",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [],
+    "description": ""
+  }
+}

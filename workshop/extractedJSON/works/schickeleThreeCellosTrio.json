@@ -1,0 +1,33 @@
+{
+  "schickeleThreeCellosTrio": {
+    "id": "schickeleThreeCellosTrio",
+    "workName": "Three Cellos",
+    "workYear": "2007",
+    "workComposer": "peterSchickele",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "s07-part1.mp3",
+        "Excerpt: Mvt. 1"
+      ],
+      [
+        "s07-part2.mp3",
+        "Excerpt: Mvt. 2"
+      ],
+      [
+        "s07-part3.mp3",
+        "Excerpt: Mvt. 3"
+      ],
+      [
+        "s07-part4A.mp3",
+        "Excerpt: Mvt. 4 (1)"
+      ],
+      [
+        "s07-part4B.mp3",
+        "Excerpt: Mvt. 4 (2)"
+      ]
+    ],
+    "description": ""
+  }
+}

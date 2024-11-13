@@ -1,0 +1,41 @@
+{
+  "tatroScatteringsQuartet": {
+    "id": "tatroScatteringsQuartet",
+    "workName": "Scatterings",
+    "workYear": "2012",
+    "workComposer": "duaneTatro",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Tat12-1a.mp3",
+        "Excerpt: Diffusion (1)"
+      ],
+      [
+        "Tat12-1b.mp3",
+        "Excerpt: Diffusion (2)"
+      ],
+      [
+        "Tat12-2a.mp3",
+        "Excerpt: Fragments (1)"
+      ],
+      [
+        "Tat12-2b.mp3",
+        "Excerpt: Fragments (2)"
+      ],
+      [
+        "Tat12-3a.mp3",
+        "Excerpt: Gathering (1)"
+      ],
+      [
+        "Tat12-3b.mp3",
+        "Excerpt: Gathering (2)"
+      ],
+      [
+        "Tat12-3cf.mp3",
+        "Excerpt: Conclusion"
+      ]
+    ],
+    "description": ""
+  }
+}

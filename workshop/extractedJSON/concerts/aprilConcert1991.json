@@ -1,0 +1,46 @@
+{
+  "aprilConcert1991": {
+    "id": "aprilConcert1991",
+    "year": "1991",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1991-02-03T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David & Helene Rottapel in Sherman Oaks"
+      },
+      {
+        "date": "1991-02-03T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in D major, K. 285",
+        "workYear": "1777",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for flute, violin, viola, and cello"
+      },
+      {
+        "workName": "Sonata for Violin and Cello",
+        "workYear": "1920",
+        "workComposer": "mauriceRavel",
+        "workInstrumentation": "for violin and cello"
+      },
+      {
+        "workName": "Tientos",
+        "workYear": "1991",
+        "workComposer": "ianKrouse",
+        "workInstrumentation": "for flute, violin, viola, and cello"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "connieKupka",
+      "michaelNowak",
+      "davidSpeltz",
+      "jonathanStockhammer"
+    ]
+  }
+}

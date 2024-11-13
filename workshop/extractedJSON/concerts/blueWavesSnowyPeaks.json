@@ -1,0 +1,56 @@
+{
+  "blueWavesSnowyPeaks": {
+    "id": "blueWavesSnowyPeaks",
+    "year": "2004",
+    "concertTitle": "Blue waves, snowy peaks",
+    "dates": [
+      {
+        "date": "2004-04-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood"
+      },
+      {
+        "date": "2004-04-25T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "date": "2004-04-28T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata in F major, Op. 99",
+        "workYear": "1886",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for cello and piano"
+      },
+      {
+        "workName": "Tapestry",
+        "workYear": "2004",
+        "workComposer": "benjaminLees",
+        "workInstrumentation": "for flute, clarinet, cello, and piano"
+      },
+      {
+        "workName": "Poem",
+        "workYear": "1918",
+        "workComposer": "charlesGriffes",
+        "workInstrumentation": "for flute and piano"
+      },
+      {
+        "workName": "Trio in B flat major, Op. 11",
+        "workYear": "1798",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for clarinet, cello, and piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

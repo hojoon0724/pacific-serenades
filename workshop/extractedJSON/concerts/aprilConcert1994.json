@@ -1,0 +1,46 @@
+{
+  "aprilConcert1994": {
+    "id": "aprilConcert1994",
+    "year": "1994",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1994-05-01T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Barbara & John McLoughlin"
+      },
+      {
+        "date": "1994-05-01T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Duo in G major, K. 423",
+        "workYear": "1783",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for violin and viola"
+      },
+      {
+        "workName": "Dancing in Her Sleep",
+        "workYear": "1994",
+        "workComposer": "larryLipkis",
+        "workInstrumentation": "for piano quintet"
+      },
+      {
+        "workName": "Piano Quintet in F minor, Op. 34",
+        "workYear": "1864",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for piano quintet"
+      }
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "connieKupka",
+      "cynthiaPhelps",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

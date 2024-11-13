@@ -1,0 +1,29 @@
+{
+  "delAguilaLatinLove": {
+    "id": "delAguilaLatinLove",
+    "workName": "Latin Love",
+    "workYear": "2004",
+    "workComposer": "miguelDelAguila",
+    "purchaseLink": "https://www.trevcomusic.com/products/mda-82-aguila-miguel-del-latin-love-op82-ww5-pn?_pos=1&_sid=7e9664cfc&amp;_ss=r",
+    "video": [],
+    "audio": [
+      [
+        "dA05-x1.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "dA05-x2.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "dA05-x3.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "dA05-xf.mp3",
+        "Excerpt 4"
+      ]
+    ],
+    "description": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "bridgingWorldsWithSong": {
+    "id": "bridgingWorldsWithSong",
+    "year": "2000",
+    "concertTitle": "Bridging Worlds with Song",
+    "dates": [
+      {
+        "date": "2000-02-06T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan &amp; Ronna Binn"
+      },
+      {
+        "date": "2000-02-07T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "date": "2000-02-09T04:00:00.000Z",
+        "time": "20:00"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata in A major",
+        "workYear": "1886",
+        "workComposer": "cesarFranck",
+        "workInstrumentation": "for violin and piano"
+      },
+      {
+        "workName": "War Scrap",
+        "workYear": "2000",
+        "workComposer": "johnSteinmetz",
+        "workInstrumentation": "for violin, cello, piano, and percussion"
+      },
+      {
+        "workName": "Piano Trio in B major, Op. 8",
+        "workYear": "1854",
+        "workComposer": "johannesBrahms"
+      }
+    ],
+    "musicians": [
+      "belindaBroughton",
+      "davidSpeltz",
+      "antoinettePerry",
+      "davidJohnson"
+    ]
+  }
+}

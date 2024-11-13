@@ -1,0 +1,37 @@
+{
+  "adamsLeJardinProvencale": {
+    "id": "adamsLeJardinProvencale",
+    "workName": "Le Jardin Provençale",
+    "workYear": "2006",
+    "workComposer": "byronAdams",
+    "purchaseLink": "https://www.editions-bim.com/sheet-music/chamber-music/mixed-scorings/mixed-quartet/byron-adams-le-jardin-provencal-for-flute-oboe-cello-and-harpsichord",
+    "video": [],
+    "audio": [
+      [
+        "Ad6-1.mp3",
+        "Excerpt: Mvt. 1"
+      ],
+      [
+        "Ad6-2.mp3",
+        "Excerpt: Mvt. 2"
+      ],
+      [
+        "Ad6-3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "Ad6-3b.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "Ad6-4a.mp3",
+        "Excerpt: Mvt. 4 (1)"
+      ],
+      [
+        "Ad6-4b.mp3",
+        "Excerpt: Mvt. 4 (2)"
+      ]
+    ],
+    "description": ""
+  }
+}

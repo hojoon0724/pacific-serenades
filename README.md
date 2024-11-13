@@ -1,40 +1,148 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pacific Serenades Website
 
-## Getting Started
+## Description
 
-First, run the development server:
+This is the Pacific Serenades's new website built in 2024. The original website was built on WordPress and due to lack of maintenance since 2016, it has become unmanageable. This website is built with:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- nextjs
+- nextui
+- tailwind
+- framer-motion
+
+## Data Extraction
+
+A carbon copy of the old website has been archived.
+Repo: <https://github.com/hojoon0724/pac-ser-2016>
+Deployed: <https://hojoon0724.github.io/pac-ser-2016/>
+
+Data has been extracted from html files of these categories:
+
+- seasons
+- concerts
+- composers
+- musicians
+- works
+- venues
+- premieres
+
+Extraction was done with nodejs using regex matching.
+Files can be found in /workshop.
+All extractions have been compiled into json files.
+Some data has been consolidated to reduce repetitions.
+
+## Data Structure
+
+Data with large amounts of entries have been separated into individual files in their respective folders.
+
+### Seasons
+
+Build data: `/data/allSeasons.json`
+Individual entries: `n/a`
+
+```json
+{
+  "YYYY Season": [ concertId, concertId, ... ],
+  "YYYY Season": [ concertId ],
+  ...,
+}
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Concerts
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Build data: `/data/allConcerts.json`
+Individual entries: `/data/concerts/[yyyy]/[concertName].json`
+Structure:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+```json
+{
+  "concertId": {
+    "id": str,
+    "year": str,
+    "concertTitle": str,
+    "dates": [
+      {
+        "date": str(ISO 8601),
+        "time": str,
+        "venue": str, <--- redundancy
+        "venueId": venue.id,
+      },
+      ...
+    ],
+    "program": [ workId, workId, workId,... ]
+  }
+}
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Composers
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Build data: `/data/allComposers.json`
+Individual entries: `/data/composers/[composerName].json`
 
-## Learn More
+```json
+{
+  "composerId": {
+    "id": str,
+    "fullName": str, <---- redundancy
+    "firstName": str,
+    "lastName": str,
+    "born": str,
+    "died": str,
+    "website": str,
+    "photo": str(/photos/composerId.jpg),
+    "bio": html(<p>A graduate of UCLA in...),
+  },
+  ...
+}
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Musicians
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Build data: `/data/allMusicians.json`
+Individual entries: `/data/musicians/[musicianName].json`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```json
+{
+  "musicianId": {
+    "id": str,
+    "fullName": str, <---- redundancy
+    "firstName": str,
+    "lastName": str,
+    "instrument": str,
+    "website": str,
+    "photo": str(/photos/composerId.jpg),
+    "bio": html(<p>A graduate of UCLA in...),
+  },
+  ...
+}
+```
 
-## Deploy on Vercel
+### Works
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Build data: `/data/allWorks.json`
+Individual entries: `/data/works/[workName].json`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```json
+ {
+  "workId": {
+    "id": str,
+    "workName": str,
+    "workYear": str,
+    "workComposer": composer.id,
+    "instrumentation": str,
+    "commissionedBy": str,
+    "purchaseLink": str,
+    "video": [
+      [ url, label],
+      [ url, label],
+      ...
+    ],
+    "audio": [
+      [ fileName, label],
+      [ fileName, label],
+      ...
+    ],
+    "description": html(<p>Jesu soll mein erstes wo...),
+  },
+  ...
+ }
+```

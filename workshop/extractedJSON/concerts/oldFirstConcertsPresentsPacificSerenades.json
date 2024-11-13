@@ -1,0 +1,40 @@
+{
+  "oldFirstConcertsPresentsPacificSerenades": {
+    "id": "oldFirstConcertsPresentsPacificSerenades",
+    "year": "1998",
+    "concertTitle": "Old First Concerts presents Pacific Serenades",
+    "dates": [
+      {
+        "date": "1998-01-11T09:00:04.000Z",
+        "time": "1::4",
+        "venue": "Old First Church"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Trio in G major, Hob. XV: 15",
+        "workYear": "1790",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for flute, cello, and piano"
+      },
+      {
+        "workName": "Quartet",
+        "workYear": "1994",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for flute, clarinet/bass clarinet, cello, and piano"
+      },
+      {
+        "workName": "Trio in a minor, Op. 114",
+        "workYear": "1891",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet, cello, and piano"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}
