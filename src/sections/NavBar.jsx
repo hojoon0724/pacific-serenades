@@ -37,6 +37,14 @@ export default function NavBar({}) {
             </NavbarItem>
 
             <NavbarItem>
+              <Link href="/musicians">Musicians</Link>
+            </NavbarItem>
+
+            <NavbarItem>
+              <Link href="/commissions">Commissions</Link>
+            </NavbarItem>
+
+            <NavbarItem>
               <Link href="/past-seasons">Past Seasons</Link>
             </NavbarItem>
 
