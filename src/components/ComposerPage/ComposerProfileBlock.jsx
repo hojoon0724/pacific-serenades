@@ -12,7 +12,8 @@ export default function ComposerProfileBlock({ composer }) {
         )}
       </div>
       <div className="composer-name-date-container flex-col pl-4">
-        <div className="composer-name text-4xl font-medium">{`${composer.firstName} ${composer.lastName}`}</div>
+        <h3 className="composer-name">{`${composer.firstName} ${composer.lastName}`}</h3>
+        {/* <h1 className="composer-name text-4xl font-medium">{`${composer.firstName} ${composer.lastName}`}</h1> */}
         <div className="composer-dates-container">{composer.born ? `(${composer.born} - ${composer.died})` : ''}</div>
         {composer.website ? (
           <Link href={composer.website}>
