@@ -7,30 +7,12 @@
     "purchaseLink": "https://www.editions-bim.com/sheet-music/chamber-music/mixed-scorings/mixed-quartet/byron-adams-le-jardin-provencal-for-flute-oboe-cello-and-harpsichord",
     "video": [],
     "audio": [
-      [
-        "Ad6-1.mp3",
-        "Excerpt: Mvt. 1"
-      ],
-      [
-        "Ad6-2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "Ad6-3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "Ad6-3b.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "Ad6-4a.mp3",
-        "Excerpt: Mvt. 4 (1)"
-      ],
-      [
-        "Ad6-4b.mp3",
-        "Excerpt: Mvt. 4 (2)"
-      ]
+      ["Ad6-1.mp3", "Excerpt: Mvt. 1"],
+      ["Ad6-2.mp3", "Excerpt: Mvt. 2"],
+      ["Ad6-3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["Ad6-3b.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["Ad6-4a.mp3", "Excerpt: Mvt. 4 (1)"],
+      ["Ad6-4b.mp3", "Excerpt: Mvt. 4 (2)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel",
@@ -44,34 +26,13 @@
     "purchaseLink": "https://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_100_1531&amp;products_id=10918",
     "video": [],
     "audio": [
-      [
-        "a07-Part1-1.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "a07-Part1-2.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "a07-Part1-3.mp3",
-        "Excerpt: Mvt. 1 (3)"
-      ],
-      [
-        "a07-Part2-1.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "a07-Part2-2.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "a07-Part3-1.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "a07-Part3-2.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ]
+      ["a07-Part1-1.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["a07-Part1-2.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["a07-Part1-3.mp3", "Excerpt: Mvt. 1 (3)"],
+      ["a07-Part2-1.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["a07-Part2-2.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["a07-Part3-1.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["a07-Part3-2.mp3", "Excerpt: Mvt. 3 (2)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -95,12 +56,7 @@
     "workYear": "1991",
     "workComposer": "martinAmlin",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_100_262&amp;products_id=8027",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=3HkwmKvrvs4&amp;list=PLWzOF_7a7S5nhXhm7J2Tn04oJvmfTMVhp",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=3HkwmKvrvs4&amp;list=PLWzOF_7a7S5nhXhm7J2Tn04oJvmfTMVhp", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Pacific Serenades",
@@ -172,29 +128,12 @@
     "workYear": "2003",
     "workComposer": "bruceBabcock",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_101_1383&amp;products_id=9364",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=Dsf2NBPr-Uk",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=Dsf2NBPr-Uk", "Listen on YouTube"]],
     "audio": [
-      [
-        "Babcock-1.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Babcock-2-1.mp3",
-        "Excerpt 2a"
-      ],
-      [
-        "Babcock-2-2.mp3",
-        "Excerpt 2b"
-      ],
-      [
-        "Babcock-3.mp3",
-        "Excerpt 3"
-      ]
+      ["Babcock-1.mp3", "Excerpt 1"],
+      ["Babcock-2-1.mp3", "Excerpt 2a"],
+      ["Babcock-2-2.mp3", "Excerpt 2b"],
+      ["Babcock-3.mp3", "Excerpt 3"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
@@ -458,34 +397,13 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_101_1317&amp;products_id=8983",
     "video": [],
     "audio": [
-      [
-        "Be03-Part1a.mp3",
-        "Part 1a"
-      ],
-      [
-        "Be03-Part1b.mp3",
-        "Part 1b"
-      ],
-      [
-        "Be03-Part2a.mp3",
-        "Part 2a"
-      ],
-      [
-        "Be03-Part2b.mp3",
-        "Part 2b"
-      ],
-      [
-        "Be03-Part3a.mp3",
-        "Part 3a"
-      ],
-      [
-        "Be03-Part3b.mp3",
-        "Part 3b"
-      ],
-      [
-        "Be03-Part3end.mp3",
-        "Conclusion"
-      ]
+      ["Be03-Part1a.mp3", "Part 1a"],
+      ["Be03-Part1b.mp3", "Part 1b"],
+      ["Be03-Part2a.mp3", "Part 2a"],
+      ["Be03-Part2b.mp3", "Part 2b"],
+      ["Be03-Part3a.mp3", "Part 3a"],
+      ["Be03-Part3b.mp3", "Part 3b"],
+      ["Be03-Part3end.mp3", "Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
@@ -763,30 +681,12 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_101_1182&amp;products_id=7803&amp;zenid=0c02dd425522f3ad426922b6a7207863",
     "video": [],
     "audio": [
-      [
-        "Be09-Part1a.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "Be09-Part1b.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "Be09-Part1c.mp3",
-        "Excerpt: Mvt. 1 (3)"
-      ],
-      [
-        "Be09-Part2a.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "Be09-Part2b.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "Be09-Part2c.mp3",
-        "Excerpt: Mvt. 2 (3)"
-      ]
+      ["Be09-Part1a.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["Be09-Part1b.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["Be09-Part1c.mp3", "Excerpt: Mvt. 1 (3)"],
+      ["Be09-Part2a.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["Be09-Part2b.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["Be09-Part2c.mp3", "Excerpt: Mvt. 2 (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
@@ -941,12 +841,7 @@
     "workYear": "1992",
     "workComposer": "rogerBourland",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_101_1163&amp;products_id=7642",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=lAgCStpp5_c",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=lAgCStpp5_c", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "commissioned for Pacific Serenades by contributors to the Charlie Swigart Memorial Fund",
@@ -960,34 +855,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Bou11-1a.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "Bou11-1b.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "Bou11-2a.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "Bou11-2b.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "Bou11-3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "Bou11-3b.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "Bou11-3end.mp3",
-        "Excerpt: Conclusion"
-      ]
+      ["Bou11-1a.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["Bou11-1b.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["Bou11-2a.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["Bou11-2b.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["Bou11-3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["Bou11-3b.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["Bou11-3end.mp3", "Excerpt: Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -1011,12 +885,7 @@
     "workYear": "2001",
     "workComposer": "rogerBourland",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=Four+Painters",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=7p6YdBTpJ10&amp;list=PLWzOF_7a7S5nWyjdeuW5jB7MMbTxfTa-g",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=7p6YdBTpJ10&amp;list=PLWzOF_7a7S5nWyjdeuW5jB7MMbTxfTa-g", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Lou & Eirene Boni for Pacific Serenades",
@@ -1257,34 +1126,13 @@
     "purchaseLink": "https://www.carlfischer.com/114-41259-a+primer+for+malachi.html",
     "video": [],
     "audio": [
-      [
-        "b08-Part1A.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "b08-Part1B.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "b08-Part1C.mp3",
-        "Excerpt: Mvt. 1 (3)"
-      ],
-      [
-        "b08-Part2A.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "b08-Part2B.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "b08-Part3A.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "b08-Part3end.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ]
+      ["b08-Part1A.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["b08-Part1B.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["b08-Part1C.mp3", "Excerpt: Mvt. 1 (3)"],
+      ["b08-Part2A.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["b08-Part2B.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["b08-Part3A.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["b08-Part3end.mp3", "Excerpt: Mvt. 3 (2)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Elizabeth H. Henderson for Pacific Serenades",
@@ -1298,34 +1146,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "b08-Part1A.mp3",
-        "Part 1a"
-      ],
-      [
-        "b08-Part1B.mp3",
-        "Part 1b"
-      ],
-      [
-        "b08-Part1C.mp3",
-        "Part 1c"
-      ],
-      [
-        "b08-Part2A.mp3",
-        "Part 2a"
-      ],
-      [
-        "b08-Part2B.mp3",
-        "Part 2b"
-      ],
-      [
-        "b08-Part3A.mp3",
-        "Part 3a"
-      ],
-      [
-        "b08-Part3end.mp3",
-        "Conclusion"
-      ]
+      ["b08-Part1A.mp3", "Part 1a"],
+      ["b08-Part1B.mp3", "Part 1b"],
+      ["b08-Part1C.mp3", "Part 1c"],
+      ["b08-Part2A.mp3", "Part 2a"],
+      ["b08-Part2B.mp3", "Part 2b"],
+      ["b08-Part3A.mp3", "Part 3a"],
+      ["b08-Part3end.mp3", "Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
@@ -1363,34 +1190,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Bu10-1a.mp3",
-        "Excerpt: Trails (1)"
-      ],
-      [
-        "Bu10-1b.mp3",
-        "Excerpt: Trails (2)"
-      ],
-      [
-        "Bu10-2a.mp3",
-        "Excerpt: Powder (1)"
-      ],
-      [
-        "Bu10-2b.mp3",
-        "Excerpt: Powder (2)"
-      ],
-      [
-        "Bu10-3a.mp3",
-        "Excerpt: Tides (1)"
-      ],
-      [
-        "Bu10-3b.mp3",
-        "Excerpt: Tides (2)"
-      ],
-      [
-        "Bu10-3c.mp3",
-        "Excerpt: Tides (3)"
-      ]
+      ["Bu10-1a.mp3", "Excerpt: Trails (1)"],
+      ["Bu10-1b.mp3", "Excerpt: Trails (2)"],
+      ["Bu10-2a.mp3", "Excerpt: Powder (1)"],
+      ["Bu10-2b.mp3", "Excerpt: Powder (2)"],
+      ["Bu10-3a.mp3", "Excerpt: Tides (1)"],
+      ["Bu10-3b.mp3", "Excerpt: Tides (2)"],
+      ["Bu10-3c.mp3", "Excerpt: Tides (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -1414,15 +1220,10 @@
     "workYear": "1986",
     "workComposer": "markCarlson",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;products_id=8687",
-    "video": [
-      [
-        "",
-        "https://soundcloud.com/user-331652656/sets/after-the-sun-has-set"
-      ]
-    ],
+    "video": [["", "https://soundcloud.com/user-331652656/sets/after-the-sun-has-set"]],
     "audio": [],
     "description": "",
-    "commissionedBy": "",
+    "commissionedBy": "in loving memory of Jan Carlson Manley",
     "instrumentation": "for mezzo-soprano, 2 oboes, clarinet, bass clarinet, 2 bassoons, tenor saxophone, 2 horns, double bass, harp"
   },
   "carlsonAmericanQuintet": {
@@ -1443,37 +1244,14 @@
     "workYear": "2010",
     "workComposer": "markCarlson",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7644",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=hDYtDcm4Iwo&amp;list=PLWzOF_7a7S5nvpn3vvEU5pC4xRx_kHm5-",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=hDYtDcm4Iwo&amp;list=PLWzOF_7a7S5nvpn3vvEU5pC4xRx_kHm5-", "Listen on YouTube"]],
     "audio": [
-      [
-        "Car10-part1a.mp3",
-        "Excerpt: Waves (1)"
-      ],
-      [
-        "Car10-1b.mp3",
-        "Excerpt: Waves (2)"
-      ],
-      [
-        "Car10-1c.mp3",
-        "Excerpt: Waves (3)"
-      ],
-      [
-        "Car10-2a.mp3",
-        "Excerpt: The Homeward Heart (1)"
-      ],
-      [
-        "Car10-2b.mp3",
-        "Excerpt: The Homeward Heart (2)"
-      ],
-      [
-        "Car10-2f.mp3",
-        "Excerpt: The Homeward Heart (3)"
-      ]
+      ["Car10-part1a.mp3", "Excerpt: Waves (1)"],
+      ["Car10-1b.mp3", "Excerpt: Waves (2)"],
+      ["Car10-1c.mp3", "Excerpt: Waves (3)"],
+      ["Car10-2a.mp3", "Excerpt: The Homeward Heart (1)"],
+      ["Car10-2b.mp3", "Excerpt: The Homeward Heart (2)"],
+      ["Car10-2f.mp3", "Excerpt: The Homeward Heart (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by contributors to the Paul A. Carlson Memorial Fund for Pacific Serenades",
@@ -1486,18 +1264,9 @@
     "workComposer": "markCarlson",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=9554",
     "video": [
-      [
-        "https://www.youtube.com/watch?v=ak_ScCFWcbk",
-        "Movement 1 on YouTube"
-      ],
-      [
-        "https://www.youtube.com/watch?v=gZkTEvlCrpU",
-        "Movement 2 on YouTube"
-      ],
-      [
-        "https://www.youtube.com/watch?v=JoTRJnEWqXs",
-        "Movement 3 on YouTube"
-      ]
+      ["https://www.youtube.com/watch?v=ak_ScCFWcbk", "Movement 1 on YouTube"],
+      ["https://www.youtube.com/watch?v=gZkTEvlCrpU", "Movement 2 on YouTube"],
+      ["https://www.youtube.com/watch?v=JoTRJnEWqXs", "Movement 3 on YouTube"]
     ],
     "audio": [],
     "description": "",
@@ -1537,7 +1306,7 @@
     "video": [],
     "audio": [],
     "description": "",
-    "commissionedBy": ""
+    "commissionedBy": "Commissioned by Janet Benjamin in honor of her husband Morley Benjamin, on the occasion of his 80th birthday"
   },
   "carlsonFromOneWhoStays": {
     "id": "carlsonFromOneWhoStays",
@@ -1558,12 +1327,7 @@
     "workComposer": "markCarlson",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7643",
     "video": [],
-    "audio": [
-      [
-        "13-Twilight-from-The-Hall-of-Mirrors-Nicolina-Logan-Sanaz-Rezai.mp3",
-        ""
-      ]
-    ],
+    "audio": [["13-Twilight-from-The-Hall-of-Mirrors-Nicolina-Logan-Sanaz-Rezai.mp3", ""]],
     "description": "",
     "commissionedBy": "Commissioned by Hope Pompei Freedman for Pacific Serenades",
     "instrumentation": "for clarinet and piano"
@@ -1598,12 +1362,7 @@
     "workYear": "2001",
     "workComposer": "markCarlson",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7690",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=P3qJx_BR71k&amp;list=PLWzOF_7a7S5nQH1j4unkbwCAsTvLNCTPU",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=P3qJx_BR71k&amp;list=PLWzOF_7a7S5nQH1j4unkbwCAsTvLNCTPU", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Dr. Jack & Florence Irving for Pacific Serenades",
@@ -1653,30 +1412,12 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7861",
     "video": [],
     "audio": [
-      [
-        "c07-Part1.mp3",
-        "Excerpt: Mvt. 1"
-      ],
-      [
-        "c07-Part2A.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "c07-Part2B.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "c07-Part3A.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "c07-Part3B.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "c07-Part3end.mp3",
-        "Excerpt: Mvt. 3 (3)"
-      ]
+      ["c07-Part1.mp3", "Excerpt: Mvt. 1"],
+      ["c07-Part2A.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["c07-Part2B.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["c07-Part3A.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["c07-Part3B.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["c07-Part3end.mp3", "Excerpt: Mvt. 3 (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -1688,12 +1429,7 @@
     "workYear": "1989",
     "workComposer": "markCarlson",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=8288",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=p2SRe41UoWg",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=p2SRe41UoWg", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Elizabeth H. Henderson for Pacific Serenades",
@@ -1743,30 +1479,12 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=9328",
     "video": [],
     "audio": [
-      [
-        "Ca09-Part1a.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Ca09-Part2a.mp3",
-        "Excerpt 2a"
-      ],
-      [
-        "Ca09-Part2b-.mp3",
-        "Excerpt 2b"
-      ],
-      [
-        "Ca09-Part3.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Ca09-Part4.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Ca09-Part5.mp3",
-        "Excerpt 5"
-      ]
+      ["Ca09-Part1a.mp3", "Excerpt 1"],
+      ["Ca09-Part2a.mp3", "Excerpt 2a"],
+      ["Ca09-Part2b-.mp3", "Excerpt 2b"],
+      ["Ca09-Part3.mp3", "Excerpt 3"],
+      ["Ca09-Part4.mp3", "Excerpt 4"],
+      ["Ca09-Part5.mp3", "Excerpt 5"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Leavens Ranches",
@@ -1780,30 +1498,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Catan1-1.mp3",
-        "Excerpt 1a"
-      ],
-      [
-        "Catan1-2.mp3",
-        "Excerpt 1b"
-      ],
-      [
-        "Catan1-3.mp3",
-        "Excerpt 1c"
-      ],
-      [
-        "Catan1-4.mp3",
-        "Excerpt 1d"
-      ],
-      [
-        "Catan2-1.mp3",
-        "Excerpt 2a"
-      ],
-      [
-        "Catan2-2.mp3",
-        "Excerpt 2b"
-      ]
+      ["Catan1-1.mp3", "Excerpt 1a"],
+      ["Catan1-2.mp3", "Excerpt 1b"],
+      ["Catan1-3.mp3", "Excerpt 1c"],
+      ["Catan1-4.mp3", "Excerpt 1d"],
+      ["Catan2-1.mp3", "Excerpt 2a"],
+      ["Catan2-2.mp3", "Excerpt 2b"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -1817,26 +1517,11 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Cavaterra-Fantasy1.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Cavaterra-Fantasy2.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Cavaterra-Fantasy3.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Cavaterra-Fantasy4.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Cavaterra-Fantasy5.mp3",
-        "Excerpt 5"
-      ]
+      ["Cavaterra-Fantasy1.mp3", "Excerpt 1"],
+      ["Cavaterra-Fantasy2.mp3", "Excerpt 2"],
+      ["Cavaterra-Fantasy3.mp3", "Excerpt 3"],
+      ["Cavaterra-Fantasy4.mp3", "Excerpt 4"],
+      ["Cavaterra-Fantasy5.mp3", "Excerpt 5"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -1848,41 +1533,15 @@
     "workYear": "2011",
     "workComposer": "ericCharnofsky",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1175&amp;products_id=7709",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=RFMtNx3dfvc",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=RFMtNx3dfvc", "Listen on YouTube"]],
     "audio": [
-      [
-        "Cha11-1.mp3",
-        "Excerpt: Mvt. 1"
-      ],
-      [
-        "Cha11-2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "Cha11-3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "Cha11-3b.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "Cha11-4a.mp3",
-        "Excerpt: Mvt. 4 (1)"
-      ],
-      [
-        "Cha11-4b.mp3",
-        "Excerpt: Mvt. 4 (2)"
-      ],
-      [
-        "Cha11-5.mp3",
-        "Excerpt: Conclusion"
-      ]
+      ["Cha11-1.mp3", "Excerpt: Mvt. 1"],
+      ["Cha11-2.mp3", "Excerpt: Mvt. 2"],
+      ["Cha11-3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["Cha11-3b.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["Cha11-4a.mp3", "Excerpt: Mvt. 4 (1)"],
+      ["Cha11-4b.mp3", "Excerpt: Mvt. 4 (2)"],
+      ["Cha11-5.mp3", "Excerpt: Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Pacific Serenades",
@@ -1920,30 +1579,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Ch09-Dragonfly1a.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "Ch09-Dragonfly1b-.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "Ch09-Dragonfly2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "Ch09-Dragonfly3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "Ch09-Dragonfly3b-.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "Ch09-Dragonfly3c.mp3",
-        "Excerpt: Mvt. 3 (3)"
-      ]
+      ["Ch09-Dragonfly1a.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["Ch09-Dragonfly1b-.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["Ch09-Dragonfly2.mp3", "Excerpt: Mvt. 2"],
+      ["Ch09-Dragonfly3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["Ch09-Dragonfly3b-.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["Ch09-Dragonfly3c.mp3", "Excerpt: Mvt. 3 (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ann & James Mulally for Pacific Serenades",
@@ -1969,34 +1610,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Childs09Mv1a.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "Childs09Mv1b.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "Childs09Mv1c.mp3",
-        "Excerpt: Mvt. 1 (3)"
-      ],
-      [
-        "Childs09Mv2a2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "Childs09Mv3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "Childs09Mv3b.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "Childs09Mv3end.mp3",
-        "Excerpt: Mvt. 3 (3)"
-      ]
+      ["Childs09Mv1a.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["Childs09Mv1b.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["Childs09Mv1c.mp3", "Excerpt: Mvt. 1 (3)"],
+      ["Childs09Mv2a2.mp3", "Excerpt: Mvt. 2"],
+      ["Childs09Mv3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["Childs09Mv3b.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["Childs09Mv3end.mp3", "Excerpt: Mvt. 3 (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -2094,26 +1714,11 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_210_1311&amp;products_id=8878",
     "video": [],
     "audio": [
-      [
-        "D08part1-1.mp3",
-        "Part 1a"
-      ],
-      [
-        "D08part1-2.mp3",
-        "Part 1b"
-      ],
-      [
-        "D08part1-3.mp3",
-        "Part 1c"
-      ],
-      [
-        "D08part2-1.mp3",
-        "Part 2a"
-      ],
-      [
-        "D08part2-2.mp3",
-        "Conclusion"
-      ]
+      ["D08part1-1.mp3", "Part 1a"],
+      ["D08part1-2.mp3", "Part 1b"],
+      ["D08part1-3.mp3", "Part 1c"],
+      ["D08part2-1.mp3", "Part 2a"],
+      ["D08part2-2.mp3", "Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -2221,22 +1826,10 @@
     "purchaseLink": "https://www.trevcomusic.com/products/mda-82-aguila-miguel-del-latin-love-op82-ww5-pn?_pos=1&amp;_sid=7e9664cfc&amp;_ss=r",
     "video": [],
     "audio": [
-      [
-        "dA05-x1.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "dA05-x2.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "dA05-x3.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "dA05-xf.mp3",
-        "Excerpt 4"
-      ]
+      ["dA05-x1.mp3", "Excerpt 1"],
+      ["dA05-x2.mp3", "Excerpt 2"],
+      ["dA05-x3.mp3", "Excerpt 3"],
+      ["dA05-xf.mp3", "Excerpt 4"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
@@ -2273,14 +1866,8 @@
     "workComposer": "francoisDevienne",
     "purchaseLink": "",
     "video": [
-      [
-        "https://www.youtube.com/watch?v=gZkTEvlCrpU",
-        ""
-      ],
-      [
-        "https://www.youtube.com/watch?v=JoTRJnEWqXs",
-        ""
-      ]
+      ["https://www.youtube.com/watch?v=gZkTEvlCrpU", ""],
+      ["https://www.youtube.com/watch?v=JoTRJnEWqXs", ""]
     ],
     "audio": [],
     "description": "",
@@ -2318,30 +1905,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "drayton_visions_1.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "VisionsS1-2.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "visionsS2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "VisionsS3-2.mp3",
-        "Excerpt: Mvt. 3"
-      ],
-      [
-        "VisionsS4-1.mp3",
-        "Excerpt: Mvt. 4 (1)"
-      ],
-      [
-        "VisionsS4.mp3",
-        "Excerpt: Mvt. 4 (2)"
-      ]
+      ["drayton_visions_1.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["VisionsS1-2.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["visionsS2.mp3", "Excerpt: Mvt. 2"],
+      ["VisionsS3-2.mp3", "Excerpt: Mvt. 3"],
+      ["VisionsS4-1.mp3", "Excerpt: Mvt. 4 (1)"],
+      ["VisionsS4.mp3", "Excerpt: Mvt. 4 (2)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Jan & Jim Goodwin",
@@ -2426,34 +1995,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Far10-1.mp3",
-        "Excerpt: Wherever You Go (1)"
-      ],
-      [
-        "Far10-1b.mp3",
-        "Excerpt: Wherever You Go (2)"
-      ],
-      [
-        "Far10-1c.mp3",
-        "Excerpt: Wherever You Go (3)"
-      ],
-      [
-        "Far10-2a.mp3",
-        "Excerpt: Once I Knew (1)"
-      ],
-      [
-        "Far10-2b.mp3",
-        "Excerpt: Once I Knew (2)"
-      ],
-      [
-        "Far10-2c.mp3",
-        "Excerpt: Once I Knew (3)"
-      ],
-      [
-        "Far10-3f.mp3",
-        "Excerpt: Wine of Love"
-      ]
+      ["Far10-1.mp3", "Excerpt: Wherever You Go (1)"],
+      ["Far10-1b.mp3", "Excerpt: Wherever You Go (2)"],
+      ["Far10-1c.mp3", "Excerpt: Wherever You Go (3)"],
+      ["Far10-2a.mp3", "Excerpt: Once I Knew (1)"],
+      ["Far10-2b.mp3", "Excerpt: Once I Knew (2)"],
+      ["Far10-2c.mp3", "Excerpt: Once I Knew (3)"],
+      ["Far10-3f.mp3", "Excerpt: Wine of Love"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
@@ -2597,34 +2145,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Fr1.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Fr2.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Fr3.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Fr4.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Fr5.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "Fr6.mp3",
-        "Excerpt 6"
-      ],
-      [
-        "Fr7.mp3",
-        "Excerpt 7"
-      ]
+      ["Fr1.mp3", "Excerpt 1"],
+      ["Fr2.mp3", "Excerpt 2"],
+      ["Fr3.mp3", "Excerpt 3"],
+      ["Fr4.mp3", "Excerpt 4"],
+      ["Fr5.mp3", "Excerpt 5"],
+      ["Fr6.mp3", "Excerpt 6"],
+      ["Fr7.mp3", "Excerpt 7"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by J. Christopher Kennedy",
@@ -2650,30 +2177,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Fra11-1a.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Fra11-2.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Fra11-3.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Fra11-4.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Fra11-5a.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "Fra11-6.mp3",
-        "Excerpt 6"
-      ]
+      ["Fra11-1a.mp3", "Excerpt 1"],
+      ["Fra11-2.mp3", "Excerpt 2"],
+      ["Fra11-3.mp3", "Excerpt 3"],
+      ["Fra11-4.mp3", "Excerpt 4"],
+      ["Fra11-5a.mp3", "Excerpt 5"],
+      ["Fra11-6.mp3", "Excerpt 6"]
     ],
     "description": "",
     "commissionedBy": "Co-commissioned by Mallarmé Chamber Players, Colorado Chamber Players, Fulcrum Arts, Pacific Serenades, Cornish Music Series, Monadnock Music, and the Azure Ensemble",
@@ -2732,12 +2241,7 @@
     "workYear": "1999",
     "workComposer": "davidGoodman",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_105_1520&amp;products_id=10700",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=4bs-05gcwo0&amp;list=PLWzOF_7a7S5numLU7OgpWmciB4_gHqhWt",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=4bs-05gcwo0&amp;list=PLWzOF_7a7S5numLU7OgpWmciB4_gHqhWt", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -2964,30 +2468,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "h08-Track1.mp3",
-        "Excerpt: Mvt. 1"
-      ],
-      [
-        "h08-Track2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "h08-Track3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "h08-Track3b-.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "h08-Track4a.mp3",
-        "Excerpt: Mvt. 4 (1)"
-      ],
-      [
-        "h08-Track4b.mp3",
-        "Excerpt: Mvt. 4 (2)"
-      ]
+      ["h08-Track1.mp3", "Excerpt: Mvt. 1"],
+      ["h08-Track2.mp3", "Excerpt: Mvt. 2"],
+      ["h08-Track3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["h08-Track3b-.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["h08-Track4a.mp3", "Excerpt: Mvt. 4 (1)"],
+      ["h08-Track4b.mp3", "Excerpt: Mvt. 4 (2)"]
     ],
     "description": "",
     "commissionedBy": "co-Commissioned by Wigmore Hall, London and Pacific Serenades, chamber version Commissioned by William Sullivan & Gerald Goodman for Pacific Serenades",
@@ -3097,34 +2583,13 @@
     "purchaseLink": "https://peterknell.com/work/collage/",
     "video": [],
     "audio": [
-      [
-        "Kn4-1s.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Kn4-2s.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Kn5-3s.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Kn5-4s.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Kn5-5s.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "Kn5-6s.mp3",
-        "Excerpt 6"
-      ],
-      [
-        "Kn5-7s.mp3",
-        "Excerpt 7"
-      ]
+      ["Kn4-1s.mp3", "Excerpt 1"],
+      ["Kn4-2s.mp3", "Excerpt 2"],
+      ["Kn5-3s.mp3", "Excerpt 3"],
+      ["Kn5-4s.mp3", "Excerpt 4"],
+      ["Kn5-5s.mp3", "Excerpt 5"],
+      ["Kn5-6s.mp3", "Excerpt 6"],
+      ["Kn5-7s.mp3", "Excerpt 7"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -3174,30 +2639,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Kr41.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Kr42.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Kr43.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Kr44.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Kr45.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "Kr46.mp3",
-        "Excerpt 6"
-      ]
+      ["Kr41.mp3", "Excerpt 1"],
+      ["Kr42.mp3", "Excerpt 2"],
+      ["Kr43.mp3", "Excerpt 3"],
+      ["Kr44.mp3", "Excerpt 4"],
+      ["Kr45.mp3", "Excerpt 5"],
+      ["Kr46.mp3", "Excerpt 6"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -3222,48 +2669,18 @@
     "workComposer": "jeffKryka",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_109_1216&amp;products_id=8010",
     "video": [
-      [
-        "https://www.youtube.com/watch?v=O5jffL-flQg",
-        "Part 1 on YouTube"
-      ],
-      [
-        "https://www.youtube.com/watch?v=Th3dZa0xvss",
-        "Part 2 on YouTube"
-      ],
-      [
-        "https://www.youtube.com/watch?v=sS8N1cDGqtI",
-        "Part 3 on YouTube"
-      ]
+      ["https://www.youtube.com/watch?v=O5jffL-flQg", "Part 1 on YouTube"],
+      ["https://www.youtube.com/watch?v=Th3dZa0xvss", "Part 2 on YouTube"],
+      ["https://www.youtube.com/watch?v=sS8N1cDGqtI", "Part 3 on YouTube"]
     ],
     "audio": [
-      [
-        "kry10-1a.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "kry10-1b.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "kry10-2a.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "kry10-3a.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "kry10-4a.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "kry10-5a.mp3",
-        "Excerpt 6"
-      ],
-      [
-        "kry10-5b.mp3",
-        "Excerpt 7"
-      ]
+      ["kry10-1a.mp3", "Excerpt 1"],
+      ["kry10-1b.mp3", "Excerpt 2"],
+      ["kry10-2a.mp3", "Excerpt 3"],
+      ["kry10-3a.mp3", "Excerpt 4"],
+      ["kry10-4a.mp3", "Excerpt 5"],
+      ["kry10-5a.mp3", "Excerpt 6"],
+      ["kry10-5b.mp3", "Excerpt 7"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -3289,34 +2706,13 @@
     "purchaseLink": "https://www.boosey.com/cr/purchase-music/Benjamin-Lees-Tapestry/46071",
     "video": [],
     "audio": [
-      [
-        "Lees1.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Lees2.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Lees3.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Lees4.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Lees5.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "Lees6.mp3",
-        "Excerpt 6"
-      ],
-      [
-        "Lees7.mp3",
-        "Excerpt 7"
-      ]
+      ["Lees1.mp3", "Excerpt 1"],
+      ["Lees2.mp3", "Excerpt 2"],
+      ["Lees3.mp3", "Excerpt 3"],
+      ["Lees4.mp3", "Excerpt 4"],
+      ["Lees5.mp3", "Excerpt 5"],
+      ["Lees6.mp3", "Excerpt 6"],
+      ["Lees7.mp3", "Excerpt 7"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Gerry Aster and by Iris Mink for Pacific Serenades",
@@ -3339,33 +2735,13 @@
     "workYear": "2007",
     "workComposer": "davidLefkowitz",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_110_1173&amp;products_id=7753&amp;zenid=4d5124d242525b2aa864268ade2517cc",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=Ik9zDyb5Pl4&amp;list=PLWzOF_7a7S5mbLFRh_7TpwVZuCwxfyKyi",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=Ik9zDyb5Pl4&amp;list=PLWzOF_7a7S5mbLFRh_7TpwVZuCwxfyKyi", "Listen on YouTube"]],
     "audio": [
-      [
-        "Dreams-1.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "Dreams-1b.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "Dreams-2.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "Dreams-2b.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "Dreams-2c.mp3",
-        "Excerpt: Mvt. 2 (3)"
-      ]
+      ["Dreams-1.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["Dreams-1b.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["Dreams-2.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["Dreams-2b.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["Dreams-2c.mp3", "Excerpt: Mvt. 2 (3)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by J. Christopher Kennedy for Pacific Serenades",
@@ -3510,30 +2886,12 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Mcn6-1a.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "Mcn6-1b.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "Mcn6-2a.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "Mcn6-2b.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "Mcn6-3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "Mcn6-3finale.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ]
+      ["Mcn6-1a.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["Mcn6-1b.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["Mcn6-2a.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["Mcn6-2b.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["Mcn6-3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["Mcn6-3finale.mp3", "Excerpt: Mvt. 3 (2)"]
     ],
     "description": "<p>I love the marriage of music and dance. Always have. As well, as a composer who has worked primarily in film for several decades, I am pretty hard-wired into thinking of music and imagery together. For this work, I wanted to write a piece inspired by dances that could be associated with our west coast. Problem: as wonderful as Pacific Serenades is, they don’t usually carry a troupe of dancers and a choreographer. Solution: I’ll imagine the dances and then write the music to them. No problem. All I can really describe for you about my imagined dance is that the dancers wore really colorful costumes and they were very funky.</p>\n<p>The first movement is an old fashioned boogaloo… stood on it’s head. I had fun with the rhythms and harmonies of this dance. I used to be a horn player in a funk band, and we would use bends in tempo for effect. Here I use a slowed down vibrato in tempo in the strings to try and do the same thing.</p>\n<p>The second movement, Nightclub, is a kind of slow dance. We’ve all slow danced. ‘Nuff said.</p>\n<p>The third movement is called West Coast Swing. This is a kind of box step that is usually not danced to swing music at all, but rather funk and blues. This movement, marked Allegro é Funky, plays with rhythm and syncopation and hopefully will make you (want to ) pat your foot.</p>\n<p>My goal in writing this piece was to inspire a few smiles, provoke some imagination, and maybe even some ‘moving to the beat.’ Let us all wish our stellar world-class refined performers the ability to ‘get their groove on’. And please… feel free to imagine your own set of dances.</p>\n<p>Many thanks to Pacific Serenades for this opportunity, and to you for supporting them. They are fighting the good fight.</p>\n<p>Peace,</p>\n<p>Joel McNeely</p>",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
@@ -3631,34 +2989,13 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=Chamber+Jams",
     "video": [],
     "audio": [
-      [
-        "mil11-1a.mp3",
-        "Excerpt: Mvt. 1 (1)"
-      ],
-      [
-        "mil11-1b.mp3",
-        "Excerpt: Mvt. 1 (2)"
-      ],
-      [
-        "mil11-2a.mp3",
-        "Excerpt: Mvt. 2 (1)"
-      ],
-      [
-        "mil11-2b.mp3",
-        "Excerpt: Mvt. 2 (2)"
-      ],
-      [
-        "mil11-3a.mp3",
-        "Excerpt: Mvt. 3 (1)"
-      ],
-      [
-        "mil11-3b.mp3",
-        "Excerpt: Mvt. 3 (2)"
-      ],
-      [
-        "mil11-4.mp3",
-        "Excerpt: Conclusion"
-      ]
+      ["mil11-1a.mp3", "Excerpt: Mvt. 1 (1)"],
+      ["mil11-1b.mp3", "Excerpt: Mvt. 1 (2)"],
+      ["mil11-2a.mp3", "Excerpt: Mvt. 2 (1)"],
+      ["mil11-2b.mp3", "Excerpt: Mvt. 2 (2)"],
+      ["mil11-3a.mp3", "Excerpt: Mvt. 3 (1)"],
+      ["mil11-3b.mp3", "Excerpt: Mvt. 3 (2)"],
+      ["mil11-4.mp3", "Excerpt: Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -3696,30 +3033,12 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_111_1400&amp;products_id=9745",
     "video": [],
     "audio": [
-      [
-        "Mor12-Songs1.mp3",
-        "Excerpt: Every Color Changes"
-      ],
-      [
-        "Mor12-Songs2.mp3",
-        "Excerpt: Mind and Soul"
-      ],
-      [
-        "Mor12-Songs3a.mp3",
-        "Excerpt: Look Back (1)"
-      ],
-      [
-        "Mor12-Songs3b.mp3",
-        "Excerpt: Look Back (2)"
-      ],
-      [
-        "Mor12-Songs4a.mp3",
-        "Excerpt: So Big the Rains (1)"
-      ],
-      [
-        "Mor12-Songs4bf.mp3",
-        "Excerpt: So Big the Rains (2)"
-      ]
+      ["Mor12-Songs1.mp3", "Excerpt: Every Color Changes"],
+      ["Mor12-Songs2.mp3", "Excerpt: Mind and Soul"],
+      ["Mor12-Songs3a.mp3", "Excerpt: Look Back (1)"],
+      ["Mor12-Songs3b.mp3", "Excerpt: Look Back (2)"],
+      ["Mor12-Songs4a.mp3", "Excerpt: So Big the Rains (1)"],
+      ["Mor12-Songs4bf.mp3", "Excerpt: So Big the Rains (2)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by The Pacific Serenades Commissioning Club of 2012",
@@ -3949,34 +3268,13 @@
     "purchaseLink": "http://www.malibufriendsofmusic.org/purchasesheetmusic.html",
     "video": [],
     "audio": [
-      [
-        "N1a.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "N1b.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "N2.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "N3.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "N4.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "N8.mp3",
-        "Excerpt 6"
-      ],
-      [
-        "part9finale.mp3",
-        "Excerpt 7"
-      ]
+      ["N1a.mp3", "Excerpt 1"],
+      ["N1b.mp3", "Excerpt 2"],
+      ["N2.mp3", "Excerpt 3"],
+      ["N3.mp3", "Excerpt 4"],
+      ["N4.mp3", "Excerpt 5"],
+      ["N8.mp3", "Excerpt 6"],
+      ["part9finale.mp3", "Excerpt 7"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -4359,26 +3657,11 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "s07-part1.mp3",
-        "Excerpt: Mvt. 1"
-      ],
-      [
-        "s07-part2.mp3",
-        "Excerpt: Mvt. 2"
-      ],
-      [
-        "s07-part3.mp3",
-        "Excerpt: Mvt. 3"
-      ],
-      [
-        "s07-part4A.mp3",
-        "Excerpt: Mvt. 4 (1)"
-      ],
-      [
-        "s07-part4B.mp3",
-        "Excerpt: Mvt. 4 (2)"
-      ]
+      ["s07-part1.mp3", "Excerpt: Mvt. 1"],
+      ["s07-part2.mp3", "Excerpt: Mvt. 2"],
+      ["s07-part3.mp3", "Excerpt: Mvt. 3"],
+      ["s07-part4A.mp3", "Excerpt: Mvt. 4 (1)"],
+      ["s07-part4B.mp3", "Excerpt: Mvt. 4 (2)"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
@@ -4584,30 +3867,12 @@
     "purchaseLink": "https://www.alexshapiro.org/CurrentEventspg1.html",
     "video": [],
     "audio": [
-      [
-        "Surge1.mp3",
-        "Surge 1"
-      ],
-      [
-        "Surge2.mp3",
-        "Surge 2"
-      ],
-      [
-        "Ebb1.mp3",
-        "Ebb 1"
-      ],
-      [
-        "Ebb2.mp3",
-        "Ebb 2"
-      ],
-      [
-        "Rip1.mp3",
-        "Rip 1"
-      ],
-      [
-        "Rip2.mp3",
-        "Rip 2"
-      ]
+      ["Surge1.mp3", "Surge 1"],
+      ["Surge2.mp3", "Surge 2"],
+      ["Ebb1.mp3", "Ebb 1"],
+      ["Ebb2.mp3", "Ebb 2"],
+      ["Rip1.mp3", "Rip 1"],
+      ["Rip2.mp3", "Rip 2"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Gerry Aster and by J. Christopher Kennedy for Pacific Serenades",
@@ -4621,30 +3886,12 @@
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7718",
     "video": [],
     "audio": [
-      [
-        "Ca5-1s.mp3",
-        "Excerpt 1"
-      ],
-      [
-        "Ca5-2s.mp3",
-        "Excerpt 2"
-      ],
-      [
-        "Ca5-3s.mp3",
-        "Excerpt 3"
-      ],
-      [
-        "Ca5-4s.mp3",
-        "Excerpt 4"
-      ],
-      [
-        "Ca5-5s.mp3",
-        "Excerpt 5"
-      ],
-      [
-        "Ca5-6s.mp3",
-        "Excerpt 6"
-      ]
+      ["Ca5-1s.mp3", "Excerpt 1"],
+      ["Ca5-2s.mp3", "Excerpt 2"],
+      ["Ca5-3s.mp3", "Excerpt 3"],
+      ["Ca5-4s.mp3", "Excerpt 4"],
+      ["Ca5-5s.mp3", "Excerpt 5"],
+      ["Ca5-6s.mp3", "Excerpt 6"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Shirley B. Levine for Pacific Serenades",
@@ -4775,12 +4022,7 @@
     "workYear": "2000",
     "workComposer": "johnSteinmetz",
     "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;products_id=7885",
-    "video": [
-      [
-        "https://www.youtube.com/watch?v=uA1NDWc_o9U&amp;list=PLWzOF_7a7S5mUAO4SMxBLi6MzeTRV86tM",
-        "Listen on YouTube"
-      ]
-    ],
+    "video": [["https://www.youtube.com/watch?v=uA1NDWc_o9U&amp;list=PLWzOF_7a7S5mUAO4SMxBLi6MzeTRV86tM", "Listen on YouTube"]],
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades"
@@ -4841,7 +4083,7 @@
     "video": [],
     "audio": [],
     "description": "",
-    "commissionedBy": ""
+    "commissionedBy": "Commissioned for HEAR NOW by Pacific Serenades & Ursula Krummel in celebration of her 80th birthday"
   },
   "sukFourPieces": {
     "id": "sukFourPieces",
@@ -4911,34 +4153,13 @@
     "purchaseLink": "",
     "video": [],
     "audio": [
-      [
-        "Tat12-1a.mp3",
-        "Excerpt: Diffusion (1)"
-      ],
-      [
-        "Tat12-1b.mp3",
-        "Excerpt: Diffusion (2)"
-      ],
-      [
-        "Tat12-2a.mp3",
-        "Excerpt: Fragments (1)"
-      ],
-      [
-        "Tat12-2b.mp3",
-        "Excerpt: Fragments (2)"
-      ],
-      [
-        "Tat12-3a.mp3",
-        "Excerpt: Gathering (1)"
-      ],
-      [
-        "Tat12-3b.mp3",
-        "Excerpt: Gathering (2)"
-      ],
-      [
-        "Tat12-3cf.mp3",
-        "Excerpt: Conclusion"
-      ]
+      ["Tat12-1a.mp3", "Excerpt: Diffusion (1)"],
+      ["Tat12-1b.mp3", "Excerpt: Diffusion (2)"],
+      ["Tat12-2a.mp3", "Excerpt: Fragments (1)"],
+      ["Tat12-2b.mp3", "Excerpt: Fragments (2)"],
+      ["Tat12-3a.mp3", "Excerpt: Gathering (1)"],
+      ["Tat12-3b.mp3", "Excerpt: Gathering (2)"],
+      ["Tat12-3cf.mp3", "Excerpt: Conclusion"]
     ],
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",

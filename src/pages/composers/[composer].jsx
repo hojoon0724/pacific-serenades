@@ -2,7 +2,7 @@ import composersData from '@/data/composersData.json';
 import worksData from '@/data/worksData.json';
 import Image from 'next/image';
 import Link from 'next/link';
-import ComposerComponent from '@/components/ComposerComponent';
+import ComposerComponent from '@/components/ComposerPage/ComposerComponent';
 
 export async function getStaticPaths() {
   // File name === [composer].jsx
@@ -32,9 +32,5 @@ export default function ComposerDetails({ composer, works }) {
     return <p>Composer not found.</p>;
   }
 
-  return (
-    <section>
-      <ComposerComponent composer={composer} works={works} />
-    </section>
-  );
+  return <ComposerComponent composer={composer} works={works} />;
 }

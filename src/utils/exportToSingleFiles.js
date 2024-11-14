@@ -8,7 +8,7 @@ const data = {
   works: { sourceFile: '../data/worksData.json', destinationFolder: '../data/works' },
 };
 
-const writeTo = data.concerts;
+const writeTo = data.works;
 
 const sourceFile = writeTo.sourceFile;
 const destinationFolder = writeTo.destinationFolder;
@@ -38,8 +38,8 @@ async function readSourceFile(filePath) {
       };
       // console.log(item[1].year);
       // createSubfolder(destinationFolder, item[1].year);
-      writeToFile(`${destinationFolder}/${item[1].year}/${item[0]}.json`, entry);
-      // writeToFile(`${destinationFolder}/${item[0]}.json`, entry);
+      // writeToFile(`${destinationFolder}/${item[1].year}/${item[0]}.json`, entry);
+      writeToFile(`${destinationFolder}/${item[0]}.json`, entry);
       // result = { ...result, ...entry };
     });
   } catch (err) {

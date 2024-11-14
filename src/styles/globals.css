@@ -52,6 +52,14 @@ body {
   }
 }
 
+hr {
+  border: 0.5px solid var(--ps-dark);
+  margin: 2rem 0rem;
+  /* margin: 0px; */
+  box-sizing: border-box;
+  height: 0px;
+}
+
 .top-container {
   /* height: calc(100svh - 250px); */
   min-height: calc(100svh - 330px);
@@ -129,6 +137,10 @@ footer {
 .welcome-paragraph-signature {
   font-weight: 700;
   text-align: right;
+}
+
+.composer-top-container {
+  width: 65ch;
 }
 
 .composer-name {

@@ -1,7 +1,16 @@
 import SeasonBlock from '@/components/SeasonBlock';
+import seasonData from '@/data/seasonConcertsList.json';
 
 export default function PastSeasons() {
-  return <section></section>;
+  return (
+    <div className="all-seasons-container">
+      {Object.entries(seasonData).map(([season, concerts]) => {
+        console.log(season);
+        console.log(concerts);
+      })}
+      <section className="season"></section>;
+    </div>
+  );
 }
 
 /*

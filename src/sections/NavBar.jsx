@@ -33,11 +33,11 @@ export default function NavBar({}) {
             </NavbarItem>
 
             <NavbarItem>
-              <Link href="/past-seasons">History</Link>
+              <Link href="/composers">Composers</Link>
             </NavbarItem>
 
             <NavbarItem>
-              <Link href="/past-concerts">past-concerts</Link>
+              <Link href="/past-seasons">Past Seasons</Link>
             </NavbarItem>
 
             <NavbarItem>
