@@ -6,6 +6,7 @@ import {
   NavbarMenuToggle,
   NavbarMenu,
   NavbarMenuItem,
+  Button,
 } from '@nextui-org/react';
 
 import Link from 'next/link';
@@ -17,7 +18,7 @@ export default function NavBar({}) {
   return (
     <>
       <WaveBg />
-      <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-center mx-auto pb-[7vw]">
+      <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-end mx-auto">
         <Navbar maxWidth="full" isBlurred="false" style={{ backgroundColor: 'transparent', padding: '0' }}>
           <NavbarBrand>
             <div className="top-logo w-[200px]">
@@ -26,8 +27,7 @@ export default function NavBar({}) {
               </Link>
             </div>
           </NavbarBrand>
-
-          <NavbarContent className="hidden sm:flex gap-4" justify="end">
+          <NavbarContent>
             <NavbarItem>
               <Link href="/about">About</Link>
             </NavbarItem>

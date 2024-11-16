@@ -63,7 +63,8 @@ hr {
 }
 
 .top-container {
-  min-height: calc(100svh - 330px);
+  min-height: calc(100svh - 230px);
+  /* border: 1px solid red; */
 }
 
 .temp-nav-logo-container {
@@ -90,6 +91,7 @@ hr {
   position: absolute;
   top: 0px;
   z-index: 0;
+  /* border: 1px solid red; */
 }
 
 .max-width {
@@ -113,19 +115,25 @@ p {
 
 .nav-bar-container {
   position: relative;
-  height: clamp(100px, 20svw, 200);
+  height: clamp(50px, 10svw, 100px);
+  /* margin-top: clamp(25px, 5svw, 50px); */
+  margin-bottom: clamp(50px, 10svw, 100px);
+  /* margin-bottom: clamp(25px, 5svw, 50px); */
   width: 100%;
+  /* border: 1px solid red; */
 }
 
 footer {
-  background-color: var(--ps-dark);
+  @apply text-blue-400;
+  @apply bg-blue-950;
+  /* background-color: var(--ps-dark); */
   font-size: 0.8rem;
   font-weight: 600;
   min-height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--ps-teal);
+
   letter-spacing: 1px;
   text-transform: uppercase;
 }
