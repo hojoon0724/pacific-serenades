@@ -16,7 +16,7 @@ import WaveBg from '@/components/WaveBg';
 
 export default function NavBar({}) {
   return (
-    <>
+    <div className="nav-bar sticky top-0 z-50">
       <WaveBg />
       <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-end mx-auto">
         <Navbar maxWidth="full" isBlurred="false" style={{ backgroundColor: 'transparent', padding: '0' }}>
@@ -54,7 +54,7 @@ export default function NavBar({}) {
           </NavbarContent>
         </Navbar>
       </div>
-    </>
+    </div>
   );
 }
 

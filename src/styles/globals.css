@@ -121,6 +121,8 @@ p {
   /* margin-bottom: clamp(25px, 5svw, 50px); */
   width: 100%;
   /* border: 1px solid red; */
+  @apply sticky;
+  top: 0px;
 }
 
 footer {
