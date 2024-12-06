@@ -215,7 +215,7 @@ body2 {
 button {
   @apply text-button;
 }
-caption {
+.caption {
   @apply text-caption;
 }
 overline {
