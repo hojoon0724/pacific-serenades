@@ -16,7 +16,7 @@ export default function ComposerCard({ composer }) {
       )}
       {/* <CardFooter className="justify-center before:bg-white/100 border-white/20 border-1 overflow-hidden py-1 absolute backdrop-blur-lg backdrop-brightness-200 bg-background/100 before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] shadow-small ml-1 z-10"> */}
       <CardFooter className="justify-center bg-white/50 border-white/20 border-1 overflow-hidden py-1 absolute backdrop-blur-lg backdrop-brightness-200 before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] shadow-small ml-1 z-10">
-        <caption>{composer.fullName}</caption>
+        <div className="caption">{composer.fullName}</div>
       </CardFooter>
     </Card>
   );
