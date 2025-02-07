@@ -4,7 +4,7 @@ import ComposerWorksPerformedSection from './ComposerWorksPerformed';
 
 export default function ComposerComponent({ composer, works }) {
   return (
-    <section className="flex flex-col py-6">
+    <section className="top-container flex flex-col py-6">
       <div className="composer-top-container">
         <ComposerProfileBlock composer={composer} />
         {composer.bio !== '' ? (
