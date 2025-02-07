@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
   const composer = composersData[params.composer];
   const works = Object.values(worksData).filter(work => work.workComposer === params.composer);
-  console.log(works);
+  // console.log(works);
   return {
     props: {
       composer,
