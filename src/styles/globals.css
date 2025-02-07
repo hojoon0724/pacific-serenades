@@ -64,6 +64,9 @@ hr {
 
 .top-container {
   min-height: calc(100svh - 230px);
+  margin: 0 16px;
+  /* width: 100vw; */
+  box-sizing: border-box;
   /* border: 1px solid red; */
 }
 
@@ -83,7 +86,9 @@ hr {
 }
 
 .wave-bg-container {
-  background: url('/logos/pacser-mainWave.svg') 0 100%, url('/logos/pacser-mainWave.svg') 1px 100%;
+  background:
+    url('/logos/pacser-mainWave.svg') 0 100%,
+    url('/logos/pacser-mainWave.svg') 1px 100%;
   /* background: url('/logos/laCountyArtsCommission.jpg') 0 100%, url('/logos/laCountyArtsCommission.jpg') 1px 100%; */
   background-repeat: repeat-x;
   width: 100%;
@@ -105,7 +110,8 @@ hr {
 }
 
 section {
-  @apply justify-center items-center xl:max-w-[1200px] mx-auto px-6 w-full;
+  @apply justify-center items-center xl:max-w-[1200px] mx-auto px-6;
+  padding: 2rem 0rem;
 }
 
 p {
@@ -152,7 +158,9 @@ footer {
 }
 
 .composer-top-container {
-  width: 65ch;
+  box-sizing: border-box;
+  /* max-width: 65ch; */
+  /* width: 100%; */
 }
 
 .composer-name {
