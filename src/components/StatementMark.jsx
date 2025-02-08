@@ -24,8 +24,10 @@ export default function StatementMark({}) {
           I am thrilled and honored to pass the torch of Pacific Serenades to my friend and colleague Jeff Kryka so its
           mission can continue to live on!
         </p>
+        <p style={{ textAlign: 'right' }}>
+          <b>—Mark Carlson, Founder of Pacific Serenades</b>
+        </p>
       </div>
-      <div className="welcome-paragraph-signature">—Mark Carlson, Founder of Pacific Serenades</div>
     </div>
   );
 }

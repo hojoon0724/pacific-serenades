@@ -10,7 +10,7 @@ export default function Composers() {
         {Object.keys(composersData).map(key => {
           const composer = composersData[key];
           return (
-            <Link href={`/composers/${key}`} key={key}>
+            <Link href={`/library/composers/${key}`} key={key}>
               <ComposerCard composer={composer} />
             </Link>
           );

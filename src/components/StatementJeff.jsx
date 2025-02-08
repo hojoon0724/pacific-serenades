@@ -30,11 +30,13 @@ export default function StatementJeff({}) {
           Looking forward to seeing you there! We will be making further announcements about the upcoming season of
           Pacific Serenades concerts in the coming weeks.
         </p>
-      </div>
-      <div className="welcome-paragraph-signature">
+      <p style={{ textAlign: 'right' }}>
+        <b>
         Best wishes,
         <br />
         Jeff Kryka
+        </b>
+        </p>
       </div>
     </div>
   );

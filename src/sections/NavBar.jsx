@@ -20,10 +20,8 @@ export default function NavBar({}) {
 
   const menuLinks = [
     { name: 'About', href: '/about' },
-    { name: 'Composers', href: '/composers' },
-    { name: 'Musicians', href: '/musicians' },
-    { name: 'Commissions', href: '/commissions' },
-    { name: 'Past Seasons', href: '/past-seasons' },
+    { name: 'Archives', href: '/archives' },
+    { name: 'Schedule', href: '/schedule' },
     { name: 'Contact', href: '/contact' },
   ];
 

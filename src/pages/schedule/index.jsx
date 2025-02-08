@@ -5,7 +5,7 @@ import worksData from '@/data/worksData.json';
 import composersData from '@/data/composersData.json';
 import CapitalizeTitle from '@/components/CapitalizeTitle';
 
-export default function PastSeasons() {
+export default function Schedule() {
   return (
     <div className="all-seasons-container grid grid-cols-3 gap-8 m-8">
       {Object.entries(seasonData).map(([season, concerts]) => {
