@@ -1,12 +1,11 @@
-import PacSerWideLockup from '@/components/PacSerWideLockup';
 import Landing from '@/sections/MessageFromFounder';
-import WaveBg from '@/components/WaveBg';
-import Image from 'next/image';
 
 export default function Home() {
   return (
-    <div className="top-container flex flex-col justify-center items-center">
-      <Landing />
-    </div>
+    <main>
+      <div className="top-container flex flex-col justify-center items-center">
+        <Landing />
+      </div>
+    </main>
   );
 }

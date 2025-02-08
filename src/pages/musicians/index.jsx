@@ -9,7 +9,7 @@ export default function Musicians() {
         const composer = musiciansData[key];
         return (
           <Link href={`/musicians/${key}`} key={key}>
-            <div className="composer-container flex justify-start items-center p-4 w-[300px]" key={key}>
+            <div className="composer-container flex justify-start items-center p-4 w-[90svw] xs:w-[260px]" key={key}>
               <div className="composer-photo w-12 min-w-12 h-12 min-h-12 rounded-full overflow-clip">
                 {composer.photo === '' ? (
                   <Image src="/icons/person.svg" alt="person icon" width={200} height={200} />

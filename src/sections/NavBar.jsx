@@ -39,9 +39,9 @@ export default function NavBar({}) {
           onMenuOpenChange={setIsMenuOpen}
         >
           {/* mobile */}
-          <NavbarContent className="sm:hidden pr-3">
-            <NavbarBrand>
-              <div className="top-logo w-[200px]">
+          <NavbarContent className="md:hidden pr-3 pt-6">
+            <NavbarBrand className="flex align-center">
+              <div className=" w-[150px]">
                 <Link href="/">
                   <PacSerStackLockup fillColor={'--ps-dark'} />
                 </Link>
@@ -49,14 +49,14 @@ export default function NavBar({}) {
             </NavbarBrand>
           </NavbarContent>
 
-          <NavbarContent className="sm:hidden" justify="end">
+          <NavbarContent className="md:hidden p-0 pt-6" justify="end">
             <NavbarMenuToggle aria-label={isMenuOpen ? 'Close menu' : 'Open menu'} />
           </NavbarContent>
 
           {/* desktop */}
-          <NavbarContent className="hidden sm:flex gap-4" justify="end">
+          <NavbarContent className="hidden md:flex gap-4" style={{ paddingLeft: '0' }} justify="end">
             <NavbarBrand>
-              <div className="top-logo w-[200px]">
+              <div className=" w-[200px]">
                 <Link href="/">
                   <PacSerStackLockup fillColor={'--ps-dark'} />
                 </Link>
@@ -71,7 +71,7 @@ export default function NavBar({}) {
 
           {/* mobile menu */}
           <NavbarMenu>
-            <NavbarMenuItem className="flex flex-col gap-4 mt-12">
+            <NavbarMenuItem className="mobile-menu-container flex flex-col gap-4 ">
               {menuLinks.map((link, index) => (
                 <Link key={index} className="w-full" size="lg" href={link.href} onClick={() => setIsMenuOpen(false)}>
                   {link.name}
@@ -84,26 +84,3 @@ export default function NavBar({}) {
     </div>
   );
 }
-
-/*
-      <div className="nav-container flex justify-between items-center w-full max-w-[1200px] mx-auto p-4 ">
-  <div className="top-logo w-[300px]">
-    <Link href="/">
-      
-    </Link>
-  </div>
-  <div className="nav-buttons-container">
-    <Link className="ml-6" href="/about">
-      About
-    </Link>
-    <Link className="ml-6" href="/composers">
-      Composers
-    </Link>
-    <Link className="ml-6" href="/past-seasons">
-      past-seasons
-    </Link>
-    <Link className="ml-6" href="/past-concerts">
-      past-concerts
-    </Link>
-  </div>
-  */

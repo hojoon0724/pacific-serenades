@@ -32,5 +32,9 @@ export default function ComposerDetails({ musician }) {
     return <p>Composer not found.</p>;
   }
 
-  return <ComposerComponent composer={musician} works={[]} />;
+  return (
+    <div className="top-container mx-4">
+      <ComposerComponent composer={musician} works={[]} />
+    </div>
+  );
 }

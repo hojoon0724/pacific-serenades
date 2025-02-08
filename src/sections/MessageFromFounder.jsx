@@ -1,11 +1,9 @@
-import PacSerWideLockup from '@/components/PacSerWideLockup';
 import StatementJeff from '@/components/StatementJeff';
 import StatementMark from '@/components/StatementMark';
-import WaveBg from '@/components/WaveBg';
 
 export default function MessageFromFounder({}) {
   return (
-    <section className="section-landing flex flex-col justify-center items-center">
+    <div className="section-landing flex flex-col justify-center items-center px-4">
       <div className="message-box-container">
         <div className="message-box-left">
           <StatementJeff />
@@ -14,6 +12,6 @@ export default function MessageFromFounder({}) {
           <StatementMark />
         </div>
       </div>
-    </section>
+    </div>
   );
 }
