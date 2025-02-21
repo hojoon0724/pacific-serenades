@@ -8,13 +8,13 @@ import {
   NavbarMenuItem,
   Button,
   dropdown,
-} from '@nextui-org/react';
+} from "@nextui-org/react";
 
-import { useRef, useState } from 'react';
-import Link from 'next/link';
-import PacSerWideLockup from '@/components/PacSerWideLockup';
-import PacSerStackLockup from '@/components/PacSerStackLockup';
-import WaveBg from '@/components/WaveBg';
+import { useRef, useState } from "react";
+import Link from "next/link";
+import PacSerWideLockup from "@/components/PacSerWideLockup";
+import PacSerStackLockup from "@/components/PacSerStackLockup";
+import WaveBg from "@/components/WaveBg";
 
 export default function NavBar({}) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -22,21 +22,21 @@ export default function NavBar({}) {
   const hoverTimeout = useRef(null);
 
   const menuLinks = [
-    { name: 'About', href: '/about', dropdown: false },
-    {
-      name: 'Library',
-      href: '/library',
-      dropdown: true,
-      dropdownPages: [
-        { name: 'All Concerts', href: '/all-concerts' },
-        { name: 'Past Seasons', href: '/past-seasons' },
-        { name: 'Commissions', href: '/commissions' },
-        { name: 'Composers', href: '/composers' },
-        { name: 'Musicians', href: '/musicians' },
-      ],
-    },
-    { name: 'Schedule', href: '/schedule', dropdown: false },
-    { name: 'Contact', href: '/contact', dropdown: false },
+    { name: "About", href: "/about", dropdown: false },
+    // {
+    //   name: 'Library',
+    //   href: '/library',
+    //   dropdown: true,
+    //   dropdownPages: [
+    //     { name: 'All Concerts', href: '/all-concerts' },
+    //     { name: 'Past Seasons', href: '/past-seasons' },
+    //     { name: 'Commissions', href: '/commissions' },
+    //     { name: 'Composers', href: '/composers' },
+    //     { name: 'Musicians', href: '/musicians' },
+    //   ],
+    // },
+    // { name: 'Schedule', href: '/schedule', dropdown: false },
+    // { name: 'Contact', href: '/contact', dropdown: false },
   ];
 
   return (
@@ -46,7 +46,7 @@ export default function NavBar({}) {
         <Navbar
           maxWidth="full"
           isBlurred="false"
-          style={{ backgroundColor: 'transparent', padding: '0' }}
+          style={{ backgroundColor: "transparent", padding: "0" }}
           isMenuOpen={isMenuOpen}
           onMenuOpenChange={setIsMenuOpen}
         >
@@ -55,22 +55,22 @@ export default function NavBar({}) {
             <NavbarBrand className="flex align-center">
               <div className=" w-[150px]">
                 <Link href="/">
-                  <PacSerStackLockup fillColor={'--ps-dark'} />
+                  <PacSerStackLockup fillColor={"--ps-dark"} />
                 </Link>
               </div>
             </NavbarBrand>
           </NavbarContent>
 
           <NavbarContent className="md:hidden p-0 pt-6" justify="end">
-            <NavbarMenuToggle aria-label={isMenuOpen ? 'Close menu' : 'Open menu'} />
+            <NavbarMenuToggle aria-label={isMenuOpen ? "Close menu" : "Open menu"} />
           </NavbarContent>
 
           {/* desktop */}
-          <NavbarContent className="hidden md:flex gap-4" style={{ paddingLeft: '0' }} justify="end">
+          <NavbarContent className="hidden md:flex gap-4" style={{ paddingLeft: "0" }} justify="end">
             <NavbarBrand>
               <div className="w-[200px]">
                 <Link href="/">
-                  <PacSerStackLockup fillColor={'--ps-dark'} />
+                  <PacSerStackLockup fillColor={"--ps-dark"} />
                 </Link>
               </div>
             </NavbarBrand>
@@ -134,7 +134,7 @@ export default function NavBar({}) {
                           href={`${link.href}${dropdownLink.href}`}
                           onClick={() => setIsMenuOpen(false)}
                         >
-                          <span className="uppercase text-sm" style={{ lineHeight: '.8rem' }}>
+                          <span className="uppercase text-sm" style={{ lineHeight: ".8rem" }}>
                             {dropdownLink.name}
                           </span>
                         </Link>

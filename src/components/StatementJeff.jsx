@@ -2,7 +2,7 @@ export default function StatementJeff({}) {
   return (
     <div className="welcome-paragraph-container py-8">
       <div className="welcome-paragraph-text max-w-prose">
-        <p>Dear Friends & Fellow Music Lovers,</p>
+        <p>Dear Friends & Fellow Music Lovers</p>
         <p>
           My name is Jeff Kryka, I’m a composer and UCLA alum (MA 2008, PhD 2011) and currently serving on the UCLA
           School of Music Alumni Board. I had the great pleasure of working alongside Mark Carlson at UCLA and attending
@@ -12,30 +12,17 @@ export default function StatementJeff({}) {
           living musical tradition resonates deeply with me.
         </p>
         <p>
-          I am excited to announce, with Mark’s blessing, that we are relaunching Pacific Serenades this fall, and
-          planning to continue its legacy of performances of newly commissioned music alongside established chamber
-          music repertoire. Our inaugural concert will be presented as a special event hosted by Steinway & Sons at the
-          Colburn School on the evening of Friday October 18th at 8pm.
+          I am excited to announce, with Mark’s blessing, that we have relaunched Pacific Serenades, beginning with our
+          inaugural concert in the fall of 2024. Our guiding vision is to continue the organization’s legacy of
+          performing newly commissioned works alongside established chamber music repertoire. I look forward to this new
+          chapter with our audiences and bringing beautiful music to life together.
         </p>
-        <p>
-          The concert will feature piano duet music newly composed and arranged by myself and performed by the pianists
-          of Duo Amal (the fabulous Bishara Haroni & Yaron Kohlberg) utilizing Steinway’s unique Spirio system.
-        </p>
-        <p>
-          To read more about the concert and to RSVP please see the link below. The event is free but an RSVP is
-          required.
-        </p>
-        <p>https://www.steinwaylosangeles.com/news/Spirio-Concert-Event-at-Colburn-School</p>
-        <p>
-          Looking forward to seeing you there! We will be making further announcements about the upcoming season of
-          Pacific Serenades concerts in the coming weeks.
-        </p>
-      <p style={{ textAlign: 'right' }}>
-        <b>
-        Best wishes,
-        <br />
-        Jeff Kryka
-        </b>
+        <p style={{ textAlign: "right" }}>
+          <b>
+            — Jeff Kryka,
+            <br />
+            President of Pacific Serenades
+          </b>
         </p>
       </div>
     </div>

@@ -9,10 +9,10 @@
   --ps-dark: #333333;
   --ps-grey: #888888;
 
-  --ps-blue: 'hsl(193 96 45)';
-  --ps-teal: 'hsl(174 100 39)';
-  --ps-green: 'hsl(114 49 66)';
-  --ps-yellow: 'hsl(62 56 63)';
+  --ps-blue: "hsl(193 96 45)";
+  --ps-teal: "hsl(174 100 39)";
+  --ps-green: "hsl(114 49 66)";
+  --ps-yellow: "hsl(62 56 63)";
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,7 +29,7 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-family: "Lato", Arial, Helvetica, sans-serif;
   min-height: 100svh;
   min-width: 100svw;
 }
@@ -79,8 +79,8 @@ hr {
 
 .wave-bg-container {
   background:
-    url('/logos/pacser-mainWave.svg') 0 100%,
-    url('/logos/pacser-mainWave.svg') 1px 100%;
+    url("/logos/pacser-mainWave.svg") 0 100%,
+    url("/logos/pacser-mainWave.svg") 1px 100%;
   /* background: url('/logos/laCountyArtsCommission.jpg') 0 100%, url('/logos/laCountyArtsCommission.jpg') 1px 100%; */
   background-repeat: repeat-x;
   width: 100%;
@@ -103,8 +103,8 @@ hr {
 }
 
 section {
-  @apply justify-center items-center xl:max-w-[1200px] mx-auto px-6;
-  padding: 2rem 0rem;
+  /* @apply justify-center items-center xl:max-w-[1200px] mx-auto px-6; */
+  @apply m-8;
 }
 
 p {
