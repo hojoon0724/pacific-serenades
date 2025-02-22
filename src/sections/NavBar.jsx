@@ -23,18 +23,18 @@ export default function NavBar({}) {
 
   const menuLinks = [
     { name: "About", href: "/about", dropdown: false },
-    // {
-    //   name: 'Library',
-    //   href: '/library',
-    //   dropdown: true,
-    //   dropdownPages: [
-    //     { name: 'All Concerts', href: '/all-concerts' },
-    //     { name: 'Past Seasons', href: '/past-seasons' },
-    //     { name: 'Commissions', href: '/commissions' },
-    //     { name: 'Composers', href: '/composers' },
-    //     { name: 'Musicians', href: '/musicians' },
-    //   ],
-    // },
+    {
+      name: "Library",
+      href: "/library",
+      dropdown: true,
+      dropdownPages: [
+        // { name: "All Concerts", href: "/all-concerts" },
+        { name: "Past Seasons", href: "/past-seasons" },
+        { name: "Commissions", href: "/commissions" },
+        { name: "Composers", href: "/composers" },
+        { name: "Musicians", href: "/musicians" },
+      ],
+    },
     // { name: 'Schedule', href: '/schedule', dropdown: false },
     // { name: 'Contact', href: '/contact', dropdown: false },
   ];
