@@ -1,5 +1,4 @@
 import StaffPhoto from "@/components/StaffBioBlock";
-import Landing from "@/sections/MessageFromFounder";
 import StatementJeff from "@/components/StatementJeff";
 import StatementMark from "@/components/StatementMark";
 import StaffBioBlock from "@/components/StaffBioBlock";

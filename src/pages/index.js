@@ -1,4 +1,4 @@
-import Landing from '@/sections/MessageFromFounder';
+import Landing from "@/sections/Landing";
 
 export default function Home() {
   return (
