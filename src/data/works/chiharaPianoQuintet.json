@@ -1,0 +1,39 @@
+{
+  "chiharaPianoQuintet": {
+    "id": "chiharaPianoQuintet",
+    "workName": "Second Piano Quintet, \"Aka Tombo (Dragonfly)\"",
+    "workYear": "2009",
+    "workComposer": "paulChihara",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Ch09-Dragonfly1a.mp3",
+        "Excerpt: Mvt. 1 (1)"
+      ],
+      [
+        "Ch09-Dragonfly1b-.mp3",
+        "Excerpt: Mvt. 1 (2)"
+      ],
+      [
+        "Ch09-Dragonfly2.mp3",
+        "Excerpt: Mvt. 2"
+      ],
+      [
+        "Ch09-Dragonfly3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "Ch09-Dragonfly3b-.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "Ch09-Dragonfly3c.mp3",
+        "Excerpt: Mvt. 3 (3)"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Ann & James Mulally for Pacific Serenades",
+    "instrumentation": "for piano quintet"
+  }
+}

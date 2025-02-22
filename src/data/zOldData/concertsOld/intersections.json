@@ -1,0 +1,48 @@
+{
+  "intersections": {
+    "concertTitle": "Intersections",
+    "dates": [
+      {
+        "day": "2006-04-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Ronna Binn in Tarzana"
+      },
+      {
+        "day": "2006-04-30T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "day": "2006-05-03T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Piano Quartet in C minor, Op. 15",
+        "workYear": "1879",
+        "workComposer": "gabrielFaure",
+        "workInstrumentation": "for violin, viola, cello, piano"
+      },
+      {
+        "workName": "Sonata in D major, Op. 102, No. 2",
+        "workYear": "1815",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for cello & piano"
+      },
+      {
+        "workName": "Pacific Dances",
+        "workYear": "2006",
+        "workComposer": "joelMcneely",
+        "workInstrumentation": "for piano quartet"
+      }
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "broughtonViolinSonata": {
+    "id": "broughtonViolinSonata",
+    "workName": "Sonata",
+    "workYear": "2008",
+    "workComposer": "bruceBroughton",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "b08-Part1A.mp3",
+        "Part 1a"
+      ],
+      [
+        "b08-Part1B.mp3",
+        "Part 1b"
+      ],
+      [
+        "b08-Part1C.mp3",
+        "Part 1c"
+      ],
+      [
+        "b08-Part2A.mp3",
+        "Part 2a"
+      ],
+      [
+        "b08-Part2B.mp3",
+        "Part 2b"
+      ],
+      [
+        "b08-Part3A.mp3",
+        "Part 3a"
+      ],
+      [
+        "b08-Part3end.mp3",
+        "Conclusion"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
+    "instrumentation": "for Violin and Piano"
+  }
+}

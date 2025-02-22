@@ -1,0 +1,37 @@
+{
+  "shortStories": {
+    "id": "shortStories",
+    "workName": "Short Stories",
+    "workYear": "2005",
+    "workComposer": "markCarlson",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_102_1164&amp;products_id=7718",
+    "video": [],
+    "audio": [
+      [
+        "Ca5-1s.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Ca5-2s.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Ca5-3s.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Ca5-4s.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Ca5-5s.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "Ca5-6s.mp3",
+        "Excerpt 6"
+      ]
+    ],
+    "description": ""
+  }
+}

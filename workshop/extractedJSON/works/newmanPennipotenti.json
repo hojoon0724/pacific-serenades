@@ -1,0 +1,41 @@
+{
+  "newmanPennipotenti": {
+    "id": "newmanPennipotenti",
+    "workName": "Pennipotenti",
+    "workYear": "2005",
+    "workComposer": "mariaNewman",
+    "purchaseLink": "http://www.malibufriendsofmusic.org/purchasesheetmusic.html",
+    "video": [],
+    "audio": [
+      [
+        "N1a.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "N1b.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "N2.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "N3.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "N4.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "N8.mp3",
+        "Excerpt 6"
+      ],
+      [
+        "part9finale.mp3",
+        "Excerpt 7"
+      ]
+    ],
+    "description": ""
+  }
+}

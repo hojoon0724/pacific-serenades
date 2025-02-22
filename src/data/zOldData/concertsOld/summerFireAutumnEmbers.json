@@ -1,0 +1,49 @@
+{
+  "summerFireAutumnEmbers": {
+    "concertTitle": "Summer Fire, Autumn Embers",
+    "dates": [
+      {
+        "day": "1998-03-15T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills"
+      },
+      {
+        "day": "1998-03-15T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      },
+      {
+        "day": "1998-03-18T03:30:00.000Z",
+        "time": "19:30",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in D minor, K. 421",
+        "workYear": "1783",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Pacific Serenade",
+        "workYear": "1998",
+        "workComposer": "miguelDelAguila",
+        "workInstrumentation": "for clarinet and string quartet"
+      },
+      {
+        "workName": "Clarinet Quintet in B minor, Op. 115",
+        "workYear": "1891",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet & string quartet"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "miwakoWatanabe",
+      "connieKupka",
+      "simonOswell",
+      "davidSpeltz"
+    ]
+  }
+}

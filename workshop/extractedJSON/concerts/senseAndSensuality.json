@@ -1,0 +1,46 @@
+{
+  "senseAndSensuality": {
+    "id": "senseAndSensuality",
+    "year": "2014",
+    "concertTitle": "Sense &amp; Sensuality",
+    "dates": [
+      {
+        "date": "2014-06-21T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The home of Kimberly Rose & Michael Shannon in La Cañada"
+      },
+      {
+        "date": "2014-06-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The West Hollywood City Council Chambers"
+      }
+    ],
+    "program": [
+      {
+        "workName": "String Quartet in F major",
+        "workYear": "1903",
+        "workComposer": "mauriceRavel",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Bassoon Quartet in C major, Op. 73, No. 1",
+        "workYear": "1800",
+        "workComposer": "francoisDevienne",
+        "workInstrumentation": "for bassoon &amp; string trio"
+      },
+      {
+        "workName": "Three Divertimenti",
+        "workYear": "2014",
+        "workComposer": "jeffreyParola",
+        "workInstrumentation": "for bassoon &amp; string quartet"
+      }
+    ],
+    "musicians": [
+      "judithFarmer",
+      "jiYoungAn",
+      "ambroiseAubrun",
+      "rolandKato",
+      "timothyLoo"
+    ]
+  }
+}

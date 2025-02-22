@@ -1,0 +1,49 @@
+{
+  "outOfBounds": {
+    "concertTitle": "Out of bounds",
+    "dates": [
+      {
+        "day": "2006-06-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Ellen & Harvey Knell in Pasadena (the Blacker House)"
+      },
+      {
+        "day": "2006-06-04T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "day": "2006-06-07T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Clarinet Quintet in B minor, Op. 115",
+        "workYear": "1891",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet & string quartet"
+      },
+      {
+        "workName": "Quartet in C major, Op. 33, No. 3",
+        "workYear": "1781",
+        "workComposer": "franzJosefHaydn",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Visions and Reflections",
+        "workYear": "2006",
+        "workComposer": "leslieDrayton",
+        "workInstrumentation": "for clarinet & string quartet"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "phillipLevy",
+      "connieKupka",
+      "davidWalther",
+      "davidSpeltz"
+    ]
+  }
+}

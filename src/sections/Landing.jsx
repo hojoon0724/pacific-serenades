@@ -1,19 +1,11 @@
-import PacSerWideLockup from '@/components/PacSerWideLockup';
-import StatementJeff from '@/components/StatementJeff';
-import StatementMark from '@/components/StatementMark';
-import WaveBg from '@/components/WaveBg';
+import Image from "next/image";
 
-export default function Landing({}) {
+export default function landing({}) {
   return (
-    <section className="section-landing flex flex-col justify-center items-center">
-      <div className="message-box-container">
-        <div className="message-box-left w-6/12">
-          <StatementJeff />
-        </div>
-        <div className="message-box-right w-6/12">
-          <StatementMark />
-        </div>
+    <div className="landing-container">
+      <div className="landing-background absolute top-0 left-0 w-full h-[100svh] overflow-clip">
+        <Image src="/backgrounds/home-bg.jpg" alt="landing page background image" width={2500} height={2000}></Image>
       </div>
-    </section>
+    </div>
   );
 }

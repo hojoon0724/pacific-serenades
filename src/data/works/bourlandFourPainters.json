@@ -1,0 +1,19 @@
+{
+  "bourlandFourPainters": {
+    "id": "bourlandFourPainters",
+    "workName": "Four Painters",
+    "workYear": "2001",
+    "workComposer": "rogerBourland",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=Four+Painters",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=7p6YdBTpJ10&amp;list=PLWzOF_7a7S5nWyjdeuW5jB7MMbTxfTa-g",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [],
+    "description": "",
+    "commissionedBy": "Commissioned by Lou & Eirene Boni for Pacific Serenades",
+    "instrumentation": "for piano quartet"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "gabrielaFrankQuartet": {
+    "id": "gabrielaFrankQuartet",
+    "workName": "Rapsodia Andina",
+    "workYear": "2011",
+    "workComposer": "gabrielaLenaFrank",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Fra11-1a.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Fra11-2.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Fra11-3.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Fra11-4.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Fra11-5a.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "Fra11-6.mp3",
+        "Excerpt 6"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Co-commissioned by Mallarmé Chamber Players, Colorado Chamber Players, Fulcrum Arts, Pacific Serenades, Cornish Music Series, Monadnock Music, and the Azure Ensemble",
+    "instrumentation": "for flute, viola, cello, and harp"
+  }
+}

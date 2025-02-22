@@ -1,0 +1,39 @@
+{
+  "heggieFriendlyPersuasionSongsWithHarpsichord": {
+    "id": "heggieFriendlyPersuasionSongsWithHarpsichord",
+    "workName": "Friendly Persuasions",
+    "workYear": "2008",
+    "workComposer": "jakeHeggie",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "h08-Track1.mp3",
+        "Excerpt: Mvt. 1"
+      ],
+      [
+        "h08-Track2.mp3",
+        "Excerpt: Mvt. 2"
+      ],
+      [
+        "h08-Track3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "h08-Track3b-.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "h08-Track4a.mp3",
+        "Excerpt: Mvt. 4 (1)"
+      ],
+      [
+        "h08-Track4b.mp3",
+        "Excerpt: Mvt. 4 (2)"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "co-Commissioned by Wigmore Hall, London and Pacific Serenades, chamber version Commissioned by William Sullivan & Gerald Goodman for Pacific Serenades",
+    "instrumentation": "for tenor, flute, oboe, cello, and harpsichord"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "sweepSoftlyThyStringsWalterDeLaMare": {
+    "concertTitle": "“Sweep softly thy strings…” -Walter de la Mare",
+    "dates": [
+      {
+        "day": "2005-02-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Alice & Joe Coulombe in Pasadena"
+      },
+      {
+        "day": "2005-02-14T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "day": "2005-02-16T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in F minor, Op. 20, No. 5",
+        "workYear": "1772",
+        "workComposer": "franzJosefHaydn"
+      },
+      {
+        "workName": "Music in 4 Sharps",
+        "workYear": "2004",
+        "workComposer": "ianKrouse",
+        "workInstrumentation": "for guitar and string quartet"
+      },
+      {
+        "workName": "Short Stories",
+        "workYear": "2005",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Quintet in D major, G. 448 \"Fandango\"",
+        "workYear": "",
+        "workComposer": "luigiBoccherini",
+        "workInstrumentation": "for guitar and string quartet"
+      }
+    ],
+    "musicians": [
+      "jackSanders",
+      "rogerWilkie",
+      "brendanSpeltz",
+      "simonOswell",
+      "davidSpeltz"
+    ]
+  }
+}

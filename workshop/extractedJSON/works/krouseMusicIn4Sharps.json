@@ -1,0 +1,37 @@
+{
+  "krouseMusicIn4Sharps": {
+    "id": "krouseMusicIn4Sharps",
+    "workName": "Music in 4 Sharps",
+    "workYear": "2004",
+    "workComposer": "ianKrouse",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Kr41.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Kr42.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Kr43.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Kr44.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Kr45.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "Kr46.mp3",
+        "Excerpt 6"
+      ]
+    ],
+    "description": ""
+  }
+}

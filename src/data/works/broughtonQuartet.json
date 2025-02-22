@@ -1,0 +1,43 @@
+{
+  "broughtonQuartet": {
+    "id": "broughtonQuartet",
+    "workName": "A Primer for Malachi",
+    "workYear": "1997",
+    "workComposer": "bruceBroughton",
+    "purchaseLink": "https://www.carlfischer.com/114-41259-a+primer+for+malachi.html",
+    "video": [],
+    "audio": [
+      [
+        "b08-Part1A.mp3",
+        "Excerpt: Mvt. 1 (1)"
+      ],
+      [
+        "b08-Part1B.mp3",
+        "Excerpt: Mvt. 1 (2)"
+      ],
+      [
+        "b08-Part1C.mp3",
+        "Excerpt: Mvt. 1 (3)"
+      ],
+      [
+        "b08-Part2A.mp3",
+        "Excerpt: Mvt. 2 (1)"
+      ],
+      [
+        "b08-Part2B.mp3",
+        "Excerpt: Mvt. 2 (2)"
+      ],
+      [
+        "b08-Part3A.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "b08-Part3end.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Elizabeth H. Henderson for Pacific Serenades",
+    "instrumentation": "for flute, clarinet, cello, and piano"
+  }
+}

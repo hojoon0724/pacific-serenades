@@ -1,0 +1,44 @@
+{
+  "februaryConcert1993": {
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "day": "1993-02-14T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank"
+      },
+      {
+        "day": "1993-02-14T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "String Quartet in a minor, Op. 41",
+        "workYear": "1849",
+        "workComposer": "robertSchumann",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Three Folksongs",
+        "workYear": "1993",
+        "workComposer": "robertAldridge",
+        "workInstrumentation": "for clarinet and string quartet"
+      },
+      {
+        "workName": "Quintet in A major, K. 581",
+        "workYear": "1789",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for clarinet and string quartet"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "yukikoKamei",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz"
+    ]
+  }
+}

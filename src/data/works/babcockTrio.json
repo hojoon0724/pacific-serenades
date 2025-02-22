@@ -1,0 +1,36 @@
+{
+  "babcockTrio": {
+    "id": "babcockTrio",
+    "workName": "Pacific Serenades Trio",
+    "workYear": "2003",
+    "workComposer": "bruceBabcock",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_101_1383&amp;products_id=9364",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=Dsf2NBPr-Uk",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [
+      [
+        "Babcock-1.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Babcock-2-1.mp3",
+        "Excerpt 2a"
+      ],
+      [
+        "Babcock-2-2.mp3",
+        "Excerpt 2b"
+      ],
+      [
+        "Babcock-3.mp3",
+        "Excerpt 3"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
+    "instrumentation": "for clarinet, viola, and piano"
+  }
+}

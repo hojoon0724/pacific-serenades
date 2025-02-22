@@ -1,0 +1,43 @@
+{
+  "farberSongsBridgesOfLove": {
+    "id": "farberSongsBridgesOfLove",
+    "workName": "Bridges of Love",
+    "workYear": "2010",
+    "workComposer": "sharonFarber",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Far10-1.mp3",
+        "Excerpt: Wherever You Go (1)"
+      ],
+      [
+        "Far10-1b.mp3",
+        "Excerpt: Wherever You Go (2)"
+      ],
+      [
+        "Far10-1c.mp3",
+        "Excerpt: Wherever You Go (3)"
+      ],
+      [
+        "Far10-2a.mp3",
+        "Excerpt: Once I Knew (1)"
+      ],
+      [
+        "Far10-2b.mp3",
+        "Excerpt: Once I Knew (2)"
+      ],
+      [
+        "Far10-2c.mp3",
+        "Excerpt: Once I Knew (3)"
+      ],
+      [
+        "Far10-3f.mp3",
+        "Excerpt: Wine of Love"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
+    "instrumentation": "for tenor, clarinet, viola, and piano"
+  }
+}

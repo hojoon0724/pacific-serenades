@@ -1,0 +1,44 @@
+{
+  "newFriendsOldTreasures": {
+    "concertTitle": "New Friends, Old Treasures",
+    "dates": [
+      {
+        "day": "1997-02-16T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin"
+      },
+      {
+        "day": "1997-02-16T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Terzetto in C major, Op. 74",
+        "workYear": "1887",
+        "workComposer": "antoninDvorak",
+        "workInstrumentation": "for 2 violins and viola"
+      },
+      {
+        "workName": "An American Quintet",
+        "workYear": "1997",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for 2 violins, 2 violas, cello"
+      },
+      {
+        "workName": "Quintet in G minor, K. 516",
+        "workYear": "1787",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for 2 violins, 2 violas, cello"
+      }
+    ],
+    "musicians": [
+      "martinChalifour",
+      "margaretBatjer",
+      "rolandKato",
+      "connieKupka",
+      "davidSpeltz"
+    ]
+  }
+}

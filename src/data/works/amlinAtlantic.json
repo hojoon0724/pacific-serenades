@@ -1,0 +1,19 @@
+{
+  "amlinAtlantic": {
+    "id": "amlinAtlantic",
+    "workName": "Atlantic Serenade",
+    "workYear": "1991",
+    "workComposer": "martinAmlin",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_100_262&amp;products_id=8027",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=3HkwmKvrvs4&amp;list=PLWzOF_7a7S5nhXhm7J2Tn04oJvmfTMVhp",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [],
+    "description": "",
+    "commissionedBy": "Commissioned by Pacific Serenades",
+    "instrumentation": "for flute, clarinet, cello, and piano"
+  }
+}

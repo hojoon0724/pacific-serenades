@@ -1,0 +1,48 @@
+{
+  "sublimeAndSoulful": {
+    "concertTitle": "Sublime & Soulful",
+    "dates": [
+      {
+        "day": "1997-05-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Allen & Jane Fink in Burbank"
+      },
+      {
+        "day": "1997-05-18T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      },
+      {
+        "day": "1997-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata No. 2 for violin and piano in A major, Op. 100",
+        "workYear": "1886",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for violin and piano"
+      },
+      {
+        "workName": "Mulholland Fantasies",
+        "workYear": "1997",
+        "workComposer": "russellSteinberg",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Piano Quartet in G minor, K. 478",
+        "workYear": "1785",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for piano quartet"
+      }
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "connieKupka",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

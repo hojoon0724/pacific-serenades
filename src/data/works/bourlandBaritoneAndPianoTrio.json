@@ -1,0 +1,43 @@
+{
+  "bourlandBaritoneAndPianoTrio": {
+    "id": "bourlandBaritoneAndPianoTrio",
+    "workName": "Duarte's Love Songs",
+    "workYear": "2011",
+    "workComposer": "rogerBourland",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Bou11-1a.mp3",
+        "Excerpt: Mvt. 1 (1)"
+      ],
+      [
+        "Bou11-1b.mp3",
+        "Excerpt: Mvt. 1 (2)"
+      ],
+      [
+        "Bou11-2a.mp3",
+        "Excerpt: Mvt. 2 (1)"
+      ],
+      [
+        "Bou11-2b.mp3",
+        "Excerpt: Mvt. 2 (2)"
+      ],
+      [
+        "Bou11-3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "Bou11-3b.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "Bou11-3end.mp3",
+        "Excerpt: Conclusion"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
+    "instrumentation": "for baritone, violin, cello, and piano"
+  }
+}

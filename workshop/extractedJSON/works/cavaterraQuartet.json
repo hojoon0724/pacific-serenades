@@ -1,0 +1,33 @@
+{
+  "cavaterraQuartet": {
+    "id": "cavaterraQuartet",
+    "workName": "Fantasy for Four Instruments",
+    "workYear": "2008",
+    "workComposer": "jeremyCavaterra",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Cavaterra-Fantasy1.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Cavaterra-Fantasy2.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Cavaterra-Fantasy3.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Cavaterra-Fantasy4.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Cavaterra-Fantasy5.mp3",
+        "Excerpt 5"
+      ]
+    ],
+    "description": ""
+  }
+}

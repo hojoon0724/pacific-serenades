@@ -1,0 +1,46 @@
+{
+  "carnegieHallRecital": {
+    "concertTitle": "Carnegie Hall Recital",
+    "dates": [
+      {
+        "day": "1994-09-24T09:00:03.000Z",
+        "time": "2::3",
+        "venue": "Weill Recital Hall"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Three Folksongs",
+        "workYear": "1993",
+        "workComposer": "robertAldridge",
+        "workInstrumentation": "for clarinet and string quartet"
+      },
+      {
+        "workName": "Piano Quartet",
+        "workYear": "1992",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for piano quartet"
+      },
+      {
+        "workName": "Clarinet Quintet in B minor, Op. 115",
+        "workYear": "1891",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for clarinet & string quartet"
+      },
+      {
+        "workName": "Sonata for Clarinet and Piano",
+        "workYear": "1962",
+        "workComposer": "francisPoulenc",
+        "workInstrumentation": "for clarinet and piano"
+      }
+    ],
+    "musicians": [
+      "garyGray",
+      "rogerWilkie",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

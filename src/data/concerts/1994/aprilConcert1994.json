@@ -1,0 +1,27 @@
+{
+  "aprilConcert1994": {
+    "id": "aprilConcert1994",
+    "year": "1994",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1994-05-01T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "mozartDuoGMajor",
+      "lipkisDancingInHerSleep",
+      "brahmsPianoQuintet"
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "connieKupka",
+      "cynthiaPhelps",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

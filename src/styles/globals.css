@@ -8,8 +8,11 @@
 
   --ps-dark: #333333;
   --ps-grey: #888888;
-  --ps-blue: #39b5bd;
-  --ps-teal: #20cf9f;
+
+  --ps-blue: "hsl(193 96 45)";
+  --ps-teal: "hsl(174 100 39)";
+  --ps-green: "hsl(114 49 66)";
+  --ps-yellow: "hsl(62 56 63)";
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,21 +22,25 @@
   }
 }
 
+/* * {
+  border: 1px solid green;
+} */
+
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-family: "Lato", Arial, Helvetica, sans-serif;
   min-height: 100svh;
   min-width: 100svw;
 }
 
-#__next {
+/* #__next {
   min-height: 100svh;
   min-width: 100svw;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
+} */
 
 #__next > div {
   display: flex;
@@ -48,10 +55,11 @@ body {
   }
 }
 
-.top-container {
-  /* height: calc(100svh - 250px); */
-
-  min-height: calc(100svh - 330px);
+hr {
+  border: 0.5px solid var(--ps-dark);
+  margin: 2rem 0rem;
+  box-sizing: border-box;
+  height: 0px;
 }
 
 .temp-nav-logo-container {
@@ -70,48 +78,74 @@ body {
 }
 
 .wave-bg-container {
-  background: url('/logos/pacser-mainWave.svg') 0 100%, url('/logos/pacser-mainWave.svg') 1px 100%;
+  background:
+    url("/logos/pacser-mainWave.svg") 0 100%,
+    url("/logos/pacser-mainWave.svg") 1px 100%;
+  /* background: url('/logos/laCountyArtsCommission.jpg') 0 100%, url('/logos/laCountyArtsCommission.jpg') 1px 100%; */
   background-repeat: repeat-x;
   width: 100%;
-  height: clamp(100px, 20svw, 300px);
+  height: clamp(100px, 20svw, 200px);
   position: absolute;
   top: 0px;
-  z-index: -1;
+  z-index: 0;
+  /* border: 1px solid red; */
 }
 
-.section-landing {
+.max-width {
   max-width: 1200px;
-  margin: 32px;
-  /* border: 1px solid red; */
 }
 
 .message-box-container {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   column-gap: 32px;
-}
-
-p {
-  padding: 1ch 0ch;
-}
-
-nav {
-  position: relative;
-  height: clamp(100px, 20svw, 300px);
   width: 100%;
 }
 
+section {
+  /* @apply justify-center items-center xl:max-w-[1200px] mx-auto px-6; */
+  @apply m-8;
+}
+
+p {
+  @apply text-body1;
+  padding: 0.7ch 0ch;
+}
+
+.nav-bar-container {
+  position: relative;
+  height: clamp(50px, 10svw, 100px);
+  /* margin-top: clamp(25px, 5svw, 50px); */
+  margin-bottom: clamp(50px, 10svw, 100px);
+  /* margin-bottom: clamp(25px, 5svw, 50px); */
+  width: 100%;
+  /* border: 1px solid red; */
+  @apply sticky;
+  top: 0px;
+}
+
 footer {
-  background-color: var(--ps-dark);
-  min-height: 30px;
+  @apply text-blue-400;
+  @apply bg-blue-950;
+  /* background-color: var(--ps-dark); */
+  font-size: 0.8rem;
+  font-weight: 600;
+  /* min-height: 30px; */
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--ps-teal);
+  flex-direction: column;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 
+.welcome-paragraph-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0rem;
+}
 .welcome-paragraph-text {
   font-weight: 500;
   text-align: justify;
@@ -119,7 +153,32 @@ footer {
 }
 
 .welcome-paragraph-signature {
+  width: 65ch;
   font-weight: 700;
+  text-align: right;
+}
+
+.composer-top-container {
+  box-sizing: border-box;
+  /* max-width: 65ch; */
+  /* width: 100%; */
+}
+
+.composer-name {
+  @apply capitalize;
+}
+
+.prose {
+  @apply max-w-prose;
+  text-align: justify;
+}
+
+.prose > p {
+  margin: 0.5rem 0rem;
+}
+
+.mobile-menu-container {
+  margin-top: clamp(100px, 20svw, 200px);
   text-align: right;
 }
 
@@ -133,6 +192,48 @@ footer {
     flex-direction: column;
   }
   .section-landing {
-    padding: 16px;
+    width: 100%;
   }
+}
+
+h1 {
+  @apply text-4xl font-extrabold leading-tight;
+}
+h2 {
+  @apply text-3xl font-bold leading-snug;
+}
+h3 {
+  @apply text-2xl font-semibold leading-snug;
+}
+h4 {
+  @apply text-xl font-medium leading-normal;
+}
+h5 {
+  @apply text-lg font-medium leading-normal;
+}
+h6 {
+  @apply text-base font-medium leading-normal;
+}
+
+subtitle1 {
+  @apply text-subtitle1;
+}
+subtitle2 {
+  @apply text-subtitle2;
+}
+body1 {
+  @apply text-body1;
+}
+body2 {
+  @apply text-body2;
+}
+button {
+  @apply text-button;
+}
+.caption {
+  @apply text-caption;
+  text-align: center;
+}
+overline {
+  @apply text-overline;
 }

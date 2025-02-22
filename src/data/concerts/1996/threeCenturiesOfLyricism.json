@@ -1,0 +1,38 @@
+{
+  "threeCenturiesOfLyricism": {
+    "id": "threeCenturiesOfLyricism",
+    "year": "1996",
+    "concertTitle": "Three centuries of lyricism",
+    "dates": [
+      {
+        "date": "1996-04-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1996-04-19T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1996-04-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "geminianiSonata",
+      "blochPrayer",
+      "frenchSilhouettesAtSunrise",
+      "brahmsTrioOp8"
+    ],
+    "musicians": [
+      "claytonHaslop",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "januaryConcert1994": {
+    "id": "januaryConcert1994",
+    "year": "1994",
+    "concertTitle": "January Concert",
+    "dates": [
+      {
+        "date": "1994-01-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1994-01-23T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "frenchSilhouettesAtSunrise",
+      "brahmsPianoTrioCMajor",
+      "debussyCelloSonata"
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

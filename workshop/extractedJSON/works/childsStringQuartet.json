@@ -1,0 +1,41 @@
+{
+  "childsStringQuartet": {
+    "id": "childsStringQuartet",
+    "workName": "String Quartet #1",
+    "workYear": "2009",
+    "workComposer": "billyChilds",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Childs09Mv1a.mp3",
+        "Excerpt: Mvt. 1 (1)"
+      ],
+      [
+        "Childs09Mv1b.mp3",
+        "Excerpt: Mvt. 1 (2)"
+      ],
+      [
+        "Childs09Mv1c.mp3",
+        "Excerpt: Mvt. 1 (3)"
+      ],
+      [
+        "Childs09Mv2a2.mp3",
+        "Excerpt: Mvt. 2"
+      ],
+      [
+        "Childs09Mv3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "Childs09Mv3b.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "Childs09Mv3end.mp3",
+        "Excerpt: Mvt. 3 (3)"
+      ]
+    ],
+    "description": ""
+  }
+}

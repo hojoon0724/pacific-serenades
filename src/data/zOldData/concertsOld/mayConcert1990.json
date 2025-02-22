@@ -1,0 +1,44 @@
+{
+  "mayConcert1990": {
+    "concertTitle": "May Concert",
+    "dates": [
+      {
+        "day": "1990-05-09T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mr. & Mrs. Joseph Livio in Westwood"
+      },
+      {
+        "day": "1990-05-10T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Sonata for Clarinet and Piano",
+        "workYear": "1962",
+        "workComposer": "francisPoulenc",
+        "workInstrumentation": "for clarinet and piano"
+      },
+      {
+        "workName": "Pacific Serenades",
+        "workYear": "1990",
+        "workComposer": "robertKyr",
+        "workInstrumentation": "for flute, clarinet, violin, cello, and piano"
+      },
+      {
+        "workName": "Trio in E flat major, Op. 70, No. 2",
+        "workYear": "1808",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for piano trio"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "peterMchugh",
+      "davidSpeltz",
+      "deloresStevens"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "shapiroCurrent": {
+    "id": "shapiroCurrent",
+    "workName": "Current Events",
+    "workYear": "2003",
+    "workComposer": "alexShapiro",
+    "purchaseLink": "https://www.alexshapiro.org/CurrentEventspg1.html",
+    "video": [],
+    "audio": [
+      [
+        "Surge1.mp3",
+        "Surge 1"
+      ],
+      [
+        "Surge2.mp3",
+        "Surge 2"
+      ],
+      [
+        "Ebb1.mp3",
+        "Ebb 1"
+      ],
+      [
+        "Ebb2.mp3",
+        "Ebb 2"
+      ],
+      [
+        "Rip1.mp3",
+        "Rip 1"
+      ],
+      [
+        "Rip2.mp3",
+        "Rip 2"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Gerry Aster and by J. Christopher Kennedy for Pacific Serenades",
+    "instrumentation": "for 2 violins, 2 violas, cello"
+  }
+}

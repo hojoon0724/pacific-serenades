@@ -1,0 +1,60 @@
+{
+  "aPotpourriTheNextGeneration": {
+    "concertTitle": "A Potpourri/PacSer, the Next Generation",
+    "dates": [
+      {
+        "day": "2015-06-11T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The West Hollywood City Council Chambers"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Serenade No.2: Paintings",
+        "workYear": "1986",
+        "workComposer": "rogerBourland",
+        "workInstrumentation": "for flute, clarinet, violin, cello, piano"
+      },
+      {
+        "workName": "The Hall of Mirrors",
+        "workYear": "1990",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for clarinet and piano"
+      },
+      {
+        "workName": "Quartet",
+        "workYear": "1994",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for flute, clarinet/bass clarinet, cello, and piano"
+      },
+      {
+        "workName": "Between the dark and daylight",
+        "workYear": "2007",
+        "workComposer": "adrienneAlbert",
+        "workInstrumentation": "for flute, harp, violin, viola, and cello"
+      },
+      {
+        "workName": "Batik",
+        "workYear": "2010",
+        "workComposer": "markCarlson",
+        "workInstrumentation": "for violin and piano"
+      },
+      {
+        "workName": "Pacific Serenade",
+        "workYear": "1998",
+        "workComposer": "miguelDelAguila",
+        "workInstrumentation": "for clarinet and string quartet"
+      }
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "judithFarmer",
+      "connieKupka",
+      "davidSpeltz",
+      "aykeAgus",
+      "edithOrloff",
+      "joshuaGarcia"
+    ]
+  }
+}

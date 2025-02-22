@@ -1,0 +1,49 @@
+{
+  "graftsAndHybrids": {
+    "concertTitle": "Grafts & Hybrids",
+    "dates": [
+      {
+        "day": "2012-05-19T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Home of Kimberly Rose & Michael Shannon in La Cañada"
+      },
+      {
+        "day": "2012-05-20T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "day": "2012-05-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartettsatz in C minor, D. 103",
+        "workYear": "1820",
+        "workComposer": "franzSchubert",
+        "workInstrumentation": "for string quartet"
+      },
+      {
+        "workName": "Four Songs on excerpts from Lucretius's \"On the Nature of the Universe\"",
+        "workYear": "2012",
+        "workComposer": "justinMorell",
+        "workInstrumentation": "for baritone & string quartet"
+      },
+      {
+        "workName": "Selected Songs",
+        "workYear": "",
+        "workComposer": "hugoWolf",
+        "workInstrumentation": "for baritone & string quartet"
+      }
+    ],
+    "musicians": [
+      "michaelDean",
+      "rogerWilkie",
+      "miwakoWatanabe",
+      "davidWalther",
+      "davidSpeltz"
+    ]
+  }
+}

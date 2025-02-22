@@ -1,0 +1,41 @@
+{
+  "januaryConcert1994": {
+    "concertTitle": "January Concert",
+    "dates": [
+      {
+        "day": "1994-01-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein"
+      },
+      {
+        "day": "1994-01-23T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Silhouettes at Sunrise",
+        "workYear": "1993",
+        "workComposer": "taniaFrench",
+        "workInstrumentation": "for violin, cello, and piano"
+      },
+      {
+        "workName": "Piano Trio in C major, Op. 87",
+        "workYear": "1882",
+        "workComposer": "johannesBrahms",
+        "workInstrumentation": "for violin, cello, and piano"
+      },
+      {
+        "workName": "Sonata for Cello and Piano",
+        "workYear": "1915",
+        "workComposer": "claudeDebussy"
+      }
+    ],
+    "musicians": [
+      "rogerWilkie",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

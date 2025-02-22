@@ -1,0 +1,33 @@
+{
+  "aprilConcert1993": {
+    "id": "aprilConcert1993",
+    "year": "1993",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1993-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1993-04-18T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "beethoven12Variations",
+      "realeWexfordCarol",
+      "franckQuintet"
+    ],
+    "musicians": [
+      "margaretBatjer",
+      "connieKupka",
+      "victoriaMiskolczy",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

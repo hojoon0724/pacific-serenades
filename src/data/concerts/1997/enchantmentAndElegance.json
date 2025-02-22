@@ -1,0 +1,39 @@
+{
+  "enchantmentAndElegance": {
+    "id": "enchantmentAndElegance",
+    "year": "1997",
+    "concertTitle": "Enchantment & Elegance",
+    "dates": [
+      {
+        "date": "1997-03-09T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Robert & Ruth Peck in Pasadena (The Cordelia Culbertson House)",
+        "venueId": "robertAndRuthPeckHome"
+      },
+      {
+        "date": "1997-03-10T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1997-03-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "schubertStringTrio",
+      "newmanLaudsOboeQuartet",
+      "martinuDuoNo1",
+      "mozartOboeQuartet"
+    ],
+    "musicians": [
+      "allanVogel",
+      "connieKupka",
+      "rolandKato",
+      "davidSpeltz"
+    ]
+  }
+}

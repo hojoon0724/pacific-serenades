@@ -1,0 +1,43 @@
+{
+  "buckinghamQuintet": {
+    "id": "buckinghamQuintet",
+    "workName": "Still Time",
+    "workYear": "2010",
+    "workComposer": "katisseBuckingham",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Bu10-1a.mp3",
+        "Excerpt: Trails (1)"
+      ],
+      [
+        "Bu10-1b.mp3",
+        "Excerpt: Trails (2)"
+      ],
+      [
+        "Bu10-2a.mp3",
+        "Excerpt: Powder (1)"
+      ],
+      [
+        "Bu10-2b.mp3",
+        "Excerpt: Powder (2)"
+      ],
+      [
+        "Bu10-3a.mp3",
+        "Excerpt: Tides (1)"
+      ],
+      [
+        "Bu10-3b.mp3",
+        "Excerpt: Tides (2)"
+      ],
+      [
+        "Bu10-3c.mp3",
+        "Excerpt: Tides (3)"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
+    "instrumentation": "for alto saxophone and string quartet"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "theWorldIsOurCommunity": {
+    "id": "theWorldIsOurCommunity",
+    "year": "2009",
+    "concertTitle": "The world is our community",
+    "dates": [
+      {
+        "date": "2009-02-08T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Stephen & Sonya Blake in Valley Glen"
+      },
+      {
+        "date": "2009-02-09T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena"
+      },
+      {
+        "date": "2009-02-11T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center"
+      }
+    ],
+    "program": [
+      {
+        "workName": "Quartet in D major, K. 285",
+        "workYear": "1777",
+        "workComposer": "wolfgangMozart",
+        "workInstrumentation": "for flute, violin, viola, and cello"
+      },
+      {
+        "workName": "String Trio in C minor, Op. 9, No. 3",
+        "workYear": "1798",
+        "workComposer": "ludwigVanBeethoven",
+        "workInstrumentation": "for violin, viola, and cello"
+      },
+      {
+        "workName": "Memories of a Shoehorn",
+        "workYear": "2009",
+        "workComposer": "munirBeken",
+        "workInstrumentation": "for ud, flute, violin, viola, cello"
+      },
+      {
+        "workName": "Mahur Pesrevi",
+        "workYear": "",
+        "workComposer": "tanburiCemilBey",
+        "workInstrumentation": "for Solo Ud"
+      },
+      {
+        "workName": "Mahur Saz Semaisi",
+        "workYear": "",
+        "workComposer": "kemenceciNikolaki",
+        "workInstrumentation": "for Solo Ud"
+      },
+      {
+        "workName": "Taksim Mahur",
+        "workYear": "",
+        "workComposer": "traditional",
+        "workInstrumentation": "for Solo Ud"
+      }
+    ],
+    "musicians": [
+      "munirBeken",
+      "markCarlson",
+      "kathleenLenski",
+      "rolandKato",
+      "davidSpeltz"
+    ]
+  }
+}

@@ -1,0 +1,2789 @@
+{
+  "2599": {
+    "id": "2599",
+    "year": "2011",
+    "concertTitle": "25/99",
+    "dates": [
+      {
+        "date": "2011-01-30T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Home of Edwin & Leilani Raquel in Fremont Place",
+        "venueId": "edwinAndLeilaniRaquelHome"
+      },
+      {
+        "date": "2011-01-31T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2011-02-09T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["milburnChamberJams", "boccheriniCelloSonataInA", "handelBMinorFluteSonata", "telemannOboeSonataInDMinor", "bachFluteSonata"],
+    "musicians": ["markCarlson", "jonathanDavis", "davidSpeltz", "patriciaMabee"]
+  },
+  "25100": {
+    "id": "25100",
+    "year": "2011",
+    "concertTitle": "25/100",
+    "dates": [
+      {
+        "date": "2011-03-13T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2011-03-16T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["bourlandBaritoneAndPianoTrio", "prokofievFiveMelodies", "arenskyPianoTrioDMinor", "russianSongs"],
+    "musicians": ["vladimirChernov", "rogerWilkie", "davidSpeltz", "robertThies"]
+  },
+  "25101": {
+    "id": "25101",
+    "year": "2011",
+    "concertTitle": "25/101",
+    "dates": [
+      {
+        "date": "2011-04-30T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Home of Ronna Binn-Hersh and Louis R. Hersh",
+        "venueId": "ronnaAndLouisHershHome"
+      },
+      {
+        "date": "2011-05-01T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2011-05-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["charnofskyPianoQuintet", "mozartPianoTrioK502", "dohnanyiQuintetNo1"],
+    "musicians": ["rogerWilkie", "miwakoWatanabe", "davidWalther", "davidSpeltz", "edithOrloff"]
+  },
+  "25102": {
+    "id": "25102",
+    "year": "2011",
+    "concertTitle": "25/102",
+    "dates": [
+      {
+        "date": "2011-06-04T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Home of Ellen & Harvey Knell (The Blacker House) in Pasadena",
+        "venueId": "ellenAndHarveyKnellHome"
+      },
+      {
+        "date": "2011-06-05T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2011-06-08T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["ravelIntroductionAndAllegro", "gabrielaFrankQuartet", "haydnQuartetOp50No5", "delAguilaPacificSerenadeNonPremiere"],
+    "musicians": ["joannTurovsky", "markCarlson", "garyGray", "terezaStanislav", "connieKupka", "robertBrophy", "davidSpeltz"]
+  },
+  "theUrConcert": {
+    "id": "theUrConcert",
+    "year": "1982",
+    "concertTitle": "The Ur-Concert",
+    "dates": [
+      {
+        "date": "1982-03-06T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Home of Lee Burns",
+        "venueId": "leeBurnsHome"
+      },
+      {
+        "date": "1982-03-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Home of Lee Burns",
+        "venueId": "leeBurnsHome"
+      }
+    ],
+    "program": ["luebeckPreludeAndFugue", "carlsonTwasBrillig", "krebsFantasy", "attaignantPavanne", "attaignantGaillarde", "gardanePasseMezoAnticoSecondo", "bourlandCantilena", "realeIntavolatura", "bachPassacaglia"],
+    "musicians": ["thomasHarmon", "markCarlson"]
+  },
+  "concertIi": {
+    "id": "concertIi",
+    "year": "1986",
+    "concertTitle": "Concert II",
+    "dates": [
+      {
+        "date": "1986-06-29T22:00:00.000Z",
+        "time": "15:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": ["mozartOctetCMinor", "carlsonAfterTheSunHasSet", "mozartOctetEbMajor"],
+    "musicians": ["lyriaPegram", "lucasRichman", "josephStone", "franciscoJCastillo", "davidAtkins", "davidSasaki", "kennethMeyer", "michaelSweeney", "martyKrystall", "josephMeyer", "jonTitmus", "kristenJepperson", "steveGEdelman"]
+  },
+  "aSongRecital": {
+    "id": "aSongRecital",
+    "year": "1987",
+    "concertTitle": "A Song Recital",
+    "dates": [
+      {
+        "date": "1987-07-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Harvey S. Perloff in Westwood",
+        "venueId": "mrsHarveyPerloffHome"
+      },
+      {
+        "date": "1987-07-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": ["straussSongs", "bergOp2", "faureSongs2010", "carlsonThisIsTheGarden", "ivesSongs1987"],
+    "musicians": ["miltonFriesen", "laraineStivers"]
+  },
+  "mixedEnsemble2": {
+    "id": "mixedEnsemble2",
+    "year": "1987",
+    "concertTitle": "Mixed Ensemble",
+    "dates": [
+      {
+        "date": "1987-01-21T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
+      },
+      {
+        "date": "1987-01-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": ["mendelssohnDMinor", "bartokContrasts", "bourlandSerenadeNo2"],
+    "musicians": ["markCarlson", "garyGray", "peterMarsh", "stevenErdody", "deloresStevens"]
+  },
+  "theSatoriStringQuartet": {
+    "id": "theSatoriStringQuartet",
+    "year": "1987",
+    "concertTitle": "The Satori String Quartet",
+    "dates": [
+      {
+        "date": "1987-05-20T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1987-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": ["haydnOp54No1", "pierceFourMovementsQuartet", "deathAndTheMaiden"],
+    "musicians": ["murrayAdler", "peterKent", "pamelaGoldsmith", "frederickSeykora"]
+  },
+  "theWestwoodWindQuintet": {
+    "id": "theWestwoodWindQuintet",
+    "year": "1987",
+    "concertTitle": "The Westwood Wind Quintet",
+    "dates": [
+      {
+        "date": "1987-07-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Jane Welton in Bel-Air",
+        "venueId": "janeWeltonBelAirHome"
+      }
+    ],
+    "program": ["rimskyQuintetInBFlatMajor", "steinbergOceanScherzos", "realeElevenMiniatures", "mozartQuintetPianoWinds"],
+    "musicians": ["johnBarcellona", "peterChrist", "davidAtkins", "kennethMeyer", "josephMeyer", "deloresStevens"]
+  },
+  "clarinetQuintet": {
+    "id": "clarinetQuintet",
+    "year": "1988",
+    "concertTitle": "Clarinet Quintet",
+    "dates": [
+      {
+        "date": "1988-03-25T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Dr. & Mrs. Mohammed Gharavi",
+        "venueId": "drAndMrsMohammedGharaviHome"
+      },
+      {
+        "date": "1988-03-24T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["schubertQuartettsatz", "realeGracesAndFuries", "brahmsClarinetQuintet"],
+    "musicians": ["garyGray", "peterMarsh", "claudiaParducci", "brianDembow", "stevenErdody"]
+  },
+  "marimolin": {
+    "id": "marimolin",
+    "year": "1988",
+    "concertTitle": "Marimolin",
+    "dates": [
+      {
+        "date": "1988-02-24T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Stanley & Theodora Cornyn in Sherman Oaks",
+        "venueId": "stanleyAndTheodoraCornynHome"
+      },
+      {
+        "date": "1988-02-25T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["bachMarimolinPiece", "scherBrechstimme", "thimmigStanzasBook8", "barkinBecomingTogetherApart", "levitanDuoForViolinAndMarimba", "coltraneNaima", "sparksAmazingGrace", "stowensForMiroVlabimian"],
+    "musicians": ["sharanLeventhal", "nancyZeltsman"]
+  },
+  "mixedEnsemble": {
+    "id": "mixedEnsemble",
+    "year": "1988",
+    "concertTitle": "Mixed Ensemble",
+    "dates": [
+      {
+        "date": "1988-01-06T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
+      },
+      {
+        "date": "1988-01-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["brahmsEbClarinet", "carlsonSerenadeNo2", "ravelPianoTrio"],
+    "musicians": ["markCarlson", "garyGray", "peterMarsh", "stevenErdody", "deloresStevens"]
+  },
+  "theElgartYatesGuitarDuo": {
+    "id": "theElgartYatesGuitarDuo",
+    "year": "1988",
+    "concertTitle": "The Elgart/Yates Guitar Duo",
+    "dates": [
+      {
+        "date": "1988-05-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Aleen Leslie",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1988-05-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Aleen Leslie",
+        "venueId": "mrsAleenLeslieHome"
+      },
+      {
+        "date": "1988-05-05T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["stravinskyMarchWaltzPolkaGuitar", "normanDuo", "nielsenFivePiecesDuo", "reichPianoPhase", "conteOfASummerEveningGuitarDuo", "yatesElgartGuitarDuo", "bodyValiha", "scriabinPreludes", "hindemithBostonAndRagtime", "weingardenWellingtonsUnderture"],
+    "musicians": ["matthewElgart", "peterYates"]
+  },
+  "aprilConcert1989": {
+    "id": "aprilConcert1989",
+    "year": "1989",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1989-04-13T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Ted Tanaka & Diana Ho in Venice",
+        "venueId": "tedTanakaAndDianaHoHome"
+      },
+      {
+        "date": "1989-04-12T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["schumannFantasyPiecesClarinet", "brahmsEMinorCello", "beethovenClarinetTrio", "lipkisRebelAngel"],
+    "musicians": ["garyGray", "stevenErdody", "deloresStevens"]
+  },
+  "januaryConcert1989": {
+    "id": "januaryConcert1989",
+    "year": "1989",
+    "concertTitle": "January Concert",
+    "dates": [
+      {
+        "date": "1989-01-26T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
+        "venueId": "heleneAndDavidRottapelHome"
+      },
+      {
+        "date": "1989-01-27T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["beethovenHornSonata", "debussyPourLePiano", "bourlandRecentDreams", "brahmsHornTrio"],
+    "musicians": ["richardTodd", "debraPrice", "deloresStevens"]
+  },
+  "marchConcert1989": {
+    "id": "marchConcert1989",
+    "year": "1989",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1989-03-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Eugene Holt in Studio City",
+        "venueId": "eugeneHoltHome"
+      },
+      {
+        "date": "1989-03-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["ravelViolinSonata", "bokserBehind", "smetanaTrio"],
+    "musicians": ["rochelleAbramson", "sebastianToettcher", "gayleBlankenburg"]
+  },
+  "theAngelesStringQuartet": {
+    "id": "theAngelesStringQuartet",
+    "year": "1989",
+    "concertTitle": "The Angeles String Quartet",
+    "dates": [
+      {
+        "date": "1989-05-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mr. & Mrs. Edward Renwick in Pasadena",
+        "venueId": "mrAndMrsEdwardRenwickHome"
+      },
+      {
+        "date": "1989-05-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["haydnOp74No3", "carlsonStarryNight", "beethovenHarp"],
+    "musicians": ["kathleenLenski", "rogerWilkie", "brianDembow", "stevenErdody"]
+  },
+  "aprilConcert1990": {
+    "id": "aprilConcert1990",
+    "year": "1990",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1990-04-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
+      },
+      {
+        "date": "1990-04-05T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["mozartPianoQuartet", "conteQuintet", "schumannPianoQuintet"],
+    "musicians": ["elizabethBaker", "jenniferWoodward", "rolandKato", "rogerLebow", "gayleBlankenburg"]
+  },
+  "februaryConcert1990": {
+    "id": "februaryConcert1990",
+    "year": "1990",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1990-02-28T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mark & Lynn Schiffmacher in Sherman Oaks",
+        "venueId": "markAndLynnSchiffmacherHome"
+      },
+      {
+        "date": "1990-03-01T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Clark Library",
+        "venueId": "westHollywoodLibrary"
+      },
+      {
+        "date": "1990-03-01T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Clark Library",
+        "venueId": "clarkLibrary"
+      }
+    ],
+    "program": ["handelOp2No1", "vivaldiSonataDMajor", "kibbeWinterMoods", "bachBwv1028", "handelOp2No3"],
+    "musicians": ["markCarlson", "rogerWilkie", "davidSpeltz", "owenBurdick"]
+  },
+  "januaryConcert1990": {
+    "id": "januaryConcert1990",
+    "year": "1990",
+    "concertTitle": "January Concert",
+    "dates": [
+      {
+        "date": "1990-01-26T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Clark Library",
+        "venueId": "westHollywoodLibrary"
+      },
+      {
+        "date": "1990-01-26T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Clark Library",
+        "venueId": "clarkLibrary"
+      }
+    ],
+    "program": ["mendelssohnCelloSonata", "carlsonHallOfMirrors", "brahmsClarinetTrio"],
+    "musicians": ["garyGray", "stevenErdody", "deloresStevens"]
+  },
+  "mayConcert1990": {
+    "id": "mayConcert1990",
+    "year": "1990",
+    "concertTitle": "May Concert",
+    "dates": [
+      {
+        "date": "1990-05-09T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mr. & Mrs. Joseph Livio in Westwood",
+        "venueId": "josephLivioHome"
+      },
+      {
+        "date": "1990-05-10T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["poulenceClarinetSonata", "kyrPacificSerenades", "beethovenTrioOp70No2"],
+    "musicians": ["markCarlson", "garyGray", "peterMchugh", "davidSpeltz", "deloresStevens"]
+  },
+  "aprilConcert1991": {
+    "id": "aprilConcert1991",
+    "year": "1991",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1991-02-03T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
+      },
+      {
+        "date": "1991-02-03T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["mozartFluteQuartetD", "ravelSonataViolinAndCello", "krouseTientos"],
+    "musicians": ["markCarlson", "connieKupka", "michaelNowak", "davidSpeltz", "jonathanStockhammer"]
+  },
+  "februaryConcert1991": {
+    "id": "februaryConcert1991",
+    "year": "1991",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1991-05-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1991-05-19T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["debussyCelloSonata", "realeCelticWeddingSonata", "beethovenTrioOp1No1"],
+    "musicians": ["yukikoKamei", "davidSpeltz", "aykeAgus"]
+  },
+  "marchConcert1991": {
+    "id": "marchConcert1991",
+    "year": "1991",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1991-04-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
+      },
+      {
+        "date": "1991-04-14T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["bach4SuiteForCelloInCMajor2", "ravelChansonMadecasses", "carlsonFromOneWhoStays", "vonWeberTrio"],
+    "musicians": ["paulaRasmussen", "markCarlson", "davidSpeltz", "antoinettePerry"]
+  },
+  "mayConcert1991": {
+    "id": "mayConcert1991",
+    "year": "1991",
+    "concertTitle": "May Concert",
+    "dates": [
+      {
+        "date": "1991-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Bruce & Beverly Gladstone in Sherman Oaks",
+        "venueId": "bruceAndBeverlyGladstoneHome"
+      },
+      {
+        "date": "1991-03-10T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["mozartKegelstatt", "andersonTrio", "bruchEightPieces"],
+    "musicians": ["garyGray", "raymondTischer", "raulHerrera"]
+  },
+  "aprilConcert1992": {
+    "id": "aprilConcert1992",
+    "year": "1992",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1992-04-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1992-04-26T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["bourlandAmericanBaroque", "chopinCelloSonata", "dvorakDumkyTrio"],
+    "musicians": ["miwakoWatanabe", "davidSpeltz", "aykeAgus"]
+  },
+  "februaryConcert1992": {
+    "id": "februaryConcert1992",
+    "year": "1992",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1992-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1992-02-02T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["haydnFluteTrioGMajor", "amlinAtlantic", "brahmsClarinetTrio"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "raulHerrera", "martinAmlin", "jonathanStockhammer"]
+  },
+  "marchConcert1992": {
+    "id": "marchConcert1992",
+    "year": "1992",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1992-03-08T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Dirk & Susan Zimmerman in Beverly Hills",
+        "venueId": "dirkAndSusanZimmermanHome"
+      },
+      {
+        "date": "1992-05-08T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["schubertViolinSonataAMajor", "carlsonPianoQuartet", "schumannPianoQuartet"],
+    "musicians": ["margaretBatjer", "victoriaMiskolczy", "davidSpeltz", "aykeAgus"]
+  },
+  "mayConcert1992": {
+    "id": "mayConcert1992",
+    "year": "1992",
+    "concertTitle": "May Concert",
+    "dates": [
+      {
+        "date": "1992-05-31T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Bruce & Beverly Gladstone in Sherman Oaks",
+        "venueId": "bruceAndBeverlyGladstoneHome"
+      },
+      {
+        "date": "1992-05-31T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["mozartFluteQuartetCMajor", "martinuThreeMadrigals1948", "bachCelloSuiteInGMajor", "beethovenStringTrioOp9No3"],
+    "musicians": ["markCarlson", "connieKupka", "michaelNowak", "davidSpeltz"]
+  },
+  "aprilConcert1993": {
+    "id": "aprilConcert1993",
+    "year": "1993",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1993-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1993-04-18T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["beethoven12Variations", "realeWexfordCarol", "franckQuintet"],
+    "musicians": ["margaretBatjer", "connieKupka", "victoriaMiskolczy", "davidSpeltz", "aykeAgus"]
+  },
+  "februaryConcert1993": {
+    "id": "februaryConcert1993",
+    "year": "1993",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1993-02-14T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1993-02-14T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["schumannStringQuartetAMinor", "aldridgeThreeFolkSongs", "mozartClarinetQuintet"],
+    "musicians": ["garyGray", "yukikoKamei", "connieKupka", "rolandKato", "davidSpeltz"]
+  },
+  "marchConcert1993": {
+    "id": "marchConcert1993",
+    "year": "1993",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1993-03-14T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
+      },
+      {
+        "date": "1993-03-14T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["beethovenStringTrioOp3", "chiharaAubade", "dohnanyiSerenade"],
+    "musicians": ["markCarlson", "rogerWilkie", "victoriaMiskolczy", "davidSpeltz"]
+  },
+  "mayConcert1993": {
+    "id": "mayConcert1993",
+    "year": "1993",
+    "concertTitle": "May Concert",
+    "dates": [
+      {
+        "date": "1993-05-16T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1993-05-16T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["beethovenSpringSonata", "carlsonAbschied", "mendelssohnDMinor"],
+    "musicians": ["miwakoWatanabe", "davidSpeltz", "joannePearceMartin"]
+  },
+  "aprilConcert1994": {
+    "id": "aprilConcert1994",
+    "year": "1994",
+    "concertTitle": "April Concert",
+    "dates": [
+      {
+        "date": "1994-05-01T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["mozartDuoGMajor", "lipkisDancingInHerSleep", "brahmsPianoQuintet"],
+    "musicians": ["margaretBatjer", "connieKupka", "cynthiaPhelps", "davidSpeltz", "aykeAgus"]
+  },
+  "carnegieHallRecital": {
+    "id": "carnegieHallRecital",
+    "year": "1994",
+    "concertTitle": "Carnegie Hall Recital",
+    "dates": [
+      {
+        "date": "1994-09-24T09:00:03.000Z",
+        "time": "2::3",
+        "venue": "Weill Recital Hall",
+        "venueId": "weillRecitalHall"
+      }
+    ],
+    "program": ["aldridgeThreeFolkSongs", "carlsonPianoQuartet", "brahmsClarinetQuintet", "poulenceClarinetSonata"],
+    "musicians": ["garyGray", "rogerWilkie", "connieKupka", "rolandKato", "davidSpeltz", "aykeAgus"]
+  },
+  "februaryConcert1994": {
+    "id": "februaryConcert1994",
+    "year": "1994",
+    "concertTitle": "February Concert",
+    "dates": [
+      {
+        "date": "1994-02-20T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1994-02-20T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["bachCelloSuiteDMinor", "martinuFluteSonata", "beethovenClarinetTrio", "carlsonQuartet"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "aykeAgus"]
+  },
+  "januaryConcert1994": {
+    "id": "januaryConcert1994",
+    "year": "1994",
+    "concertTitle": "January Concert",
+    "dates": [
+      {
+        "date": "1994-01-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1994-01-23T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["frenchSilhouettesAtSunrise", "brahmsPianoTrioCMajor", "debussyCelloSonata"],
+    "musicians": ["rogerWilkie", "davidSpeltz", "joannePearceMartin"]
+  },
+  "marchConcert1994": {
+    "id": "marchConcert1994",
+    "year": "1994",
+    "concertTitle": "March Concert",
+    "dates": [
+      {
+        "date": "1994-03-27T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
+      },
+      {
+        "date": "1994-03-27T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["haydnQuartetOp20No4", "pierceOutcropsAndUpshots", "mendelssohnStringQuintetOp87"],
+    "musicians": ["margaretBatjer", "sherylStaples", "rolandKato", "michaelNowak", "davidSpeltz"]
+  },
+  "baroqueVisionsAndContemporaryReflections": {
+    "id": "baroqueVisionsAndContemporaryReflections",
+    "year": "1995",
+    "concertTitle": "Baroque visions and contemporary reflections",
+    "dates": [
+      {
+        "date": "1995-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Storyopolis in Beverly Hills",
+        "venueId": "storyopolisBeverlyHills"
+      },
+      {
+        "date": "1995-05-21T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["bachGMinorOboeSonata", "mozartSonataBassoonAndCello", "steinmetzMixedBlessings", "bachSoloViolinGMinor", "handelConcertoAQuattro"],
+    "musicians": ["allanVogel", "kennethMunday", "rogerWilkie", "davidSpeltz", "owenBurdick"]
+  },
+  "passionKnowsNoCountry2": {
+    "id": "passionKnowsNoCountry2",
+    "year": "1995",
+    "concertTitle": "Passion knows no country",
+    "dates": [
+      {
+        "date": "1995-02-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1995-02-12T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["hindemithViolaSonataOp11No4", "kibbePianoQuartet", "faurePianoQuartet1"],
+    "musicians": ["miwakoWatanabe", "rolandKato", "davidSpeltz", "aykeAgus"]
+  },
+  "theLateRomanticAndTheRomantic20thCentury": {
+    "id": "theLateRomanticAndTheRomantic20thCentury",
+    "year": "1995",
+    "concertTitle": "The Late Romantic and the romantic 20th century",
+    "dates": [
+      {
+        "date": "1995-04-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1995-04-23T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["bernsteinClarinetSonata", "kestenbaumQuartet", "martinBallade", "brahmsEMinorCello"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "joannePearceMartin"]
+  },
+  "theSoulOfChamberMusicStringsAndBeyond": {
+    "id": "theSoulOfChamberMusicStringsAndBeyond",
+    "year": "1995",
+    "concertTitle": "The soul of chamber music-strings and beyond",
+    "dates": [
+      {
+        "date": "1995-03-19T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
+        "venueId": "davidAndHeleneRottapelHome"
+      },
+      {
+        "date": "1995-03-19T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1995-04-09T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["bartokStringQuartetNo2", "carlsonSixBagatelles", "beethovenStringQuartetNo12"],
+    "musicians": ["margaretBatjer", "connieKupka", "victoriaMiskolczy", "davidSpeltz", "markCarlson"]
+  },
+  "fromTheDepthsOfSoul": {
+    "id": "fromTheDepthsOfSoul",
+    "year": "1996",
+    "concertTitle": "From the depths of soul",
+    "dates": [
+      {
+        "date": "1996-02-04T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of David Speltz & Connie Kupka on Mt. Washington",
+        "venueId": "davidSpeltzAndConnieKupkaHome"
+      },
+      {
+        "date": "1996-02-04T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1996-02-12T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["haydnFluteTrioGMajor", "carlsonFromOneWhoStays", "rachmaninoffCelloSonata"],
+    "musicians": ["kathleenRoland", "markCarlson", "davidSpeltz", "joannePearceMartin"]
+  },
+  "passionKnowsNoCountry": {
+    "id": "passionKnowsNoCountry",
+    "year": "1996",
+    "concertTitle": "Passion knows no country",
+    "dates": [
+      {
+        "date": "1996-04-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1996-04-14T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["haydnQuartetOp76No2", "conteQuintet", "dvorakPianoQuintet"],
+    "musicians": ["claytonHaslop", "connieKupka", "rolandKato", "davidSpeltz", "aykeAgus"]
+  },
+  "threeCenturiesOfLyricism": {
+    "id": "threeCenturiesOfLyricism",
+    "year": "1996",
+    "concertTitle": "Three centuries of lyricism",
+    "dates": [
+      {
+        "date": "1996-04-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "1996-04-19T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1996-04-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["geminianiSonata", "blochPrayer", "frenchSilhouettesAtSunrise", "brahmsTrioOp8"],
+    "musicians": ["claytonHaslop", "davidSpeltz", "joannePearceMartin"]
+  },
+  "whenPlayfulAndSeriousMeet": {
+    "id": "whenPlayfulAndSeriousMeet",
+    "year": "1996",
+    "concertTitle": "When playful and serious meet",
+    "dates": [
+      {
+        "date": "1996-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1996-03-10T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["beethovenCelloSonataOp5No1", "bartokContrasts", "saintSaensTarantella", "bourlandSerenadeNo2"],
+    "musicians": ["markCarlson", "garyGray", "miwakoWatanabe", "davidSpeltz", "aykeAgus"]
+  },
+  "enchantmentAndElegance": {
+    "id": "enchantmentAndElegance",
+    "year": "1997",
+    "concertTitle": "Enchantment & Elegance",
+    "dates": [
+      {
+        "date": "1997-03-09T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Robert & Ruth Peck in Pasadena (The Cordelia Culbertson House)",
+        "venueId": "robertAndRuthPeckHome"
+      },
+      {
+        "date": "1997-03-10T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1997-03-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schubertStringTrio", "newmanLaudsOboeQuartet", "martinuDuoNo1", "mozartOboeQuartet"],
+    "musicians": ["allanVogel", "connieKupka", "rolandKato", "davidSpeltz"]
+  },
+  "newFriendsOldTreasures": {
+    "id": "newFriendsOldTreasures",
+    "year": "1997",
+    "concertTitle": "New Friends, Old Treasures",
+    "dates": [
+      {
+        "date": "1997-02-16T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1997-02-16T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["dvorakTerzetto", "carlsonAmericanQuintet", "mozartQuintetInG"],
+    "musicians": ["martinChalifour", "margaretBatjer", "rolandKato", "connieKupka", "davidSpeltz"]
+  },
+  "sublimeAndSoulful": {
+    "id": "sublimeAndSoulful",
+    "year": "1997",
+    "concertTitle": "Sublime & Soulful",
+    "dates": [
+      {
+        "date": "1997-05-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1997-05-18T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1997-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsViolinAMajor", "steinbergMulholland", "mozartPianoQuartet"],
+    "musicians": ["rogerWilkie", "connieKupka", "davidSpeltz", "joannePearceMartin"]
+  },
+  "theThreeBsAndALittleMessiaen": {
+    "id": "theThreeBsAndALittleMessiaen",
+    "year": "1997",
+    "concertTitle": "The Three B’s…(and a little Messiaen)",
+    "dates": [
+      {
+        "date": "1997-04-13T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "1997-04-13T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1997-04-16T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenCelloSonataAMajor", "broughtonQuartet", "messiaenLeMerleNoir", "brahmsClarinetTrio"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "aykeAgus"]
+  },
+  "aSensoryCelebration": {
+    "id": "aSensoryCelebration",
+    "year": "1998",
+    "concertTitle": "A Sensory Celebration",
+    "dates": [
+      {
+        "date": "1998-02-08T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1998-02-08T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1998-02-11T03:20:00.000Z",
+        "time": "19:20",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["arenskyVariations", "egilssonSextetPacifica", "brahmsSextetInGMajor"],
+    "musicians": ["rogerWilkie", "isabellaLippi", "rolandKato", "connieKupka", "davidSpeltz", "paulCohen"]
+  },
+  "oldFirstConcertsPresentsPacificSerenades": {
+    "id": "oldFirstConcertsPresentsPacificSerenades",
+    "year": "1998",
+    "concertTitle": "Old First Concerts presents Pacific Serenades",
+    "dates": [
+      {
+        "date": "1998-01-11T09:00:04.000Z",
+        "time": "1::4",
+        "venue": "Old First Church",
+        "venueId": "oldFirstChurch"
+      }
+    ],
+    "program": ["haydnFluteTrioGMajor", "carlsonQuartet", "brahmsClarinetTrio"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "aykeAgus"]
+  },
+  "onWingsOfFantasy": {
+    "id": "onWingsOfFantasy",
+    "year": "1998",
+    "concertTitle": "On Wings of Fantasy",
+    "dates": [
+      {
+        "date": "1998-04-19T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "1998-04-19T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["boccheriniCelloSonataCMajor", "carlsonCelloSonata", "schumannFantasyPiecesClarinet", "shostakovichCelloSonata"],
+    "musicians": ["davidSpeltz", "joannePearceMartin"]
+  },
+  "playfulSparklingMagical": {
+    "id": "playfulSparklingMagical",
+    "year": "1998",
+    "concertTitle": "Playful, Sparkling, Magical",
+    "dates": [
+      {
+        "date": "1998-05-17T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1998-05-17T21:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": ["debussyViolinSonata", "lipkisGenerations", "schubertTroutQuintet"],
+    "musicians": ["claytonHaslop", "rolandKato", "davidSpeltz", "bruceMorgenthaler", "aykeAgus"]
+  },
+  "summerFireAutumnEmbers": {
+    "id": "summerFireAutumnEmbers",
+    "year": "1998",
+    "concertTitle": "Summer Fire, Autumn Embers",
+    "dates": [
+      {
+        "date": "1998-03-15T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1998-03-15T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      },
+      {
+        "date": "1998-03-18T03:30:00.000Z",
+        "time": "19:30",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartQuartetK421", "delAguilaPacificSerenadeNonPremiere", "brahmsClarinetQuintet"],
+    "musicians": ["garyGray", "miwakoWatanabe", "connieKupka", "simonOswell", "davidSpeltz"]
+  },
+  "aRomanceWithRhapsody": {
+    "id": "aRomanceWithRhapsody",
+    "year": "1999",
+    "concertTitle": "A Romance with Rhapsody",
+    "dates": [
+      {
+        "date": "1999-01-31T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "1999-02-01T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "1999-02-03T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schumannThreeRomances", "carlsonDreamFantasies", "griffesPoem", "loefflerTwoRhapsodies"],
+    "musicians": ["markCarlson", "allanVogel", "rolandKato", "joannePearceMartin"]
+  },
+  "anAuralKaleidoscope": {
+    "id": "anAuralKaleidoscope",
+    "year": "1999",
+    "concertTitle": "An Aural Kaleidoscope",
+    "dates": [
+      {
+        "date": "1999-03-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Aleen Leslie in Beverly Hills",
+        "venueId": "aleenLeslieHome"
+      },
+      {
+        "date": "1999-03-08T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "1999-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenQuartetOp18No2", "frenchDivertissement", "mendelssohnStringQuintetOp87"],
+    "musicians": ["claytonHaslop", "isabellaLippi", "benjaminSimon", "beckyRodman", "davidSpeltz"]
+  },
+  "hauntingsJoyAndTriumph": {
+    "id": "hauntingsJoyAndTriumph",
+    "year": "1999",
+    "concertTitle": "Hauntings, Joy, and Triumph",
+    "dates": [
+      {
+        "date": "1999-05-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "1999-05-23T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "1999-06-02T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["kodalyDuo", "beethovenPianoQuartet", "goodmanPianoQuartet"],
+    "musicians": ["belindaBroughton", "connieKupka", "davidSpeltz", "aykeAgus"]
+  },
+  "theGardenOfCelestialDelights": {
+    "id": "theGardenOfCelestialDelights",
+    "year": "1999",
+    "concertTitle": "The Garden of Celestial Delights",
+    "dates": [
+      {
+        "date": "1999-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1999-04-18T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "1999-04-28T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsAltoSongs", "chiharaSirenSongs", "schubertShepherdOnTheRock", "bruchEightPieces"],
+    "musicians": ["kathleenRoland", "garyGray", "rolandKato", "joannePearceMartin"]
+  },
+  "ariaInWoodsAndMetals": {
+    "id": "ariaInWoodsAndMetals",
+    "year": "2000",
+    "concertTitle": "Aria in Woods and Metals",
+    "dates": [
+      {
+        "date": "2000-04-16T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2000-04-16T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2000-04-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["saintSaensCaprice", "carlsonSuiteFromTheEverlastingBonfire", "mozartQuintetPianoWinds"],
+    "musicians": ["markCarlson", "allanVogel", "garyGray", "michaelOdonovan", "brianOconnor", "aykeAgus"]
+  },
+  "bridgingWorldsWithSong": {
+    "id": "bridgingWorldsWithSong",
+    "year": "2000",
+    "concertTitle": "Bridging Worlds with Song",
+    "dates": [
+      {
+        "date": "2000-02-05T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "2000-02-06T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2000-02-08T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "",
+        "venueId": ""
+      }
+    ],
+    "program": ["franckViolinSonata", "steinmetzWarScrap", "brahmsTrioOp8"],
+    "musicians": ["belindaBroughton", "davidSpeltz", "antoinettePerry", "davidJohnson"]
+  },
+  "luminousRefractionsOfSoul": {
+    "id": "luminousRefractionsOfSoul",
+    "year": "2000",
+    "concertTitle": "Luminous Refractions of Soul",
+    "dates": [
+      {
+        "date": "2000-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Anne Keeler in Pacific Palisades",
+        "venueId": "anneKeelerHome"
+      },
+      {
+        "date": "2000-05-21T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2000-05-31T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartQuartetK589", "mishellStringQuartet", "ravelStringQuartet"],
+    "musicians": ["miwakoWatanabe", "connieKupka", "rolandKato", "davidSpeltz"]
+  },
+  "throughMistAndShadow": {
+    "id": "throughMistAndShadow",
+    "year": "2000",
+    "concertTitle": "Through Mist and Shadow",
+    "dates": [
+      {
+        "date": "2000-03-11T23:00:00.000Z",
+        "time": "15:00",
+        "venue": "the home of David & Dona Schultz in Pasadena",
+        "venueId": "davidAndDonaSchultzHome"
+      },
+      {
+        "date": "2000-03-13T03:00:00.000Z",
+        "time": "19:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2000-03-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsClarinetFMinor", "krouseHommage", "ravelPianoTrio"],
+    "musicians": ["garyGray", "martinChalifour", "ceciliaTsan", "joannePearceMartin"]
+  },
+  "aCascadeOfGemstones": {
+    "id": "aCascadeOfGemstones",
+    "year": "2001",
+    "concertTitle": "A Cascade of Gemstones",
+    "dates": [
+      {
+        "date": "2001-06-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2001-06-03T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2001-06-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schubertQuartettsatz", "crockettInlandTracking", "mozartClarinetQuintet", "ravelIntroductionAndAllegro"],
+    "musicians": ["markCarlson", "garyGray", "joannTurovsky", "rogerWilkie", "connieKupka", "michaelNowak", "davidSpeltz"]
+  },
+  "anIntoxicatingBouquet": {
+    "id": "anIntoxicatingBouquet",
+    "year": "2001",
+    "concertTitle": "An Intoxicating Bouquet",
+    "dates": [
+      {
+        "date": "2001-02-11T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Geraldine Schlein in Los Angeles",
+        "venueId": "geraldineSchleinHome"
+      },
+      {
+        "date": "2001-02-12T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2001-02-23T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["martinuDuoNo1", "biggsBlackWaltz", "schubertQuintetInCMajor"],
+    "musicians": ["rogerWilkie", "connieKupka", "victoriaMiskolczy", "davidSpeltz", "ceciliaTsan"]
+  },
+  "entwiningBranches": {
+    "id": "entwiningBranches",
+    "year": "2001",
+    "concertTitle": "Entwining Branches",
+    "dates": [
+      {
+        "date": "2001-03-18T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Anne Keeler in Pacific Palisades",
+        "venueId": "anneKeelerHome"
+      },
+      {
+        "date": "2001-03-19T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2001-03-21T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["ravelViolinSonata", "carlsonPianoTrio", "schumannPianoTrioInDMinor"],
+    "musicians": ["belindaBroughton", "davidSpeltz", "aykeAgus"]
+  },
+  "secretPathwaysHiddenTreasures": {
+    "id": "secretPathwaysHiddenTreasures",
+    "year": "2001",
+    "concertTitle": "Secret Pathways, Hidden Treasures",
+    "dates": [
+      {
+        "date": "2001-04-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "2001-04-22T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2001-05-02T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenCelloSonataCMajor", "bourlandFourPainters", "schumannPianoQuartet"],
+    "musicians": ["claytonHaslop", "davidWalther", "davidSpeltz", "joannePearceMartin"]
+  },
+  "aQuiltOfManyLands": {
+    "id": "aQuiltOfManyLands",
+    "year": "2002",
+    "concertTitle": "a quilt of many lands",
+    "dates": [
+      {
+        "date": "2002-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Ralph & Norma Wolfstein in Los Feliz",
+        "venueId": "ralphAndNormaWolfsteinHome"
+      },
+      {
+        "date": "2002-03-11T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2002-03-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["couperinPiecesEnConcert", "bachSonataBwv1034", "gonzalezConciertoBarroco", "tartiniSonataInGMinor", "handelOp2No3"],
+    "musicians": ["markCarlson", "claytonHaslop", "davidSpeltz", "patriciaMabee"]
+  },
+  "onALoomOfLightAndShadow": {
+    "id": "onALoomOfLightAndShadow",
+    "year": "2002",
+    "concertTitle": "on a loom of light and shadow",
+    "dates": [
+      {
+        "date": "2002-02-21T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2002-02-03T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2002-02-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "",
+        "venueId": ""
+      }
+    ],
+    "program": ["stravinsklyDuoConcertant", "roremNineEpisodes", "brahmsClarinetTrio"],
+    "musicians": ["garyGray", "margaretBatjer", "davidSpeltz", "joannePearceMartin"]
+  },
+  "spinningAHarmoniousWeb": {
+    "id": "spinningAHarmoniousWeb",
+    "year": "2002",
+    "concertTitle": "spinning a harmonious web",
+    "dates": [
+      {
+        "date": "2002-04-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "2002-04-14T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2002-04-24T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["haydnPianoTrioInAMajor", "walkerSpringHodgePodge", "brahmsPianoQuartetGMinor"],
+    "musicians": ["miwakoWatanabe", "simonOswell", "davidSpeltz", "aykeAgus"]
+  },
+  "weaversOfDelight": {
+    "id": "weaversOfDelight",
+    "year": "2002",
+    "concertTitle": "weavers of delight",
+    "dates": [
+      {
+        "date": "2002-05-12T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mary Anderson in Brentwood",
+        "venueId": "maryAndersonHome"
+      },
+      {
+        "date": "2002-05-12T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2002-05-22T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schubertStringTrio", "wolfgangImpressions", "beethovenSeptet"],
+    "musicians": ["helenGoodeCastro", "judithFarmer", "brianOconnor", "rogerWilkie", "davidWalther", "davidSpeltz", "bruceMorgenthaler"]
+  },
+  "aGlisteningFountainOfSounds": {
+    "id": "aGlisteningFountainOfSounds",
+    "year": "2003",
+    "concertTitle": "A glistening fountain of sounds",
+    "dates": [
+      {
+        "date": "2003-05-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Elyse & Stanley Grinstein in Brentwood",
+        "venueId": "elyseAndStanleyGrinsteinHome"
+      },
+      {
+        "date": "2003-05-18T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2003-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenPianoTrioCMinor", "carlsonOnTheComingOfWarViolaSonata", "dvorakPianoQuartetEFlat"],
+    "musicians": ["rogerWilkie", "rolandKato", "davidSpeltz", "joannePearceMartin"]
+  },
+  "enfoldedInVelvet": {
+    "id": "enfoldedInVelvet",
+    "year": "2003",
+    "concertTitle": "Enfolded in velvet",
+    "dates": [
+      {
+        "date": "2003-03-09T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Alice & Joe Coulombe in Pasadena",
+        "venueId": "aliceAndJoeCoulombeHome"
+      },
+      {
+        "date": "2003-03-10T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2003-03-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenEyeglassDuo", "martinuThreeMadrigals1948", "shapiroCurrent", "brahmsStringQuintetFMajor"],
+    "musicians": ["miwakoWatanabe", "connieKupka", "victoriaMiskolczy", "davidWalther", "davidSpeltz"]
+  },
+  "fromTheLyricSoul": {
+    "id": "fromTheLyricSoul",
+    "year": "2003",
+    "concertTitle": "From the lyric soul",
+    "dates": [
+      {
+        "date": "2003-04-13T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2003-04-13T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2003-04-23T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["francoeurSonataEMajor", "bachlundEchoFromTheShore", "tartiniDevilsTrill", "bachThreeArias", "telemannQuartetInGMinor"],
+    "musicians": ["julianaGondek", "allanVogel", "claytonHaslop", "davidSpeltz", "patriciaMabee"]
+  },
+  "theSplendorOfVirtuosity": {
+    "id": "theSplendorOfVirtuosity",
+    "year": "2003",
+    "concertTitle": "The splendor of virtuosity",
+    "dates": [
+      {
+        "date": "2003-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Paul & Martine Verhoeven in Pacific Palisades",
+        "venueId": "paulAndMartineVerhoevenHome"
+      },
+      {
+        "date": "2003-02-03T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2003-02-05T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["roremTrio", "chaussonAndanteAndAllegro", "beckSeptemberMusic", "smetanaTrio"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "aykeAgus"]
+  },
+  "blueWavesSnowyPeaks": {
+    "id": "blueWavesSnowyPeaks",
+    "year": "2004",
+    "concertTitle": "Blue waves, snowy peaks",
+    "dates": [
+      {
+        "date": "2004-04-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2004-04-25T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2004-04-28T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsCelloSonataFMajor", "leesTapestry", "griffesPoem", "beethovenClarinetTrio"],
+    "musicians": ["markCarlson", "garyGray", "davidSpeltz", "aykeAgus"]
+  },
+  "fromSageFilledCanyonsAndVerdantRivers": {
+    "id": "fromSageFilledCanyonsAndVerdantRivers",
+    "year": "2004",
+    "concertTitle": "From sage-filled canyons and verdant rivers",
+    "dates": [
+      {
+        "date": "2004-03-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Evan & Ronna Binn in Tarzana",
+        "venueId": "evanAndRonnaBinnHome"
+      },
+      {
+        "date": "2004-03-08T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2004-03-17T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsViolinSonataGMajor", "babcockTrio", "bruchEightPieces", "bartokContrasts"],
+    "musicians": ["garyGray", "margaretBatjer", "rolandKato", "aykeAgus"]
+  },
+  "likeAWarmZephyr": {
+    "id": "likeAWarmZephyr",
+    "year": "2004",
+    "concertTitle": "Like a warm zephyr",
+    "dates": [
+      {
+        "date": "2004-06-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Elyse & Stanley Grinstein in Brentwood",
+        "venueId": "elyseAndStanleyGrinsteinHome"
+      },
+      {
+        "date": "2004-06-06T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2004-06-09T03:40:00.000Z",
+        "time": "20:40",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["boccheriniStringQuintetCMajor", "carlsonSixBagatelles", "debussyStringQuartet"],
+    "musicians": ["markCarlson", "sungilLee", "connieKupka", "davidWalther", "davidSpeltz", "brookSpeltz"]
+  },
+  "ofGoldenHillsAndDarkForests": {
+    "id": "ofGoldenHillsAndDarkForests",
+    "year": "2004",
+    "concertTitle": "Of golden hills and dark forests",
+    "dates": [
+      {
+        "date": "2004-02-01T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Diego Miralles & Michelle Feynman in Altadena",
+        "venueId": "diegoMirallesAndMichelleFeynmanHome"
+      },
+      {
+        "date": "2004-02-02T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2004-02-11T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenQuartetOp18No2", "catanDivertimento", "mozartQuintetInCMajorK515"],
+    "musicians": ["phillipLevy", "connieKupka", "simonOswell", "samuelFormicola", "davidSpeltz", "bruceMorgenthaler"]
+  },
+  "musicWhenSoftVoicesDieVibratesInTheMemoryPercyByssheShelley": {
+    "id": "musicWhenSoftVoicesDieVibratesInTheMemoryPercyByssheShelley",
+    "year": "2005",
+    "concertTitle": "“Music, when soft voices die, vibrates in the memory.”  -Percy Bysshe Shelley",
+    "dates": [
+      {
+        "date": "2005-05-22T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2005-05-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["poulencSextet", "delAguilaLatinLove", "mozartQuintetPianoWinds"],
+    "musicians": ["markCarlson", "allanVogel", "garyGray", "judithFarmer", "brianOconnor", "aykeAgus"]
+  },
+  "suchHarmonyIsInImmortalSoulsShakespeare": {
+    "id": "suchHarmonyIsInImmortalSoulsShakespeare",
+    "year": "2005",
+    "concertTitle": "“Such harmony is in immortal souls.” -Shakespeare",
+    "dates": [
+      {
+        "date": "2005-01-09T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Ellene & Harvey Knell in Pasadena (The Blacker House)",
+        "venueId": "elleneAndHarveyKnellPasadenaHome"
+      },
+      {
+        "date": "2005-01-10T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2005-01-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["bachCelloSuiteInGMajor", "newmanPennipotenti", "mozartFluteQuartetCMajor", "shostakovichQuartetNo10"],
+    "musicians": ["markCarlson", "phillipLevy", "connieKupka", "rolandKato", "davidSpeltz"]
+  },
+  "sweepSoftlyThyStringsWalterDeLaMare": {
+    "id": "sweepSoftlyThyStringsWalterDeLaMare",
+    "year": "2005",
+    "concertTitle": "“Sweep softly thy strings…” -Walter de la Mare",
+    "dates": [
+      {
+        "date": "2005-02-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Alice & Joe Coulombe in Pasadena",
+        "venueId": "aliceAndJoeCoulombeHome"
+      },
+      {
+        "date": "2005-02-14T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2005-02-16T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["haydnOp20No5", "krouseMusicIn4Sharps", "shortStories", "boccheriniFandango"],
+    "musicians": ["jackSanders", "rogerWilkie", "brendanSpeltz", "simonOswell", "davidSpeltz"]
+  },
+  "thereIsAMagicMadeByMelodyElizabethBishop": {
+    "id": "thereIsAMagicMadeByMelodyElizabethBishop",
+    "year": "2005",
+    "concertTitle": "“There is a magic made by melody…” -Elizabeth Bishop",
+    "dates": [
+      {
+        "date": "2005-04-03T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2005-04-03T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2005-04-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartPianoQuartet", "knellCollage", "schumannPianoQuintet"],
+    "musicians": ["miwakoWatanabe", "connieKupka", "jamesDunham", "davidSpeltz", "joannePearceMartin"]
+  },
+  "aPortalFromHereToThen": {
+    "id": "aPortalFromHereToThen",
+    "year": "2006",
+    "concertTitle": "A portal from here to then",
+    "dates": [
+      {
+        "date": "2006-03-27T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2006-03-29T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["bachEMajorFluteSonata", "bachGMinorOboeSonata", "handelOp2No3", "adamsLeJardinProvencale"],
+    "musicians": ["markCarlson", "allanVogel", "davidSpeltz", "patriciaMabee"]
+  },
+  "chamberMusicAtUclaPresentsEncountersWithPacificSerenades": {
+    "id": "chamberMusicAtUclaPresentsEncountersWithPacificSerenades",
+    "year": "2006",
+    "concertTitle": "Chamber Music at UCLA Presents Encounters with Pacific Serenades",
+    "dates": [
+      {
+        "date": "2006-05-24T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Schoenberg Auditorium",
+        "venueId": "schoenbergAuditorium"
+      }
+    ],
+    "program": ["carlsonPianoQuartet", "bourlandFourPainters", "deSilvaRatteQuartett", "milburnManicStates"],
+    "musicians": ["rogerWilkie", "rolandKato", "davidSpeltz", "aykeAgus"]
+  },
+  "intersections": {
+    "id": "intersections",
+    "year": "2006",
+    "concertTitle": "Intersections",
+    "dates": [
+      {
+        "date": "2006-04-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Ronna Binn in Tarzana",
+        "venueId": "ronnaBinnHomeTarzana"
+      },
+      {
+        "date": "2006-04-30T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2006-05-03T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["faurePianoQuartet1", "beethovenOp102No2", "mcneelyPacificDances"],
+    "musicians": ["margaretBatjer", "rolandKato", "davidSpeltz", "aykeAgus"]
+  },
+  "outOfBounds": {
+    "id": "outOfBounds",
+    "year": "2006",
+    "concertTitle": "Out of bounds",
+    "dates": [
+      {
+        "date": "2006-06-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Ellen & Harvey Knell in Pasadena (the Blacker House)",
+        "venueId": "ellenAndHarveyKnellPasadenaHome"
+      },
+      {
+        "date": "2006-06-04T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2006-06-07T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsClarinetQuintet", "haydnQuartetOp33No3", "draytonVisionsAndReflections"],
+    "musicians": ["garyGray", "phillipLevy", "connieKupka", "davidWalther", "davidSpeltz"]
+  },
+  "spanningWorlds": {
+    "id": "spanningWorlds",
+    "year": "2006",
+    "concertTitle": "Spanning worlds",
+    "dates": [
+      {
+        "date": "2006-02-20T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2006-02-22T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mendelssohnOctet", "haydnQuartetOp50No4", "friesenOctetUnderTheSun"],
+    "musicians": ["rogerWilkie", "miwakoWatanabe", "sungilLee", "brendanSpeltz", "simonOswell", "connieKupka", "davidSpeltz", "armenKsajikian"]
+  },
+  "weAllAreMortal": {
+    "id": "weAllAreMortal",
+    "year": "2007",
+    "concertTitle": "We all are mortal",
+    "dates": [
+      {
+        "date": "2007-06-02T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of Barry & Donna Goldfarb in Brentwood",
+        "venueId": "barryAndDonnaGoldfarbHome"
+      },
+      {
+        "date": "2007-06-03T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2007-06-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schubertQuintetInCMajor", "schickeleThreeCellosTrio", "boccheriniBirdSanctuary"],
+    "musicians": ["robertoCani", "connieKupka", "davidWalther", "davidSpeltz", "armenKsajikian", "brookSpeltz"]
+  },
+  "weAllBreathTheSameAir": {
+    "id": "weAllBreathTheSameAir",
+    "year": "2007",
+    "concertTitle": "We all breath the same air",
+    "dates": [
+      {
+        "date": "2007-03-04T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Edwin & Leilani Raquel in Hancock Park",
+        "venueId": "edwinAndLeilaniRaquelHancockParkHome"
+      },
+      {
+        "date": "2007-03-05T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2007-03-07T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsPianoQuintet", "debussyViolinSonata", "lefkowitzDreamsPianoQuintet"],
+    "musicians": ["rogerWilkie", "connieKupka", "rolandKato", "davidSpeltz", "joannePearceMartin"]
+  },
+  "weAllCherishOurChildrensFuture": {
+    "id": "weAllCherishOurChildrensFuture",
+    "year": "2007",
+    "concertTitle": "We all cherish our children’s future",
+    "dates": [
+      {
+        "date": "2007-04-21T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
+      },
+      {
+        "date": "2007-04-22T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2007-04-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["albertBetweenTheDarkAndDaylight", "beethovenStringTrioOp9No1", "debussySonataForFluteViolaAndHarp", "vaughanWilliamsSixStudiesEnglishFolkSongs"],
+    "musicians": ["markCarlson", "joannTurovsky", "robertoCani", "jamesDunham", "davidSpeltz"]
+  },
+  "weAllInhabitThisSmallPlanet": {
+    "id": "weAllInhabitThisSmallPlanet",
+    "year": "2007",
+    "concertTitle": "We all inhabit this small planet",
+    "dates": [
+      {
+        "date": "2007-01-28T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2007-01-29T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      },
+      {
+        "date": "2007-01-31T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsEbClarinet", "carlsonSongsOfRumi", "faurePianoTrio", "schumannSongs"],
+    "musicians": ["michaelDean", "garyGray", "miwakoWatanabe", "davidSpeltz", "aykeAgus"]
+  },
+  "darkWoodsAndGleamingCities": {
+    "id": "darkWoodsAndGleamingCities",
+    "year": "2008",
+    "concertTitle": "Dark woods and gleaming cities",
+    "dates": [
+      {
+        "date": "2008-04-27T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2008-04-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["cavaterraQuartet", "schumannMarchenbilder", "debussyRhapsodie", "tansmanBassoonSuite"],
+    "musicians": ["garyGray", "judithFarmer", "rolandKato", "aykeAgus"]
+  },
+  "mavericksAndMagicians": {
+    "id": "mavericksAndMagicians",
+    "year": "2008",
+    "concertTitle": "Mavericks and Magicians",
+    "dates": [
+      {
+        "date": "2008-03-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2008-03-03T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2008-03-05T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["debussyCelloSonata", "broughtonViolinSonata", "mendelssohnCMinorPianoTrio"],
+    "musicians": ["belindaBroughton", "davidSpeltz", "joannePearceMartin"]
+  },
+  "theSoulOfLyricism": {
+    "id": "theSoulOfLyricism",
+    "year": "2008",
+    "concertTitle": "The soul of lyricism",
+    "dates": [
+      {
+        "date": "2008-05-31T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of Edwin & Leilani Raquel in Hancock Park",
+        "venueId": "edwinAndLeilaniRaquelHancockParkHome"
+      },
+      {
+        "date": "2008-06-01T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2008-06-04T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["heggieFriendlyPersuasionSongsWithHarpsichord", "bachBMinorFluteSonata", "handelTrioSonataInFMajor", "vivaldiCMinorOboeSonata", "bachSelectedArias"],
+    "musicians": ["nicholasPhan", "markCarlson", "leslieReed", "davidSpeltz", "patriciaMabee"]
+  },
+  "toTheVictimsOfWarADedicationToLife": {
+    "id": "toTheVictimsOfWarADedicationToLife",
+    "year": "2008",
+    "concertTitle": "To the victims of war, a dedication to life",
+    "dates": [
+      {
+        "date": "2008-01-27T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Lucy McCoy & Paul Bacigalupo in Encino",
+        "venueId": "lucyMcCoyAndPaulBacigalupoHome"
+      },
+      {
+        "date": "2008-01-28T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2008-01-30T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["daversaBetweenTheThoughtsQuintet", "shostakovich8", "mendelssohnEMinorQuartet"],
+    "musicians": ["kathleenLenski", "connieKupka", "davidWalther", "davidSpeltz", "markCarlson"]
+  },
+  "circleOfBlue": {
+    "id": "circleOfBlue",
+    "year": "2009",
+    "concertTitle": "Circle of blue",
+    "dates": [
+      {
+        "date": "2009-05-02T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of Susan Key & Michael Pratt in Brentwood",
+        "venueId": "susanKeyAndMichaelPrattHome"
+      },
+      {
+        "date": "2009-05-03T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2009-05-06T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartDuoGMajor", "ravelStringQuartet", "childsStringQuartet"],
+    "musicians": ["robertoCani", "connieKupka", "davidWalther", "davidSpeltz"]
+  },
+  "musicAmongFriends": {
+    "id": "musicAmongFriends",
+    "year": "2009",
+    "concertTitle": "Music among friends",
+    "dates": [
+      {
+        "date": "2009-03-22T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2009-03-25T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsClarinetTrio", "ravelViolinSonata", "carlsonViewFromAHilltop"],
+    "musicians": ["garyGray", "rogerWilkie", "davidSpeltz", "joannePearceMartin"]
+  },
+  "theWorldIsOurCommunity": {
+    "id": "theWorldIsOurCommunity",
+    "year": "2009",
+    "concertTitle": "The world is our community",
+    "dates": [
+      {
+        "date": "2009-02-08T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "at the home of Stephen & Sonya Blake in Valley Glen",
+        "venueId": "stephenAndSonyaBlakeHome"
+      },
+      {
+        "date": "2009-02-09T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2009-02-11T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartFluteQuartetD", "beethovenStringTrioOp9No3", "bekenOudQuintet", "beyUdMusic", "nikolakiUdMusic", "taksimMahurAnImprovisationInTheMakamMahur"],
+    "musicians": ["munirBeken", "markCarlson", "kathleenLenski", "rolandKato", "davidSpeltz"]
+  },
+  "wovenOfManyStrands": {
+    "id": "wovenOfManyStrands",
+    "year": "2009",
+    "concertTitle": "Woven of many strands",
+    "dates": [
+      {
+        "date": "2009-06-06T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "at the home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2009-06-07T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2009-06-10T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["dvorakPianoQuintet", "haydnPianoTrioInAMajor", "chiharaPianoQuintet"],
+    "musicians": ["miwakoWatanabe", "connieKupka", "rolandKato", "brookSpeltz", "davidSpeltz", "edithOrloff"]
+  },
+  "batik": {
+    "id": "batik",
+    "year": "2010",
+    "concertTitle": "Batik",
+    "dates": [
+      {
+        "date": "2010-04-24T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The home of Edwin & Leilani Raquel in Fremont Place",
+        "venueId": "edwinAndLeilaniRaquelHome"
+      },
+      {
+        "date": "2010-04-25T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2010-04-28T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["beethovenOp102No2", "carlsonBatikViolinSonata", "shostakovichPianoTrio"],
+    "musicians": ["rogerWilkie", "davidSpeltz", "aykeAgus"]
+  },
+  "mixedUpWorld": {
+    "id": "mixedUpWorld",
+    "year": "2010",
+    "concertTitle": "Mixed Up World",
+    "dates": [
+      {
+        "date": "2010-03-08T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2010-03-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartKegelstatt", "bernsteinClarinetSonata", "farberSongsBridgesOfLove", "faureSongs2010"],
+    "musicians": ["shawnThuris", "garyGray", "rolandKato", "robertThies"]
+  },
+  "odeToImagination": {
+    "id": "odeToImagination",
+    "year": "2010",
+    "concertTitle": "Ode to imagination",
+    "dates": [
+      {
+        "date": "2010-06-05T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The home of Barry & Donna Goldfarb in Brentwood",
+        "venueId": "barryAndDonnaGoldfarbHome"
+      },
+      {
+        "date": "2010-06-06T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2010-06-09T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["buckinghamQuintet", "dvorakAmericanStringQuartet", "webernFiveMovementsStringQuartet"],
+    "musicians": ["douglasMasek", "miwakoWatanabe", "connieKupka", "rolandKato", "davidSpeltz"]
+  },
+  "toYouthToWisdom": {
+    "id": "toYouthToWisdom",
+    "year": "2010",
+    "concertTitle": "To youth! To wisdom!",
+    "dates": [
+      {
+        "date": "2010-01-31T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The home of Joanna Brody & Thomas Aujero Small in Culver City",
+        "venueId": "joannaBrodyAndThomasAujeroSmallHome"
+      },
+      {
+        "date": "2010-02-01T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2010-02-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["brahmsStringQuintetFMajor", "krykaQuintetessence", "bartokDuos"],
+    "musicians": ["terezaStanislav", "brendanSpeltz", "rolandKato", "connieKupka", "davidSpeltz"]
+  },
+  "aloudAndProudChamberMusicByLesbianAndGayComposers": {
+    "id": "aloudAndProudChamberMusicByLesbianAndGayComposers",
+    "year": "2012",
+    "concertTitle": "Aloud & Proud: chamber music by lesbian and gay composers",
+    "dates": [
+      {
+        "date": "2012-06-02T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The West Hollywood Library",
+        "venueId": "westHollywoodLibrary"
+      }
+    ],
+    "program": ["delAguilaPacificSerenadeNonPremiere", "shortStories", "karpmanDifferentLanesQuartetNonPremiere"],
+    "musicians": ["garyGray", "searmiPark", "jasonUyeyama", "connieKupka", "davidSpeltz"]
+  },
+  "crossPollination": {
+    "id": "crossPollination",
+    "year": "2012",
+    "concertTitle": "Cross-pollination",
+    "dates": [
+      {
+        "date": "2012-03-04T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Home of Gloria Putnam & Stephen Rudicel (The Zane Grey House) in Altadena",
+        "venueId": "gloriaPutnamAndStephenRudicelHome"
+      },
+      {
+        "date": "2012-03-05T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2012-03-14T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schumannPianoQuartet", "carlsonCavePaintings", "sukFourPieces"],
+    "musicians": ["douglasMasek", "rogerWilkie", "rolandKato", "davidSpeltz", "joannePearceMartin"]
+  },
+  "graftsAndHybrids": {
+    "id": "graftsAndHybrids",
+    "year": "2012",
+    "concertTitle": "Grafts & Hybrids",
+    "dates": [
+      {
+        "date": "2012-05-19T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
+      },
+      {
+        "date": "2012-05-20T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2012-05-30T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["schubertQuartettsatz", "morellFourSongs", "wolfBaritoneAndStringQuartet"],
+    "musicians": ["michaelDean", "rogerWilkie", "miwakoWatanabe", "davidWalther", "davidSpeltz"]
+  },
+  "scattering": {
+    "id": "scattering",
+    "year": "2012",
+    "concertTitle": "Scattering",
+    "dates": [
+      {
+        "date": "2012-04-14T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Home of Richard Norton & Stephanie Rasines (The Culbertson Sisters House) in Pasadena",
+        "venueId": "richardNortonAndStephanieRasinesHome"
+      },
+      {
+        "date": "2012-04-15T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2012-04-18T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mendelssohnDMinor", "poulenceClarinetSonata", "tatroScatteringsQuartet"],
+    "musicians": ["garyGray", "rogerWilkie", "davidSpeltz", "edithOrloff"]
+  },
+  "tendrils": {
+    "id": "tendrils",
+    "year": "2012",
+    "concertTitle": "Tendrils",
+    "dates": [
+      {
+        "date": "2012-01-29T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The Home of Trice Koopman & Mark Freund in Pacific Palisades",
+        "venueId": "triceKoopmanAndMarkFreundHome"
+      },
+      {
+        "date": "2012-01-30T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2012-02-01T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      },
+      {
+        "date": "2012-02-02T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The West Hollywood City Council Chambers",
+        "venueId": "westHollywoodCityCouncilChambers"
+      }
+    ],
+    "program": ["ravelSonataViolinAndCello", "beethovenStringQuartetInDMajorOp18No3", "karpmanDifferentLanesQuartetNonPremiere"],
+    "musicians": ["movsesPogossian", "connieKupka", "brianDembow", "davidSpeltz"]
+  },
+  "currents": {
+    "id": "currents",
+    "year": "2013",
+    "concertTitle": "Currents",
+    "dates": [
+      {
+        "date": "2013-06-01T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The home of Bonnie MacBird & Alan Kay in Brentwood",
+        "venueId": "bonnieMacBirdAndAlanKayHome"
+      },
+      {
+        "date": "2013-06-02T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2013-06-05T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["mozartQuintetForPianoAndWindsInEbMajorK452", "poulencTrioForPianoOboeAndBassoon", "cohnBellscape", "saintSaensClarinetSonata"],
+    "musicians": ["jenniferJohnson", "garyGray", "judithFarmer", "richardTodd", "joannePearceMartin"]
+  },
+  "highTide": {
+    "id": "highTide",
+    "year": "2013",
+    "concertTitle": "High Tide",
+    "dates": [
+      {
+        "date": "2013-03-17T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2013-03-20T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["froelichNewWork", "faurePianoQuartetInGMinor", "beethovenSonataInF"],
+    "musicians": ["rogerWilkie", "rolandKato", "davidSpeltz", "edithOrloff"]
+  },
+  "radioWaves": {
+    "id": "radioWaves",
+    "year": "2013",
+    "concertTitle": "Radio Waves",
+    "dates": [
+      {
+        "date": "2013-02-10T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The home of Michael Schneikert & Karen Otamura in Pasadena",
+        "venueId": "michaelSchneikertAndKarenOtamuraHome"
+      },
+      {
+        "date": "2013-02-11T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2013-02-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["bachCelloSuiteDMinor", "brubeckTritonis", "bachChaconne", "friesenCelloQuartet"],
+    "musicians": ["giovannaMoragaClayton", "eugeneFriesen", "davidSpeltz", "johnWalz"]
+  },
+  "vibrations": {
+    "id": "vibrations",
+    "year": "2013",
+    "concertTitle": "Vibrations",
+    "dates": [
+      {
+        "date": "2013-05-04T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The home of Mark Freund & Trice Koopman in Pacific Palisades",
+        "venueId": "markFreundAndTriceKoopmanHome"
+      },
+      {
+        "date": "2013-05-05T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2013-05-08T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["wolfgangStringTheoryQuartet", "smetanaStringQuartetNo2InDMinor", "haydnStringQuartetInBMinorOp64No2"],
+    "musicians": ["rogerWilkie", "connieKupka", "rolandKato", "davidSpeltz"]
+  },
+  "senseAndSensuality": {
+    "id": "senseAndSensuality",
+    "year": "2014",
+    "concertTitle": "Sense & Sensuality",
+    "dates": [
+      {
+        "date": "2014-06-21T23:00:00.000Z",
+        "time": "16:00",
+        "venue": "The home of Kimberly Rose & Michael Shannon in La Cañada",
+        "venueId": "kimberlyRoseAndMichaelShannonHome"
+      },
+      {
+        "date": "2014-06-26T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The West Hollywood City Council Chambers",
+        "venueId": "westHollywoodCityCouncilChambers"
+      }
+    ],
+    "program": ["ravelStringQuartet", "devienneBassoonQuartet2", "parolaThreeDivertimentiBassoonQuintet"],
+    "musicians": ["judithFarmer", "jiYoungAn", "ambroiseAubrun", "rolandKato", "timothyLoo"]
+  },
+  "aPotpourriTheNextGeneration": {
+    "id": "aPotpourriTheNextGeneration",
+    "year": "2015",
+    "concertTitle": "A Potpourri/PacSer, the Next Generation",
+    "dates": [
+      {
+        "date": "2015-06-11T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "The West Hollywood City Council Chambers",
+        "venueId": "westHollywoodCityCouncilChambers"
+      }
+    ],
+    "program": ["bourlandSerenadeNo2", "carlsonHallOfMirrors", "carlsonQuartet", "albertBetweenTheDarkAndDaylight", "carlsonBatikViolinSonata", "delAguilaPacificSerenadeNonPremiere"],
+    "musicians": ["markCarlson", "garyGray", "judithFarmer", "connieKupka", "davidSpeltz", "aykeAgus", "edithOrloff", "joshuaGarcia"]
+  },
+  "smilesOfASummerDay": {
+    "id": "smilesOfASummerDay",
+    "year": "2016",
+    "concertTitle": "Smiles of a Summer Day",
+    "dates": [
+      {
+        "date": "2016-06-26T11:00:00.000Z",
+        "time": "4:00",
+        "venue": "The Home of Mark Freund & Trice Koopman in Pacific Palisades",
+        "venueId": "markFreundAndTriceKoopmanHome"
+      },
+      {
+        "date": "2016-06-28T15:00:00.000Z",
+        "time": "8:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": ["goodmanWalkingMusic"],
+    "musicians": ["rogerWilkie", "ambroiseAubrun", "benjaminBartelt", "davidSpeltz", "markCarlson"]
+  }
+}

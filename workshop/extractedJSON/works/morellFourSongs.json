@@ -1,0 +1,37 @@
+{
+  "morellFourSongs": {
+    "id": "morellFourSongs",
+    "workName": "Four Songs on excerpts from Lucretius's \"On the Nature of the Universe\"",
+    "workYear": "2012",
+    "workComposer": "justinMorell",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_111_1400&amp;products_id=9745",
+    "video": [],
+    "audio": [
+      [
+        "Mor12-Songs1.mp3",
+        "Excerpt: Every Color Changes"
+      ],
+      [
+        "Mor12-Songs2.mp3",
+        "Excerpt: Mind and Soul"
+      ],
+      [
+        "Mor12-Songs3a.mp3",
+        "Excerpt: Look Back (1)"
+      ],
+      [
+        "Mor12-Songs3b.mp3",
+        "Excerpt: Look Back (2)"
+      ],
+      [
+        "Mor12-Songs4a.mp3",
+        "Excerpt: So Big the Rains (1)"
+      ],
+      [
+        "Mor12-Songs4bf.mp3",
+        "Excerpt: So Big the Rains (2)"
+      ]
+    ],
+    "description": ""
+  }
+}

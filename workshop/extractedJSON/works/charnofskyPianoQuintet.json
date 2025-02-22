@@ -1,0 +1,46 @@
+{
+  "charnofskyPianoQuintet": {
+    "id": "charnofskyPianoQuintet",
+    "workName": "5 by 5",
+    "workYear": "2011",
+    "workComposer": "ericCharnofsky",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_102_1175&amp;products_id=7709",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=RFMtNx3dfvc",
+        "Listen on YouTube"
+      ]
+    ],
+    "audio": [
+      [
+        "Cha11-1.mp3",
+        "Excerpt: Mvt. 1"
+      ],
+      [
+        "Cha11-2.mp3",
+        "Excerpt: Mvt. 2"
+      ],
+      [
+        "Cha11-3a.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "Cha11-3b.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "Cha11-4a.mp3",
+        "Excerpt: Mvt. 4 (1)"
+      ],
+      [
+        "Cha11-4b.mp3",
+        "Excerpt: Mvt. 4 (2)"
+      ],
+      [
+        "Cha11-5.mp3",
+        "Excerpt: Conclusion"
+      ]
+    ],
+    "description": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "krykaQuintetessence": {
+    "id": "krykaQuintetessence",
+    "workName": "Quintessence",
+    "workYear": "2010",
+    "workComposer": "jeffKryka",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&cPath=3_109_1216&amp;products_id=8010",
+    "video": [
+      [
+        "https://www.youtube.com/watch?v=O5jffL-flQg",
+        "Part 1 on YouTube"
+      ],
+      [
+        "https://www.youtube.com/watch?v=Th3dZa0xvss",
+        "Part 2 on YouTube"
+      ],
+      [
+        "https://www.youtube.com/watch?v=sS8N1cDGqtI",
+        "Part 3 on YouTube"
+      ]
+    ],
+    "audio": [
+      [
+        "kry10-1a.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "kry10-1b.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "kry10-2a.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "kry10-3a.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "kry10-4a.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "kry10-5a.mp3",
+        "Excerpt 6"
+      ],
+      [
+        "kry10-5b.mp3",
+        "Excerpt 7"
+      ]
+    ],
+    "description": ""
+  }
+}

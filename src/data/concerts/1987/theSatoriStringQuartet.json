@@ -1,0 +1,32 @@
+{
+  "theSatoriStringQuartet": {
+    "id": "theSatoriStringQuartet",
+    "year": "1987",
+    "concertTitle": "The Satori String Quartet",
+    "dates": [
+      {
+        "date": "1987-05-20T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills",
+        "venueId": "mrsAleenLeslieBeverlyHillsHome"
+      },
+      {
+        "date": "1987-05-21T03:00:00.000Z",
+        "time": "20:00",
+        "venue": "Morgan-Wixson Theater",
+        "venueId": "morganWixsonTheater"
+      }
+    ],
+    "program": [
+      "haydnOp54No1",
+      "pierceFourMovementsQuartet",
+      "deathAndTheMaiden"
+    ],
+    "musicians": [
+      "murrayAdler",
+      "peterKent",
+      "pamelaGoldsmith",
+      "frederickSeykora"
+    ]
+  }
+}

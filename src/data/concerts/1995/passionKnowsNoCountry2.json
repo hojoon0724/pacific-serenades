@@ -1,0 +1,32 @@
+{
+  "passionKnowsNoCountry2": {
+    "id": "passionKnowsNoCountry2",
+    "year": "1995",
+    "concertTitle": "Passion knows no country",
+    "dates": [
+      {
+        "date": "1995-02-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Allen & Jane Fink in Burbank",
+        "venueId": "allenAndJaneFinkHome"
+      },
+      {
+        "date": "1995-02-12T22:00:00.000Z",
+        "time": "14:00",
+        "venue": "The Biltmore Hotel",
+        "venueId": "biltmoreHotel"
+      }
+    ],
+    "program": [
+      "hindemithViolaSonataOp11No4",
+      "kibbePianoQuartet",
+      "faurePianoQuartet1"
+    ],
+    "musicians": [
+      "miwakoWatanabe",
+      "rolandKato",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

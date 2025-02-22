@@ -1,0 +1,43 @@
+{
+  "friesenOctetUnderTheSun": {
+    "id": "friesenOctetUnderTheSun",
+    "workName": "Under the Sun",
+    "workYear": "2006",
+    "workComposer": "eugeneFriesen",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [
+      [
+        "Fr1.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Fr2.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Fr3.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Fr4.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Fr5.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "Fr6.mp3",
+        "Excerpt 6"
+      ],
+      [
+        "Fr7.mp3",
+        "Excerpt 7"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by J. Christopher Kennedy",
+    "instrumentation": "for 4 violins, 2 violas, 2 cellos"
+  }
+}

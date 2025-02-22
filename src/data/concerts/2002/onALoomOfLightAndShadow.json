@@ -1,0 +1,38 @@
+{
+  "onALoomOfLightAndShadow": {
+    "id": "onALoomOfLightAndShadow",
+    "year": "2002",
+    "concertTitle": "on a loom of light and shadow",
+    "dates": [
+      {
+        "date": "2002-02-21T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "Home of John & Barbara McLoughlin in Brentwood",
+        "venueId": "johnAndBarbaraMcLoughlinHome"
+      },
+      {
+        "date": "2002-02-03T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2002-02-12T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "",
+        "venueId": ""
+      }
+    ],
+    "program": [
+      "stravinsklyDuoConcertant",
+      "roremNineEpisodes",
+      "brahmsClarinetTrio"
+    ],
+    "musicians": [
+      "garyGray",
+      "margaretBatjer",
+      "davidSpeltz",
+      "joannePearceMartin"
+    ]
+  }
+}

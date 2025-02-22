@@ -1,0 +1,26 @@
+{
+  "oldFirstConcertsPresentsPacificSerenades": {
+    "id": "oldFirstConcertsPresentsPacificSerenades",
+    "year": "1998",
+    "concertTitle": "Old First Concerts presents Pacific Serenades",
+    "dates": [
+      {
+        "date": "1998-01-11T09:00:04.000Z",
+        "time": "1::4",
+        "venue": "Old First Church",
+        "venueId": "oldFirstChurch"
+      }
+    ],
+    "program": [
+      "haydnFluteTrioGMajor",
+      "carlsonQuartet",
+      "brahmsClarinetTrio"
+    ],
+    "musicians": [
+      "markCarlson",
+      "garyGray",
+      "davidSpeltz",
+      "aykeAgus"
+    ]
+  }
+}

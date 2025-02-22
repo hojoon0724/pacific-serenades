@@ -1,0 +1,40 @@
+{
+  "sweepSoftlyThyStringsWalterDeLaMare": {
+    "id": "sweepSoftlyThyStringsWalterDeLaMare",
+    "year": "2005",
+    "concertTitle": "“Sweep softly thy strings…” -Walter de la Mare",
+    "dates": [
+      {
+        "date": "2005-02-13T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "the home of Alice & Joe Coulombe in Pasadena",
+        "venueId": "aliceAndJoeCoulombeHome"
+      },
+      {
+        "date": "2005-02-14T00:00:00.000Z",
+        "time": "16:00",
+        "venue": "The Neighborhood Church in Pasadena",
+        "venueId": "neighborhoodChurchPasadena"
+      },
+      {
+        "date": "2005-02-16T04:00:00.000Z",
+        "time": "20:00",
+        "venue": "The UCLA Faculty Center",
+        "venueId": "uclaFacultyCenter"
+      }
+    ],
+    "program": [
+      "haydnOp20No5",
+      "krouseMusicIn4Sharps",
+      "shortStories",
+      "boccheriniFandango"
+    ],
+    "musicians": [
+      "jackSanders",
+      "rogerWilkie",
+      "brendanSpeltz",
+      "simonOswell",
+      "davidSpeltz"
+    ]
+  }
+}

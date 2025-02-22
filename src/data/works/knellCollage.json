@@ -1,0 +1,43 @@
+{
+  "knellCollage": {
+    "id": "knellCollage",
+    "workName": "Collage",
+    "workYear": "2005",
+    "workComposer": "peterKnell",
+    "purchaseLink": "https://peterknell.com/work/collage/",
+    "video": [],
+    "audio": [
+      [
+        "Kn4-1s.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Kn4-2s.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Kn5-3s.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Kn5-4s.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Kn5-5s.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "Kn5-6s.mp3",
+        "Excerpt 6"
+      ],
+      [
+        "Kn5-7s.mp3",
+        "Excerpt 7"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
+    "instrumentation": "for piano quintet"
+  }
+}

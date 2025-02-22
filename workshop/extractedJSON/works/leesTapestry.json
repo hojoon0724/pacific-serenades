@@ -1,0 +1,41 @@
+{
+  "leesTapestry": {
+    "id": "leesTapestry",
+    "workName": "Tapestry",
+    "workYear": "2004",
+    "workComposer": "benjaminLees",
+    "purchaseLink": "https://www.boosey.com/cr/purchase-music/Benjamin-Lees-Tapestry/46071",
+    "video": [],
+    "audio": [
+      [
+        "Lees1.mp3",
+        "Excerpt 1"
+      ],
+      [
+        "Lees2.mp3",
+        "Excerpt 2"
+      ],
+      [
+        "Lees3.mp3",
+        "Excerpt 3"
+      ],
+      [
+        "Lees4.mp3",
+        "Excerpt 4"
+      ],
+      [
+        "Lees5.mp3",
+        "Excerpt 5"
+      ],
+      [
+        "Lees6.mp3",
+        "Excerpt 6"
+      ],
+      [
+        "Lees7.mp3",
+        "Excerpt 7"
+      ]
+    ],
+    "description": ""
+  }
+}

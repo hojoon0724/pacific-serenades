@@ -1,0 +1,39 @@
+{
+  "carlsonSongsOfRumi": {
+    "id": "carlsonSongsOfRumi",
+    "workName": "Songs of Rumi",
+    "workYear": "2007",
+    "workComposer": "markCarlson",
+    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7861",
+    "video": [],
+    "audio": [
+      [
+        "c07-Part1.mp3",
+        "Excerpt: Mvt. 1"
+      ],
+      [
+        "c07-Part2A.mp3",
+        "Excerpt: Mvt. 2 (1)"
+      ],
+      [
+        "c07-Part2B.mp3",
+        "Excerpt: Mvt. 2 (2)"
+      ],
+      [
+        "c07-Part3A.mp3",
+        "Excerpt: Mvt. 3 (1)"
+      ],
+      [
+        "c07-Part3B.mp3",
+        "Excerpt: Mvt. 3 (2)"
+      ],
+      [
+        "c07-Part3end.mp3",
+        "Excerpt: Mvt. 3 (3)"
+      ]
+    ],
+    "description": "",
+    "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
+    "instrumentation": "for baritone, clarinet, violin, cello, and piano"
+  }
+}
