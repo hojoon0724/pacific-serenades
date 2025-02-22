@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function StaffBioBlock({ staff }) {
   return (
@@ -14,6 +15,11 @@ export default function StaffBioBlock({ staff }) {
         <div className="staff-bio-container prose">
           <p>{staff.bio}</p>
         </div>
+        {staff.website ? (
+          <div className="staff-website-link-container">
+            <Link href={staff.website}>{staff.website}</Link>
+          </div>
+        ) : null}
       </div>
     </div>
   );
