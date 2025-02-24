@@ -111,7 +111,7 @@ export default function NavBar({}) {
           </NavbarContent>
 
           {/* mobile menu */}
-          <NavbarMenu>
+          <NavbarMenu style={{ top: "0" }}>
             <NavbarMenuItem className="mobile-menu-container flex flex-col gap-6 ">
               {menuLinks.map((link, index) =>
                 link.dropdown ? (

@@ -13,6 +13,8 @@
   --ps-teal: "hsl(174 100 39)";
   --ps-green: "hsl(114 49 66)";
   --ps-yellow: "hsl(62 56 63)";
+
+  --navbar-height: 10px
 }
 
 @media (prefers-color-scheme: dark) {
@@ -32,6 +34,10 @@ body {
   font-family: "Lato", Arial, Helvetica, sans-serif;
   min-height: 100svh;
   min-width: 100svw;
+}
+
+main {
+  @apply h-[100svh] w-[100svw] absolute overflow-auto;
 }
 
 /* #__next {
