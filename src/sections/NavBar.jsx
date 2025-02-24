@@ -66,7 +66,7 @@ export default function NavBar({}) {
           </NavbarContent>
 
           {/* desktop */}
-          <NavbarContent className="hidden md:flex gap-4" style={{ paddingLeft: "0" }} justify="end">
+          <NavbarContent className="hidden md:flex gap-4 " style={{ paddingLeft: "0" }} justify="end">
             <NavbarBrand>
               <div className="w-[200px]">
                 <Link href="/">
@@ -91,7 +91,7 @@ export default function NavBar({}) {
                     <Link href={link.href}>{link.name}</Link>
                   </NavbarItem>
                   {hovered && (
-                    <div className="absolute top-full mt-2 bg-white shadow-lg rounded-lg py-2">
+                    <div className="absolute top-full mt-2 bg-white shadow-lg rounded-lg py-2 right-0">
                       {link.dropdownPages.map((dropdownLink, idx) => (
                         <div key={idx} className="px-4 py-2 hover:bg-gray-100">
                           <Link href={`${link.href}${dropdownLink.href}`} onClick={() => setHovered(false)}>
