@@ -14,7 +14,7 @@
   --ps-green: "hsl(114 49 66)";
   --ps-yellow: "hsl(62 56 63)";
 
-  --navbar-height: 10px
+  --navbar-height: 10px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -110,11 +110,11 @@ hr {
 
 section {
   /* @apply justify-center items-center xl:max-w-[1200px] mx-auto px-6; */
-  @apply m-8;
+  @apply m-2;
 }
 
 p {
-  @apply text-body1;
+  @apply tracking-normal;
   padding: 0.7ch 0ch;
 }
 
@@ -154,7 +154,7 @@ footer {
 }
 .welcome-paragraph-text {
   font-weight: 500;
-  /* text-align: justify; */
+  text-align: justify;
   padding-bottom: 2rem;
 }
 
@@ -175,8 +175,7 @@ footer {
 }
 
 .prose {
-  @apply max-w-prose;
-  /* text-align: justify; */
+  @apply max-w-prose text-justify;
 }
 
 .prose > p {

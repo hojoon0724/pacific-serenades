@@ -22,7 +22,7 @@ export default function NavBar({}) {
   const hoverTimeout = useRef(null);
 
   const menuLinks = [
-    { name: "About", href: "/about", dropdown: false },
+    { name: "About", href: "/about", dropdown: true, dropdownPages: [{ name: "Our Team", href: "/team" }] },
     {
       name: "Library",
       href: "/library",
