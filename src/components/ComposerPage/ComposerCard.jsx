@@ -1,9 +1,9 @@
-import { Card, CardFooter, Image, Button } from '@nextui-org/react';
+import { Card, CardFooter, Image, Button } from "@nextui-org/react";
 
 export default function ComposerCard({ composer }) {
   return (
     <Card isFooterBlurred radius="lg" className="border-none aspect-square">
-      {composer.photo === '' ? (
+      {composer.photo === "" ? (
         <Image src="/icons/person.svg" className="object-cover" alt="person icon" width={200} />
       ) : (
         <Image

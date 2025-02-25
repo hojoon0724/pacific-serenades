@@ -1,6 +1,7 @@
 {
   "adrienneAlbert": {
     "id": "adrienneAlbert",
+    "show": true,
     "fullName": "Adrienne Albert",
     "firstName": "Adrienne",
     "lastName": "Albert",
@@ -12,6 +13,7 @@
   },
   "albanBerg": {
     "id": "albanBerg",
+    "show": false,
     "fullName": "Alban Berg",
     "firstName": "Alban",
     "lastName": "Berg",
@@ -23,6 +25,7 @@
   },
   "alexShapiro": {
     "id": "alexShapiro",
+    "show": true,
     "fullName": "Alex Shapiro",
     "firstName": "Alex",
     "lastName": "Shapiro",
@@ -34,6 +37,7 @@
   },
   "alexanderScriabin": {
     "id": "alexanderScriabin",
+    "show": false,
     "fullName": "Alexander Scriabin",
     "firstName": "Alexander",
     "lastName": "Scriabin",
@@ -45,6 +49,7 @@
   },
   "alexandraPierce": {
     "id": "alexandraPierce",
+    "show": true,
     "fullName": "Alexandra Pierce",
     "firstName": "Alexandra",
     "lastName": "Pierce",
@@ -56,6 +61,7 @@
   },
   "alexandreTansman": {
     "id": "alexandreTansman",
+    "show": false,
     "fullName": "Alexandre Tansman",
     "firstName": "Alexandre",
     "lastName": "Tansman",
@@ -67,6 +73,7 @@
   },
   "anonymousAntonioGardane": {
     "id": "anonymousAntonioGardane",
+    "show": false,
     "fullName": "Anonymous (from a publication by Antonio Gardane, 1551)",
     "firstName": "Anonymous (from a publication by Antonio Gardane,",
     "lastName": "1551)",
@@ -78,6 +85,7 @@
   },
   "anonymousPierreAttaingnant": {
     "id": "anonymousPierreAttaingnant",
+    "show": false,
     "fullName": "Anonymous (from a publication by Pierre Attaingnant, 1531)",
     "firstName": "Anonymous (from a publication by Pierre Attaingnant,",
     "lastName": "1531)",
@@ -89,6 +97,7 @@
   },
   "antonArensky": {
     "id": "antonArensky",
+    "show": false,
     "fullName": "Anton Arensky",
     "firstName": "Anton",
     "lastName": "Arensky",
@@ -100,6 +109,7 @@
   },
   "antonWebern": {
     "id": "antonWebern",
+    "show": false,
     "fullName": "Anton Webern",
     "firstName": "Anton",
     "lastName": "Webern",
@@ -111,6 +121,7 @@
   },
   "antoninDvorak": {
     "id": "antoninDvorak",
+    "show": false,
     "fullName": "Antonin Dvorak",
     "firstName": "Antonin",
     "lastName": "Dvorak",
@@ -122,6 +133,7 @@
   },
   "antonioVivaldi": {
     "id": "antonioVivaldi",
+    "show": false,
     "fullName": "Antonio Vivaldi",
     "firstName": "Antonio",
     "lastName": "Vivaldi",
@@ -133,6 +145,7 @@
   },
   "arniEgilsson": {
     "id": "arniEgilsson",
+    "show": true,
     "fullName": "Árni Egilsson",
     "firstName": "Árni",
     "lastName": "Egilsson",
@@ -144,6 +157,7 @@
   },
   "bachMarimolin": {
     "id": "bachMarimolin",
+    "show": false,
     "fullName": "Johann Sebastian Bach, Marimolin",
     "firstName": "Johann Sebastian Bach,",
     "lastName": "Marimolin",
@@ -155,6 +169,7 @@
   },
   "bedrichSmetana": {
     "id": "bedrichSmetana",
+    "show": false,
     "fullName": "Bedrich Smetana",
     "firstName": "Bedrich",
     "lastName": "Smetana",
@@ -166,6 +181,7 @@
   },
   "belaBartok": {
     "id": "belaBartok",
+    "show": false,
     "fullName": "Béla Bartók",
     "firstName": "Béla",
     "lastName": "Bartók",
@@ -177,6 +193,7 @@
   },
   "benjaminLees": {
     "id": "benjaminLees",
+    "show": true,
     "fullName": "Benjamin Lees",
     "firstName": "Benjamin",
     "lastName": "Lees",
@@ -188,6 +205,7 @@
   },
   "billyChilds": {
     "id": "billyChilds",
+    "show": true,
     "fullName": "Billy Childs",
     "firstName": "Billy",
     "lastName": "Childs",
@@ -199,6 +217,7 @@
   },
   "bohuslavMartinu": {
     "id": "bohuslavMartinu",
+    "show": false,
     "fullName": "Bohuslav Martinu",
     "firstName": "Bohuslav",
     "lastName": "Martinu",
@@ -210,6 +229,7 @@
   },
   "bruceBabcock": {
     "id": "bruceBabcock",
+    "show": true,
     "fullName": "Bruce Babcock",
     "firstName": "Bruce",
     "lastName": "Babcock",
@@ -221,6 +241,7 @@
   },
   "bruceBroughton": {
     "id": "bruceBroughton",
+    "show": true,
     "fullName": "Bruce Broughton",
     "firstName": "Bruce",
     "lastName": "Broughton",
@@ -232,6 +253,7 @@
   },
   "byronAdams": {
     "id": "byronAdams",
+    "show": true,
     "fullName": "Byron Adams",
     "firstName": "Byron",
     "lastName": "Adams",
@@ -243,6 +265,7 @@
   },
   "camilleSaintSaens": {
     "id": "camilleSaintSaens",
+    "show": false,
     "fullName": "Camille Saint-Saens",
     "firstName": "Camille",
     "lastName": "Saint-Saens",
@@ -254,6 +277,7 @@
   },
   "carlNielsen": {
     "id": "carlNielsen",
+    "show": false,
     "fullName": "Carl Nielsen",
     "firstName": "Carl",
     "lastName": "Nielsen",
@@ -265,6 +289,7 @@
   },
   "carlVonWeber": {
     "id": "carlVonWeber",
+    "show": false,
     "fullName": "Carl von Weber",
     "firstName": "Carl von",
     "lastName": "Weber",
@@ -276,6 +301,7 @@
   },
   "cesarFranck": {
     "id": "cesarFranck",
+    "show": false,
     "fullName": "César Franck",
     "firstName": "César",
     "lastName": "Franck",
@@ -287,6 +313,7 @@
   },
   "charlesGriffes": {
     "id": "charlesGriffes",
+    "show": false,
     "fullName": "Charles Tomlinson Griffes",
     "firstName": "Charles Tomlinson",
     "lastName": "Griffes",
@@ -298,6 +325,7 @@
   },
   "charlesIves": {
     "id": "charlesIves",
+    "show": false,
     "fullName": "Charles Ives",
     "firstName": "Charles",
     "lastName": "Ives",
@@ -309,6 +337,7 @@
   },
   "charlesMartinLoeffler": {
     "id": "charlesMartinLoeffler",
+    "show": false,
     "fullName": "Charles Martin Loeffler",
     "firstName": "Charles Martin",
     "lastName": "Loeffler",
@@ -320,6 +349,7 @@
   },
   "christopherStowens": {
     "id": "christopherStowens",
+    "show": true,
     "fullName": "Christopher Stowens",
     "firstName": "Christopher",
     "lastName": "Stowens",
@@ -331,6 +361,7 @@
   },
   "claudeDebussy": {
     "id": "claudeDebussy",
+    "show": false,
     "fullName": "Claude Debussy",
     "firstName": "Claude",
     "lastName": "Debussy",
@@ -342,6 +373,7 @@
   },
   "danielCatan": {
     "id": "danielCatan",
+    "show": true,
     "fullName": "Daniel Catán",
     "firstName": "Daniel",
     "lastName": "Catán",
@@ -353,6 +385,7 @@
   },
   "danielLevitan": {
     "id": "danielLevitan",
+    "show": true,
     "fullName": "Daniel Levitan",
     "firstName": "Daniel",
     "lastName": "Levitan",
@@ -364,6 +397,7 @@
   },
   "danteDeSilva": {
     "id": "danteDeSilva",
+    "show": true,
     "fullName": "Dante de Silva",
     "firstName": "Dante de",
     "lastName": "Silva",
@@ -375,6 +409,7 @@
   },
   "daveBrubeck": {
     "id": "daveBrubeck",
+    "show": true,
     "fullName": "Dave Brubeck",
     "firstName": "Dave",
     "lastName": "Brubeck",
@@ -386,6 +421,7 @@
   },
   "davidConte": {
     "id": "davidConte",
+    "show": true,
     "fullName": "David Conte",
     "firstName": "David",
     "lastName": "Conte",
@@ -397,6 +433,7 @@
   },
   "davidGoodman": {
     "id": "davidGoodman",
+    "show": true,
     "fullName": "David Goodman",
     "firstName": "David",
     "lastName": "Goodman",
@@ -408,6 +445,7 @@
   },
   "davidLefkowitz": {
     "id": "davidLefkowitz",
+    "show": true,
     "fullName": "David Lefkowitz",
     "firstName": "David",
     "lastName": "Lefkowitz",
@@ -419,6 +457,7 @@
   },
   "dmitriShostakovich": {
     "id": "dmitriShostakovich",
+    "show": false,
     "fullName": "Dmitri Shostakovich",
     "firstName": "Dmitri",
     "lastName": "Shostakovich",
@@ -430,6 +469,7 @@
   },
   "donaldCrockett": {
     "id": "donaldCrockett",
+    "show": true,
     "fullName": "Donald Crockett",
     "firstName": "Donald",
     "lastName": "Crockett",
@@ -441,6 +481,7 @@
   },
   "duaneTatro": {
     "id": "duaneTatro",
+    "show": true,
     "fullName": "Duane Tatro",
     "firstName": "Duane",
     "lastName": "Tatro",
@@ -452,6 +493,7 @@
   },
   "dwayneMilburn": {
     "id": "dwayneMilburn",
+    "show": true,
     "fullName": "Dwayne Milburn",
     "firstName": "Dwayne",
     "lastName": "Milburn",
@@ -463,6 +505,7 @@
   },
   "elaineBarkin": {
     "id": "elaineBarkin",
+    "show": true,
     "fullName": "Elaine Barkin",
     "firstName": "Elaine",
     "lastName": "Barkin",
@@ -474,6 +517,7 @@
   },
   "enriqueGonzalezMedina": {
     "id": "enriqueGonzalezMedina",
+    "show": true,
     "fullName": "Enrique González-Medina",
     "firstName": "Enrique",
     "lastName": "González-Medina",
@@ -485,6 +529,7 @@
   },
   "ericCharnofsky": {
     "id": "ericCharnofsky",
+    "show": true,
     "fullName": "Eric Charnofsky",
     "firstName": "Eric",
     "lastName": "Charnofsky",
@@ -496,6 +541,7 @@
   },
   "ernestBloch": {
     "id": "ernestBloch",
+    "show": false,
     "fullName": "Ernest Bloch",
     "firstName": "Ernest",
     "lastName": "Bloch",
@@ -507,6 +553,7 @@
   },
   "ernestChausson": {
     "id": "ernestChausson",
+    "show": false,
     "fullName": "Ernest Chausson",
     "firstName": "Ernest",
     "lastName": "Chausson",
@@ -518,6 +565,7 @@
   },
   "ernoDohnanyi": {
     "id": "ernoDohnanyi",
+    "show": false,
     "fullName": "Ernö Dohnanyi",
     "firstName": "Ernö",
     "lastName": "Dohnanyi",
@@ -529,6 +577,7 @@
   },
   "eugeneFriesen": {
     "id": "eugeneFriesen",
+    "show": true,
     "fullName": "Eugene Friesen",
     "firstName": "Eugene",
     "lastName": "Friesen",
@@ -540,6 +589,7 @@
   },
   "felixMendelssohn": {
     "id": "felixMendelssohn",
+    "show": false,
     "fullName": "Felix Mendelssohn",
     "firstName": "Felix",
     "lastName": "Mendelssohn",
@@ -551,6 +601,7 @@
   },
   "francescoGeminiani": {
     "id": "francescoGeminiani",
+    "show": false,
     "fullName": "Francesco Geminiani",
     "firstName": "Francesco",
     "lastName": "Geminiani",
@@ -562,6 +613,7 @@
   },
   "francisPoulenc": {
     "id": "francisPoulenc",
+    "show": false,
     "fullName": "Francis Poulenc",
     "firstName": "Francis",
     "lastName": "Poulenc",
@@ -573,6 +625,7 @@
   },
   "francoisCouperin": {
     "id": "francoisCouperin",
+    "show": false,
     "fullName": "Francois Couperin",
     "firstName": "Francois",
     "lastName": "Couperin",
@@ -584,6 +637,7 @@
   },
   "francoisDevienne": {
     "id": "francoisDevienne",
+    "show": false,
     "fullName": "Francois Devienne",
     "firstName": "Francois",
     "lastName": "Devienne",
@@ -595,6 +649,7 @@
   },
   "francoisFrancoeur": {
     "id": "francoisFrancoeur",
+    "show": false,
     "fullName": "François Francoeur",
     "firstName": "François",
     "lastName": "Francoeur",
@@ -606,6 +661,7 @@
   },
   "frankMartin": {
     "id": "frankMartin",
+    "show": false,
     "fullName": "Frank Martin",
     "firstName": "Frank",
     "lastName": "Martin",
@@ -617,6 +673,7 @@
   },
   "franzJosefHaydn": {
     "id": "franzJosefHaydn",
+    "show": false,
     "fullName": "Franz Josef Haydn",
     "firstName": "Franz Josef",
     "lastName": "Haydn",
@@ -628,6 +685,7 @@
   },
   "franzSchubert": {
     "id": "franzSchubert",
+    "show": false,
     "fullName": "Franz Schubert",
     "firstName": "Franz",
     "lastName": "Schubert",
@@ -639,6 +697,7 @@
   },
   "fredericChopin": {
     "id": "fredericChopin",
+    "show": false,
     "fullName": "Frederic Chopin",
     "firstName": "Frederic",
     "lastName": "Chopin",
@@ -650,6 +709,7 @@
   },
   "gabrielFaure": {
     "id": "gabrielFaure",
+    "show": false,
     "fullName": "Gabriel Fauré",
     "firstName": "Gabriel",
     "lastName": "Fauré",
@@ -661,6 +721,7 @@
   },
   "gabrielaLenaFrank": {
     "id": "gabrielaLenaFrank",
+    "show": true,
     "fullName": "Gabriela Lena Frank",
     "firstName": "Gabriela Lena",
     "lastName": "Frank",
@@ -672,6 +733,7 @@
   },
   "garyBachlund": {
     "id": "garyBachlund",
+    "show": true,
     "fullName": "Gary Bachlund",
     "firstName": "Gary",
     "lastName": "Bachlund",
@@ -683,6 +745,7 @@
   },
   "georgFridericHandel": {
     "id": "georgFridericHandel",
+    "show": false,
     "fullName": "Georg Frideric Handel",
     "firstName": "Georg Frideric",
     "lastName": "Handel",
@@ -694,6 +757,7 @@
   },
   "georgTelemann": {
     "id": "georgTelemann",
+    "show": false,
     "fullName": "Georg Telemann",
     "firstName": "Georg",
     "lastName": "Telemann",
@@ -705,6 +769,7 @@
   },
   "gernotWolfgang": {
     "id": "gernotWolfgang",
+    "show": true,
     "fullName": "Gernot Wolfgang",
     "firstName": "Gernot",
     "lastName": "Wolfgang",
@@ -716,6 +781,7 @@
   },
   "giuseppeTartini": {
     "id": "giuseppeTartini",
+    "show": false,
     "fullName": "Giuseppe Tartini",
     "firstName": "Giuseppe",
     "lastName": "Tartini",
@@ -727,6 +793,7 @@
   },
   "hugoWolf": {
     "id": "hugoWolf",
+    "show": false,
     "fullName": "Hugo Wolf",
     "firstName": "Hugo",
     "lastName": "Wolf",
@@ -738,6 +805,7 @@
   },
   "ianKrouse": {
     "id": "ianKrouse",
+    "show": true,
     "fullName": "Ian Krouse",
     "firstName": "Ian",
     "lastName": "Krouse",
@@ -749,6 +817,7 @@
   },
   "igorStravinsky": {
     "id": "igorStravinsky",
+    "show": false,
     "fullName": "Igor Stravinsky",
     "firstName": "Igor",
     "lastName": "Stravinsky",
@@ -760,6 +829,7 @@
   },
   "jackBody": {
     "id": "jackBody",
+    "show": true,
     "fullName": "Jack Body",
     "firstName": "Jack",
     "lastName": "Body",
@@ -771,6 +841,7 @@
   },
   "jakeHeggie": {
     "id": "jakeHeggie",
+    "show": true,
     "fullName": "Jake Heggie",
     "firstName": "Jake",
     "lastName": "Heggie",
@@ -782,6 +853,7 @@
   },
   "jeffKryka": {
     "id": "jeffKryka",
+    "show": true,
     "fullName": "Jeff Kryka",
     "firstName": "Jeff",
     "lastName": "Kryka",
@@ -793,6 +865,7 @@
   },
   "jeffreyParola": {
     "id": "jeffreyParola",
+    "show": true,
     "fullName": "Jeffrey Parola",
     "firstName": "Jeffrey",
     "lastName": "Parola",
@@ -804,6 +877,7 @@
   },
   "jeremyBeck": {
     "id": "jeremyBeck",
+    "show": true,
     "fullName": "Jeremy Beck",
     "firstName": "Jeremy",
     "lastName": "Beck",
@@ -815,6 +889,7 @@
   },
   "jeremyCavaterra": {
     "id": "jeremyCavaterra",
+    "show": true,
     "fullName": "Jeremy Cavaterra",
     "firstName": "Jeremy",
     "lastName": "Cavaterra",
@@ -826,6 +901,7 @@
   },
   "joelMcneely": {
     "id": "joelMcneely",
+    "show": true,
     "fullName": "Joel McNeely",
     "firstName": "Joel",
     "lastName": "McNeely",
@@ -837,6 +913,7 @@
   },
   "johannKrebs": {
     "id": "johannKrebs",
+    "show": false,
     "fullName": "Johann Krebs",
     "firstName": "Johann",
     "lastName": "Krebs",
@@ -848,6 +925,7 @@
   },
   "johannSebastianBach": {
     "id": "johannSebastianBach",
+    "show": false,
     "fullName": "Johann Sebastian Bach",
     "firstName": "Johann Sebastian",
     "lastName": "Bach",
@@ -859,6 +937,7 @@
   },
   "johannesBrahms": {
     "id": "johannesBrahms",
+    "show": false,
     "fullName": "Johannes Brahms",
     "firstName": "Johannes",
     "lastName": "Brahms",
@@ -870,6 +949,7 @@
   },
   "johnBiggs": {
     "id": "johnBiggs",
+    "show": true,
     "fullName": "John Biggs",
     "firstName": "John",
     "lastName": "Biggs",
@@ -881,6 +961,7 @@
   },
   "johnColtraneThomasOboeLee": {
     "id": "johnColtraneThomasOboeLee",
+    "show": false,
     "fullName": "John Coltrane, Thomas Oboe Lee",
     "firstName": "John Coltrane, Thomas Oboe",
     "lastName": "Lee",
@@ -892,6 +973,7 @@
   },
   "johnDaversa": {
     "id": "johnDaversa",
+    "show": true,
     "fullName": "John Daversa",
     "firstName": "John",
     "lastName": "Daversa",
@@ -903,6 +985,7 @@
   },
   "johnMaxwellAnderson": {
     "id": "johnMaxwellAnderson",
+    "show": true,
     "fullName": "John Maxwell Anderson",
     "firstName": "John Maxwell",
     "lastName": "Anderson",
@@ -914,6 +997,7 @@
   },
   "johnSteinmetz": {
     "id": "johnSteinmetz",
+    "show": true,
     "fullName": "John Steinmetz",
     "firstName": "John",
     "lastName": "Steinmetz",
@@ -925,6 +1009,7 @@
   },
   "josephSuk": {
     "id": "josephSuk",
+    "show": false,
     "fullName": "Joseph Suk",
     "firstName": "Joseph",
     "lastName": "Suk",
@@ -936,6 +1021,7 @@
   },
   "justinMorell": {
     "id": "justinMorell",
+    "show": true,
     "fullName": "Justin Morell",
     "firstName": "Justin",
     "lastName": "Morell",
@@ -947,6 +1033,7 @@
   },
   "kathrynMishell": {
     "id": "kathrynMishell",
+    "show": true,
     "fullName": "Kathryn Mishell",
     "firstName": "Kathryn",
     "lastName": "Mishell",
@@ -958,6 +1045,7 @@
   },
   "katisseBuckingham": {
     "id": "katisseBuckingham",
+    "show": true,
     "fullName": "Katisse Buckingham",
     "firstName": "Katisse",
     "lastName": "Buckingham",
@@ -969,6 +1057,7 @@
   },
   "kemenceciNikolaki": {
     "id": "kemenceciNikolaki",
+    "show": true,
     "fullName": "Kemençeci Nikolaki",
     "firstName": "Kemençeci",
     "lastName": "Nikolaki",
@@ -980,6 +1069,7 @@
   },
   "kennethFroelich": {
     "id": "kennethFroelich",
+    "show": true,
     "fullName": "Kenneth Froelich",
     "firstName": "Kenneth",
     "lastName": "Froelich",
@@ -991,6 +1081,7 @@
   },
   "larryLipkis": {
     "id": "larryLipkis",
+    "show": true,
     "fullName": "Larry Lipkis",
     "firstName": "Larry",
     "lastName": "Lipkis",
@@ -1002,6 +1093,7 @@
   },
   "lauraKarpman": {
     "id": "lauraKarpman",
+    "show": true,
     "fullName": "Laura Karpman",
     "firstName": "Laura",
     "lastName": "Karpman",
@@ -1013,6 +1105,7 @@
   },
   "leonardBernstein": {
     "id": "leonardBernstein",
+    "show": false,
     "fullName": "Leonard Bernstein",
     "firstName": "Leonard",
     "lastName": "Bernstein",
@@ -1024,6 +1117,7 @@
   },
   "lesThimmig": {
     "id": "lesThimmig",
+    "show": true,
     "fullName": "Les Thimmig",
     "firstName": "Les",
     "lastName": "Thimmig",
@@ -1035,6 +1129,7 @@
   },
   "leslieDrayton": {
     "id": "leslieDrayton",
+    "show": true,
     "fullName": "Leslie Drayton",
     "firstName": "Leslie",
     "lastName": "Drayton",
@@ -1046,6 +1141,7 @@
   },
   "ludwigVanBeethoven": {
     "id": "ludwigVanBeethoven",
+    "show": false,
     "fullName": "Ludwig van Beethoven",
     "firstName": "Ludwig van",
     "lastName": "Beethoven",
@@ -1057,6 +1153,7 @@
   },
   "luigiBoccherini": {
     "id": "luigiBoccherini",
+    "show": false,
     "fullName": "Luigi Boccherini",
     "firstName": "Luigi",
     "lastName": "Boccherini",
@@ -1068,6 +1165,7 @@
   },
   "mariaNewman": {
     "id": "mariaNewman",
+    "show": true,
     "fullName": "Maria Newman",
     "firstName": "Maria",
     "lastName": "Newman",
@@ -1079,6 +1177,7 @@
   },
   "markCarlson": {
     "id": "markCarlson",
+    "show": true,
     "fullName": "Mark Carlson",
     "firstName": "Mark",
     "lastName": "Carlson",
@@ -1090,6 +1189,7 @@
   },
   "martinAmlin": {
     "id": "martinAmlin",
+    "show": true,
     "fullName": "Martin Amlin",
     "firstName": "Martin",
     "lastName": "Amlin",
@@ -1101,6 +1201,7 @@
   },
   "mauriceRavel": {
     "id": "mauriceRavel",
+    "show": false,
     "fullName": "Maurice Ravel",
     "firstName": "Maurice",
     "lastName": "Ravel",
@@ -1112,6 +1213,7 @@
   },
   "maxBruch": {
     "id": "maxBruch",
+    "show": false,
     "fullName": "Max Bruch",
     "firstName": "Max",
     "lastName": "Bruch",
@@ -1123,6 +1225,7 @@
   },
   "melanieSparks": {
     "id": "melanieSparks",
+    "show": true,
     "fullName": "Melanie Sparks",
     "firstName": "Melanie",
     "lastName": "Sparks",
@@ -1134,6 +1237,7 @@
   },
   "michaelKibbe": {
     "id": "michaelKibbe",
+    "show": true,
     "fullName": "Michael Kibbe",
     "firstName": "Michael",
     "lastName": "Kibbe",
@@ -1145,6 +1249,7 @@
   },
   "miguelDelAguila": {
     "id": "miguelDelAguila",
+    "show": true,
     "fullName": "Miguel del Aguila",
     "firstName": "Miguel del",
     "lastName": "Aguila",
@@ -1156,6 +1261,7 @@
   },
   "munirBeken": {
     "id": "munirBeken",
+    "show": true,
     "fullName": "Münir Beken",
     "firstName": "Münir",
     "lastName": "Beken",
@@ -1167,6 +1273,7 @@
   },
   "myraKestenbaum": {
     "id": "myraKestenbaum",
+    "show": true,
     "fullName": "Myra Kestenbaum",
     "firstName": "Myra",
     "lastName": "Kestenbaum",
@@ -1178,6 +1285,7 @@
   },
   "nRimskyKorsakov": {
     "id": "nRimskyKorsakov",
+    "show": false,
     "fullName": "N. Rimsky-Korsakov",
     "firstName": "N.",
     "lastName": "Rimsky-Korsakov",
@@ -1189,6 +1297,7 @@
   },
   "nedRorem": {
     "id": "nedRorem",
+    "show": true,
     "fullName": "Ned Rorem",
     "firstName": "Ned",
     "lastName": "Rorem",
@@ -1200,6 +1309,7 @@
   },
   "olivierMessiaen": {
     "id": "olivierMessiaen",
+    "show": false,
     "fullName": "Olivier Messiaen",
     "firstName": "Olivier",
     "lastName": "Messiaen",
@@ -1211,6 +1321,7 @@
   },
   "paulChihara": {
     "id": "paulChihara",
+    "show": true,
     "fullName": "Paul Chihara",
     "firstName": "Paul",
     "lastName": "Chihara",
@@ -1222,6 +1333,7 @@
   },
   "paulHindemith": {
     "id": "paulHindemith",
+    "show": false,
     "fullName": "Paul Hindemith",
     "firstName": "Paul",
     "lastName": "Hindemith",
@@ -1233,6 +1345,7 @@
   },
   "paulReale": {
     "id": "paulReale",
+    "show": true,
     "fullName": "Paul Reale",
     "firstName": "Paul",
     "lastName": "Reale",
@@ -1244,6 +1357,7 @@
   },
   "peterKnell": {
     "id": "peterKnell",
+    "show": true,
     "fullName": "Peter Knell",
     "firstName": "Peter",
     "lastName": "Knell",
@@ -1255,6 +1369,7 @@
   },
   "peterSchickele": {
     "id": "peterSchickele",
+    "show": true,
     "fullName": "Peter Schickele",
     "firstName": "Peter",
     "lastName": "Schickele",
@@ -1266,8 +1381,9 @@
   },
   "peterYatesAndMatthewElgart": {
     "id": "peterYatesAndMatthewElgart",
-    "fullName": "Peter Yates &amp; Matthew Elgart",
-    "firstName": "Peter Yates &amp; Matthew",
+    "show": true,
+    "fullName": "Peter Yates & Matthew Elgart",
+    "firstName": "Peter Yates & Matthew",
     "lastName": "Elgart",
     "born": "",
     "died": "",
@@ -1277,6 +1393,7 @@
   },
   "richardStrauss": {
     "id": "richardStrauss",
+    "show": false,
     "fullName": "Richard Strauss",
     "firstName": "Richard",
     "lastName": "Strauss",
@@ -1288,6 +1405,7 @@
   },
   "robertAldridge": {
     "id": "robertAldridge",
+    "show": true,
     "fullName": "Robert Aldridge",
     "firstName": "Robert",
     "lastName": "Aldridge",
@@ -1299,6 +1417,7 @@
   },
   "robertKyr": {
     "id": "robertKyr",
+    "show": true,
     "fullName": "Robert Kyr",
     "firstName": "Robert",
     "lastName": "Kyr",
@@ -1310,6 +1429,7 @@
   },
   "robertSchumann": {
     "id": "robertSchumann",
+    "show": false,
     "fullName": "Robert Schumann",
     "firstName": "Robert",
     "lastName": "Schumann",
@@ -1321,6 +1441,7 @@
   },
   "rogerBourland": {
     "id": "rogerBourland",
+    "show": true,
     "fullName": "Roger Bourland",
     "firstName": "Roger",
     "lastName": "Bourland",
@@ -1332,6 +1453,7 @@
   },
   "russellSteinberg": {
     "id": "russellSteinberg",
+    "show": true,
     "fullName": "Russell Steinberg",
     "firstName": "Russell",
     "lastName": "Steinberg",
@@ -1343,6 +1465,7 @@
   },
   "selectedRussian": {
     "id": "selectedRussian",
+    "show": false,
     "fullName": "Selected Russian",
     "firstName": "Selected",
     "lastName": "Russian",
@@ -1354,6 +1477,7 @@
   },
   "sergeiProkofiev": {
     "id": "sergeiProkofiev",
+    "show": false,
     "fullName": "Sergei Prokofiev",
     "firstName": "Sergei",
     "lastName": "Prokofiev",
@@ -1365,6 +1489,7 @@
   },
   "sergeiRachmaninoff": {
     "id": "sergeiRachmaninoff",
+    "show": false,
     "fullName": "Sergei Rachmaninoff",
     "firstName": "Sergei",
     "lastName": "Rachmaninoff",
@@ -1376,6 +1501,7 @@
   },
   "sharonFarber": {
     "id": "sharonFarber",
+    "show": true,
     "fullName": "Sharon Farber",
     "firstName": "Sharon",
     "lastName": "Farber",
@@ -1387,6 +1513,7 @@
   },
   "shirleyWalker": {
     "id": "shirleyWalker",
+    "show": true,
     "fullName": "Shirley Walker",
     "firstName": "Shirley",
     "lastName": "Walker",
@@ -1398,6 +1525,7 @@
   },
   "stephenCohn": {
     "id": "stephenCohn",
+    "show": true,
     "fullName": "Stephen Cohn",
     "firstName": "Stephen",
     "lastName": "Cohn",
@@ -1409,6 +1537,7 @@
   },
   "steveReich": {
     "id": "steveReich",
+    "show": true,
     "fullName": "Steve Reich",
     "firstName": "Steve",
     "lastName": "Reich",
@@ -1420,6 +1549,7 @@
   },
   "stevenScher": {
     "id": "stevenScher",
+    "show": true,
     "fullName": "Steven Scher",
     "firstName": "Steven",
     "lastName": "Scher",
@@ -1431,6 +1561,7 @@
   },
   "tanburiCemilBey": {
     "id": "tanburiCemilBey",
+    "show": true,
     "fullName": "Tanburi Cemil Bey",
     "firstName": "Tanburi Cemil",
     "lastName": "Bey",
@@ -1442,6 +1573,7 @@
   },
   "taniaFrench": {
     "id": "taniaFrench",
+    "show": true,
     "fullName": "Tania French",
     "firstName": "Tania",
     "lastName": "French",
@@ -1453,6 +1585,7 @@
   },
   "theodoreNorman": {
     "id": "theodoreNorman",
+    "show": true,
     "fullName": "Theodore Norman",
     "firstName": "Theodore",
     "lastName": "Norman",
@@ -1464,6 +1597,7 @@
   },
   "traditional": {
     "id": "traditional",
+    "show": false,
     "fullName": "Traditional",
     "firstName": "",
     "lastName": "Traditional",
@@ -1475,6 +1609,7 @@
   },
   "vaughanWilliams": {
     "id": "vaughanWilliams",
+    "show": false,
     "fullName": "Vaughan Williams",
     "firstName": "Vaughan",
     "lastName": "Williams",
@@ -1486,6 +1621,7 @@
   },
   "vincentLuebeck": {
     "id": "vincentLuebeck",
+    "show": false,
     "fullName": "Vincent Luebeck",
     "firstName": "Vincent",
     "lastName": "Luebeck",
@@ -1497,6 +1633,7 @@
   },
   "williamWeingarden": {
     "id": "williamWeingarden",
+    "show": true,
     "fullName": "William Weingarden",
     "firstName": "William",
     "lastName": "Weingarden",
@@ -1508,6 +1645,7 @@
   },
   "wolfgangMozart": {
     "id": "wolfgangMozart",
+    "show": false,
     "fullName": "Wolfgang Mozart",
     "firstName": "Wolfgang",
     "lastName": "Mozart",
@@ -1519,6 +1657,7 @@
   },
   "yalilGuerra": {
     "id": "yalilGuerra",
+    "show": true,
     "fullName": "Yalil Guerra",
     "firstName": "Yalil",
     "lastName": "Guerra",
@@ -1530,6 +1669,7 @@
   },
   "zelmanBokser": {
     "id": "zelmanBokser",
+    "show": true,
     "fullName": "Zelman Bokser",
     "firstName": "Zelman",
     "lastName": "Bokser",
@@ -1541,6 +1681,7 @@
   },
   "zoltanKodaly": {
     "id": "zoltanKodaly",
+    "show": false,
     "fullName": "Zoltan Kodàly",
     "firstName": "Zoltan",
     "lastName": "Kodàly",

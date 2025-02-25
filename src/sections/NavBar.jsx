@@ -16,9 +16,9 @@ import PacSerWideLockup from "@/components/PacSerWideLockup";
 import PacSerStackLockup from "@/components/PacSerStackLockup";
 import WaveBg from "@/components/WaveBg";
 
-export default function NavBar({}) {
+export default function NavBar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [hovered, setHovered] = useState(false);
+  const [hoveredDropdown, setHoveredDropdown] = useState(null);
   const hoverTimeout = useRef(null);
 
   const menuLinks = [
@@ -45,17 +45,17 @@ export default function NavBar({}) {
       <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-end mx-auto font-semibold">
         <Navbar
           maxWidth="full"
-          isBlurred="false"
+          isBlurred={false}
           style={{ backgroundColor: "transparent", padding: "0" }}
           isMenuOpen={isMenuOpen}
           onMenuOpenChange={setIsMenuOpen}
         >
-          {/* mobile */}
+          {/* Mobile */}
           <NavbarContent className="md:hidden pr-3 pt-6">
             <NavbarBrand className="flex align-center">
               <div className=" w-[150px]">
                 <Link href="/">
-                  <PacSerStackLockup fillColor={"--ps-dark"} />
+                  <PacSerStackLockup fillColor="--ps-dark" />
                 </Link>
               </div>
             </NavbarBrand>
@@ -65,12 +65,12 @@ export default function NavBar({}) {
             <NavbarMenuToggle aria-label={isMenuOpen ? "Close menu" : "Open menu"} />
           </NavbarContent>
 
-          {/* desktop */}
-          <NavbarContent className="hidden md:flex gap-4 " style={{ paddingLeft: "0" }} justify="end">
+          {/* Desktop */}
+          <NavbarContent className="hidden md:flex gap-4" style={{ paddingLeft: "0" }} justify="end">
             <NavbarBrand>
               <div className="w-[200px]">
                 <Link href="/">
-                  <PacSerStackLockup fillColor={"--ps-dark"} />
+                  <PacSerStackLockup fillColor="--ps-dark" />
                 </Link>
               </div>
             </NavbarBrand>
@@ -81,20 +81,20 @@ export default function NavBar({}) {
                   className="relative"
                   onMouseEnter={() => {
                     if (hoverTimeout.current) clearTimeout(hoverTimeout.current);
-                    setHovered(true);
+                    setHoveredDropdown(index);
                   }}
                   onMouseLeave={() => {
-                    hoverTimeout.current = setTimeout(() => setHovered(false), 200); // 200ms delay
+                    hoverTimeout.current = setTimeout(() => setHoveredDropdown(null), 200);
                   }}
                 >
                   <NavbarItem>
                     <Link href={link.href}>{link.name}</Link>
                   </NavbarItem>
-                  {hovered && (
-                    <div className="absolute top-full mt-2 bg-white shadow-lg rounded-lg py-2 right-0">
+                  {hoveredDropdown === index && (
+                    <div className="absolute top-full mt-2 bg-white shadow-lg rounded-lg py-2 right-0 min-w-[12ch] text-right">
                       {link.dropdownPages.map((dropdownLink, idx) => (
                         <div key={idx} className="px-4 py-2 hover:bg-gray-100">
-                          <Link href={`${link.href}${dropdownLink.href}`} onClick={() => setHovered(false)}>
+                          <Link href={`${link.href}${dropdownLink.href}`} onClick={() => setHoveredDropdown(null)}>
                             {dropdownLink.name}
                           </Link>
                         </div>
@@ -110,47 +110,32 @@ export default function NavBar({}) {
             )}
           </NavbarContent>
 
-          {/* mobile menu */}
+          {/* Mobile menu */}
           <NavbarMenu style={{ top: "0" }}>
-            <NavbarMenuItem className="mobile-menu-container flex flex-col gap-6 ">
+            <NavbarMenuItem className="mobile-menu-container flex flex-col gap-6">
               {menuLinks.map((link, index) =>
                 link.dropdown ? (
                   <div className="main-nav-link-container" key={index}>
-                    <Link
-                      key={index}
-                      className="w-full"
-                      size="lg"
-                      href={link.href}
-                      onClick={() => setIsMenuOpen(false)}
-                    >
-                      <span className="text-2xl">{link.name}</span>
+                    <Link className="w-full text-2xl" href={link.href} onClick={() => setIsMenuOpen(false)}>
+                      {link.name}
                     </Link>
                     <div className="secondary-nav-link-container flex flex-col">
-                      {link.dropdownPages.map((dropdownLink, index) => (
+                      {link.dropdownPages.map((dropdownLink, idx) => (
                         <Link
-                          key={index}
-                          className="w-full"
-                          size="md"
+                          key={idx}
+                          className="w-full uppercase text-sm"
                           href={`${link.href}${dropdownLink.href}`}
                           onClick={() => setIsMenuOpen(false)}
                         >
-                          <span className="uppercase text-sm" style={{ lineHeight: ".8rem" }}>
-                            {dropdownLink.name}
-                          </span>
+                          {dropdownLink.name}
                         </Link>
                       ))}
                     </div>
                   </div>
                 ) : (
                   <div className="main-nav-link-container" key={index}>
-                    <Link
-                      key={index}
-                      className="w-full"
-                      size="lg"
-                      href={link.href}
-                      onClick={() => setIsMenuOpen(false)}
-                    >
-                      <span className="text-2xl">{link.name}</span>
+                    <Link className="w-full text-2xl" href={link.href} onClick={() => setIsMenuOpen(false)}>
+                      {link.name}
                     </Link>
                   </div>
                 ),
