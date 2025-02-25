@@ -1,3 +1,5 @@
+import worksData from "@/data/worksData.json";
+
 export default function CommissionCard({ work, index }) {
   return (
     <div
@@ -5,7 +7,7 @@ export default function CommissionCard({ work, index }) {
       key={index}
     >
       <div className="card-top">
-        <div className="work-title text-2xl">{work.workName}</div>
+        <div className="work-title text-2xl">{work.workName} ({worksData[work.workId].workYear})</div>
         <div className="work-composer text-lg font-bold">{work.workComposer}</div>
       </div>
       <div className="work-commissioned">{work.commissionedBy}</div>

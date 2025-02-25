@@ -183,6 +183,10 @@ footer {
   margin: 0.5rem 0rem;
 }
 
+.concert-program-work {
+  @apply flex;
+}
+
 .mobile-menu-container {
   margin-top: clamp(100px, 20svw, 200px);
   text-align: right;
