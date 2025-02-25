@@ -11,7 +11,14 @@ const composersDataSortedByLastName = Object.fromEntries(sortedArr);
 
 export default function Composers() {
   return (
-    <div className="top-container mx-4 flex justify-center items-center">
+    <div className="top-container mx-4 flex flex-col justify-center items-center">
+      <h1 className="my-8">Composers</h1>
+      <div className="prose mb-8 m-2">
+        <p className="text-center">
+          The music of Pacific Serenades is a blend of past and present and its continued creation is essential to our
+          mission. The following composers have contributed to this legacy through their works featured in our programs.
+        </p>
+      </div>
       <section className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 items-center w-fit justify-center">
         {Object.keys(composersDataSortedByLastName).map((key) => {
           if (composersDataSortedByLastName[key].show === false) {
