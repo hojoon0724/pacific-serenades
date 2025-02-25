@@ -12,7 +12,7 @@ export default function StaffBioBlock({ staff }) {
           <div className="staff-name text-xl">{staff.name}</div>
           <div className="staff-title">{staff.title}</div>
         </div>
-        <div className="staff-bio-container prose">
+        <div className="staff-bio-container prose text-left">
           <p>{staff.bio}</p>
         </div>
         {staff.website ? (

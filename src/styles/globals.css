@@ -154,7 +154,7 @@ footer {
 }
 .welcome-paragraph-text {
   font-weight: 500;
-  text-align: justify;
+  /* text-align: justify; */
   padding-bottom: 2rem;
 }
 
@@ -176,7 +176,7 @@ footer {
 
 .prose {
   @apply max-w-prose;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .prose > p {
