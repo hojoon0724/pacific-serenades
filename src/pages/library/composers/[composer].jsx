@@ -1,12 +1,10 @@
-import composersData from '@/data/composersData.json';
-import worksData from '@/data/worksData.json';
-import Image from 'next/image';
-import Link from 'next/link';
-import ComposerComponent from '@/components/ComposerPage/ComposerComponent';
+import composersData from "@/data/composersData.json";
+import worksData from "@/data/worksData.json";
+import ComposerComponent from "@/components/ComposerPage/ComposerComponent";
 
 export async function getStaticPaths() {
   // File name === [composer].jsx
-  const paths = Object.keys(composersData).map(composer => {
+  const paths = Object.keys(composersData).map((composer) => {
     return { params: { composer: composer } };
   });
   return {
@@ -17,7 +15,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const composer = composersData[params.composer];
-  const works = Object.values(worksData).filter(work => work.workComposer === params.composer);
+  const works = Object.values(worksData).filter((work) => work.workComposer === params.composer);
   // console.log(works);
   return {
     props: {

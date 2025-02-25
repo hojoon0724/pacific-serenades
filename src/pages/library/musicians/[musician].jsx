@@ -1,12 +1,12 @@
-import musiciansData from '@/data/musiciansData.json';
-import worksData from '@/data/worksData.json';
-import Image from 'next/image';
-import Link from 'next/link';
-import ComposerComponent from '@/components/ComposerPage/ComposerComponent';
+import musiciansData from "@/data/musiciansData.json";
+import worksData from "@/data/worksData.json";
+import Image from "next/image";
+import Link from "next/link";
+import MusicianComponent from "@/components/MusicianPage/MusicianComponent";
 
 export async function getStaticPaths() {
-  // File name === [composer].jsx
-  const paths = Object.keys(musiciansData).map(musician => {
+  // File name === [Musician].jsx
+  const paths = Object.keys(musiciansData).map((musician) => {
     return { params: { musician: musician } };
   });
   return {
@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const musician = musiciansData[params.musician];
-  // const works = Object.values(worksData).filter(work => work.workComposer === params.composer);
+  // const works = Object.values(worksData).filter(work => work.workMusician === params.musician);
   // console.log(works);
   return {
     props: {
@@ -27,14 +27,14 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export default function ComposerDetails({ musician }) {
+export default function MusicianDetails({ musician }) {
   if (!musician) {
-    return <p>Composer not found.</p>;
+    return <p>Musician not found.</p>;
   }
 
   return (
     <div className="top-container mx-4">
-      <ComposerComponent composer={musician} works={[]} />
+      <MusicianComponent musician={musician} works={[]} />
     </div>
   );
 }

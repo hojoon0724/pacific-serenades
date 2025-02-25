@@ -1,21 +1,27 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import musiciansData from '@/data/musiciansData.json';
+import Image from "next/image";
+import Link from "next/link";
+import musiciansData from "@/data/musiciansData.json";
+
+const sortedArr = Object.entries(musiciansData).sort(([, obj1], [, obj2]) =>
+  obj1.lastName.localeCompare(obj2.lastName),
+);
+
+const musiciansDataSortedByLastName = Object.fromEntries(sortedArr);
 
 export default function Musicians() {
   return (
     <section className="flex flex-wrap mx-auto items-center w-fit justify-center">
-      {Object.keys(musiciansData).map(key => {
-        const composer = musiciansData[key];
+      {Object.keys(musiciansDataSortedByLastName).map((key) => {
+        const musician = musiciansDataSortedByLastName[key];
         return (
           <Link href={`/library/musicians/${key}`} key={key}>
-            <div className="composer-container flex justify-start items-center p-4 w-[90svw] xs:w-[260px]" key={key}>
-              <div className="composer-photo w-12 min-w-12 h-12 min-h-12 rounded-full overflow-clip">
-                {composer.photo === '' ? (
+            <div className="musician-container flex justify-start items-center p-4 w-[90svw] xs:w-[260px]" key={key}>
+              <div className="musician-photo w-12 min-w-12 h-12 min-h-12 rounded-full overflow-clip">
+                {musician.photo === "" ? (
                   <Image src="/icons/person.svg" alt="person icon" width={200} height={200} />
                 ) : (
                   <Image
-                    src={composer.photo}
+                    src={musician.photo}
                     alt=""
                     width={200}
                     height={200}
@@ -23,8 +29,8 @@ export default function Musicians() {
                   />
                 )}
               </div>
-              <div className="composer-name pl-4" key={key}>
-                {composer.firstName} {composer.lastName}
+              <div className="musician-name pl-4" key={key}>
+                {musician.firstName} {musician.lastName}
               </div>
             </div>
           </Link>
