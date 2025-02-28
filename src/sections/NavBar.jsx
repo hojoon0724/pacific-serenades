@@ -40,7 +40,7 @@ export default function NavBar() {
   ];
 
   return (
-    <div className="nav-bar sticky top-0 z-50">
+    <div className="nav-bar top-0 z-50">
       <WaveBg />
       <div className="nav-bar-container w-screen max-w-[1200px] flex justify-center items-end mx-auto font-semibold">
         <Navbar
@@ -90,17 +90,17 @@ export default function NavBar() {
                   <NavbarItem>
                     <Link href={link.href}>{link.name}</Link>
                   </NavbarItem>
-                  {hoveredDropdown === index && (
-                    <div className="absolute top-full mt-2 bg-white shadow-lg rounded-lg py-2 right-0 min-w-[12ch] text-right">
-                      {link.dropdownPages.map((dropdownLink, idx) => (
-                        <div key={idx} className="px-4 py-2 hover:bg-gray-100">
-                          <Link href={`${link.href}${dropdownLink.href}`} onClick={() => setHoveredDropdown(null)}>
-                            {dropdownLink.name}
-                          </Link>
-                        </div>
-                      ))}
-                    </div>
-                  )}
+                  <div
+                    className={`absolute top-full mt-2 bg-white shadow-lg rounded-lg py-2 right-0 min-w-[12ch] text-right transition-all duration-300 ease-out transform ${hoveredDropdown === index ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
+                  >
+                    {link.dropdownPages.map((dropdownLink, idx) => (
+                      <div key={idx} className="px-4 py-2 hover:bg-gray-100">
+                        <Link href={`${link.href}${dropdownLink.href}`} onClick={() => setHoveredDropdown(null)}>
+                          {dropdownLink.name}
+                        </Link>
+                      </div>
+                    ))}
+                  </div>
                 </div>
               ) : (
                 <NavbarItem key={index}>
