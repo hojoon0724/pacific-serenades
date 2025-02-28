@@ -1598,7 +1598,7 @@
         "venueId": ""
       }
     ],
-    "program": ["stravinsklyDuoConcertant", "roremNineEpisodes", "brahmsClarinetTrio"],
+    "program": ["stravinskyDuoConcertant", "roremNineEpisodes", "brahmsClarinetTrio"],
     "musicians": ["garyGray", "margaretBatjer", "davidSpeltz", "joannePearceMartin"]
   },
   "spinningAHarmoniousWeb": {
@@ -2783,7 +2783,7 @@
         "venueId": "uclaFacultyCenter"
       }
     ],
-    "program": ["goodmanWalkingMusic"],
+    "program": ["stravinskyConcertino", "mendelssohnStringQuartetOp44No3", "goodmanWalkingMusic"],
     "musicians": ["rogerWilkie", "ambroiseAubrun", "benjaminBartelt", "davidSpeltz", "markCarlson"]
   }
 }

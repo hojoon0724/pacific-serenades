@@ -154,7 +154,7 @@
   "bachBMinorFluteSonata": {
     "id": "bachBMinorFluteSonata",
     "workName": "Sonata in B minor, BWV 1030",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "johannSebastianBach",
     "purchaseLink": "",
     "video": [],
@@ -224,7 +224,7 @@
   },
   "bachEMajorFluteSonata": {
     "id": "bachEMajorFluteSonata",
-    "workName": "Sonata in E major, BWV 1035, for flute &amp; basso continuo",
+    "workName": "Sonata in E major, BWV 1035, for flute & basso continuo",
     "workYear": "1741",
     "workComposer": "johannSebastianBach",
     "purchaseLink": "",
@@ -237,7 +237,7 @@
   "bachFluteSonata": {
     "id": "bachFluteSonata",
     "workName": "Trio Sonata in G major, BWV 1039",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "johannSebastianBach",
     "purchaseLink": "",
     "video": [],
@@ -273,7 +273,7 @@
   "bachPassacaglia": {
     "id": "bachPassacaglia",
     "workName": "Passacaglia in C minor, BWV 582",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "johannSebastianBach",
     "purchaseLink": "",
     "video": [],
@@ -285,7 +285,7 @@
   "bachSelectedArias": {
     "id": "bachSelectedArias",
     "workName": "Selected Arias",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "johannSebastianBach",
     "purchaseLink": "",
     "video": [],
@@ -321,7 +321,7 @@
   "bachThreeArias": {
     "id": "bachThreeArias",
     "workName": "Three Arias",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "johannSebastianBach",
     "purchaseLink": "",
     "video": [],
@@ -515,7 +515,7 @@
     "audio": [],
     "description": "",
     "commissionedBy": "",
-    "instrumentation": "for cello &amp; piano"
+    "instrumentation": "for cello & piano"
   },
   "beethovenPianoQuartet": {
     "id": "beethovenPianoQuartet",
@@ -575,7 +575,7 @@
     "audio": [],
     "description": "",
     "commissionedBy": "",
-    "instrumentation": "for violin &amp; piano"
+    "instrumentation": "for violin & piano"
   },
   "beethovenSpringSonata": {
     "id": "beethovenSpringSonata",
@@ -718,7 +718,7 @@
   "beyUdMusic": {
     "id": "beyUdMusic",
     "workName": "Mahur Pesrevi",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "tanburiCemilBey",
     "purchaseLink": "",
     "video": [],
@@ -754,7 +754,7 @@
   "boccheriniBirdSanctuary": {
     "id": "boccheriniBirdSanctuary",
     "workName": "Quintet in D major",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "luigiBoccherini",
     "purchaseLink": "",
     "video": [],
@@ -766,7 +766,7 @@
   "boccheriniCelloSonataCMajor": {
     "id": "boccheriniCelloSonataCMajor",
     "workName": "Sonata for cello and piano in C major",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "luigiBoccherini",
     "purchaseLink": "",
     "video": [],
@@ -778,7 +778,7 @@
   "boccheriniCelloSonataInA": {
     "id": "boccheriniCelloSonataInA",
     "workName": "Sonata No. 6 in A major, G 4",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "luigiBoccherini",
     "purchaseLink": "",
     "video": [],
@@ -790,7 +790,7 @@
   "boccheriniFandango": {
     "id": "boccheriniFandango",
     "workName": "Quintet in D major, G. 448 \"Fandango\"",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "luigiBoccherini",
     "purchaseLink": "",
     "video": [],
@@ -973,7 +973,7 @@
     "audio": [],
     "description": "",
     "commissionedBy": "",
-    "instrumentation": "for clarinet &amp; string quartet"
+    "instrumentation": "for clarinet & string quartet"
   },
   "brahmsClarinetTrio": {
     "id": "brahmsClarinetTrio",
@@ -1685,7 +1685,7 @@
   "couperinPiecesEnConcert": {
     "id": "couperinPiecesEnConcert",
     "workName": "Pièces en concert",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "francoisCouperin",
     "purchaseLink": "",
     "video": [],
@@ -1872,7 +1872,7 @@
     "audio": [],
     "description": "",
     "commissionedBy": "",
-    "instrumentation": "for bassoon &amp; string trio"
+    "instrumentation": "for bassoon & string trio"
   },
   "dohnanyiQuintetNo1": {
     "id": "dohnanyiQuintetNo1",
@@ -1914,7 +1914,7 @@
     ],
     "description": "",
     "commissionedBy": "Commissioned by Jan & Jim Goodwin",
-    "instrumentation": "for clarinet &amp; string quartet"
+    "instrumentation": "for clarinet & string quartet"
   },
   "dvorakAmericanStringQuartet": {
     "id": "dvorakAmericanStringQuartet",
@@ -2033,7 +2033,7 @@
   "faurePianoTrio": {
     "id": "faurePianoTrio",
     "workName": "Piano Trio, Op. 120",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "gabrielFaure",
     "purchaseLink": "",
     "video": [],
@@ -2045,7 +2045,7 @@
   "faureSongs1987": {
     "id": "faureSongs1987",
     "workName": "Selected Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "gabrielFaure",
     "purchaseLink": "",
     "video": [],
@@ -2057,7 +2057,7 @@
   "faureSongs2010": {
     "id": "faureSongs2010",
     "workName": "Selected Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "gabrielFaure",
     "purchaseLink": "",
     "video": [],
@@ -2214,7 +2214,7 @@
   "geminianiSonata": {
     "id": "geminianiSonata",
     "workName": "Sonata No. 1 in A major",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "francescoGeminiani",
     "purchaseLink": "",
     "video": [],
@@ -2274,7 +2274,7 @@
   "handelBMinorFluteSonata": {
     "id": "handelBMinorFluteSonata",
     "workName": "Sonata in B minor, HMV 367",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "georgFridericHandel",
     "purchaseLink": "",
     "video": [],
@@ -2286,7 +2286,7 @@
   "handelConcertoAQuattro": {
     "id": "handelConcertoAQuattro",
     "workName": "Concerto a Quattro in D minor, HWV 361",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "georgFridericHandel",
     "purchaseLink": "",
     "video": [],
@@ -2298,7 +2298,7 @@
   "handelOp2No1": {
     "id": "handelOp2No1",
     "workName": "Sonata in B minor, Op. 2, No. 1",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "georgFridericHandel",
     "purchaseLink": "",
     "video": [],
@@ -2310,7 +2310,7 @@
   "handelOp2No3": {
     "id": "handelOp2No3",
     "workName": "Sonata in B flat major, Op. 2, No. 3",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "georgFridericHandel",
     "purchaseLink": "",
     "video": [],
@@ -2322,7 +2322,7 @@
   "handelTrioSonataInFMajor": {
     "id": "handelTrioSonataInFMajor",
     "workName": "Sonata in F major, Op. 2, No. 4",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "georgFridericHandel",
     "purchaseLink": "",
     "video": [],
@@ -2506,7 +2506,7 @@
   "ivesSongs1987": {
     "id": "ivesSongs1987",
     "workName": "Selected Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "charlesIves",
     "purchaseLink": "",
     "video": [],
@@ -2610,7 +2610,7 @@
   "krebsFantasy": {
     "id": "krebsFantasy",
     "workName": "Fantasy in F minor",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "johannKrebs",
     "purchaseLink": "",
     "video": [],
@@ -2821,7 +2821,7 @@
   "luebeckPreludeAndFugue": {
     "id": "luebeckPreludeAndFugue",
     "workName": "Prelude and Fugue in D minor",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "vincentLuebeck",
     "purchaseLink": "",
     "video": [],
@@ -2936,7 +2936,7 @@
   "mendelssohnEMinorQuartet": {
     "id": "mendelssohnEMinorQuartet",
     "workName": "Quartet in E minor, Op. 44, No. 2",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "felixMendelssohn",
     "purchaseLink": "",
     "video": [],
@@ -2956,6 +2956,18 @@
     "description": "",
     "commissionedBy": "",
     "instrumentation": "for 4 violins, 2 violas, 2 cellos"
+  },
+  "mendelssohnStringQuartetOp44No3": {
+    "id": "mendelssohnStringQuartetOp44No3",
+    "workName": "String Quartet in E flat major, Op. 44, No. 3",
+    "workYear": "1838",
+    "workComposer": "felixMendelssohn",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "",
+    "commissionedBy": "",
+    "instrumentation": "for string quartet"
   },
   "mendelssohnStringQuintetOp87": {
     "id": "mendelssohnStringQuintetOp87",
@@ -3042,7 +3054,7 @@
     ],
     "description": "",
     "commissionedBy": "Commissioned by The Pacific Serenades Commissioning Club of 2012",
-    "instrumentation": "for baritone &amp; string quartet"
+    "instrumentation": "for baritone & string quartet"
   },
   "mozartClarinetQuintet": {
     "id": "mozartClarinetQuintet",
@@ -3295,7 +3307,7 @@
   "nikolakiUdMusic": {
     "id": "nikolakiUdMusic",
     "workName": "Mahur Saz Semaisi",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "kemenceciNikolaki",
     "purchaseLink": "",
     "video": [],
@@ -3326,7 +3338,7 @@
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Dr. Abdelmonem & Marianne Afifi",
-    "instrumentation": "for bassoon &amp; string quartet"
+    "instrumentation": "for bassoon & string quartet"
   },
   "pierceFourMovementsQuartet": {
     "id": "pierceFourMovementsQuartet",
@@ -3593,7 +3605,7 @@
   "russianSongs": {
     "id": "russianSongs",
     "workName": "Selected Russian Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "selectedRussian",
     "purchaseLink": "",
     "video": [],
@@ -3605,7 +3617,7 @@
   "saintSaensCaprice": {
     "id": "saintSaensCaprice",
     "workName": "Caprice on Russian and Danish Airs, Op. 79",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "camilleSaintSaens",
     "purchaseLink": "",
     "video": [],
@@ -3628,7 +3640,7 @@
   "saintSaensTarantella": {
     "id": "saintSaensTarantella",
     "workName": "Tarantella, Op. 6",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "camilleSaintSaens",
     "purchaseLink": "",
     "video": [],
@@ -3766,7 +3778,7 @@
   "schumannMarchenbilder": {
     "id": "schumannMarchenbilder",
     "workName": "Märchenbilder (Fairytale Pictures), Op. 113",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "robertSchumann",
     "purchaseLink": "",
     "video": [],
@@ -3814,7 +3826,7 @@
   "schumannSongs": {
     "id": "schumannSongs",
     "workName": "Selected Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "robertSchumann",
     "purchaseLink": "",
     "video": [],
@@ -4042,7 +4054,7 @@
   "straussSongs": {
     "id": "straussSongs",
     "workName": "Selected Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "richardStrauss",
     "purchaseLink": "",
     "video": [],
@@ -4051,8 +4063,19 @@
     "commissionedBy": "",
     "instrumentation": "for baritone and piano"
   },
-  "stravinsklyDuoConcertant": {
-    "id": "stravinsklyDuoConcertant",
+  "stravinskyConcertino": {
+    "id": "stravinskyConcertino",
+    "workName": "Concertino",
+    "workYear": "1920",
+    "workComposer": "igorStravinsky",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "",
+    "commissionedBy": ""
+  },
+  "stravinskyDuoConcertant": {
+    "id": "stravinskyDuoConcertant",
     "workName": "Duo Contertant",
     "workYear": "1932",
     "workComposer": "igorStravinsky",
@@ -4088,8 +4111,8 @@
   "sukFourPieces": {
     "id": "sukFourPieces",
     "workName": "Four Pieces for violin and piano, Op.17",
-    "workYear": "0",
-    "workComposer": "josephSuk",
+    "workYear": "1900",
+    "workComposer": "josefSuk",
     "purchaseLink": "",
     "video": [],
     "audio": [],
@@ -4100,7 +4123,7 @@
   "taksimMahurAnImprovisationInTheMakamMahur": {
     "id": "taksimMahurAnImprovisationInTheMakamMahur",
     "workName": "Taksim Mahur",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "traditional",
     "purchaseLink": "",
     "video": [],
@@ -4112,7 +4135,7 @@
   "tansmanBassoonSuite": {
     "id": "tansmanBassoonSuite",
     "workName": "Suite",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "alexandreTansman",
     "purchaseLink": "",
     "video": [],
@@ -4168,7 +4191,7 @@
   "telemannOboeSonataInDMinor": {
     "id": "telemannOboeSonataInDMinor",
     "workName": "Sonata in D minor, TWV 41:d2",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "georgTelemann",
     "purchaseLink": "",
     "video": [],
@@ -4227,7 +4250,7 @@
   "vivaldiCMinorOboeSonata": {
     "id": "vivaldiCMinorOboeSonata",
     "workName": "Sonata in C minor, RV 53",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "antonioVivaldi",
     "purchaseLink": "",
     "video": [],
@@ -4239,7 +4262,7 @@
   "vivaldiSonataDMajor": {
     "id": "vivaldiSonataDMajor",
     "workName": "Sonata in D major, F XIII No. 6",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "antonioVivaldi",
     "purchaseLink": "",
     "video": [],
@@ -4299,14 +4322,14 @@
   "wolfBaritoneAndStringQuartet": {
     "id": "wolfBaritoneAndStringQuartet",
     "workName": "Selected Songs",
-    "workYear": "0",
+    "workYear": "-",
     "workComposer": "hugoWolf",
     "purchaseLink": "",
     "video": [],
     "audio": [],
     "description": "",
     "commissionedBy": "",
-    "instrumentation": "for baritone &amp; string quartet"
+    "instrumentation": "for baritone & string quartet"
   },
   "wolfgangImpressions": {
     "id": "wolfgangImpressions",
