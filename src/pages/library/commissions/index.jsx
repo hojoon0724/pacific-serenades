@@ -1,5 +1,19 @@
 import CommissionCard from "@/components/CommissionCard";
 import commissionsData from "@/data/commissionsData.json";
+import worksData from "@/data/worksData.json";
+
+const commissionsWithWorkId = commissionsData.map((commission) => {
+  const matchingWork = Object.keys(worksData).find(
+    (workId) =>
+      commission.composerId === worksData[workId].workComposer && commission.workName === worksData[workId].workName,
+  );
+
+  return matchingWork
+    ? { ...commission, workId: worksData[matchingWork].id, workYear: worksData[matchingWork].workYear }
+    : commission;
+});
+
+const commissionsSortedByYear = commissionsWithWorkId.sort((a, b) => b.workYear - a.workYear);
 
 export default function Commissions({}) {
   return (
@@ -13,8 +27,8 @@ export default function Commissions({}) {
       </div>
       <div className="commissions-container">
         <div className="commissions-container grid xl:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
-          {Object.keys(commissionsData).map((work, index) => {
-            return <CommissionCard work={commissionsData[work]} index={index} key={index} />;
+          {commissionsSortedByYear.map((work, index) => {
+            return <CommissionCard work={work} index={index} key={index} />;
           })}
         </div>
       </div>
