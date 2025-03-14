@@ -17,6 +17,8 @@ export default function Contact() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    document.getElementById("submitButton").disabled = true;
+    document.getElementById("submitButton").classList.add("cursor-not-allowed", "opacity-50");
 
     // The URL of your Google Apps Script Web App
     const scriptUrl =
@@ -28,30 +30,33 @@ export default function Contact() {
     formBody.append("email", formData.email);
     formBody.append("message", formData.message);
 
-    try {
-      const response = await fetch(scriptUrl, {
-        method: "POST",
-        body: formBody,
-      });
+    console.log("Form data:", formBody);
 
-      if (response.ok) {
-        console.log("Form submitted successfully!");
-        alert("Thank you for your message!");
-      } else {
-        console.log("Error submitting form");
-        alert("There was an error. Please try again.");
-      }
-    } catch (error) {
-      console.log("Error:", error);
-      alert("An error occurred. Please try again later.");
-    }
+    // try {
+    //   const response = await fetch(scriptUrl, {
+    //     method: "POST",
+    //     body: formBody,
+    //   });
+
+    //   if (response.ok) {
+    //     // console.log("Form submitted successfully");
+    //     document.getElementById("contactForm").style.display = "none";
+    //     document.getElementById("success").style.display = "flex";
+    //   } else {
+    //     console.log("Error submitting form");
+    //     alert("There was an error. Please try again.");
+    //   }
+    // } catch (error) {
+    //   console.log("Error:", error);
+    //   alert("An error occurred. Please try again later.");
+    // }
   };
 
   return (
     <div className="contact-page-container mx-6">
       <section>
         <div className="flex justify-center items-center uppercase text-3xl w-full">
-          <form className="w-full" onSubmit={handleSubmit}>
+          <form id="contactForm" className="w-full" onSubmit={handleSubmit}>
             <div className="name-email-container flex flex-col md:flex-row justify-between gap-6 mb-6">
               <div className="contact-name-container w-full">
                 <label htmlFor="name" className="mb-3 block text-base font-medium text-black w-auto">
@@ -95,13 +100,26 @@ export default function Contact() {
             </div>
             <div>
               <button
+                id="submitButton"
+                disabled={false}
                 type="submit"
-                className="hover:shadow-form rounded-md bg-blue-500 py-3 px-8 text-base font-semibold text-white outline-none"
+                className="hover:shadow-form rounded-md bg-blue-500 py-3 px-8 text-base font-semibold text-white outline-none "
               >
                 Submit
               </button>
             </div>
           </form>
+          {/* <button className="py-3 px-8 bg-blue-500 text-white rounded-md" onClick={handleSubmit}>
+            toggle
+          </button> */}
+          <div
+            id="success"
+            className="form-success-message-container flex flex-col items-center justify-center"
+            style={{ display: "none" }}
+          >
+            <h3>Thank you for your submission</h3>
+            <h3>We will get back to you soon</h3>
+          </div>
         </div>
       </section>
     </div>
