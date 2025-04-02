@@ -30,7 +30,7 @@ export default function PastSeasons({ bgColor }) {
                 <div className="season-name text-xl font-bold bg-blue-700 rounded-lg px-4 py-2 text-blue-50">
                   {season}
                 </div>
-                <div className="concerts-container">
+                <div className="concerts-container w-full">
                   {concerts.map((concertId) => {
                     return (
                       <div
@@ -40,13 +40,13 @@ export default function PastSeasons({ bgColor }) {
                         <h5 className="concert-title text-blue-800 pb-4" key={concertsData[concertId].id}>
                           <CapitalizeTitle str={concertsData[concertId].concertTitle} />
                         </h5>
-                        <div className="concert-program-work-container grid items-center gap-0 sm:gap-2 sm:grid-cols-[min-content_min-content_auto]">
+                        <div className="concert-program-work-container grid items-center gap-0 sm:gap-2 sm:grid-cols-[max-content_min-content_auto]">
                           {concertsData[concertId].program.map((work, index) => {
                             return (
                               // <div className="concert-program-work flex w-full" key={index}>
                               <>
                                 <div
-                                  className="concert-program-work-composer pt-4 sm:w-max sm:pt-0"
+                                  className="concert-program-work-composer pt-4 sm:w-max sm:pt-0 w-fit"
                                   key={`composerDiv${work}`}
                                 >
                                   {composersData[worksData[work].workComposer].fullName}
