@@ -296,6 +296,17 @@
     "photo": "/photos/douglasMasek.jpg",
     "bio": "<p>Internationally renowned saxophonist Douglas Masek is recognized as one of today’s foremost exponents of contemporary saxophone music. His performances, which have emphasized versatility in a wide range of musical styles, from classical and contemporary to jazz, have consistently garnered critical acclaim. The LA Times stated that Masek’s playing is “smooth, sinuous, stunning, stylish, dazzling, and glowing with the requisite rich color.” The Daily Review in Oakland, California, wrote that “Masek plays with dazzling virtuosity,” while The Outlook in Santa Monica, declared that “Masek’s performance was marvelous…his control was almost uncanny…extraordinary musicianship.”</p>\n<p>Having received his BM degree from the University of Cincinnati College-Conservatory of Music, and his MM degree from Ohio State University, Dr. Masek completed his academic education with a DMA from USC. Currently Professor of Saxophone at UCLA, and in much demand as a master teacher, he is also a Vandoren Elite Artist, performing and lecturing internationally at schools, colleges, and universities.</p>\n<p>With extensive concert touring in the United States, Europe, Asia, South Africa, and South America, he has also performed as soloist at the Singapore Sun Festival, American (Cluj-Napoca, Romania), the China International (Beijing), Aspen, Ojai Music Festivals , the Santa Fe Chamber Music Festival, and the Idyllwild Arts Academy.</p>\n<p>Having premiered dozens of compositions written exclusively for him, Masek’s discography includes seven CD solo collections; Distant Memories, Windwood, Recrudescence, Saxvoir Faire, Saxtronic Soundscape, Saxophone Alternative, and EclectSax. The latter three CDs, which are produced by Centaur Records, feature compositions of Los Angeles composers.</p>"
   },
+  "duoAmal": {
+    "id": "duoAmal",
+    "fullName": "Duo Amal",
+    "firstName": "",
+    "lastName": "Duo Amal",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": "<p>Duo Amal was formed by international pianists Yaron Kohlberg and Bishara Haroni. The duo's name, Amal, means \"hope\" in Arabic and reflects their belief that music can overcome different backgrounds and cultural boundaries.</p>\n<p>Pianists Yaron Kohlberg (winner of the Cleveland International Competition) and Bishara Haroni, met in Jerusalem. At Yaron's suggestion, they joined forces in 2008 for a concert at the New Opera House in Oslo. Following the great success of the concert and the enthusiastic response of the audience, which included many musicians and diplomats, Yaron and Bishara decided to form a permanent Israeli-Palestinian piano duo. They performed in Europe, USA, Asia, and also toured the Far East to critical acclaim including recitals at the Wiener Konzerthaus, The Beijing concert Hall, the Beethoven festival in Bonn, Auditorio San Pedro in Monterrey, and at various venues in Germany, France, Belgium, Finland, India, China, the United States and Israel. The duo aims to show that music-making at the highest level can transcend political and national differences.</p>\n<p>On the personal level, Bishara and Yaron have become close friends</p>"
+  },
   "edithOrloff": {
     "id": "edithOrloff",
     "fullName": "Edith Orloff",
@@ -1284,6 +1295,17 @@
     "died": "",
     "website": "",
     "photo": "/photos/victoriaMiskolczy.jpg",
+    "bio": ""
+  },
+  "victoriaSun": {
+    "id": "victoriaSun",
+    "fullName": "Victoria Sun",
+    "firstName": "Victoria",
+    "lastName": "Sun",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/victoriaSun.jpg",
     "bio": ""
   },
   "vladimirChernov": {

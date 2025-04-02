@@ -53,9 +53,10 @@ export default function Contact() {
   };
 
   return (
-    <div className="contact-page-container mx-6">
-      <section>
-        <div className="flex justify-center items-center uppercase text-3xl w-full">
+    <div className="contact-page-container flex justify-center items-center">
+      <section className="m-6 w-full max-w-[1200px]">
+        <div className="flex flex-col justify-center items-start uppercase text-3xl w-full gap-24">
+          <h1>Contact Us</h1>
           <form id="contactForm" className="w-full" onSubmit={handleSubmit}>
             <div className="name-email-container flex flex-col md:flex-row justify-between gap-6 mb-6">
               <div className="contact-name-container w-full">
@@ -63,6 +64,7 @@ export default function Contact() {
                   Full Name
                 </label>
                 <input
+                  required
                   type="text"
                   name="name"
                   value={formData.name}
@@ -76,6 +78,7 @@ export default function Contact() {
                   Email Address
                 </label>
                 <input
+                  required
                   type="email"
                   name="email"
                   value={formData.email}
@@ -90,6 +93,7 @@ export default function Contact() {
                 Message
               </label>
               <textarea
+                required
                 name="message"
                 value={formData.message}
                 onChange={handleChange}

@@ -1,4 +1,19 @@
 {
+  "amalHope": {
+    "id": "amalHope",
+    "year": "2024",
+    "concertTitle": "Amal/Hope: Bending Space, Crossing Time",
+    "dates": [
+      {
+        "date": "2024-10-19T03:00:00Z",
+        "time": "20:00",
+        "venue": "Zipper Hall at the Colburn School",
+        "venueId": "zipperHallColburn"
+      }
+    ],
+    "program": ["krykaBachBwv552", "krykaCentennialVar", "krykaBachWellTemperedClavier1Cmajor", "krykaSalaamShalomPeace", "krykaElectricRainbow"],
+    "musicians": ["duoAmal"]
+  },
   "2599": {
     "id": "2599",
     "year": "2011",
