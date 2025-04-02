@@ -5,7 +5,7 @@ import worksData from "@/data/worksData.json";
 import composersData from "@/data/composersData.json";
 import CapitalizeTitle from "@/components/CapitalizeTitle";
 import CurrentSeason from "@/components/CurrentSeasonBlock";
-import PastSeasons from "../library/past-seasons";
+import PastSeasons from "../../components/PastSeasons";
 
 export default function Schedule() {
   return (
