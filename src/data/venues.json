@@ -59,5 +59,6 @@
   { "id": "oldFirstChurch", "str": "Old First Church" },
   { "id": "neighborhoodChurchPasadena", "str": "Neighborhood Church in Pasadena" },
   { "id": "westHollywoodCityCouncilChambers", "str": "West Hollywood City Council Chambers" },
-  { "id": "storyopolisBeverlyHills", "str": "Storyopolis in Beverly Hills" }
+  { "id": "storyopolisBeverlyHills", "str": "Storyopolis in Beverly Hills" },
+  { "id": "zipperHallColburn", "str": "Zipper Hall at the Colburn School"}
 ]
