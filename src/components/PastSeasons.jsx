@@ -9,7 +9,7 @@ export default function PastSeasons({ bgColor }) {
   return (
     <section className={`w-full flex flex-col items-center pt-8 mb-0 ${bgColor}`}>
       <h1>Past Seasons</h1>
-      <div className="past-season-year-buttons-container flex flex-wrap justify-center gap-4 p-4 w-fit mt-4">
+      <div className="past-season-year-buttons-container flex flex-wrap justify-center gap-4 p-4 w-fit mt-4 max-width">
         {Object.entries(seasonData.past).map(([season, concerts]) => {
           return (
             <a
