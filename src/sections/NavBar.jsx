@@ -152,7 +152,7 @@ export default function NavBar() {
 
           {/* Mobile menu */}
           <NavbarMenu className="bg-blue-100">
-            <NavbarMenuItem className="mobile-menu-container flex flex-col justify-between h-[100svh]">
+            <NavbarMenuItem className="mobile-menu-container flex flex-col justify-between h-full">
               <div className="nav-bar-items-top flex flex-col gap-6">
                 {menuLinks.map((link, index) =>
                   link.dropdown ? (
