@@ -23,7 +23,7 @@ export default function About({}) {
         </div>
       </section>
 
-      <section className="flex flex-col justify-center items-center bg-blue-100 w-full">
+      <section className="flex flex-col justify-center items-center bg-blue-100 w-full mb-0">
         <div className="page-title-container mb-8 mt-8">
           <h1>Our Team</h1>
         </div>

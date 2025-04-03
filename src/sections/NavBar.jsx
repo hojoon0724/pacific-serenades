@@ -45,9 +45,9 @@ export default function NavBar() {
   ];
 
   const socialLinks = [
-    { platform: "instagram", link: "https://x.com/pserenades" },
-    { platform: "xtwitter", link: "https://www.instagram.com/pacificserenades/" },
     { platform: "facebook", link: "https://www.facebook.com/profile.php?id=100009776070655" },
+    { platform: "instagram", link: "https://www.instagram.com/pacificserenades/" },
+    { platform: "xtwitter", link: "https://x.com/pserenades" },
   ];
 
   const icons = {
@@ -98,6 +98,8 @@ export default function NavBar() {
                   return (
                     <a
                       href={platform.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       key={index}
                       className="social-link flex justify-end items-center h-10 gap-3"
                     >

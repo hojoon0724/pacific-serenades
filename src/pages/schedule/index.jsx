@@ -11,7 +11,7 @@ export default function Schedule() {
   return (
     <div className="top-container flex flex-col items-center justify-center">
       <CurrentSeason />
-      <PastSeasons bgColor={'bg-blue-100'}/>
+      <PastSeasons bgColor={"bg-blue-100"} />
     </div>
   );
 }
