@@ -48,13 +48,13 @@ export default function CurrentSeason({}) {
 
   return (
     <div className="w-full min-h-[70svh] flex flex-col justify-center items-center">
-      <h1 className="py-8">Current Season</h1>
+      <h1 className="py-8 text-center">Current Season</h1>
       <section>
         <div className="w-full p-5">
           <div className="current-season-events-container flex flex-col gap-12">
             {seasonDetails.length === 0 ? (
               <div className="no-events-message">
-                <h2>Exciting events are on the horizon—stay tuned for what’s coming up!</h2>
+                <h2 className="text-center">Exciting events are on the horizon—stay tuned for what’s coming up!</h2>
               </div>
             ) : (
               seasonDetails.map((event, index) => {

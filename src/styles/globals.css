@@ -192,7 +192,7 @@ footer {
 }
 
 .mobile-menu-container {
-  margin-top: clamp(100px, 20svw, 200px);
+  margin-top: clamp(100px, 10svh, 200px);
   text-align: right;
 }
 
