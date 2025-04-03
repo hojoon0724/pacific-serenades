@@ -1,4 +1,17 @@
 {
+  "template": {
+    "id": "",
+    "workName": "",
+    "workYear": "",
+    "workComposer": "",
+    "purchaseLink": "",
+    "video": [["link", "description"]],
+    "audio": [["link", "description"]],
+    "description": "",
+    "commissionedBy": "",
+    "instrumentation": ""
+  },
+
   "adamsLeJardinProvencale": {
     "id": "adamsLeJardinProvencale",
     "workName": "Le Jardin Provençale",
@@ -2686,6 +2699,68 @@
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for 2 violins, 2 violas, and cello"
   },
+
+  "krykaBachBwv552": {
+    "id": "krykaBachBwv552",
+    "workName": "Praeludium & Fugue in Eb Major (\"St. Anne\") BWV 552",
+    "workYear": "1738/2024",
+    "workComposer": "johannSebastianBach",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "A new piano duet arrangement of Bach's monumental triple fugue (a fugue with 3 themes) which was originally written for the organ and is glowing with contrapuntal fireworks.",
+    "commissionedBy": "",
+    "instrumentation": "arrangeb by Jeff Kryka"
+  },
+  "krykaCentennialVar": {
+    "id": "krykaCentennialVar",
+    "workName": "The Centennial Variations",
+    "workYear": "2024",
+    "workComposer": "jeffKryka",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "This duet for two pianos consists of a theme and five variations, featuring virtuoso music for both parts. Each subsequent variation moves stylistically through time evoking the treasured keyboard music of Bach, Mozart, Beethoven, Chopin, List, and others before ending in a whirlwind fugal coda.",
+    "commissionedBy": "",
+    "instrumentation": ""
+  },
+  "krykaBachWellTemperedClavier1Cmajor": {
+    "id": "krykaBachWellTemperedClavier1Cmajor",
+    "workName": "Fantasia on a Prelude in C Major From Book 1 of the Well-Tempered Clavier",
+    "workYear": "1722/2024",
+    "workComposer": "johannSebastianBach",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "This new duet piece features Glenn Gould's (1932-1982) classic performance of Bach's well-known prelude through the use of Steinway's Spirio system. A new part written for the Centennial piano will be performed in counterpoint allowing the pianist to duet with Gould live.",
+    "commissionedBy": "",
+    "instrumentation": "arrangeb by Jeff Kryka"
+  },
+  "krykaSalaamShalomPeace": {
+    "id": "krykaSalaamShalomPeace",
+    "workName": "Salaam/Shalom/Peace",
+    "workYear": "2024",
+    "workComposer": "jeffKryka",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "This 3-movement work is dedicated to the incredible partnership of Israeli and Palestinian pianists of Duo Amal: Yaron Kohlberg & Bishara Haroni.",
+    "commissionedBy": "",
+    "instrumentation": ""
+  },
+  "krykaElectricRainbow": {
+    "id": "krykaElectricRainbow",
+    "workName": "Electric Rainbow",
+    "workYear": "2024",
+    "workComposer": "jeffKryka",
+    "purchaseLink": "",
+    "video": [],
+    "audio": [],
+    "description": "This 3-movement work is dedicated to the incredible partnership of Israeli and Palestinian pianists of Duo Amal: Yaron Kohlberg & Bishara Haroni.",
+    "commissionedBy": "",
+    "instrumentation": ""
+  },
+
   "kyrPacificSerenades": {
     "id": "kyrPacificSerenades",
     "workName": "Pacific Serenades",
@@ -2698,6 +2773,7 @@
     "commissionedBy": "Commissioned by Dr. & Mrs. Paul A. Carlson for Pacific Serenades",
     "instrumentation": "for flute, clarinet, violin, cello, and piano"
   },
+
   "leesTapestry": {
     "id": "leesTapestry",
     "workName": "Tapestry",
