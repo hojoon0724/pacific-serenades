@@ -44,6 +44,13 @@ main {
   @apply h-[100svh] w-[100svw] absolute overflow-auto;
 }
 
+main > div:first-child {
+  padding-top: clamp(100px, 20svw, 200px);
+}
+main > div:last-child {
+  @apply pb-[60px]
+}
+
 /* #__next {
   min-height: 100svh;
   min-width: 100svw;

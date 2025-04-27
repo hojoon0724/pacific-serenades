@@ -3,18 +3,15 @@ import {
   NavbarBrand,
   NavbarContent,
   NavbarItem,
-  NavbarMenuToggle,
   NavbarMenu,
   NavbarMenuItem,
-  Button,
-  dropdown,
+  NavbarMenuToggle,
 } from "@nextui-org/react";
 
-import { useRef, useState } from "react";
-import Link from "next/link";
-import PacSerWideLockup from "@/components/PacSerWideLockup";
 import PacSerStackLockup from "@/components/PacSerStackLockup";
 import WaveBg from "@/components/WaveBg";
+import Link from "next/link";
+import { useRef, useState } from "react";
 import { FaFacebook, FaInstagram, FaXTwitter } from "react-icons/fa6";
 
 export default function NavBar() {
@@ -144,7 +141,7 @@ export default function NavBar() {
                     <NavbarItem key={index}>
                       <Link href={link.href}>{link.name}</Link>
                     </NavbarItem>
-                  ),
+                  )
                 )}
               </div>
             </div>
@@ -179,7 +176,7 @@ export default function NavBar() {
                         {link.name}
                       </Link>
                     </div>
-                  ),
+                  )
                 )}
               </div>
               <div className="nav-bar-items-bottom pb-36">
