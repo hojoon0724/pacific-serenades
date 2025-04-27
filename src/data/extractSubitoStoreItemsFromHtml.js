@@ -44,17 +44,22 @@ async function processFile(filePath) {
   try {
     const rawData = await fs.readFile(filePath, "utf-8");
     const matchingData = extractMatches(rawData, makeRegex(itemRegex));
-    console.log(`There are ${matchingData.length} matches`);
+    // const jsonData = JSON.stringify(matchingData, null, 2);
+    // await fs.writeFile(writeFile, jsonData);
+    // console.log(`There are ${matchingData.length} matches`);
 
     matchingData.forEach((item, index) => {
       const storeLink = extractMatches(item, makeRegexExcludeMatchString({ startStr: 'class=\"woocommerce-image__wrapper\"><a href=\"', endStr: '\" title=\"' }));
       const title = extractMatches(item, makeRegexExcludeMatchString({ startStr: '\" title=\"', endStr: '\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\"><div class=\"' }));
       const composer = extractMatches(item, makeRegexExcludeMatchString({ startStr: '\" title=\"', endStr: ":" }));
+      console.log(item);
+      const price = extractMatches(item, makeRegexExcludeMatchString({ startStr: '"woocommerce-Price-currencySymbol">\\$</span>', endStr: "</bdi>" }));
       const itemData = {
         storeLink: storeLink[0],
         title: title[0].replace("&amp;", "&"),
         title: extractMatches(title[0].replace("&amp;", "&"), makeRegexStartStringToEndExcludeMatch({ startStr: ": ", endStr: "" })),
         composer: composer[0],
+        price: price[0],
       };
       dataArrayToWrite.push(itemData);
     });
