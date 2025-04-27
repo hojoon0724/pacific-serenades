@@ -5,7 +5,7 @@ import worksData from "@/data/worksData.json";
 const commissionsWithWorkId = commissionsData.map((commission) => {
   const matchingWork = Object.keys(worksData).find(
     (workId) =>
-      commission.composerId === worksData[workId].workComposer && commission.workName === worksData[workId].workName,
+      commission.composerId === worksData[workId].workComposer && commission.workName === worksData[workId].workName
   );
 
   return matchingWork
