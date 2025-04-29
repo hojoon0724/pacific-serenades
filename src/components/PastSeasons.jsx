@@ -1,9 +1,9 @@
-import SeasonBlock from "@/components/SeasonBlock";
-import seasonData from "@/data/seasonConcertsList.json";
-import concertsData from "@/data/concertsData.json";
-import worksData from "@/data/worksData.json";
-import composersData from "@/data/composersData.json";
 import CapitalizeTitle from "@/components/CapitalizeTitle";
+import composersData from "@/data/composersData.json";
+import concertsData from "@/data/concertsData.json";
+import seasonData from "@/data/seasonConcertsList.json";
+import worksData from "@/data/worksData.json";
+import React from "react";
 
 export default function PastSeasons({ bgColor }) {
   return (
@@ -44,7 +44,7 @@ export default function PastSeasons({ bgColor }) {
                           {concertsData[concertId].program.map((work, index) => {
                             return (
                               // <div className="concert-program-work flex w-full" key={index}>
-                              <>
+                              <React.Fragment key={index}>
                                 <div
                                   className="concert-program-work-composer pt-4 sm:w-max sm:pt-0 w-fit"
                                   key={`composerDiv${work}`}
@@ -57,7 +57,7 @@ export default function PastSeasons({ bgColor }) {
                                 <div className="concert-program-work-title w-full pt-0" key={`titleDiv${work}`}>
                                   {worksData[work].workName}
                                 </div>
-                              </>
+                              </React.Fragment>
                               // </div>
                             );
                           })}
