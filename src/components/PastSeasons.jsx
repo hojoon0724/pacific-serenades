@@ -44,17 +44,14 @@ export default function PastSeasons({ bgColor }) {
                           {concertsData[concertId].program.map((work, index) => {
                             return (
                               // <div className="concert-program-work flex w-full" key={index}>
-                              <React.Fragment key={index}>
-                                <div
-                                  className="concert-program-work-composer pt-4 sm:w-max sm:pt-0 w-fit"
-                                  key={`composerDiv${work}`}
-                                >
+                              <React.Fragment key={work}>
+                                <div className="concert-program-work-composer pt-4 sm:w-max sm:pt-0 w-fit">
                                   {composersData[worksData[work].workComposer].fullName}
                                 </div>
-                                <div className="hidden sm:flex divider w-1 px-2" key={`separatorDiv${work}`}>
+                                <div className="hidden sm:flex divider w-1 px-2">
                                   |
                                 </div>
-                                <div className="concert-program-work-title w-full pt-0" key={`titleDiv${work}`}>
+                                <div className="concert-program-work-title w-full pt-0">
                                   {worksData[work].workName}
                                 </div>
                               </React.Fragment>
