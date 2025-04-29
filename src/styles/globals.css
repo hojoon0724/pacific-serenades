@@ -24,9 +24,6 @@
   }
 }
 
-/* * {
-  border: 1px solid green;
-} */
 
 html {
   scroll-behavior: smooth;
@@ -41,14 +38,10 @@ body {
 }
 
 main {
-  @apply h-[100svh] w-[100svw] absolute overflow-auto;
+  @apply w-full relative;
 }
-
 main > div:first-child {
-  padding-top: clamp(100px, 20svw, 200px);
-}
-main > div:last-child {
-  @apply pb-[60px]
+  padding-top: clamp(5px, 5svw, 50px);
 }
 
 /* #__next {

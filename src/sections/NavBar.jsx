@@ -100,9 +100,8 @@ export default function NavBar() {
                       key={index}
                       className="social-link flex justify-end items-center h-10 gap-3"
                     >
-                      {/* <div className="social-tag">{platform.platform}</div> */}
                       <div className="social-icon w-4 h-4">
-                        <Icon size={"1x"} />
+                        <Icon />
                       </div>
                     </a>
                   );
@@ -179,7 +178,7 @@ export default function NavBar() {
                   )
                 )}
               </div>
-              <div className="nav-bar-items-bottom pb-36">
+              <div className="nav-bar-items-bottom pb-16">
                 <div className="social-links-container flex justify-end gap-6">
                   {socialLinks.map((platform, index) => {
                     const Icon = icons[platform.platform];
