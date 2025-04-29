@@ -4,9 +4,9 @@
     "workName": "",
     "workYear": "",
     "workComposer": "",
-    "purchaseLink": "",
-    "video": [["link", "description"]],
-    "audio": [["link", "description"]],
+    "links": [],
+    "video": [{ "label": "", "url": "" }],
+    "audio": [{ "label": "", "url": "" }],
     "description": "",
     "commissionedBy": "",
     "instrumentation": ""
@@ -17,16 +17,47 @@
     "workName": "Le Jardin Provençale",
     "workYear": "2006",
     "workComposer": "byronAdams",
-    "purchaseLink": "https://www.editions-bim.com/sheet-music/chamber-music/mixed-scorings/mixed-quartet/byron-adams-le-jardin-provencal-for-flute-oboe-cello-and-harpsichord",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.editions-bim.com/sheet-music/chamber-music/mixed-scorings/mixed-quartet/byron-adams-le-jardin-provencal-for-flute-oboe-cello-and-harpsichord"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Ad6-1.mp3", "Excerpt: Mvt. 1"],
-      ["Ad6-2.mp3", "Excerpt: Mvt. 2"],
-      ["Ad6-3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["Ad6-3b.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["Ad6-4a.mp3", "Excerpt: Mvt. 4 (1)"],
-      ["Ad6-4b.mp3", "Excerpt: Mvt. 4 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1",
+        "url": "Ad6-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "Ad6-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "Ad6-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "Ad6-3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (1)",
+        "url": "Ad6-4a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (2)",
+        "url": "Ad6-4b.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel",
     "instrumentation": "for flute, oboe, cello, harpsichord"
@@ -36,17 +67,52 @@
     "workName": "Between the dark and daylight",
     "workYear": "2007",
     "workComposer": "adrienneAlbert",
-    "purchaseLink": "https://www.subitomusic.com/product/albert-between-the-dark-and-daylight-for-flute-violin-viola-violoncello-harp/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/albert-between-the-dark-and-daylight-for-flute-violin-viola-violoncello-harp/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["a07-Part1-1.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["a07-Part1-2.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["a07-Part1-3.mp3", "Excerpt: Mvt. 1 (3)"],
-      ["a07-Part2-1.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["a07-Part2-2.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["a07-Part3-1.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["a07-Part3-2.mp3", "Excerpt: Mvt. 3 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "a07-Part1-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "a07-Part1-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (3)",
+        "url": "a07-Part1-3.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "a07-Part2-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "a07-Part2-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "a07-Part3-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "a07-Part3-2.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for flute, harp, violin, viola, and cello"
@@ -56,7 +122,14 @@
     "workName": "Three Folksongs",
     "workYear": "1993",
     "workComposer": "robertAldridge",
-    "purchaseLink": "https://robertlivingstonaldridge.com/compositions.php",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://robertlivingstonaldridge.com/compositions.php"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -68,8 +141,21 @@
     "workName": "Atlantic Serenade",
     "workYear": "1991",
     "workComposer": "martinAmlin",
-    "purchaseLink": "https://www.subitomusic.com/product/amlin-atlantic-serenade-for-flute-clarinet-violoncello-piano/",
-    "video": [["https://www.youtube.com/watch?v=3HkwmKvrvs4&amp;list=PLWzOF_7a7S5nhXhm7J2Tn04oJvmfTMVhp", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/amlin-atlantic-serenade-for-flute-clarinet-violoncello-piano/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=3HkwmKvrvs4&amp;list=PLWzOF_7a7S5nhXhm7J2Tn04oJvmfTMVhp"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Pacific Serenades",
@@ -80,7 +166,7 @@
     "workName": "Trio",
     "workYear": "1991",
     "workComposer": "johnMaxwellAnderson",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -92,7 +178,7 @@
     "workName": "Piano Trio in D minor, Op. 32",
     "workYear": "1894",
     "workComposer": "antonArensky",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -104,7 +190,7 @@
     "workName": "Variations on a Theme by Tchaikovsky, Op. 35",
     "workYear": "1894",
     "workComposer": "antonArensky",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -116,7 +202,7 @@
     "workName": "Gaillarde",
     "workYear": "1531",
     "workComposer": "anonymousPierreAttaingnant",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -128,7 +214,7 @@
     "workName": "Pavanne",
     "workYear": "1531",
     "workComposer": "anonymousPierreAttaingnant",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -140,14 +226,43 @@
     "workName": "Pacific Serenades Trio",
     "workYear": "2003",
     "workComposer": "bruceBabcock",
-    "purchaseLink": "https://www.subitomusic.com/product/babcock-pacific-serenades-trio-for-clarinet-viola-piano/",
-    "video": [["https://www.youtube.com/watch?v=Dsf2NBPr-Uk", "Listen on YouTube"]],
-    "audio": [
-      ["Babcock-1.mp3", "Excerpt 1"],
-      ["Babcock-2-1.mp3", "Excerpt 2a"],
-      ["Babcock-2-2.mp3", "Excerpt 2b"],
-      ["Babcock-3.mp3", "Excerpt 3"]
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/babcock-pacific-serenades-trio-for-clarinet-viola-piano/"
+      }
     ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=Dsf2NBPr-Uk"
+      }
+    ],
+
+    "audio": [
+      {
+        "label": "Excerpt 1",
+        "url": "Babcock-1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2a",
+        "url": "Babcock-2-1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2b",
+        "url": "Babcock-2-2.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Babcock-3.mp3"
+      }
+    ],
+
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
     "instrumentation": "for clarinet, viola, and piano"
@@ -157,7 +272,7 @@
     "workName": "Suite for cello in C major, BWV 1009",
     "workYear": "1720",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -169,7 +284,7 @@
     "workName": "Sonata in B minor, BWV 1030",
     "workYear": "-",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -181,7 +296,7 @@
     "workName": "Sonata in G major, BWV 1028",
     "workYear": "1721",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -193,7 +308,7 @@
     "workName": "Suite for Violoncello Solo in C major, BWV 1009",
     "workYear": "1722",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -204,7 +319,7 @@
     "workName": "Suite No. 2 in D minor, BWV 1008",
     "workYear": "1721",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -216,7 +331,7 @@
     "workName": "Suite in G major, BWV 1007",
     "workYear": "1720",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -228,7 +343,7 @@
     "workName": "Chaconne from the Partita in D minor for solo violin, BWV 1004",
     "workYear": "1720",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -240,7 +355,7 @@
     "workName": "Sonata in E major, BWV 1035, for flute & basso continuo",
     "workYear": "1741",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -252,7 +367,7 @@
     "workName": "Trio Sonata in G major, BWV 1039",
     "workYear": "-",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -264,7 +379,7 @@
     "workName": "Sonata in G minor, BWV 1030b",
     "workYear": "1717",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -276,7 +391,7 @@
     "workName": "Sonata #1 in g minor for Xaccomanied violin",
     "workYear": "1986",
     "workComposer": "bachMarimolin",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -288,7 +403,7 @@
     "workName": "Passacaglia in C minor, BWV 582",
     "workYear": "-",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -300,7 +415,7 @@
     "workName": "Selected Arias",
     "workYear": "-",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -312,7 +427,7 @@
     "workName": "Sonata in G minor, BWV 1001",
     "workYear": "1720",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -324,7 +439,7 @@
     "workName": "Sonata in E minor, BWV 1034",
     "workYear": "1717",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -336,7 +451,7 @@
     "workName": "Three Arias",
     "workYear": "-",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>Jesu soll mein erstes wort<br>\nHört, ihr Augen, aus zu weinen<br>\nRuhet hie, matte Sinne</p>",
@@ -348,7 +463,7 @@
     "workName": "An Echo from the Shore",
     "workYear": "2002",
     "workComposer": "garyBachlund",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -360,7 +475,7 @@
     "workName": "[be]coming together apart",
     "workYear": "1987",
     "workComposer": "elaineBarkin",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -372,7 +487,7 @@
     "workName": "Contrasts",
     "workYear": "1938",
     "workComposer": "belaBartok",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -384,7 +499,7 @@
     "workName": "44 Duos for two violins (selected movements)",
     "workYear": "1931",
     "workComposer": "belaBartok",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -395,7 +510,7 @@
     "workName": "String Quartet No. 2, Op. 17",
     "workYear": "1915",
     "workComposer": "belaBartok",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -407,17 +522,52 @@
     "workName": "September Music",
     "workYear": "2002",
     "workComposer": "jeremyBeck",
-    "purchaseLink": "https://www.subitomusic.com/product/beck-september-music-for-flute-clarinet-violin-violoncello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/beck-september-music-for-flute-clarinet-violin-violoncello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Be03-Part1a.mp3", "Part 1a"],
-      ["Be03-Part1b.mp3", "Part 1b"],
-      ["Be03-Part2a.mp3", "Part 2a"],
-      ["Be03-Part2b.mp3", "Part 2b"],
-      ["Be03-Part3a.mp3", "Part 3a"],
-      ["Be03-Part3b.mp3", "Part 3b"],
-      ["Be03-Part3end.mp3", "Conclusion"]
+      {
+        "label": "Part 1a",
+        "url": "Be03-Part1a.mp3"
+      },
+
+      {
+        "label": "Part 1b",
+        "url": "Be03-Part1b.mp3"
+      },
+
+      {
+        "label": "Part 2a",
+        "url": "Be03-Part2a.mp3"
+      },
+
+      {
+        "label": "Part 2b",
+        "url": "Be03-Part2b.mp3"
+      },
+
+      {
+        "label": "Part 3a",
+        "url": "Be03-Part3a.mp3"
+      },
+
+      {
+        "label": "Part 3b",
+        "url": "Be03-Part3b.mp3"
+      },
+
+      {
+        "label": "Conclusion",
+        "url": "Be03-Part3end.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
     "instrumentation": "for flute, clarinet, violin, cello, and piano"
@@ -427,7 +577,7 @@
     "workName": "12 Variations on a Theme from Judas Maccabaeus of Handel",
     "workYear": "1796",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -439,7 +589,7 @@
     "workName": "Sonata in A major, Op. 69",
     "workYear": "1807",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -451,7 +601,7 @@
     "workName": "Sonata in C major, Op. 102, No. 1",
     "workYear": "1815",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -463,7 +613,7 @@
     "workName": "Sonata No. 1 in F major, Op. 5, No. 1",
     "workYear": "1796",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -475,7 +625,7 @@
     "workName": "Trio in B flat major, Op. 11",
     "workYear": "1798",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -487,7 +637,7 @@
     "workName": "Duo in E flat major",
     "workYear": "1796",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -499,7 +649,7 @@
     "workName": "Quartet in E flat major, Op. 74",
     "workYear": "1809",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -511,7 +661,7 @@
     "workName": "Sonata in F major, Op. 17",
     "workYear": "1800",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -523,7 +673,7 @@
     "workName": "Sonata in D major, Op. 102, No. 2",
     "workYear": "1815",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -535,7 +685,7 @@
     "workName": "Piano Quartet in E flat major, Op. 16",
     "workYear": "1796",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -547,7 +697,7 @@
     "workName": "Piano Trio in C minor, Op. 1, No. 3",
     "workYear": "1795",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -559,7 +709,7 @@
     "workName": "Quartet in G major, Op. 18, No. 2",
     "workYear": "1798",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -571,7 +721,7 @@
     "workName": "Septet in E flat major, Op. 20",
     "workYear": "1800",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -583,7 +733,7 @@
     "workName": "Sonata in F major, Op. 24, \"The Spring\"",
     "workYear": "1801",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -595,7 +745,7 @@
     "workName": "Sonata No. 5 in F major, Op. 24",
     "workYear": "1800",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -607,7 +757,7 @@
     "workName": "String Quartet in D major, Op. 18, No. 3",
     "workYear": "1800",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -619,7 +769,7 @@
     "workName": "String Quartet No. 12 in E flat major, Op. 127",
     "workYear": "1824",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -631,7 +781,7 @@
     "workName": "String Trio in E flat major, Op. 3",
     "workYear": "1792",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -643,7 +793,7 @@
     "workName": "String Trio in G major, Op. 9, No. 1",
     "workYear": "1798",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -655,7 +805,7 @@
     "workName": "String Trio in C minor, Op. 9, No. 3",
     "workYear": "1798",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -667,7 +817,7 @@
     "workName": "Piano Trio in E flat major, Op. 1, No. 1",
     "workYear": "1795",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -679,7 +829,7 @@
     "workName": "Trio in E flat major, Op. 70, No. 2",
     "workYear": "1808",
     "workComposer": "ludwigVanBeethoven",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -691,17 +841,51 @@
     "workName": "Memories of a Shoehorn",
     "workYear": "2009",
     "workComposer": "munirBeken",
-    "purchaseLink": "https://www.subitomusic.com/product/beken-memories-of-a-shoehorn-for-flute-violin-viola-violoncello-ud/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/beken-memories-of-a-shoehorn-for-flute-violin-viola-violoncello-ud-2/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score",
+        "url": "https://www.subitomusic.com/product/beken-memories-of-a-shoehorn-for-flute-violin-viola-violoncello-ud/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Set of Parts",
+        "url": "https://www.subitomusic.com/product/beken-memories-of-a-shoehorn-for-flute-violin-viola-violoncello-ud-2/"
+      }
+    ],
     "video": [],
     "audio": [
-      ["Be09-Part1a.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["Be09-Part1b.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["Be09-Part1c.mp3", "Excerpt: Mvt. 1 (3)"],
-      ["Be09-Part2a.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["Be09-Part2b.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["Be09-Part2c.mp3", "Excerpt: Mvt. 2 (3)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "Be09-Part1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "Be09-Part1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (3)",
+        "url": "Be09-Part1c.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "Be09-Part2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "Be09-Part2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (3)",
+        "url": "Be09-Part2c.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
     "instrumentation": "for ud, flute, violin, viola, cello"
@@ -711,7 +895,7 @@
     "workName": "Four Songs, Op. 2",
     "workYear": "1899",
     "workComposer": "albanBerg",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -723,7 +907,7 @@
     "workName": "Sonata for clarinet and piano",
     "workYear": "1941",
     "workComposer": "leonardBernstein",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -734,7 +918,7 @@
     "workName": "Mahur Pesrevi",
     "workYear": "-",
     "workComposer": "tanburiCemilBey",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -746,7 +930,7 @@
     "workName": "Black Waltz of a Gossiping Diva",
     "workYear": "2001",
     "workComposer": "johnBiggs",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -758,7 +942,7 @@
     "workName": "Prayer",
     "workYear": "1924",
     "workComposer": "ernestBloch",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -770,7 +954,7 @@
     "workName": "Quintet in D major",
     "workYear": "-",
     "workComposer": "luigiBoccherini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -782,7 +966,7 @@
     "workName": "Sonata for cello and piano in C major",
     "workYear": "-",
     "workComposer": "luigiBoccherini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -794,7 +978,7 @@
     "workName": "Sonata No. 6 in A major, G 4",
     "workYear": "-",
     "workComposer": "luigiBoccherini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -806,7 +990,7 @@
     "workName": "Quintet in D major, G. 448 \"Fandango\"",
     "workYear": "-",
     "workComposer": "luigiBoccherini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -818,7 +1002,7 @@
     "workName": "String Quintet in C major, G. 310",
     "workYear": "1779",
     "workComposer": "luigiBoccherini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -830,7 +1014,7 @@
     "workName": "Valiha (Two Transcriptions)",
     "workYear": "1987",
     "workComposer": "jackBody",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -842,7 +1026,7 @@
     "workName": "Behind the Gathering Clouds",
     "workYear": "1989",
     "workComposer": "zelmanBokser",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -854,8 +1038,21 @@
     "workName": "American Baroque",
     "workYear": "1992",
     "workComposer": "rogerBourland",
-    "purchaseLink": "https://www.subitomusic.com/product/bourland-american-baroque-for-violin-violoncello-piano/",
-    "video": [["https://www.youtube.com/watch?v=lAgCStpp5_c", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/bourland-american-baroque-for-violin-violoncello-piano/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=lAgCStpp5_c"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "commissioned for Pacific Serenades by contributors to the Charlie Swigart Memorial Fund",
@@ -866,17 +1063,45 @@
     "workName": "Duarte's Love Songs",
     "workYear": "2011",
     "workComposer": "rogerBourland",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Bou11-1a.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["Bou11-1b.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["Bou11-2a.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["Bou11-2b.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["Bou11-3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["Bou11-3b.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["Bou11-3end.mp3", "Excerpt: Conclusion"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "Bou11-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "Bou11-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "Bou11-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "Bou11-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "Bou11-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "Bou11-3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Conclusion",
+        "url": "Bou11-3end.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for baritone, violin, cello, and piano"
@@ -886,7 +1111,7 @@
     "workName": "Cantilena",
     "workYear": "1982",
     "workComposer": "rogerBourland",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -898,8 +1123,21 @@
     "workName": "Four Painters",
     "workYear": "2001",
     "workComposer": "rogerBourland",
-    "purchaseLink": "https://www.subitomusic.com/product/bourland-four-painters-for-violin-viola-violoncello-piano/",
-    "video": [["https://www.youtube.com/watch?v=7p6YdBTpJ10&amp;list=PLWzOF_7a7S5nWyjdeuW5jB7MMbTxfTa-g", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/bourland-four-painters-for-violin-viola-violoncello-piano/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=7p6YdBTpJ10&amp;list=PLWzOF_7a7S5nWyjdeuW5jB7MMbTxfTa-g"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Lou & Eirene Boni for Pacific Serenades",
@@ -910,7 +1148,14 @@
     "workName": "Recent Dreams",
     "workYear": "1988",
     "workComposer": "rogerBourland",
-    "purchaseLink": "https://www.subitomusic.com/product/bourland-recent-dreams-for-horn-violin-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/bourland-recent-dreams-for-horn-violin-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -922,7 +1167,14 @@
     "workName": "Serenade No.2: Paintings",
     "workYear": "1986",
     "workComposer": "rogerBourland",
-    "purchaseLink": "https://www.subitomusic.com/product/bourland-serenade-no-2-paintings-for-flute-clarinet-violin-cello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/bourland-serenade-no-2-paintings-for-flute-clarinet-violin-cello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -934,7 +1186,7 @@
     "workName": "Two Songs, Op. 91",
     "workYear": "1885",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -946,7 +1198,7 @@
     "workName": "Sonata in E minor, Op. 38",
     "workYear": "1862",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -958,7 +1210,7 @@
     "workName": "Sonata in F major, Op. 99",
     "workYear": "1886",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -970,7 +1222,7 @@
     "workName": "Sonata in F minor, Op. 120",
     "workYear": "1894",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -982,7 +1234,7 @@
     "workName": "Clarinet Quintet in B minor, Op. 115",
     "workYear": "1891",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -994,7 +1246,7 @@
     "workName": "Trio in a minor, Op. 114",
     "workYear": "1891",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1006,7 +1258,7 @@
     "workName": "Sonata in E minor, Op. 38",
     "workYear": "1865",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1018,7 +1270,7 @@
     "workName": "Sonata in E flat major, Op. 120, No. 2",
     "workYear": "1894",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1030,7 +1282,7 @@
     "workName": "Trio in E flat major, Op. 40",
     "workYear": "1865",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1042,7 +1294,7 @@
     "workName": "Piano Quartet No. 1 in G minor, Op. 25",
     "workYear": "1861",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1054,7 +1306,7 @@
     "workName": "Piano Quintet in F minor, Op. 34",
     "workYear": "1864",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1066,7 +1318,7 @@
     "workName": "Piano Trio in C major, Op. 87",
     "workYear": "1882",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1078,7 +1330,7 @@
     "workName": "Sextet in G major, Op. 36",
     "workYear": "1865",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1090,7 +1342,7 @@
     "workName": "String Quintet No. 1 in F major, Op. 88",
     "workYear": "1882",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1102,7 +1354,7 @@
     "workName": "Piano Trio in B major, Op. 8",
     "workYear": "1854",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1113,7 +1365,7 @@
     "workName": "Sonata No. 2 for violin and piano in A major, Op. 100",
     "workYear": "1886",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1125,7 +1377,7 @@
     "workName": "Sonata in G major, Op. 78",
     "workYear": "1878",
     "workComposer": "johannesBrahms",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1137,17 +1389,52 @@
     "workName": "A Primer for Malachi",
     "workYear": "1997",
     "workComposer": "bruceBroughton",
-    "purchaseLink": "https://www.carlfischer.com/114-41259-a+primer+for+malachi.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.carlfischer.com/114-41259-a+primer+for+malachi.html"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["b08-Part1A.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["b08-Part1B.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["b08-Part1C.mp3", "Excerpt: Mvt. 1 (3)"],
-      ["b08-Part2A.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["b08-Part2B.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["b08-Part3A.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["b08-Part3end.mp3", "Excerpt: Mvt. 3 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "b08-Part1A.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "b08-Part1B.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (3)",
+        "url": "b08-Part1C.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "b08-Part2A.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "b08-Part2B.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "b08-Part3A.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "b08-Part3end.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Elizabeth H. Henderson for Pacific Serenades",
     "instrumentation": "for flute, clarinet, cello, and piano"
@@ -1157,17 +1444,45 @@
     "workName": "Sonata",
     "workYear": "2008",
     "workComposer": "bruceBroughton",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["b08-Part1A.mp3", "Part 1a"],
-      ["b08-Part1B.mp3", "Part 1b"],
-      ["b08-Part1C.mp3", "Part 1c"],
-      ["b08-Part2A.mp3", "Part 2a"],
-      ["b08-Part2B.mp3", "Part 2b"],
-      ["b08-Part3A.mp3", "Part 3a"],
-      ["b08-Part3end.mp3", "Conclusion"]
+      {
+        "label": "Part 1a",
+        "url": "b08-Part1A.mp3"
+      },
+
+      {
+        "label": "Part 1b",
+        "url": "b08-Part1B.mp3"
+      },
+
+      {
+        "label": "Part 1c",
+        "url": "b08-Part1C.mp3"
+      },
+
+      {
+        "label": "Part 2a",
+        "url": "b08-Part2A.mp3"
+      },
+
+      {
+        "label": "Part 2b",
+        "url": "b08-Part2B.mp3"
+      },
+
+      {
+        "label": "Part 3a",
+        "url": "b08-Part3A.mp3"
+      },
+
+      {
+        "label": "Conclusion",
+        "url": "b08-Part3end.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
     "instrumentation": "for Violin and Piano"
@@ -1177,7 +1492,7 @@
     "workName": "Tritonis",
     "workYear": "1980",
     "workComposer": "daveBrubeck",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1189,7 +1504,7 @@
     "workName": "Eight Pieces for clarinet, viola, and piano, Op. 83 (selected movements)",
     "workYear": "1910",
     "workComposer": "maxBruch",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1201,17 +1516,45 @@
     "workName": "Still Time",
     "workYear": "2010",
     "workComposer": "katisseBuckingham",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Bu10-1a.mp3", "Excerpt: Trails (1)"],
-      ["Bu10-1b.mp3", "Excerpt: Trails (2)"],
-      ["Bu10-2a.mp3", "Excerpt: Powder (1)"],
-      ["Bu10-2b.mp3", "Excerpt: Powder (2)"],
-      ["Bu10-3a.mp3", "Excerpt: Tides (1)"],
-      ["Bu10-3b.mp3", "Excerpt: Tides (2)"],
-      ["Bu10-3c.mp3", "Excerpt: Tides (3)"]
+      {
+        "label": "Excerpt: Trails (1)",
+        "url": "Bu10-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Trails (2)",
+        "url": "Bu10-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Powder (1)",
+        "url": "Bu10-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Powder (2)",
+        "url": "Bu10-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Tides (1)",
+        "url": "Bu10-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Tides (2)",
+        "url": "Bu10-3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Tides (3)",
+        "url": "Bu10-3c.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for alto saxophone and string quartet"
@@ -1221,7 +1564,14 @@
     "workName": "Abschied",
     "workYear": "1993",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-abschied-for-violoncello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-abschied-for-violoncello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1233,10 +1583,24 @@
     "workName": "After the Sun Has Set",
     "workYear": "1986",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-after-the-sun-has-set-for-mezzo-soprano-eleven-instruments/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/carlson-after-the-sun-has-set-for-mezzo-soprano-eleven-instruments-2/",
-    "purchaseLinkAlt2": "https://www.subitomusic.com/product/carlson-after-the-sun-has-set-for-mezzo-soprano-piano/",
-    "video": [["", "https://soundcloud.com/user-331652656/sets/after-the-sun-has-set"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Full Score",
+        "url": "https://www.subitomusic.com/product/carlson-after-the-sun-has-set-for-mezzo-soprano-eleven-instruments/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Set of Parts",
+        "url": "https://www.subitomusic.com/product/carlson-after-the-sun-has-set-for-mezzo-soprano-eleven-instruments-2/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Piano Vocal Score",
+        "url": "https://www.subitomusic.com/product/carlson-after-the-sun-has-set-for-mezzo-soprano-piano/"
+      }
+    ],
+    "video": ["", "https://soundcloud.com/user-331652656/sets/after-the-sun-has-set"],
     "audio": [],
     "description": "",
     "commissionedBy": "in loving memory of Jan Carlson Manley",
@@ -1247,7 +1611,14 @@
     "workName": "An American Quintet",
     "workYear": "1997",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-american-quintet-for-2-violins-2-viola-violoncello/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-american-quintet-for-2-violins-2-viola-violoncello/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1259,16 +1630,53 @@
     "workName": "Batik",
     "workYear": "2010",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-batik-for-violin-piano/",
-    "video": [["https://www.youtube.com/watch?v=hDYtDcm4Iwo&amp;list=PLWzOF_7a7S5nvpn3vvEU5pC4xRx_kHm5-", "Listen on YouTube"]],
-    "audio": [
-      ["Car10-part1a.mp3", "Excerpt: Waves (1)"],
-      ["Car10-1b.mp3", "Excerpt: Waves (2)"],
-      ["Car10-1c.mp3", "Excerpt: Waves (3)"],
-      ["Car10-2a.mp3", "Excerpt: The Homeward Heart (1)"],
-      ["Car10-2b.mp3", "Excerpt: The Homeward Heart (2)"],
-      ["Car10-2f.mp3", "Excerpt: The Homeward Heart (3)"]
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-batik-for-violin-piano/"
+      }
     ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=hDYtDcm4Iwo&amp;list=PLWzOF_7a7S5nvpn3vvEU5pC4xRx_kHm5-"
+      }
+    ],
+
+    "audio": [
+      {
+        "label": "Excerpt: Waves (1)",
+        "url": "Car10-part1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Waves (2)",
+        "url": "Car10-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Waves (3)",
+        "url": "Car10-1c.mp3"
+      },
+
+      {
+        "label": "Excerpt: The Homeward Heart (1)",
+        "url": "Car10-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: The Homeward Heart (2)",
+        "url": "Car10-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: The Homeward Heart (3)",
+        "url": "Car10-2f.mp3"
+      }
+    ],
+
     "description": "",
     "commissionedBy": "Commissioned by contributors to the Paul A. Carlson Memorial Fund for Pacific Serenades",
     "instrumentation": "for violin and piano"
@@ -1278,12 +1686,31 @@
     "workName": "Cave Paintings",
     "workYear": "2012",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-cave-paintings-for-alto-saxophone-violin-viola-cello-piano/",
-    "video": [
-      ["https://www.youtube.com/watch?v=ak_ScCFWcbk", "Movement 1 on YouTube"],
-      ["https://www.youtube.com/watch?v=gZkTEvlCrpU", "Movement 2 on YouTube"],
-      ["https://www.youtube.com/watch?v=JoTRJnEWqXs", "Movement 3 on YouTube"]
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-cave-paintings-for-alto-saxophone-violin-viola-cello-piano/"
+      }
     ],
+
+    "video": [
+      {
+        "label": "Movement 1 on YouTube",
+        "url": "https://www.youtube.com/watch?v=ak_ScCFWcbk"
+      },
+
+      {
+        "label": "Movement 2 on YouTube",
+        "url": "https://www.youtube.com/watch?v=gZkTEvlCrpU"
+      },
+
+      {
+        "label": "Movement 3 on YouTube",
+        "url": "https://www.youtube.com/watch?v=JoTRJnEWqXs"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -1294,7 +1721,14 @@
     "workName": "Sonata for Cello and Piano",
     "workYear": "1998",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-sonata-for-cello-and-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-sonata-for-cello-and-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1306,7 +1740,14 @@
     "workName": "Dream Fantasies",
     "workYear": "1999",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-dream-fantasies-for-flute-oboe-viola-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-dream-fantasies-for-flute-oboe-viola-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1318,7 +1759,14 @@
     "workName": "Fourscore for Morley",
     "workYear": "1996",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-fourscore-for-morley-for-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-fourscore-for-morley-for-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1329,7 +1777,14 @@
     "workName": "From One Who Stays",
     "workYear": "1991",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-from-one-who-stays-for-mezzo-soprano-flute-violoncello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-from-one-who-stays-for-mezzo-soprano-flute-violoncello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1341,12 +1796,20 @@
     "workName": "The Hall of Mirrors",
     "workYear": "1990",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-the-hall-of-mirrors-for-clarinet-piano/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/carlson-twilight-from-hall-of-mirrors-for-solo-cello-string-orchestra/",
-    "purchaseLinkAlt2": "https://www.subitomusic.com/product/carlson-twilight-from-hall-of-mirrors-for-solo-cello-string-orchestra-2/",
-    "purchaseLinkAlt3": "https://www.subitomusic.com/product/carlson-twilight-from-the-hall-of-mirrors-for-violoncello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score",
+        "url": "https://www.subitomusic.com/product/carlson-the-hall-of-mirrors-for-clarinet-piano/"
+      }
+    ],
     "video": [],
-    "audio": [["13-Twilight-from-The-Hall-of-Mirrors-Nicolina-Logan-Sanaz-Rezai.mp3", ""]],
+    "audio": [
+      {
+        "label": "",
+        "url": "13-Twilight-from-The-Hall-of-Mirrors-Nicolina-Logan-Sanaz-Rezai.mp3"
+      }
+    ],
     "description": "",
     "commissionedBy": "Commissioned by Hope Pompei Freedman for Pacific Serenades",
     "instrumentation": "for clarinet and piano"
@@ -1356,8 +1819,18 @@
     "workName": "On the Coming of War",
     "workYear": "2003",
     "workComposer": "markCarlson",
-    "purchaseLink": "htthttps://www.subitomusic.com/product/carlson-on-the-coming-of-war-for-viola-piano/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/carlson-on-the-coming-of-war-for-viola-piano-digital-download/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score & Parts",
+        "url": "https://www.subitomusic.com/product/carlson-on-the-coming-of-war-for-viola-piano/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Digital Download",
+        "url": "https://www.subitomusic.com/product/carlson-on-the-coming-of-war-for-viola-piano-digital-download/"
+      }
+    ],
     "video": [],
     "audio": [],
     "description": "",
@@ -1369,7 +1842,14 @@
     "workName": "Piano Quartet",
     "workYear": "1992",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-piano-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-piano-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1381,8 +1861,21 @@
     "workName": "Piano Trio",
     "workYear": "2001",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-piano-trio-for-violin-violoncello-piano/",
-    "video": [["https://www.youtube.com/watch?v=P3qJx_BR71k&amp;list=PLWzOF_7a7S5nQH1j4unkbwCAsTvLNCTPU", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-piano-trio-for-violin-violoncello-piano/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=P3qJx_BR71k&amp;list=PLWzOF_7a7S5nQH1j4unkbwCAsTvLNCTPU"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Dr. Jack & Florence Irving for Pacific Serenades",
@@ -1393,7 +1886,14 @@
     "workName": "Quartet",
     "workYear": "1994",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-quartet-for-flute-clarinet-bass-clarinet-cello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-quartet-for-flute-clarinet-bass-clarinet-cello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1405,7 +1905,7 @@
     "workName": "Serenade No. 2",
     "workYear": "1987",
     "workComposer": "markCarlson",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1417,7 +1917,14 @@
     "workName": "Six Bagatelles",
     "workYear": "1995",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-six-bagatelles-for-flute-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-six-bagatelles-for-flute-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1429,17 +1936,51 @@
     "workName": "Songs of Rumi",
     "workYear": "2007",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-songs-of-rumi-for-baritone-clarinet-violin-violoncello-piano/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/carlson-songs-of-rumi-for-baritone-clarinet-violin-violoncello-piano-2/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score",
+        "url": "https://www.subitomusic.com/product/carlson-songs-of-rumi-for-baritone-clarinet-violin-violoncello-piano/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Set of Parts",
+        "url": "https://www.subitomusic.com/product/carlson-songs-of-rumi-for-baritone-clarinet-violin-violoncello-piano-2/"
+      }
+    ],
     "video": [],
     "audio": [
-      ["c07-Part1.mp3", "Excerpt: Mvt. 1"],
-      ["c07-Part2A.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["c07-Part2B.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["c07-Part3A.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["c07-Part3B.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["c07-Part3end.mp3", "Excerpt: Mvt. 3 (3)"]
+      {
+        "label": "Excerpt: Mvt. 1",
+        "url": "c07-Part1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "c07-Part2A.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "c07-Part2B.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "c07-Part3A.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "c07-Part3B.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (3)",
+        "url": "c07-Part3end.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for baritone, clarinet, violin, cello, and piano"
@@ -1449,8 +1990,21 @@
     "workName": "Starry Night",
     "workYear": "1989",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-starry-night-for-string-quartet/",
-    "video": [["https://www.youtube.com/watch?v=p2SRe41UoWg", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-starry-night-for-string-quartet/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=p2SRe41UoWg"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Elizabeth H. Henderson for Pacific Serenades",
@@ -1461,7 +2015,14 @@
     "workName": "Suite from the Everlasting Bonfire",
     "workYear": "1999",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-suite-from-the-everlasting-bonfire-for-wind-quintet-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-suite-from-the-everlasting-bonfire-for-wind-quintet-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1473,9 +2034,23 @@
     "workName": "This Is the Garden",
     "workYear": "1987",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-this-is-the-garden-baritone/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/carlson-this-is-the-garden-high-voice/",
-    "purchaseLinkAlt2": "https://www.subitomusic.com/product/carlson-this-is-the-garden-mezzo-soprano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Baritone",
+        "url": "https://www.subitomusic.com/product/carlson-this-is-the-garden-baritone/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "High Voice",
+        "url": "https://www.subitomusic.com/product/carlson-this-is-the-garden-high-voice/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Mezzo-Soprano",
+        "url": "https://www.subitomusic.com/product/carlson-this-is-the-garden-mezzo-soprano/"
+      }
+    ],
     "video": [],
     "audio": [],
     "description": "<p>The Moon Is Hiding in Her Hair<br>\nIn Time Of…<br>\nThis Is the Garden</p>",
@@ -1487,7 +2062,7 @@
     "workName": "Twas Brillig",
     "workYear": "1982",
     "workComposer": "markCarlson",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1499,16 +2074,47 @@
     "workName": "View from a Hilltop",
     "workYear": "2009",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-view-from-a-hilltop-for-clarinet-bass-clarinet-violin-cello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-view-from-a-hilltop-for-clarinet-bass-clarinet-violin-cello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Ca09-Part1a.mp3", "Excerpt 1"],
-      ["Ca09-Part2a.mp3", "Excerpt 2a"],
-      ["Ca09-Part2b-.mp3", "Excerpt 2b"],
-      ["Ca09-Part3.mp3", "Excerpt 3"],
-      ["Ca09-Part4.mp3", "Excerpt 4"],
-      ["Ca09-Part5.mp3", "Excerpt 5"]
+      {
+        "label": "Excerpt 1",
+        "url": "Ca09-Part1a.mp3"
+      },
+
+      {
+        "label": "Excerpt 2a",
+        "url": "Ca09-Part2a.mp3"
+      },
+
+      {
+        "label": "Excerpt 2b",
+        "url": "Ca09-Part2b-.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Ca09-Part3.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Ca09-Part4.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Ca09-Part5.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Leavens Ranches",
     "instrumentation": "for clarinet/bass clarinet, violin, cello, and piano"
@@ -1518,16 +2124,40 @@
     "workName": "Divertimento",
     "workYear": "2004",
     "workComposer": "danielCatan",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Catan1-1.mp3", "Excerpt 1a"],
-      ["Catan1-2.mp3", "Excerpt 1b"],
-      ["Catan1-3.mp3", "Excerpt 1c"],
-      ["Catan1-4.mp3", "Excerpt 1d"],
-      ["Catan2-1.mp3", "Excerpt 2a"],
-      ["Catan2-2.mp3", "Excerpt 2b"]
+      {
+        "label": "Excerpt 1a",
+        "url": "Catan1-1.mp3"
+      },
+
+      {
+        "label": "Excerpt 1b",
+        "url": "Catan1-2.mp3"
+      },
+
+      {
+        "label": "Excerpt 1c",
+        "url": "Catan1-3.mp3"
+      },
+
+      {
+        "label": "Excerpt 1d",
+        "url": "Catan1-4.mp3"
+      },
+
+      {
+        "label": "Excerpt 2a",
+        "url": "Catan2-1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2b",
+        "url": "Catan2-2.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for 2 violins, 2 violas, cello, and double bass"
@@ -1537,15 +2167,35 @@
     "workName": "Fantasy for Four Instruments",
     "workYear": "2008",
     "workComposer": "jeremyCavaterra",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Cavaterra-Fantasy1.mp3", "Excerpt 1"],
-      ["Cavaterra-Fantasy2.mp3", "Excerpt 2"],
-      ["Cavaterra-Fantasy3.mp3", "Excerpt 3"],
-      ["Cavaterra-Fantasy4.mp3", "Excerpt 4"],
-      ["Cavaterra-Fantasy5.mp3", "Excerpt 5"]
+      {
+        "label": "Excerpt 1",
+        "url": "Cavaterra-Fantasy1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Cavaterra-Fantasy2.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Cavaterra-Fantasy3.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Cavaterra-Fantasy4.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Cavaterra-Fantasy5.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for clarinet, bassoon, viola, and piano"
@@ -1555,17 +2205,58 @@
     "workName": "5 by 5",
     "workYear": "2011",
     "workComposer": "ericCharnofsky",
-    "purchaseLink": "https://www.subitomusic.com/product/charnofsky-5-by-5-for-piano-quintet/",
-    "video": [["https://www.youtube.com/watch?v=RFMtNx3dfvc", "Listen on YouTube"]],
-    "audio": [
-      ["Cha11-1.mp3", "Excerpt: Mvt. 1"],
-      ["Cha11-2.mp3", "Excerpt: Mvt. 2"],
-      ["Cha11-3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["Cha11-3b.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["Cha11-4a.mp3", "Excerpt: Mvt. 4 (1)"],
-      ["Cha11-4b.mp3", "Excerpt: Mvt. 4 (2)"],
-      ["Cha11-5.mp3", "Excerpt: Conclusion"]
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/charnofsky-5-by-5-for-piano-quintet/"
+      }
     ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=RFMtNx3dfvc"
+      }
+    ],
+
+    "audio": [
+      {
+        "label": "Excerpt: Mvt. 1",
+        "url": "Cha11-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "Cha11-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "Cha11-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "Cha11-3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (1)",
+        "url": "Cha11-4a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (2)",
+        "url": "Cha11-4b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Conclusion",
+        "url": "Cha11-5.mp3"
+      }
+    ],
+
     "description": "",
     "commissionedBy": "Commissioned by Pacific Serenades",
     "instrumentation": "for piano quintet"
@@ -1575,7 +2266,7 @@
     "workName": "Andante and Allegro",
     "workYear": "1881",
     "workComposer": "ernestChausson",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1587,7 +2278,7 @@
     "workName": "Aubade",
     "workYear": "1992",
     "workComposer": "paulChihara",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1599,16 +2290,40 @@
     "workName": "Second Piano Quintet, \"Aka Tombo (Dragonfly)\"",
     "workYear": "2009",
     "workComposer": "paulChihara",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Ch09-Dragonfly1a.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["Ch09-Dragonfly1b-.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["Ch09-Dragonfly2.mp3", "Excerpt: Mvt. 2"],
-      ["Ch09-Dragonfly3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["Ch09-Dragonfly3b-.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["Ch09-Dragonfly3c.mp3", "Excerpt: Mvt. 3 (3)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "Ch09-Dragonfly1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "Ch09-Dragonfly1b-.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "Ch09-Dragonfly2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "Ch09-Dragonfly3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "Ch09-Dragonfly3b-.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (3)",
+        "url": "Ch09-Dragonfly3c.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ann & James Mulally for Pacific Serenades",
     "instrumentation": "for piano quintet"
@@ -1618,7 +2333,7 @@
     "workName": "Siren Songs",
     "workYear": "1999",
     "workComposer": "paulChihara",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1630,17 +2345,45 @@
     "workName": "String Quartet #1",
     "workYear": "2009",
     "workComposer": "billyChilds",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Childs09Mv1a.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["Childs09Mv1b.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["Childs09Mv1c.mp3", "Excerpt: Mvt. 1 (3)"],
-      ["Childs09Mv2a2.mp3", "Excerpt: Mvt. 2"],
-      ["Childs09Mv3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["Childs09Mv3b.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["Childs09Mv3end.mp3", "Excerpt: Mvt. 3 (3)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "Childs09Mv1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "Childs09Mv1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (3)",
+        "url": "Childs09Mv1c.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "Childs09Mv2a2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "Childs09Mv3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "Childs09Mv3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (3)",
+        "url": "Childs09Mv3end.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for string quartet"
@@ -1650,7 +2393,7 @@
     "workName": "Sonata for Violoncello and Piano in G minor, Op. 65",
     "workYear": "1845",
     "workComposer": "fredericChopin",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1662,7 +2405,7 @@
     "workName": "Bellscape",
     "workYear": "2013",
     "workComposer": "stephenCohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1674,7 +2417,7 @@
     "workName": "Naima",
     "workYear": "1987",
     "workComposer": "johnColtraneThomasOboeLee",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1686,7 +2429,14 @@
     "workName": "Of a Summer Evening",
     "workYear": "1988",
     "workComposer": "davidConte",
-    "purchaseLink": "https://www.ecspublishing.com/of-a-summer-evening.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.ecspublishing.com/of-a-summer-evening.html"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1698,7 +2448,14 @@
     "workName": "Quintet for Piano and Strings",
     "workYear": "1990",
     "workComposer": "davidConte",
-    "purchaseLink": "https://www.ecspublishing.com/piano-quintet.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.ecspublishing.com/piano-quintet.html"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1710,7 +2467,7 @@
     "workName": "Pièces en concert",
     "workYear": "-",
     "workComposer": "francoisCouperin",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1722,7 +2479,7 @@
     "workName": "Tracking Inland",
     "workYear": "2001",
     "workComposer": "donaldCrockett",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1734,15 +2491,42 @@
     "workName": "Between the Thoughts",
     "workYear": "2008",
     "workComposer": "johnDaversa",
-    "purchaseLink": "https://www.subitomusic.com/product/daversa-between-the-thoughts-for-flute-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/daversa-between-the-thoughts-for-flute-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["D08part1-1.mp3", "Part 1a"],
-      ["D08part1-2.mp3", "Part 1b"],
-      ["D08part1-3.mp3", "Part 1c"],
-      ["D08part2-1.mp3", "Part 2a"],
-      ["D08part2-2.mp3", "Conclusion"]
+      {
+        "label": "Part 1a",
+        "url": "D08part1-1.mp3"
+      },
+
+      {
+        "label": "Part 1b",
+        "url": "D08part1-2.mp3"
+      },
+
+      {
+        "label": "Part 1c",
+        "url": "D08part1-3.mp3"
+      },
+
+      {
+        "label": "Part 2a",
+        "url": "D08part2-1.mp3"
+      },
+
+      {
+        "label": "Conclusion",
+        "url": "D08part2-2.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for flute and string quartet"
@@ -1752,7 +2536,7 @@
     "workName": "Ratte Quartett",
     "workYear": "2006",
     "workComposer": "danteDeSilva",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1764,7 +2548,7 @@
     "workName": "String Quartet No. 14 in D minor, D. 810, \"Death and the Maiden\"",
     "workYear": "1824",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1776,7 +2560,7 @@
     "workName": "Sonata for Cello and Piano",
     "workYear": "1915",
     "workComposer": "claudeDebussy",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1787,7 +2571,7 @@
     "workName": "Pour le Piano",
     "workYear": "1901",
     "workComposer": "claudeDebussy",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1799,7 +2583,7 @@
     "workName": "Premiere Rhapsodie",
     "workYear": "1910",
     "workComposer": "claudeDebussy",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1811,7 +2595,7 @@
     "workName": "Sonata for flute, viola, and harp",
     "workYear": "1915",
     "workComposer": "claudeDebussy",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1823,7 +2607,7 @@
     "workName": "String Quartet in G minor, Op. 10",
     "workYear": "1893",
     "workComposer": "claudeDebussy",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1835,7 +2619,7 @@
     "workName": "Sonata for violin and piano in G minor",
     "workYear": "1917",
     "workComposer": "claudeDebussy",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1846,14 +2630,37 @@
     "workName": "Latin Love",
     "workYear": "2004",
     "workComposer": "miguelDelAguila",
-    "purchaseLink": "https://www.trevcomusic.com/products/mda-82-aguila-miguel-del-latin-love-op82-ww5-pn?_pos=1&amp;_sid=7e9664cfc&amp;_ss=r",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.trevcomusic.com/products/mda-82-aguila-miguel-del-latin-love-op82-ww5-pn?_pos=1&amp;_sid=7e9664cfc&amp;_ss=r"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["dA05-x1.mp3", "Excerpt 1"],
-      ["dA05-x2.mp3", "Excerpt 2"],
-      ["dA05-x3.mp3", "Excerpt 3"],
-      ["dA05-xf.mp3", "Excerpt 4"]
+      {
+        "label": "Excerpt 1",
+        "url": "dA05-x1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "dA05-x2.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "dA05-x3.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "dA05-xf.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades",
     "instrumentation": "for wind quintet and piano"
@@ -1863,7 +2670,14 @@
     "workName": "Pacific Serenade",
     "workYear": "1998",
     "workComposer": "miguelDelAguila",
-    "purchaseLink": "https://peermusicclassical.com/aboutus/team(modal:classical-us-catalog/9100/3538)",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://peermusicclassical.com/aboutus/team(modal:classical-us-catalog/9100/3538)"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -1875,7 +2689,7 @@
     "workName": "Pacific Serenade",
     "workYear": "1998",
     "workComposer": "miguelDelAguila",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1887,11 +2701,19 @@
     "workName": "Bassoon Quartet in C major, Op. 73, No. 1",
     "workYear": "1800",
     "workComposer": "francoisDevienne",
-    "purchaseLink": "",
+    "links": [],
     "video": [
-      ["https://www.youtube.com/watch?v=gZkTEvlCrpU", ""],
-      ["https://www.youtube.com/watch?v=JoTRJnEWqXs", ""]
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=gZkTEvlCrpU"
+      },
+
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=JoTRJnEWqXs"
+      }
     ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "",
@@ -1902,7 +2724,7 @@
     "workName": "Piano Quintet No. 1 in C minor, Op. 1",
     "workYear": "1895",
     "workComposer": "ernoDohnanyi",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1913,7 +2735,7 @@
     "workName": "Serenade, Op. 10",
     "workYear": "1902",
     "workComposer": "ernoDohnanyi",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1925,16 +2747,40 @@
     "workName": "Visions and Reflections",
     "workYear": "2006",
     "workComposer": "leslieDrayton",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["drayton_visions_1.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["VisionsS1-2.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["visionsS2.mp3", "Excerpt: Mvt. 2"],
-      ["VisionsS3-2.mp3", "Excerpt: Mvt. 3"],
-      ["VisionsS4-1.mp3", "Excerpt: Mvt. 4 (1)"],
-      ["VisionsS4.mp3", "Excerpt: Mvt. 4 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "drayton_visions_1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "VisionsS1-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "visionsS2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3",
+        "url": "VisionsS3-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (1)",
+        "url": "VisionsS4-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (2)",
+        "url": "VisionsS4.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Jan & Jim Goodwin",
     "instrumentation": "for clarinet & string quartet"
@@ -1944,7 +2790,7 @@
     "workName": "String Quartet No. 12 in F major, Op. 96, \"The American\"",
     "workYear": "1893",
     "workComposer": "antoninDvorak",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1955,7 +2801,7 @@
     "workName": "Trio in E minor, Op. 90",
     "workYear": "1891",
     "workComposer": "antoninDvorak",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1967,7 +2813,7 @@
     "workName": "Piano Quartet in E flat major, Op. 87",
     "workYear": "1889",
     "workComposer": "antoninDvorak",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1979,7 +2825,7 @@
     "workName": "Piano Quintet in A major, Op. 81",
     "workYear": "1887",
     "workComposer": "antoninDvorak",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -1991,7 +2837,7 @@
     "workName": "Terzetto in C major, Op. 74",
     "workYear": "1887",
     "workComposer": "antoninDvorak",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2003,7 +2849,7 @@
     "workName": "Sextet Pacifica",
     "workYear": "1997",
     "workComposer": "arniEgilsson",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2015,17 +2861,45 @@
     "workName": "Bridges of Love",
     "workYear": "2010",
     "workComposer": "sharonFarber",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Far10-1.mp3", "Excerpt: Wherever You Go (1)"],
-      ["Far10-1b.mp3", "Excerpt: Wherever You Go (2)"],
-      ["Far10-1c.mp3", "Excerpt: Wherever You Go (3)"],
-      ["Far10-2a.mp3", "Excerpt: Once I Knew (1)"],
-      ["Far10-2b.mp3", "Excerpt: Once I Knew (2)"],
-      ["Far10-2c.mp3", "Excerpt: Once I Knew (3)"],
-      ["Far10-3f.mp3", "Excerpt: Wine of Love"]
+      {
+        "label": "Excerpt: Wherever You Go (1)",
+        "url": "Far10-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Wherever You Go (2)",
+        "url": "Far10-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Wherever You Go (3)",
+        "url": "Far10-1c.mp3"
+      },
+
+      {
+        "label": "Excerpt: Once I Knew (1)",
+        "url": "Far10-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Once I Knew (2)",
+        "url": "Far10-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Once I Knew (3)",
+        "url": "Far10-2c.mp3"
+      },
+
+      {
+        "label": "Excerpt: Wine of Love",
+        "url": "Far10-3f.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
     "instrumentation": "for tenor, clarinet, viola, and piano"
@@ -2035,7 +2909,7 @@
     "workName": "Piano Quartet in C minor, Op. 15",
     "workYear": "1879",
     "workComposer": "gabrielFaure",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2047,7 +2921,7 @@
     "workName": "Piano Quartet No. 2 in G minor, Op. 45",
     "workYear": "1886",
     "workComposer": "gabrielFaure",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2058,7 +2932,7 @@
     "workName": "Piano Trio, Op. 120",
     "workYear": "-",
     "workComposer": "gabrielFaure",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2070,7 +2944,7 @@
     "workName": "Selected Songs",
     "workYear": "-",
     "workComposer": "gabrielFaure",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>Mandoline<br>\nClair de Lune<br>\nBarcarolle<br>\nNell<br>\nFleur Jetee</p>",
@@ -2082,7 +2956,7 @@
     "workName": "Selected Songs",
     "workYear": "-",
     "workComposer": "gabrielFaure",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2094,7 +2968,7 @@
     "workName": "Piano Quintet in F minor",
     "workYear": "1879",
     "workComposer": "cesarFranck",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2106,7 +2980,7 @@
     "workName": "Sonata in A major",
     "workYear": "1886",
     "workComposer": "cesarFranck",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2117,7 +2991,7 @@
     "workName": "Sonata in E major",
     "workYear": "1730",
     "workComposer": "francoisFrancoeur",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2129,7 +3003,7 @@
     "workName": "Divertissement",
     "workYear": "1999",
     "workComposer": "taniaFrench",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2141,7 +3015,7 @@
     "workName": "Silhouettes at Sunrise",
     "workYear": "1993",
     "workComposer": "taniaFrench",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2153,9 +3027,23 @@
     "workName": "The Soul of the White Ant",
     "workYear": "2013",
     "workComposer": "eugeneFriesen",
-    "purchaseLink": "https://www.subitomusic.com/product/friesen-soul-of-the-white-ant-the-for-four-cellos/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/friesen-soul-of-the-white-ant-for-string-orchestra/",
-    "purchaseLinkAlt2": "https://www.subitomusic.com/product/friesen-soul-of-the-white-ant-for-string-orchestra-2/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score & Parts for four cellos",
+        "url": "https://www.subitomusic.com/product/friesen-soul-of-the-white-ant-the-for-four-cellos/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Score for string orchestra",
+        "url": "https://www.subitomusic.com/product/friesen-soul-of-the-white-ant-for-string-orchestra/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Set of Parts for string orchestra",
+        "url": "https://www.subitomusic.com/product/friesen-soul-of-the-white-ant-for-string-orchestra-2/"
+      }
+    ],
     "video": [],
     "audio": [],
     "description": "",
@@ -2167,19 +3055,61 @@
     "workName": "Under the Sun",
     "workYear": "2006",
     "workComposer": "eugeneFriesen",
-    "purchaseLink": "https://www.subitomusic.com/product/friesen-under-the-sun-for-string-octet/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/friesen-under-the-sun-for-string-orchestra/",
-    "purchaseLinkAlt2": "https://www.subitomusic.com/product/friesen-under-the-sun-for-string-orchestra-2/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score & Parts for string octet",
+        "url": "https://www.subitomusic.com/product/friesen-under-the-sun-for-string-octet/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Score for string orchestra",
+        "url": "https://www.subitomusic.com/product/friesen-under-the-sun-for-string-orchestra/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Set of Parts for string orchestra",
+        "url": "https://www.subitomusic.com/product/friesen-under-the-sun-for-string-orchestra-2/"
+      }
+    ],
     "video": [],
     "audio": [
-      ["Fr1.mp3", "Excerpt 1"],
-      ["Fr2.mp3", "Excerpt 2"],
-      ["Fr3.mp3", "Excerpt 3"],
-      ["Fr4.mp3", "Excerpt 4"],
-      ["Fr5.mp3", "Excerpt 5"],
-      ["Fr6.mp3", "Excerpt 6"],
-      ["Fr7.mp3", "Excerpt 7"]
+      {
+        "label": "Excerpt 1",
+        "url": "Fr1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Fr2.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Fr3.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Fr4.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Fr5.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "Fr6.mp3"
+      },
+
+      {
+        "label": "Excerpt 7",
+        "url": "Fr7.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by J. Christopher Kennedy",
     "instrumentation": "for 4 violins, 2 violas, 2 cellos"
@@ -2189,7 +3119,14 @@
     "workName": "Piano Quartet No. 1: Mirror",
     "workYear": "2013",
     "workComposer": "kennethFroelich",
-    "purchaseLink": "https://www.subitomusic.com/product/froelich-piano-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/froelich-piano-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2201,16 +3138,40 @@
     "workName": "Rapsodia Andina",
     "workYear": "2011",
     "workComposer": "gabrielaLenaFrank",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Fra11-1a.mp3", "Excerpt 1"],
-      ["Fra11-2.mp3", "Excerpt 2"],
-      ["Fra11-3.mp3", "Excerpt 3"],
-      ["Fra11-4.mp3", "Excerpt 4"],
-      ["Fra11-5a.mp3", "Excerpt 5"],
-      ["Fra11-6.mp3", "Excerpt 6"]
+      {
+        "label": "Excerpt 1",
+        "url": "Fra11-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Fra11-2.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Fra11-3.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Fra11-4.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Fra11-5a.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "Fra11-6.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Co-commissioned by Mallarmé Chamber Players, Colorado Chamber Players, Fulcrum Arts, Pacific Serenades, Cornish Music Series, Monadnock Music, and the Azure Ensemble",
     "instrumentation": "for flute, viola, cello, and harp"
@@ -2220,7 +3181,7 @@
     "workName": "Pass'e mezo antico secondo",
     "workYear": "1551",
     "workComposer": "anonymousAntonioGardane",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2232,7 +3193,7 @@
     "workName": "Saltarello del Re",
     "workYear": "1551",
     "workComposer": "anonymousAntonioGardane",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2243,7 +3204,7 @@
     "workName": "Sonata No. 1 in A major",
     "workYear": "-",
     "workComposer": "francescoGeminiani",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2255,8 +3216,18 @@
     "workName": "Concierto barroco",
     "workYear": "2002",
     "workComposer": "enriqueGonzalezMedina",
-    "purchaseLink": "https://www.subitomusic.com/product/gonzalez-medina-concierto-barroco-for-flute-violin-cello-harpsichord/",
-    "purchaseLinkAlt": "https://www.subitomusic.com/product/gonzalez-medina-concierto-barroco-op-15b-for-piano-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score & Parts for flute, violin, cello, and harpsichord",
+        "url": "https://www.subitomusic.com/product/gonzalez-medina-concierto-barroco-for-flute-violin-cello-harpsichord/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Score & Parts for piano quartet",
+        "url": "https://www.subitomusic.com/product/gonzalez-medina-concierto-barroco-op-15b-for-piano-quartet/"
+      }
+    ],
     "video": [],
     "audio": [],
     "description": "",
@@ -2268,8 +3239,21 @@
     "workName": "Piano Quartet",
     "workYear": "1999",
     "workComposer": "davidGoodman",
-    "purchaseLink": "https://www.subitomusic.com/product/goodman-piano-quartet-for-violin-viola-violoncello-piano/",
-    "video": [["https://www.youtube.com/watch?v=4bs-05gcwo0&amp;list=PLWzOF_7a7S5numLU7OgpWmciB4_gHqhWt", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/goodman-piano-quartet-for-violin-viola-violoncello-piano/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=4bs-05gcwo0&amp;list=PLWzOF_7a7S5numLU7OgpWmciB4_gHqhWt"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
@@ -2280,7 +3264,14 @@
     "workName": "Walking Music",
     "workYear": "2016",
     "workComposer": "davidGoodman",
-    "purchaseLink": "https://www.subitomusic.com/product/goodman-walking-music-for-flute-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/goodman-walking-music-for-flute-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2292,7 +3283,7 @@
     "workName": "Poem",
     "workYear": "1918",
     "workComposer": "charlesGriffes",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2304,7 +3295,7 @@
     "workName": "Sonata in B minor, HMV 367",
     "workYear": "-",
     "workComposer": "georgFridericHandel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2316,7 +3307,7 @@
     "workName": "Concerto a Quattro in D minor, HWV 361",
     "workYear": "-",
     "workComposer": "georgFridericHandel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2328,7 +3319,7 @@
     "workName": "Sonata in B minor, Op. 2, No. 1",
     "workYear": "-",
     "workComposer": "georgFridericHandel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2340,7 +3331,7 @@
     "workName": "Sonata in B flat major, Op. 2, No. 3",
     "workYear": "-",
     "workComposer": "georgFridericHandel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2352,7 +3343,7 @@
     "workName": "Sonata in F major, Op. 2, No. 4",
     "workYear": "-",
     "workComposer": "georgFridericHandel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2364,7 +3355,7 @@
     "workName": "Trio in G major, Hob. XV: 15",
     "workYear": "1790",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2376,7 +3367,7 @@
     "workName": "Quartet in F minor, Op. 20, No. 5",
     "workYear": "1772",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2387,7 +3378,7 @@
     "workName": "Quartet in G major, Op. 54, No. 1",
     "workYear": "1790",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2399,7 +3390,7 @@
     "workName": "Quartet in G minor, Op. 74, No. 3",
     "workYear": "1793",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2411,7 +3402,7 @@
     "workName": "Piano Trio in A major, H. XV:9",
     "workYear": "1785",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2423,7 +3414,7 @@
     "workName": "Quartet in D major, Op. 20, No. 4",
     "workYear": "1772",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2435,7 +3426,7 @@
     "workName": "Quartet in C major, Op. 33, No. 3",
     "workYear": "1781",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2447,7 +3438,7 @@
     "workName": "Quartet in F# minor, Op. 50, No. 4",
     "workYear": "1787",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2459,7 +3450,7 @@
     "workName": "String Quartet in F major, Op. 50. No. 5",
     "workYear": "1787",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2470,7 +3461,7 @@
     "workName": "Quartet in D minor, Op. 76, No. 2",
     "workYear": "1797",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2482,7 +3473,7 @@
     "workName": "String Quartet in B minor, Op. 64, No. 2",
     "workYear": "1790",
     "workComposer": "franzJosefHaydn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2493,16 +3484,40 @@
     "workName": "Friendly Persuasions",
     "workYear": "2008",
     "workComposer": "jakeHeggie",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["h08-Track1.mp3", "Excerpt: Mvt. 1"],
-      ["h08-Track2.mp3", "Excerpt: Mvt. 2"],
-      ["h08-Track3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["h08-Track3b-.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["h08-Track4a.mp3", "Excerpt: Mvt. 4 (1)"],
-      ["h08-Track4b.mp3", "Excerpt: Mvt. 4 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1",
+        "url": "h08-Track1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "h08-Track2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "h08-Track3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "h08-Track3b-.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (1)",
+        "url": "h08-Track4a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (2)",
+        "url": "h08-Track4b.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "co-Commissioned by Wigmore Hall, London and Pacific Serenades, chamber version Commissioned by William Sullivan & Gerald Goodman for Pacific Serenades",
     "instrumentation": "for tenor, flute, oboe, cello, and harpsichord"
@@ -2512,7 +3527,7 @@
     "workName": "Boston and Ragtime",
     "workYear": "1922",
     "workComposer": "paulHindemith",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>transcribed by Theodore Norman</p>",
@@ -2524,7 +3539,7 @@
     "workName": "Sonata for viola and piano, Op. 11, No. 4",
     "workYear": "1915",
     "workComposer": "paulHindemith",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2536,7 +3551,7 @@
     "workName": "Selected Songs",
     "workYear": "-",
     "workComposer": "charlesIves",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>Charlie Rutledge<br>\nAutumn<br>\nTom Sails Away<br>\nChildren’s Hour<br>\nCircus Band</p>",
@@ -2548,7 +3563,7 @@
     "workName": "Different Lanes",
     "workYear": "2012",
     "workComposer": "lauraKarpman",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2560,7 +3575,7 @@
     "workName": "Different Lanes",
     "workYear": "2012",
     "workComposer": "lauraKarpman",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2572,7 +3587,7 @@
     "workName": "Quartet",
     "workYear": "1994",
     "workComposer": "myraKestenbaum",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2584,7 +3599,14 @@
     "workName": "Quartet in C minor, Op. 124",
     "workYear": "1995",
     "workComposer": "michaelKibbe",
-    "purchaseLink": "https://www.michaelkibbe.com/chamber/index.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.michaelkibbe.com/chamber/index.html"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2596,7 +3618,14 @@
     "workName": "Winter Moods, Op. 106",
     "workYear": "1990",
     "workComposer": "michaelKibbe",
-    "purchaseLink": "https://www.michaelkibbe.com/chamber/index.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.michaelkibbe.com/chamber/index.html"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2608,17 +3637,52 @@
     "workName": "Collage",
     "workYear": "2005",
     "workComposer": "peterKnell",
-    "purchaseLink": "https://peterknell.com/work/collage/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://peterknell.com/work/collage/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Kn4-1s.mp3", "Excerpt 1"],
-      ["Kn4-2s.mp3", "Excerpt 2"],
-      ["Kn5-3s.mp3", "Excerpt 3"],
-      ["Kn5-4s.mp3", "Excerpt 4"],
-      ["Kn5-5s.mp3", "Excerpt 5"],
-      ["Kn5-6s.mp3", "Excerpt 6"],
-      ["Kn5-7s.mp3", "Excerpt 7"]
+      {
+        "label": "Excerpt 1",
+        "url": "Kn4-1s.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Kn4-2s.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Kn5-3s.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Kn5-4s.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Kn5-5s.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "Kn5-6s.mp3"
+      },
+
+      {
+        "label": "Excerpt 7",
+        "url": "Kn5-7s.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for piano quintet"
@@ -2628,7 +3692,7 @@
     "workName": "Duo, Op. 7",
     "workYear": "1914",
     "workComposer": "zoltanKodaly",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2640,7 +3704,7 @@
     "workName": "Fantasy in F minor",
     "workYear": "-",
     "workComposer": "johannKrebs",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2652,7 +3716,7 @@
     "workName": "Hommage à Messiaen",
     "workYear": "2000",
     "workComposer": "ianKrouse",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2664,16 +3728,40 @@
     "workName": "Music in 4 Sharps",
     "workYear": "2004",
     "workComposer": "ianKrouse",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Kr41.mp3", "Excerpt 1"],
-      ["Kr42.mp3", "Excerpt 2"],
-      ["Kr43.mp3", "Excerpt 3"],
-      ["Kr44.mp3", "Excerpt 4"],
-      ["Kr45.mp3", "Excerpt 5"],
-      ["Kr46.mp3", "Excerpt 6"]
+      {
+        "label": "Excerpt 1",
+        "url": "Kr41.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Kr42.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Kr43.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Kr44.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Kr45.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "Kr46.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for guitar and string quartet"
@@ -2683,7 +3771,14 @@
     "workName": "Tientos",
     "workYear": "1991",
     "workComposer": "ianKrouse",
-    "purchaseLink": "https://www.halleonard.com/product/228789/tientos?menuid=1406",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.halleonard.com/product/228789/tientos?menuid=1406"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2695,21 +3790,68 @@
     "workName": "Quintessence",
     "workYear": "2010",
     "workComposer": "jeffKryka",
-    "purchaseLink": "hhttps://www.subitomusic.com/product/kryka-quintessence-for-2-violins-2-violas-violoncello/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "hhttps://www.subitomusic.com/product/kryka-quintessence-for-2-violins-2-violas-violoncello/"
+      }
+    ],
+
     "video": [
-      ["https://www.youtube.com/watch?v=O5jffL-flQg", "Part 1 on YouTube"],
-      ["https://www.youtube.com/watch?v=Th3dZa0xvss", "Part 2 on YouTube"],
-      ["https://www.youtube.com/watch?v=sS8N1cDGqtI", "Part 3 on YouTube"]
+      {
+        "label": "Part 1 on YouTube",
+        "url": "https://www.youtube.com/watch?v=O5jffL-flQg"
+      },
+
+      {
+        "label": "Part 2 on YouTube",
+        "url": "https://www.youtube.com/watch?v=Th3dZa0xvss"
+      },
+
+      {
+        "label": "Part 3 on YouTube",
+        "url": "https://www.youtube.com/watch?v=sS8N1cDGqtI"
+      }
     ],
+
     "audio": [
-      ["kry10-1a.mp3", "Excerpt 1"],
-      ["kry10-1b.mp3", "Excerpt 2"],
-      ["kry10-2a.mp3", "Excerpt 3"],
-      ["kry10-3a.mp3", "Excerpt 4"],
-      ["kry10-4a.mp3", "Excerpt 5"],
-      ["kry10-5a.mp3", "Excerpt 6"],
-      ["kry10-5b.mp3", "Excerpt 7"]
+      {
+        "label": "Excerpt 1",
+        "url": "kry10-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "kry10-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "kry10-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "kry10-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "kry10-4a.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "kry10-5a.mp3"
+      },
+
+      {
+        "label": "Excerpt 7",
+        "url": "kry10-5b.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for 2 violins, 2 violas, and cello"
@@ -2720,7 +3862,7 @@
     "workName": "Praeludium & Fugue in Eb Major (\"St. Anne\") BWV 552",
     "workYear": "1738/2024",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "A new piano duet arrangement of Bach's monumental triple fugue (a fugue with 3 themes) which was originally written for the organ and is glowing with contrapuntal fireworks.",
@@ -2732,7 +3874,7 @@
     "workName": "The Centennial Variations",
     "workYear": "2024",
     "workComposer": "jeffKryka",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "This duet for two pianos consists of a theme and five variations, featuring virtuoso music for both parts. Each subsequent variation moves stylistically through time evoking the treasured keyboard music of Bach, Mozart, Beethoven, Chopin, List, and others before ending in a whirlwind fugal coda.",
@@ -2744,7 +3886,7 @@
     "workName": "Fantasia on a Prelude in C Major From Book 1 of the Well-Tempered Clavier",
     "workYear": "1722/2024",
     "workComposer": "johannSebastianBach",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "This new duet piece features Glenn Gould's (1932-1982) classic performance of Bach's well-known prelude through the use of Steinway's Spirio system. A new part written for the Centennial piano will be performed in counterpoint allowing the pianist to duet with Gould live.",
@@ -2756,7 +3898,7 @@
     "workName": "Salaam/Shalom/Peace",
     "workYear": "2024",
     "workComposer": "jeffKryka",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "This 3-movement work is dedicated to the incredible partnership of Israeli and Palestinian pianists of Duo Amal: Yaron Kohlberg & Bishara Haroni.",
@@ -2768,7 +3910,7 @@
     "workName": "Electric Rainbow",
     "workYear": "2024",
     "workComposer": "jeffKryka",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "This 3-movement work is dedicated to the incredible partnership of Israeli and Palestinian pianists of Duo Amal: Yaron Kohlberg & Bishara Haroni.",
@@ -2781,7 +3923,7 @@
     "workName": "Pacific Serenades",
     "workYear": "1990",
     "workComposer": "robertKyr",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2794,17 +3936,52 @@
     "workName": "Tapestry",
     "workYear": "2004",
     "workComposer": "benjaminLees",
-    "purchaseLink": "https://www.boosey.com/cr/purchase-music/Benjamin-Lees-Tapestry/46071",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.boosey.com/cr/purchase-music/Benjamin-Lees-Tapestry/46071"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Lees1.mp3", "Excerpt 1"],
-      ["Lees2.mp3", "Excerpt 2"],
-      ["Lees3.mp3", "Excerpt 3"],
-      ["Lees4.mp3", "Excerpt 4"],
-      ["Lees5.mp3", "Excerpt 5"],
-      ["Lees6.mp3", "Excerpt 6"],
-      ["Lees7.mp3", "Excerpt 7"]
+      {
+        "label": "Excerpt 1",
+        "url": "Lees1.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Lees2.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Lees3.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Lees4.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Lees5.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "Lees6.mp3"
+      },
+
+      {
+        "label": "Excerpt 7",
+        "url": "Lees7.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Gerry Aster and by Iris Mink for Pacific Serenades",
     "instrumentation": "for flute, clarinet, cello, and piano"
@@ -2814,7 +3991,14 @@
     "workName": "Deep Dreams: All of a Peace",
     "workYear": "2007",
     "workComposer": "davidLefkowitz",
-    "purchaseLink": "https://www.subitomusic.com/product/lefkowitz-deep-dreams-all-of-a-peace-for-violoncello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/lefkowitz-deep-dreams-all-of-a-peace-for-violoncello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2825,15 +4009,48 @@
     "workName": "Dreams: All of a Peace",
     "workYear": "2007",
     "workComposer": "davidLefkowitz",
-    "purchaseLink": "https://www.subitomusic.com/product/lefkowitz-dreams-all-of-a-peace-for-piano-quintet/",
-    "video": [["https://www.youtube.com/watch?v=Ik9zDyb5Pl4&amp;list=PLWzOF_7a7S5mbLFRh_7TpwVZuCwxfyKyi", "Listen on YouTube"]],
-    "audio": [
-      ["Dreams-1.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["Dreams-1b.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["Dreams-2.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["Dreams-2b.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["Dreams-2c.mp3", "Excerpt: Mvt. 2 (3)"]
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/lefkowitz-dreams-all-of-a-peace-for-piano-quintet/"
+      }
     ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=Ik9zDyb5Pl4&amp;list=PLWzOF_7a7S5mbLFRh_7TpwVZuCwxfyKyi"
+      }
+    ],
+
+    "audio": [
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "Dreams-1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "Dreams-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "Dreams-2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "Dreams-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (3)",
+        "url": "Dreams-2c.mp3"
+      }
+    ],
+
     "description": "",
     "commissionedBy": "Commissioned by J. Christopher Kennedy for Pacific Serenades",
     "instrumentation": "for piano quintet"
@@ -2843,7 +4060,14 @@
     "workName": "Paired Dreams: All of a Peace",
     "workYear": "2007",
     "workComposer": "davidLefkowitz",
-    "purchaseLink": "https://www.subitomusic.com/product/lefkowitz-paired-dreams-all-of-a-peace-for-violin-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/lefkowitz-paired-dreams-all-of-a-peace-for-violin-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2854,7 +4078,7 @@
     "workName": "Duo for Violin and Marimba",
     "workYear": "1988",
     "workComposer": "danielLevitan",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2866,7 +4090,14 @@
     "workName": "Dancing in Her Sleep",
     "workYear": "1994",
     "workComposer": "larryLipkis",
-    "purchaseLink": "https://www.subitomusic.com/product/lipkis-dancing-in-her-sleep-for-solo-viola-2-violins-violoncello-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/lipkis-dancing-in-her-sleep-for-solo-viola-2-violins-violoncello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2878,7 +4109,14 @@
     "workName": "Generations",
     "workYear": "1998",
     "workComposer": "larryLipkis",
-    "purchaseLink": "https://www.subitomusic.com/product/lipkis-generations-for-violin-viola-violoncello-contrabass-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/lipkis-generations-for-violin-viola-violoncello-contrabass-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2890,7 +4128,14 @@
     "workName": "Rebel Angel",
     "workYear": "1989",
     "workComposer": "larryLipkis",
-    "purchaseLink": "https://www.subitomusic.com/product/lipkis-rebel-angel-for-clarinet-bass-clarinet-violin-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/lipkis-rebel-angel-for-clarinet-bass-clarinet-violin-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -2902,7 +4147,7 @@
     "workName": "Two Rhapsodies",
     "workYear": "1905",
     "workComposer": "charlesMartinLoeffler",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2914,7 +4159,7 @@
     "workName": "Prelude and Fugue in D minor",
     "workYear": "-",
     "workComposer": "vincentLuebeck",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2926,7 +4171,7 @@
     "workName": "Ballade for flute and piano",
     "workYear": "1939",
     "workComposer": "frankMartin",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2938,7 +4183,7 @@
     "workName": "Duo No. 1, H. 157",
     "workYear": "1927",
     "workComposer": "bohuslavMartinu",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2950,7 +4195,7 @@
     "workName": "First Sonata for flute and piano",
     "workYear": "1951",
     "workComposer": "bohuslavMartinu",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2962,7 +4207,7 @@
     "workName": "Three Madrigals",
     "workYear": "1948",
     "workComposer": "bohuslavMartinu",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -2974,16 +4219,47 @@
     "workName": "Pacific Dances",
     "workYear": "2006",
     "workComposer": "joelMcneely",
-    "purchaseLink": "https://www.subitomusic.com/product/mcneely-pacific-dances/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/mcneely-pacific-dances/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Mcn6-1a.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["Mcn6-1b.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["Mcn6-2a.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["Mcn6-2b.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["Mcn6-3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["Mcn6-3finale.mp3", "Excerpt: Mvt. 3 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "Mcn6-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "Mcn6-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "Mcn6-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "Mcn6-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "Mcn6-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "Mcn6-3finale.mp3"
+      }
     ],
+
     "description": "<p>I love the marriage of music and dance. Always have. As well, as a composer who has worked primarily in film for several decades, I am pretty hard-wired into thinking of music and imagery together. For this work, I wanted to write a piece inspired by dances that could be associated with our west coast. Problem: as wonderful as Pacific Serenades is, they don’t usually carry a troupe of dancers and a choreographer. Solution: I’ll imagine the dances and then write the music to them. No problem. All I can really describe for you about my imagined dance is that the dancers wore really colorful costumes and they were very funky.</p>\n<p>The first movement is an old fashioned boogaloo… stood on it’s head. I had fun with the rhythms and harmonies of this dance. I used to be a horn player in a funk band, and we would use bends in tempo for effect. Here I use a slowed down vibrato in tempo in the strings to try and do the same thing.</p>\n<p>The second movement, Nightclub, is a kind of slow dance. We’ve all slow danced. ‘Nuff said.</p>\n<p>The third movement is called West Coast Swing. This is a kind of box step that is usually not danced to swing music at all, but rather funk and blues. This movement, marked Allegro é Funky, plays with rhythm and syncopation and hopefully will make you (want to ) pat your foot.</p>\n<p>My goal in writing this piece was to inspire a few smiles, provoke some imagination, and maybe even some ‘moving to the beat.’ Let us all wish our stellar world-class refined performers the ability to ‘get their groove on’. And please… feel free to imagine your own set of dances.</p>\n<p>Many thanks to Pacific Serenades for this opportunity, and to you for supporting them. They are fighting the good fight.</p>\n<p>Peace,</p>\n<p>Joel McNeely</p>",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for piano quartet"
@@ -2993,7 +4269,7 @@
     "workName": "Trio in C minor, Op. 66",
     "workYear": "1845",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3005,7 +4281,7 @@
     "workName": "Sonata in D major, Op. 58",
     "workYear": "1843",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3017,7 +4293,7 @@
     "workName": "Piano Trio No. 1 in D minor, Op. 49",
     "workYear": "1839",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3029,7 +4305,7 @@
     "workName": "Quartet in E minor, Op. 44, No. 2",
     "workYear": "-",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3041,7 +4317,7 @@
     "workName": "Octet in Eb major, Op. 20",
     "workYear": "1825",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3053,7 +4329,7 @@
     "workName": "String Quartet in E flat major, Op. 44, No. 3",
     "workYear": "1838",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3065,7 +4341,7 @@
     "workName": "String Quintet in B flat major, Op. 87",
     "workYear": "1845",
     "workComposer": "felixMendelssohn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3077,7 +4353,7 @@
     "workName": "Le Merle Noir",
     "workYear": "1954",
     "workComposer": "olivierMessiaen",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3089,17 +4365,52 @@
     "workName": "Chamber Jams",
     "workYear": "2010",
     "workComposer": "dwayneMilburn",
-    "purchaseLink": "https://www.subitomusic.com/product/milburn-chamber-jams-for-flute-oboe-cello-harpsichord/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/milburn-chamber-jams-for-flute-oboe-cello-harpsichord/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["mil11-1a.mp3", "Excerpt: Mvt. 1 (1)"],
-      ["mil11-1b.mp3", "Excerpt: Mvt. 1 (2)"],
-      ["mil11-2a.mp3", "Excerpt: Mvt. 2 (1)"],
-      ["mil11-2b.mp3", "Excerpt: Mvt. 2 (2)"],
-      ["mil11-3a.mp3", "Excerpt: Mvt. 3 (1)"],
-      ["mil11-3b.mp3", "Excerpt: Mvt. 3 (2)"],
-      ["mil11-4.mp3", "Excerpt: Conclusion"]
+      {
+        "label": "Excerpt: Mvt. 1 (1)",
+        "url": "mil11-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 1 (2)",
+        "url": "mil11-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (1)",
+        "url": "mil11-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2 (2)",
+        "url": "mil11-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (1)",
+        "url": "mil11-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3 (2)",
+        "url": "mil11-3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Conclusion",
+        "url": "mil11-4.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for flute, oboe, cello, and harpsichord"
@@ -3109,7 +4420,7 @@
     "workName": "Manic States",
     "workYear": "2006",
     "workComposer": "dwayneMilburn",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3121,7 +4432,14 @@
     "workName": "String Quartet No. 2",
     "workYear": "2000",
     "workComposer": "kathrynMishell",
-    "purchaseLink": "https://www.subitomusic.com/product/mishell-string-quartet-no-2-for-2-violins-viola-violoncello/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/mishell-string-quartet-no-2-for-2-violins-viola-violoncello/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -3133,16 +4451,47 @@
     "workName": "Four Songs on excerpts from Lucretius's \"On the Nature of the Universe\"",
     "workYear": "2012",
     "workComposer": "justinMorell",
-    "purchaseLink": "https://www.subitomusic.com/product/morell-four-songs-on-excerpts-from-lucretius-on-the-nature-of-the-universe-for-bass-baritone-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/morell-four-songs-on-excerpts-from-lucretius-on-the-nature-of-the-universe-for-bass-baritone-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Mor12-Songs1.mp3", "Excerpt: Every Color Changes"],
-      ["Mor12-Songs2.mp3", "Excerpt: Mind and Soul"],
-      ["Mor12-Songs3a.mp3", "Excerpt: Look Back (1)"],
-      ["Mor12-Songs3b.mp3", "Excerpt: Look Back (2)"],
-      ["Mor12-Songs4a.mp3", "Excerpt: So Big the Rains (1)"],
-      ["Mor12-Songs4bf.mp3", "Excerpt: So Big the Rains (2)"]
+      {
+        "label": "Excerpt: Every Color Changes",
+        "url": "Mor12-Songs1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mind and Soul",
+        "url": "Mor12-Songs2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Look Back (1)",
+        "url": "Mor12-Songs3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Look Back (2)",
+        "url": "Mor12-Songs3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: So Big the Rains (1)",
+        "url": "Mor12-Songs4a.mp3"
+      },
+
+      {
+        "label": "Excerpt: So Big the Rains (2)",
+        "url": "Mor12-Songs4bf.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by The Pacific Serenades Commissioning Club of 2012",
     "instrumentation": "for baritone & string quartet"
@@ -3152,7 +4501,7 @@
     "workName": "Quintet in A major, K. 581",
     "workYear": "1789",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3164,7 +4513,7 @@
     "workName": "Duo in G major, K. 423",
     "workYear": "1783",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3176,7 +4525,7 @@
     "workName": "Quartet in C major, K. 285b",
     "workYear": "1778",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3188,7 +4537,7 @@
     "workName": "Quartet in D major, K. 285",
     "workYear": "1777",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>Johannes Brahms once wrote, “Today, we can no longer write as beautifully as Mozart; what we can do however, is to seek to write as purely as he did.” Indeed, there is something to the effect of a veritas ?terna about the music of Mozart – a sense in which one could say, without too much opposition, that the fountainhead of his art sprung from an afflatus of divine beauty. Time and again, Mozart seizes this beauty long enough to cast and mold her into a supremely logical musical narrative, and then, as in a dialectical flow (in the spirit of Hegel), both performer and listener, through their mutual participation, are elevated to a greater synthesis for the notion of beauty.<br>\nHow much more ironic then does this statement become when we consider what we know about Mozart’s sentiment for the flute? It was not his favorite wind instrument by any means, yet the pieces he wrote for it completely belie this fact. They are delightful, and at times sublime. Indeed, one would never know how he truly felt about the flute if we merely had his pieces to judge by it. Take for instance the tender and heartfelt Adagio and Rondo for Glass Harmonica, Flute, Oboe, Viola, and Cello in C Minor K.617, which seems to have grounding in a conception of the otherworldly, or the resoundingly beautiful Concerto for Flute and Harp in C Major, K.299, which is masterpiece in every sense of the word. Then, of course, there are his four flute quartets (K.285 in D Major, K.285a in G Major, K.285b in C Major, and K.298 in A Major).<br>\nThe origin and impetus of these most exquisite works for flute and strings seems to be a matter of some interest and speculation. On 10 December 1777, Mozart wrote to his father that a Dutchman would pay him 200 gulden for “three short, simple concertos and a couple of quartets for flute”. However, in the course of six separate correspondences between 10 December 1777 and 3 October 1778, the number of quartets for which the Dutchman was supposed to have paid Mozart to compose had changed from two, to four, to three. Nevertheless, if we suppose that Mozart was likely to have been truthful to his mother – since she had been living with him at the time, and as such, would have been privy to just how many quartets he was supposed to have been writing for the Dutchman – then Mozart’s letter to her dated 31 January 1778 in which he refers to four quartets may be the true answer to this commission. Yet for all that, Mozart was only paid about half the gulden he was promised for the original commission as indicated in his correspondence dated 14 February 1778. In this correspondence, Mozart notes that he presented two concerti and three quartets to the Dutchman, and not four quartets, if we suppose the letter to his mother dated 31 January 1778 to be the true answer to the commission. There is some question as to whether Mozart even furnished the Dutchman with three quartets – he may have only furnished him with two – and so it is more than likely that Mozart composed, or possibly even arranged, the final quartet or quartets sometime later so as to fulfill the commission.<br>\nAt any rate, whichever manuscripts Mozart ultimately gave the Dutchman, it is certain that the quartet in D Major K.285 was one of them. It was dated by Mozart on 25 December 1777 and is divided into three movements.<br>\nThe Allegro opens quite candidly and without prologue. Mozart gives a charming melody to the flute, which, in its childlike naïveté, seems to assert the delights of the pastoral life. Indeed at times, the strings seem merely to accompany the confidence with which this melody is sung; however, the strings do provide their own sense of playfulness and frivolity, especially in the development sections, which help to create a graciousness in the harmonic structure, and only enhance the mellow and carefree nature of the mellifluous flute. The movement ends, somewhat unexpectedly, with a coda that is a delicate recapitulation of the “country life”.<br>\nThe adagio is an interesting conception to say the least. It is written in a somewhat unusual key for Mozart – B Minor – and its structure solely consists of a cantilena, or a smoothly flowing melodic line, hovering over a pizzicato accompaniment. The strings here seem to suggest a fragility of mood throughout, yet the flute, perhaps to make light of the vulnerability, beguiles the listener to its honeyed tones of plaintive melancholy.<br>\nThe rondo allegretto quickly reclaims the joy of utter simplicity in an ebullient tune which verily seems to sing itself. The strings cannot help but join in, with the violin offering a gleeful rejoinder of its own. An enchanting transition gives rise the first episode, which is only ever so slightly more reflective, yet there seems to be a sense of inner excitement which pervades the tunefulness of the movement, and it is not long before the rondo theme returns to blossom forth. A second episode beckons the comparison of something like a rhetorical dialogue. With the flute leading the inquiry, the strings seem to rephrase what the flute has previously sung, and yet in turn seem to provide a response to the inquiry. The roles reverse and the flute now becomes the wiser. The rondo returns followed by a third episode, which is only a slight embellishment and modulation of the first. The movement ends with a recapitulation of the rondo theme followed by a coda that is as every bit as merry in the precision of its statement as is the entire joy of the movement.</p>\n<p>-Ryan Harvey</p>",
@@ -3200,7 +4549,7 @@
     "workName": "Trio in E flat major, K. 498",
     "workYear": "1786",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3212,7 +4561,7 @@
     "workName": "Quartet in F major, K. 370",
     "workYear": "1781",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3224,7 +4573,7 @@
     "workName": "Serenade No. 12 in C minor, K. 388",
     "workYear": "1782",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3236,7 +4585,7 @@
     "workName": "Serenade No. 11 in E flat major, K. 375",
     "workYear": "1782",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3248,7 +4597,7 @@
     "workName": "Piano Quartet in G minor, K. 478",
     "workYear": "1785",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3260,7 +4609,7 @@
     "workName": "Piano Trio in B flat major, K. 502",
     "workYear": "1786",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3272,7 +4621,7 @@
     "workName": "Quartet in D minor, K. 421",
     "workYear": "1783",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3284,7 +4633,7 @@
     "workName": "Quartet in B flat major, K. 589",
     "workYear": "1790",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3296,7 +4645,7 @@
     "workName": "Quintet for piano and winds in Eb major, K. 452",
     "workYear": "1784",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3308,7 +4657,7 @@
     "workName": "Quintet in C major, K. 515",
     "workYear": "1787",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3320,7 +4669,7 @@
     "workName": "Quintet in G minor, K. 516",
     "workYear": "1787",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3332,7 +4681,7 @@
     "workName": "Quintet in E flat major, K. 452",
     "workYear": "1784",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3344,7 +4693,7 @@
     "workName": "Sonata in B flat major for bassoon and cello, KV 292",
     "workYear": "1775",
     "workComposer": "wolfgangMozart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3356,7 +4705,7 @@
     "workName": "Lauds",
     "workYear": "1997",
     "workComposer": "mariaNewman",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3368,17 +4717,52 @@
     "workName": "Pennipotenti",
     "workYear": "2005",
     "workComposer": "mariaNewman",
-    "purchaseLink": "http://www.malibufriendsofmusic.org/purchasesheetmusic.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "http://www.malibufriendsofmusic.org/purchasesheetmusic.html"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["N1a.mp3", "Excerpt 1"],
-      ["N1b.mp3", "Excerpt 2"],
-      ["N2.mp3", "Excerpt 3"],
-      ["N3.mp3", "Excerpt 4"],
-      ["N4.mp3", "Excerpt 5"],
-      ["N8.mp3", "Excerpt 6"],
-      ["part9finale.mp3", "Excerpt 7"]
+      {
+        "label": "Excerpt 1",
+        "url": "N1a.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "N1b.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "N2.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "N3.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "N4.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "N8.mp3"
+      },
+
+      {
+        "label": "Excerpt 7",
+        "url": "part9finale.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Ursula Krummel for Pacific Serenades",
     "instrumentation": "for flute, violin, and viola"
@@ -3388,7 +4772,7 @@
     "workName": "Five Pieces",
     "workYear": "1890",
     "workComposer": "carlNielsen",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3400,7 +4784,7 @@
     "workName": "Mahur Saz Semaisi",
     "workYear": "-",
     "workComposer": "kemenceciNikolaki",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3412,7 +4796,7 @@
     "workName": "Duo",
     "workYear": "1975",
     "workComposer": "theodoreNorman",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3424,7 +4808,14 @@
     "workName": "Three Divertimenti",
     "workYear": "2014",
     "workComposer": "jeffreyParola",
-    "purchaseLink": "https://www.subitomusic.com/product/parola-three-divertimenti-for-bassoon-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/parola-three-divertimenti-for-bassoon-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -3436,7 +4827,7 @@
     "workName": "Four Movements",
     "workYear": "1987",
     "workComposer": "alexandraPierce",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3448,7 +4839,7 @@
     "workName": "String Quartet No. 2: Outcrops and Upshots",
     "workYear": "1994",
     "workComposer": "alexandraPierce",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3460,7 +4851,7 @@
     "workName": "Sextet for winds and piano",
     "workYear": "1932",
     "workComposer": "francisPoulenc",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3472,7 +4863,7 @@
     "workName": "Trio for piano, oboe, and bassoon",
     "workYear": "1926",
     "workComposer": "francisPoulenc",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3483,7 +4874,7 @@
     "workName": "Sonata for Clarinet and Piano",
     "workYear": "1962",
     "workComposer": "francisPoulenc",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3495,7 +4886,7 @@
     "workName": "Five Melodies, Op. 35",
     "workYear": "1925",
     "workComposer": "sergeiProkofiev",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3507,7 +4898,7 @@
     "workName": "Sonata in G minor, Op. 19",
     "workYear": "1901",
     "workComposer": "sergeiRachmaninoff",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3519,7 +4910,7 @@
     "workName": "Chanson Madécasses",
     "workYear": "1925",
     "workComposer": "mauriceRavel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3531,7 +4922,7 @@
     "workName": "Introduction and Allegro",
     "workYear": "1906",
     "workComposer": "mauriceRavel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3543,7 +4934,7 @@
     "workName": "Piano Trio in a minor",
     "workYear": "1914",
     "workComposer": "mauriceRavel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3555,7 +4946,7 @@
     "workName": "Sonata for Violin and Cello",
     "workYear": "1920",
     "workComposer": "mauriceRavel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3567,7 +4958,7 @@
     "workName": "String Quartet in F major",
     "workYear": "1903",
     "workComposer": "mauriceRavel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3579,7 +4970,7 @@
     "workName": "Sonata for Violin and Piano",
     "workYear": "1927",
     "workComposer": "mauriceRavel",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3591,7 +4982,14 @@
     "workName": "Sonata: Celtic Wedding",
     "workYear": "1990",
     "workComposer": "paulReale",
-    "purchaseLink": "https://www.subitomusic.com/product/reale-sonata-celtic-wedding-for-violin-piano/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/reale-sonata-celtic-wedding-for-violin-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -3603,7 +5001,7 @@
     "workName": "Eleven Miniatures for Wind Quintet",
     "workYear": "1978",
     "workComposer": "paulReale",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3615,7 +5013,14 @@
     "workName": "Graces and Furies",
     "workYear": "1988",
     "workComposer": "paulReale",
-    "purchaseLink": "https://www.subitomusic.com/product/reale-graces-and-furies-for-clarinet-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/reale-graces-and-furies-for-clarinet-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -3627,7 +5032,7 @@
     "workName": "Intavolatura III",
     "workYear": "1978",
     "workComposer": "paulReale",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3639,7 +5044,7 @@
     "workName": "The Wexford Carol",
     "workYear": "1992",
     "workComposer": "paulReale",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3651,7 +5056,7 @@
     "workName": "Piano Phase",
     "workYear": "1967",
     "workComposer": "steveReich",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3663,7 +5068,7 @@
     "workName": "Quintet in B flat Major",
     "workYear": "1876",
     "workComposer": "nRimskyKorsakov",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3675,7 +5080,7 @@
     "workName": "Nine Episodes for Four Players",
     "workYear": "2001",
     "workComposer": "nedRorem",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3686,7 +5091,7 @@
     "workName": "Trio",
     "workYear": "1960",
     "workComposer": "nedRorem",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3698,7 +5103,7 @@
     "workName": "Selected Russian Songs",
     "workYear": "-",
     "workComposer": "selectedRussian",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3710,7 +5115,7 @@
     "workName": "Caprice on Russian and Danish Airs, Op. 79",
     "workYear": "-",
     "workComposer": "camilleSaintSaens",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3722,7 +5127,7 @@
     "workName": "Sonata for Clarinet and Piano",
     "workYear": "1921",
     "workComposer": "camilleSaintSaens",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3733,7 +5138,7 @@
     "workName": "Tarantella, Op. 6",
     "workYear": "-",
     "workComposer": "camilleSaintSaens",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3745,7 +5150,7 @@
     "workName": "Brechstimme",
     "workYear": "1987",
     "workComposer": "stevenScher",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3757,15 +5162,35 @@
     "workName": "Three Cellos",
     "workYear": "2007",
     "workComposer": "peterSchickele",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["s07-part1.mp3", "Excerpt: Mvt. 1"],
-      ["s07-part2.mp3", "Excerpt: Mvt. 2"],
-      ["s07-part3.mp3", "Excerpt: Mvt. 3"],
-      ["s07-part4A.mp3", "Excerpt: Mvt. 4 (1)"],
-      ["s07-part4B.mp3", "Excerpt: Mvt. 4 (2)"]
+      {
+        "label": "Excerpt: Mvt. 1",
+        "url": "s07-part1.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 2",
+        "url": "s07-part2.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 3",
+        "url": "s07-part3.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (1)",
+        "url": "s07-part4A.mp3"
+      },
+
+      {
+        "label": "Excerpt: Mvt. 4 (2)",
+        "url": "s07-part4B.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Iris Mink for Pacific Serenades",
     "instrumentation": "for three cellos"
@@ -3775,7 +5200,7 @@
     "workName": "Quartettsatz in C minor, D. 103",
     "workYear": "1820",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3787,7 +5212,7 @@
     "workName": "Quintet in C major, D. 956",
     "workYear": "1828",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3799,7 +5224,7 @@
     "workName": "The Shepherd on the Rock, D. 965",
     "workYear": "1828",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3811,7 +5236,7 @@
     "workName": "Trio in B flat major, D. 471",
     "workYear": "1816",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3823,7 +5248,7 @@
     "workName": "Quintet in A major, Op. 114, D. 667",
     "workYear": "1819",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3835,7 +5260,7 @@
     "workName": "Sonata in A major, Op. 162, D. 574",
     "workYear": "1817",
     "workComposer": "franzSchubert",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3847,7 +5272,7 @@
     "workName": "Fantasiestücke, Op. 73",
     "workYear": "1849",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3859,7 +5284,7 @@
     "workName": "Fantasiestücke, Op. 73",
     "workYear": "1849",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3871,7 +5296,7 @@
     "workName": "Märchenbilder (Fairytale Pictures), Op. 113",
     "workYear": "-",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3883,7 +5308,7 @@
     "workName": "Piano Quartet in Eb major, Op. 47",
     "workYear": "1845",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3895,7 +5320,7 @@
     "workName": "Quintet in E flat major, Op. 44",
     "workYear": "1843",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3907,7 +5332,7 @@
     "workName": "Piano Trio in D minor, Op. 63",
     "workYear": "1848",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3919,7 +5344,7 @@
     "workName": "Selected Songs",
     "workYear": "-",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3931,7 +5356,7 @@
     "workName": "String Quartet in a minor, Op. 41",
     "workYear": "1849",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3943,7 +5368,7 @@
     "workName": "Three Romances, Op. 94",
     "workYear": "1849",
     "workComposer": "robertSchumann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -3955,7 +5380,7 @@
     "workName": "Five Preludes from Op. 11",
     "workYear": "1895",
     "workComposer": "alexanderScriabin",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>transcribed by Theodore Norman</p>",
@@ -3967,16 +5392,47 @@
     "workName": "Current Events",
     "workYear": "2003",
     "workComposer": "alexShapiro",
-    "purchaseLink": "https://www.alexshapiro.org/CurrentEventspg1.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.alexshapiro.org/CurrentEventspg1.html"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Surge1.mp3", "Surge 1"],
-      ["Surge2.mp3", "Surge 2"],
-      ["Ebb1.mp3", "Ebb 1"],
-      ["Ebb2.mp3", "Ebb 2"],
-      ["Rip1.mp3", "Rip 1"],
-      ["Rip2.mp3", "Rip 2"]
+      {
+        "label": "Surge 1",
+        "url": "Surge1.mp3"
+      },
+
+      {
+        "label": "Surge 2",
+        "url": "Surge2.mp3"
+      },
+
+      {
+        "label": "Ebb 1",
+        "url": "Ebb1.mp3"
+      },
+
+      {
+        "label": "Ebb 2",
+        "url": "Ebb2.mp3"
+      },
+
+      {
+        "label": "Rip 1",
+        "url": "Rip1.mp3"
+      },
+
+      {
+        "label": "Rip 2",
+        "url": "Rip2.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Gerry Aster and by J. Christopher Kennedy for Pacific Serenades",
     "instrumentation": "for 2 violins, 2 violas, cello"
@@ -3986,16 +5442,47 @@
     "workName": "Short Stories",
     "workYear": "2005",
     "workComposer": "markCarlson",
-    "purchaseLink": "https://www.subitomusic.com/product/carlson-short-stories-for-string-quartet/",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/carlson-short-stories-for-string-quartet/"
+      }
+    ],
+
     "video": [],
     "audio": [
-      ["Ca5-1s.mp3", "Excerpt 1"],
-      ["Ca5-2s.mp3", "Excerpt 2"],
-      ["Ca5-3s.mp3", "Excerpt 3"],
-      ["Ca5-4s.mp3", "Excerpt 4"],
-      ["Ca5-5s.mp3", "Excerpt 5"],
-      ["Ca5-6s.mp3", "Excerpt 6"]
+      {
+        "label": "Excerpt 1",
+        "url": "Ca5-1s.mp3"
+      },
+
+      {
+        "label": "Excerpt 2",
+        "url": "Ca5-2s.mp3"
+      },
+
+      {
+        "label": "Excerpt 3",
+        "url": "Ca5-3s.mp3"
+      },
+
+      {
+        "label": "Excerpt 4",
+        "url": "Ca5-4s.mp3"
+      },
+
+      {
+        "label": "Excerpt 5",
+        "url": "Ca5-5s.mp3"
+      },
+
+      {
+        "label": "Excerpt 6",
+        "url": "Ca5-6s.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Shirley B. Levine for Pacific Serenades",
     "instrumentation": "for string quartet"
@@ -4005,7 +5492,7 @@
     "workName": "String Quartet No. 8 in C minor, Op. 110",
     "workYear": "1960",
     "workComposer": "dmitriShostakovich",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4017,7 +5504,7 @@
     "workName": "Sonata for cello and piano, Op. 40",
     "workYear": "1940",
     "workComposer": "dmitriShostakovich",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4029,7 +5516,7 @@
     "workName": "Piano Trio No. 2 in E minor, Op. 67",
     "workYear": "1944",
     "workComposer": "dmitriShostakovich",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4041,7 +5528,7 @@
     "workName": "String Quartet No. 10 in Ab, Op. 118",
     "workYear": "1964",
     "workComposer": "dmitriShostakovich",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>Shostakovich’s family, originally Polish, settled in Russia two generations before the composer’s birth, when his grandfather was allowed to return from exile in Siberia. His mother gave him his first piano lessons, and at the age of thirteen, he entered the Petrograd Conservatory. When he completed his studies there at age nineteen, his graduation piece was his Symphony No. 1, a brilliant work that was soon performed everywhere in Europe and America. Shostakovich lived a fruitful, fifty-year career during which he proved to be music’s last great classicist, the composer of fifteen symphonies and fifteen string quartets with an important place in the historical line that leads from Haydn to today.</p>\n<p>Shostakovich suffered greatly during World War II, the war Russians call the Great Patriotic War. He lived through the terrible siege of Leningrad, which he memorialized in his Symphony No. 7. He said that the Russian people would never forget or forgive the Nazis’ attempt to destroy Slavic culture. On July 14, 1960, when he finished his String Quartet No. 8, he dedicated it to “the memory of the victims of fascism and War.” The String Quartet No. 9 soon followed, and he completed the 10th on July 20, 1964. Shostakovich had begun to work on it in May at his dacha near Moscow. He carried the work-in-progress with him on his extensive travels and completed it at an artists’ colony in Armenia. He dedicated the score to the composer Moisei Samuilovich Vainberg.</p>\n<p>The Andante opening is an introduction to the raging second movement, Allegretto furioso, a ferocious scherzo. Next comes an Adagio set in the continuous variation form of the passacaglia. It runs without pause into the final Allegretto and Andante. The whole is bound together by the periodic recurrence of themes heard earlier. The first performance was given on November 21, 1964, at the Moscow Conservatory.</p>\n<p>-Tony Spano, Jr.</p>",
@@ -4053,7 +5540,7 @@
     "workName": "String Quartet No. 2 in D minor",
     "workYear": "1883",
     "workComposer": "bedrichSmetana",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4064,7 +5551,7 @@
     "workName": "Trio in G minor, Op. 15",
     "workYear": "1880",
     "workComposer": "bedrichSmetana",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4076,7 +5563,7 @@
     "workName": "Amazing Grace (traditional)",
     "workYear": "1986",
     "workComposer": "melanieSparks",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4088,7 +5575,14 @@
     "workName": "Mulholland Fantasies",
     "workYear": "1997",
     "workComposer": "russellSteinberg",
-    "purchaseLink": "https://www.russellsteinberg.com/scores-chamber-music-1/npii6mmy7ktf1doirihg55mxmpiqw5-ps74y",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.russellsteinberg.com/scores-chamber-music-1/npii6mmy7ktf1doirihg55mxmpiqw5-ps74y"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -4100,7 +5594,14 @@
     "workName": "Ocean Scherzos",
     "workYear": "1987",
     "workComposer": "russellSteinberg",
-    "purchaseLink": "https://www.russellsteinberg.com/scores-chamber-music-1/ocean-scherzos-score-and-parts",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.russellsteinberg.com/scores-chamber-music-1/ocean-scherzos-score-and-parts"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -4112,7 +5613,14 @@
     "workName": "Mixed Blessings",
     "workYear": "1995",
     "workComposer": "johnSteinmetz",
-    "purchaseLink": "https://www.trevcomusic.com/products/tco-1544-steinmetz-john-mixed-blessings-ob-bsn-vln-cel-hpschd",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.trevcomusic.com/products/tco-1544-steinmetz-john-mixed-blessings-ob-bsn-vln-cel-hpschd"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -4124,8 +5632,21 @@
     "workName": "War Scrap",
     "workYear": "2000",
     "workComposer": "johnSteinmetz",
-    "purchaseLink": "https://www.subitomusic.com/product/steinmetz-war-scrap-for-violin-violoncello-percussion-piano/",
-    "video": [["https://www.youtube.com/watch?v=uA1NDWc_o9U&amp;list=PLWzOF_7a7S5mUAO4SMxBLi6MzeTRV86tM", "Listen on YouTube"]],
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.subitomusic.com/product/steinmetz-war-scrap-for-violin-violoncello-percussion-piano/"
+      }
+    ],
+
+    "video": [
+      {
+        "label": "Listen on YouTube",
+        "url": "https://www.youtube.com/watch?v=uA1NDWc_o9U&amp;list=PLWzOF_7a7S5mUAO4SMxBLi6MzeTRV86tM"
+      }
+    ],
+
     "audio": [],
     "description": "",
     "commissionedBy": "Commissioned by Jack & Florence Irving for Pacific Serenades"
@@ -4135,7 +5656,7 @@
     "workName": "For Miro Vlabimian",
     "workYear": "1986",
     "workComposer": "christopherStowens",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4147,7 +5668,7 @@
     "workName": "Selected Songs",
     "workYear": "-",
     "workComposer": "richardStrauss",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>Allerseelen<br>\nNacht<br>\nStändchen<br>\nMorgen<br>\nZueignen</p>",
@@ -4159,7 +5680,7 @@
     "workName": "Concertino",
     "workYear": "1920",
     "workComposer": "igorStravinsky",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4170,7 +5691,7 @@
     "workName": "Duo Contertant",
     "workYear": "1932",
     "workComposer": "igorStravinsky",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4181,7 +5702,7 @@
     "workName": "March, Waltz, and Polka",
     "workYear": "1915",
     "workComposer": "igorStravinsky",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "<p>transcribed by Matthew Elgart</p>",
@@ -4193,7 +5714,7 @@
     "workName": "String Quartet No. 3",
     "workYear": "2016",
     "workComposer": "yalilGuerra",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4204,7 +5725,7 @@
     "workName": "Four Pieces for violin and piano, Op.17",
     "workYear": "1900",
     "workComposer": "josefSuk",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4216,7 +5737,7 @@
     "workName": "Taksim Mahur",
     "workYear": "-",
     "workComposer": "traditional",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4228,7 +5749,7 @@
     "workName": "Suite",
     "workYear": "-",
     "workComposer": "alexandreTansman",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4240,7 +5761,7 @@
     "workName": "Sonata in G minor",
     "workYear": "1745",
     "workComposer": "giuseppeTartini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4252,7 +5773,7 @@
     "workName": "Sonata in G minor, Op. 1, No. 10",
     "workYear": "1731",
     "workComposer": "giuseppeTartini",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4264,17 +5785,45 @@
     "workName": "Scatterings",
     "workYear": "2012",
     "workComposer": "duaneTatro",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [
-      ["Tat12-1a.mp3", "Excerpt: Diffusion (1)"],
-      ["Tat12-1b.mp3", "Excerpt: Diffusion (2)"],
-      ["Tat12-2a.mp3", "Excerpt: Fragments (1)"],
-      ["Tat12-2b.mp3", "Excerpt: Fragments (2)"],
-      ["Tat12-3a.mp3", "Excerpt: Gathering (1)"],
-      ["Tat12-3b.mp3", "Excerpt: Gathering (2)"],
-      ["Tat12-3cf.mp3", "Excerpt: Conclusion"]
+      {
+        "label": "Excerpt: Diffusion (1)",
+        "url": "Tat12-1a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Diffusion (2)",
+        "url": "Tat12-1b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Fragments (1)",
+        "url": "Tat12-2a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Fragments (2)",
+        "url": "Tat12-2b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Gathering (1)",
+        "url": "Tat12-3a.mp3"
+      },
+
+      {
+        "label": "Excerpt: Gathering (2)",
+        "url": "Tat12-3b.mp3"
+      },
+
+      {
+        "label": "Excerpt: Conclusion",
+        "url": "Tat12-3cf.mp3"
+      }
     ],
+
     "description": "",
     "commissionedBy": "Commissioned by Bernice & Wendell Jeffrey for Pacific Serenades",
     "instrumentation": "for clarinet, violin, cello, and piano"
@@ -4284,7 +5833,7 @@
     "workName": "Sonata in D minor, TWV 41:d2",
     "workYear": "-",
     "workComposer": "georgTelemann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4296,7 +5845,7 @@
     "workName": "Quartet in G minor",
     "workYear": "1738",
     "workComposer": "georgTelemann",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4308,7 +5857,7 @@
     "workName": "Stanzas, Book VIII (selected movements)",
     "workYear": "1987",
     "workComposer": "lesThimmig",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4320,7 +5869,24 @@
     "workName": "Twilight",
     "workYear": "1990",
     "workComposer": "markCarlson",
-    "purchaseLink": "http://store.subitomusic.com/index.php?main_page=product_info&amp;cPath=3_102_1164&amp;products_id=7727&amp;zenid=f1d96ec65429b7d2d7024c669e0bab61",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "Score",
+        "url": "https://www.subitomusic.com/product/carlson-twilight-from-hall-of-mirrors-for-solo-cello-string-orchestra/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Set of Parts",
+        "url": "https://www.subitomusic.com/product/carlson-twilight-from-hall-of-mirrors-for-solo-cello-string-orchestra-2/"
+      },
+      {
+        "label": "Purchase",
+        "variant": "Piano Score",
+        "url": "https://www.subitomusic.com/product/carlson-twilight-from-the-hall-of-mirrors-for-violoncello-piano/"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -4331,7 +5897,7 @@
     "workName": "Six Studies in English Folk-Song, for cello and harp",
     "workYear": "1926",
     "workComposer": "vaughanWilliams",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4343,7 +5909,7 @@
     "workName": "Sonata in C minor, RV 53",
     "workYear": "-",
     "workComposer": "antonioVivaldi",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4355,7 +5921,7 @@
     "workName": "Sonata in D major, F XIII No. 6",
     "workYear": "-",
     "workComposer": "antonioVivaldi",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4367,7 +5933,7 @@
     "workName": "Trio in G minor, Op. 63",
     "workYear": "1819",
     "workComposer": "carlVonWeber",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4379,7 +5945,7 @@
     "workName": "Spring Hodge-Podge",
     "workYear": "2002",
     "workComposer": "shirleyWalker",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4391,7 +5957,7 @@
     "workName": "Five Movements for String Quartet, Op. 5",
     "workYear": "1909",
     "workComposer": "antonWebern",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4403,7 +5969,7 @@
     "workName": "Wellington's Underture",
     "workYear": "1986",
     "workComposer": "williamWeingarden",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4415,7 +5981,7 @@
     "workName": "Selected Songs",
     "workYear": "-",
     "workComposer": "hugoWolf",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
@@ -4427,7 +5993,14 @@
     "workName": "Impressions",
     "workYear": "2002",
     "workComposer": "gernotWolfgang",
-    "purchaseLink": "https://www.boosey.com/shop/prod/Wolfgang-Gernot-Impressions-clarinet-bassoon-horn-violin-viola-cello-and-double-bass/2132388",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.boosey.com/shop/prod/Wolfgang-Gernot-Impressions-clarinet-bassoon-horn-violin-viola-cello-and-double-bass/2132388"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -4439,7 +6012,14 @@
     "workName": "String Theory",
     "workYear": "2013",
     "workComposer": "gernotWolfgang",
-    "purchaseLink": "https://www.sheetmusicplus.com/en/product/string-theory-fur-streichquartett-20177330.html",
+    "links": [
+      {
+        "label": "Purchase",
+        "variant": "",
+        "url": "https://www.sheetmusicplus.com/en/product/string-theory-fur-streichquartett-20177330.html"
+      }
+    ],
+
     "video": [],
     "audio": [],
     "description": "",
@@ -4451,7 +6031,7 @@
     "workName": "Two Pieces for Prepared Guitars",
     "workYear": "1987",
     "workComposer": "peterYatesAndMatthewElgart",
-    "purchaseLink": "",
+    "links": [],
     "video": [],
     "audio": [],
     "description": "",
