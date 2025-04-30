@@ -1,0 +1,18 @@
+# Correctly identify JavaScript and JSX files
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.mjs linguist-language=JavaScript
+
+# Ensure Next.js config files are recognized as JavaScript
+next.config.* linguist-language=JavaScript
+postcss.config.* linguist-language=JavaScript
+tailwind.config.* linguist-language=JavaScript
+
+# Mark workshop scripts as JavaScript
+workshop/*.js linguist-language=JavaScript
+
+# Documentation
+*.md linguist-documentation
+
+# Exclude node_modules from language statistics
+node_modules/* linguist-vendored
