@@ -2,7 +2,7 @@ import HtmlParagraph from "../HtmlParagraph";
 import MusicianProfileBlock from "./MusicianProfileBlock";
 import MusicianWorksPerformedSection from "./MusicianWorksPerformed";
 
-export default function MusicianComponent({ musician, works }) {
+export default function MusicianComponent({ musician, concerts }) {
   return (
     <section className="top-container flex flex-col py-6">
       <div className="musician-top-container composer-top-container">
@@ -16,7 +16,7 @@ export default function MusicianComponent({ musician, works }) {
           ""
         )}
         <hr />
-        <MusicianWorksPerformedSection works={works} />
+        <MusicianWorksPerformedSection musicianId={musician.id} concerts={concerts} />
       </div>
     </section>
   );

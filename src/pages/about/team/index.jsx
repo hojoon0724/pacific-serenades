@@ -11,7 +11,7 @@ export default function OurTeam({}) {
         <div className="pac-ser-team-container flex flex-col justify-center items-center">
           <div className="staff-bios-container flex flex-col justify-center items-center gap-4 mx-auto h-fit">
             {staffData.map((staff) => (
-              <div className="staff-bio-section p-6" key={staff.name}>
+              <div className="staff-bio-section" key={staff.name}>
                 <StaffBioBlock staff={staff} />
               </div>
             ))}
