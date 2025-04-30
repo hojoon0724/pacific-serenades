@@ -24,9 +24,6 @@
   }
 }
 
-/* * {
-  border: 1px solid green;
-} */
 
 html {
   scroll-behavior: smooth;
@@ -41,7 +38,10 @@ body {
 }
 
 main {
-  @apply h-[100svh] w-[100svw] absolute overflow-auto;
+  @apply w-full relative;
+}
+main > div:first-child {
+  padding-top: clamp(5px, 5svw, 50px);
 }
 
 /* #__next {
@@ -192,7 +192,7 @@ footer {
 }
 
 .mobile-menu-container {
-  margin-top: clamp(100px, 10svh, 200px);
+  margin-top: clamp(100px, 15svw, 200px);
   text-align: right;
 }
 
