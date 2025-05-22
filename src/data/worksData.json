@@ -11,6 +11,42 @@
     "commissionedBy": "",
     "instrumentation": ""
   },
+  "borodinStringQuartet": {
+    "id": "borodinStringQuartet",
+    "workName": "String Quartet No. 2 in D Major",
+    "workYear": "",
+    "workComposer": "alexanderBorodin",
+    "links": [],
+    "video": [{ "label": "", "url": "" }],
+    "audio": [{ "label": "", "url": "" }],
+    "description": "",
+    "commissionedBy": "",
+    "instrumentation": "for string quartet"
+  },
+  "nesterovStringQuartet": {
+    "id": "nesterovStringQuartet",
+    "workName": "String Quartet",
+    "workYear": "",
+    "workComposer": "sergeyNesterov",
+    "links": [],
+    "video": [{ "label": "", "url": "" }],
+    "audio": [{ "label": "", "url": "" }],
+    "description": "",
+    "commissionedBy": "",
+    "instrumentation": "for string quartet"
+  },
+  "halvorsenHandelPassacaglia": {
+    "id": "halvorsenHandelPassacaglia",
+    "workName": "Passacaglia",
+    "workYear": "",
+    "workComposer": "georgFridericHandel",
+    "links": [],
+    "video": [{ "label": "", "url": "" }],
+    "audio": [{ "label": "", "url": "" }],
+    "description": "",
+    "commissionedBy": "",
+    "instrumentation": "for violin and cello"
+  },
 
   "adamsLeJardinProvencale": {
     "id": "adamsLeJardinProvencale",

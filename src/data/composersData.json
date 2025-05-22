@@ -1,4 +1,28 @@
 {
+  "alexanderBorodin": {
+    "id": "alexanderBorodin",
+    "show": false,
+    "fullName": "Alexander Borodin",
+    "firstName": "Alexander",
+    "lastName": "Borodin",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": ""
+  },
+  "sergeyNesterov": {
+    "id": "sergeyNesterov",
+    "show": true,
+    "fullName": "Sergey Nesterov",
+    "firstName": "Sergey",
+    "lastName": "Nesterov",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "/photos/sergeyNesterov.jpg",
+    "bio": ""
+  },
   "adrienneAlbert": {
     "id": "adrienneAlbert",
     "show": true,

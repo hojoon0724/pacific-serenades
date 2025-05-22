@@ -1,4 +1,15 @@
 {
+  "californiaStringQuartet": {
+    "id": "californiaStringQuartet",
+    "fullName": "California String Quartet",
+    "firstName": "California",
+    "lastName": "String Quartet",
+    "born": "",
+    "died": "",
+    "website": "",
+    "photo": "",
+    "bio": "The California String Quartet was formed in 2002 by members of the Los Angeles Chamber Orchestra who were busy in the recording industry, as an artistic outlet and a way to explore chamber music  written by composers of the past and of the present. Their goal was to present ”endless diversity and beauty of the more intimate chamber music repertoire”<br/>The current members are Luanne Homzy (violin 1), Hana Kim (violin 2), Dave Walther (viola), and Evgeny Tonkha (cello). They all individually have extensive experience as chamber musicians - including 1st prizes at international competitions, orchestral musicians, and recording musicians. Together, they deliver sincere and emotional interpretations of classic repertoire with flawless technique, and are excited to introduce the world to new compositions by living composers. "
+  },
   "allanVogel": {
     "id": "allanVogel",
     "fullName": "Allan Vogel",

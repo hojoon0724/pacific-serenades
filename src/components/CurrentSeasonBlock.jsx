@@ -1,25 +1,19 @@
 export default function CurrentSeason({}) {
   const seasonDetails = [
     // {
-    //   id: "amalHope",
-    //   year: "2024",
-    //   concertTitle: "Amal/Hope: Bending Space, Crossing Time",
+    //   id: "borodinNesterov",
+    //   year: "2025",
+    //   concertTitle: "Borodin & Nesterov featuring the California String Quartet",
     //   dates: [
     //     {
-    //       date: "2024-10-19T03:00:00Z",
-    //       time: "20:00",
-    //       venue: "Zipper Hall at the Colburn School",
-    //       venueId: "zipperHallColburn",
+    //       date: "2025-06-13T02:30:00Z",
+    //       time: "19:30",
+    //       venue: "Schoenberg Hall, UCLA Herb Alpert School of Music",
+    //       venueId: "schoenbergHall",
     //     },
     //   ],
-    //   program: [
-    //     "krykaBachBwv552",
-    //     "krykaCentennialVar",
-    //     "krykaBachWellTemperedClavier1Cmajor",
-    //     "krykaSalaamShalomPeace",
-    //     "krykaElectricRainbow",
-    //   ],
-    //   musicians: ["duoAmal"],
+    //   program: ["halvorsenHandelPassacaglia", "nesterovStringQuartet", "borodinStringQuartet"],
+    //   musicians: ["californiaStringQuartet"],
     //   ticketsUrl: "www.google.com",
     // },
     // {

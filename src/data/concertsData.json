@@ -1,4 +1,19 @@
 {
+  "borodinNesterov": {
+    "id": "borodinNesterov",
+    "year": "2025",
+    "concertTitle": "Borodin & Nesterov featuring the California String Quartet",
+    "dates": [
+      {
+        "date": "2025-06-13T02:30:00Z",
+        "time": "19:30",
+        "venue": "Schoenberg Hall, UCLA Herb Alpert School of Music",
+        "venueId": "schoenbergHall"
+      }
+    ],
+    "program": ["halvorsenHandelPassacaglia", "nesterovStringQuartet","borodinStringQuartet"],
+    "musicians": ["californiaStringQuartet"]
+  },
   "amalHope": {
     "id": "amalHope",
     "year": "2024",
