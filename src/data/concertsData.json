@@ -12,7 +12,8 @@
       }
     ],
     "program": ["halvorsenHandelPassacaglia", "nesterovStringQuartet","borodinStringQuartet"],
-    "musicians": ["californiaStringQuartet"]
+    "musicians": ["californiaStringQuartet"],
+    "ticketsUrl": "https://pacificserenades.ticketspice.com/borodin-nesterov-featuring-the-california-string-quartet"
   },
   "amalHope": {
     "id": "amalHope",

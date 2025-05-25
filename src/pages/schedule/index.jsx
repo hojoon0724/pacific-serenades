@@ -1,9 +1,19 @@
 import CurrentSeason from "@/components/CurrentSeasonBlock";
+import concertsData from "@/data/concertsData.json";
+import seasonConcertsList from "@/data/seasonConcertsList.json";
 import { useEffect, useState } from "react";
 import PastSeasons from "../../components/PastSeasons";
 
 export default function Schedule() {
   const [showButton, setShowButton] = useState(false);
+  const currentSeasonKeys = seasonConcertsList.current;
+
+  let currentSeasonConcertsDetails = [];
+  currentSeasonKeys.forEach((concertKey) => {
+    if (concertsData[concertKey]) {
+      currentSeasonConcertsDetails.push(concertsData[concertKey]);
+    }
+  });
 
   useEffect(() => {
     // Function to handle scroll event
@@ -41,7 +51,7 @@ export default function Schedule() {
 
   return (
     <div className="top-container flex flex-col items-center justify-center">
-      <CurrentSeason />
+      <CurrentSeason currentSeason={currentSeasonConcertsDetails} />
       <div id="past-seasons" className="pt-4">
         <PastSeasons bgColor={"bg-blue-100"} />
       </div>
