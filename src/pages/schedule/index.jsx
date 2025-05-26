@@ -1,6 +1,7 @@
 import CurrentSeason from "@/components/CurrentSeasonBlock";
 import concertsData from "@/data/concertsData.json";
 import seasonConcertsList from "@/data/seasonConcertsList.json";
+import worksData from "@/data/worksData.json";
 import { useEffect, useState } from "react";
 import PastSeasons from "../../components/PastSeasons";
 
@@ -11,7 +12,23 @@ export default function Schedule() {
   let currentSeasonConcertsDetails = [];
   currentSeasonKeys.forEach((concertKey) => {
     if (concertsData[concertKey]) {
-      currentSeasonConcertsDetails.push(concertsData[concertKey]);
+      // Get the concert data
+      const concertData = { ...concertsData[concertKey] };
+
+      // Add program details from worksData
+      if (concertData.program && Array.isArray(concertData.program)) {
+        concertData.programDetails = concertData.program.map((workId) => {
+          // Get work details or create a default if not found
+          return (
+            worksData[workId] || {
+              workName: workId,
+              instrumentation: "",
+            }
+          );
+        });
+      }
+
+      currentSeasonConcertsDetails.push(concertData);
     }
   });
 
