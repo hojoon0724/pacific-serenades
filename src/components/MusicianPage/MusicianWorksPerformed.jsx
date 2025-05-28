@@ -41,6 +41,7 @@ export default function MusicianWorksPerformedSection({ musicianId, concerts }) 
                                   month: "long",
                                   day: "numeric",
                                   year: "numeric",
+                                  timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
                                 })}
                               </div>
                               {dateObj.venue && <div className="venue text-gray-500 text-sm">{dateObj.venue}</div>}

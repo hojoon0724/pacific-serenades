@@ -5,13 +5,13 @@
     "concertTitle": "Borodin & Nesterov featuring the California String Quartet",
     "dates": [
       {
-        "date": "2025-06-14T02:30:00Z",
+        "date": "2025-06-13T19:30:00-07:00",
         "time": "19:30",
         "venue": "Schoenberg Hall, UCLA Herb Alpert School of Music",
         "venueId": "schoenbergHall"
       }
     ],
-    "program": ["halvorsenHandelPassacaglia", "nesterovStringQuartet","borodinStringQuartet"],
+    "program": ["halvorsenHandelPassacaglia", "nesterovStringQuartet", "borodinStringQuartet"],
     "musicians": ["californiaStringQuartet"],
     "ticketsUrl": "https://pacificserenades.ticketspice.com/borodin-nesterov-featuring-the-california-string-quartet"
   },

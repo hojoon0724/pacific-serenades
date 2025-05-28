@@ -1,7 +1,20 @@
 import Image from "next/image";
 
 export default function EventCard({ event, isLandingPage }) {
-  const eventDate = new Date(event.dates[0].date);
+  // Extract date string (YYYY-MM-DD) from event.dates[0].date
+  const dateOnly = event.dates[0].date.split("T")[0]; // "2025-06-13"
+
+  // Extract time string from event.dates[0].time (e.g. "19:30")
+  const timeString = event.dates[0].time; // "19:30"
+
+  // Combine date + time to create a full Date object in local time (Los Angeles)
+  // The timeString is assumed to be in LA time zone already
+  const [hours, minutes] = timeString.split(":").map(Number);
+  const [year, month, day] = dateOnly.split("-").map(Number);
+
+  // Create date in local time (JS months are zero-based)
+  const eventDate = new Date(year, month - 1, day, hours, minutes);
+
   const currentDate = new Date();
   const isPastEvent = eventDate < currentDate;
 
@@ -9,17 +22,14 @@ export default function EventCard({ event, isLandingPage }) {
   const formatComposerName = (composerKey) => {
     if (!composerKey) return "";
 
-    // Default formatting: convert camelCase to space-separated words
     return composerKey
       .replace(/([A-Z])/g, " $1")
       .replace(/^./, (str) => str.toUpperCase())
       .trim();
   };
 
-  // Create metadata for works - in a real application, this should be part of the JSON data
-  // This is a temporary solution until the data structure can be updated
+  // Metadata for works
   const getWorkMetadata = (workId) => {
-    // Special work metadata - ideally this would be part of the worksData.json
     const specialWorks = {
       halvorsenHandelPassacaglia: {
         displayComposer: "Johan Halvorsen / George Frideric Handel",
@@ -32,12 +42,10 @@ export default function EventCard({ event, isLandingPage }) {
     return specialWorks[workId] || {};
   };
 
-  // Render program item with proper formatting
   const renderProgramItem = (work, index) => {
     const workId = event.program && event.program[index];
     const metadata = workId ? getWorkMetadata(workId) : {};
 
-    // Get composer display name
     let composerDisplay = metadata.displayComposer;
     if (!composerDisplay && work.workComposer) {
       composerDisplay = formatComposerName(work.workComposer);
@@ -46,10 +54,7 @@ export default function EventCard({ event, isLandingPage }) {
     return (
       <>
         {composerDisplay && <>{composerDisplay} - </>}
-        {work.workName} 
-        {/* {
-        work.instrumentation && <span>({work.instrumentation})</span> 
-         } */}
+        {work.workName}
         {metadata.isWorldPremiere && <em className="text-green-600"> (World Premiere)</em>}
       </>
     );
