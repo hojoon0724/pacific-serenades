@@ -46,7 +46,10 @@ export default function EventCard({ event, isLandingPage }) {
     return (
       <>
         {composerDisplay && <>{composerDisplay} - </>}
-        {work.workName} {work.instrumentation && <span>({work.instrumentation})</span>}
+        {work.workName} 
+        {/* {
+        work.instrumentation && <span>({work.instrumentation})</span> 
+         } */}
         {metadata.isWorldPremiere && <em className="text-green-600"> (World Premiere)</em>}
       </>
     );
