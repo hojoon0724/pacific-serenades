@@ -1,7 +1,7 @@
-import StaffPhoto from "@/components/StaffBioBlock";
+import StaffBioBlock from "@/components/StaffBioBlock";
 import StatementJeff from "@/components/StatementJeff";
 import StatementMark from "@/components/StatementMark";
-import StaffBioBlock from "@/components/StaffBioBlock";
+import staffRotatingSecretaryData from "@/data/staff-previous-rotating-secretaries.json";
 import staffData from "@/data/staff.json";
 
 export default function About({}) {
@@ -31,6 +31,21 @@ export default function About({}) {
           <div className="staff-bios-container flex flex-col justify-center items-center gap-4 mx-auto h-fit">
             {staffData.map((staff) => (
               <div className="staff-bio-section p-6" key={staff.name}>
+                <StaffBioBlock staff={staff} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="top-container flex flex-col justify-center items-center">
+        <div className="page-title-container mb-5 mt-5">
+          <h2>Previous Rotating Secretaries</h2>
+        </div>
+        <div className="pac-ser-team-container flex flex-col justify-center items-center">
+          <div className="rotating-secretaries-bios-container flex flex-col justify-center items-center gap-4 mx-auto h-fit">
+            {staffRotatingSecretaryData.map((staff) => (
+              <div className="rotating-secretary-bio-section p-6" key={staff.name}>
                 <StaffBioBlock staff={staff} />
               </div>
             ))}

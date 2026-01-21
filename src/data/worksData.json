@@ -23,6 +23,18 @@
     "commissionedBy": "",
     "instrumentation": "for string quartet"
   },
+  "nesterovGreenerGrass": {
+    "id": "nesterovGreenerGrass",
+    "workName": "Greener Grass (String Quartet No. 3)",
+    "workYear": "2025",
+    "workComposer": "sergeyNesterov",
+    "links": [],
+    "video": [{ "label": "", "url": "" }],
+    "audio": [{ "label": "", "url": "" }],
+    "description": "",
+    "commissionedBy": "",
+    "instrumentation": "for string quartet"
+  },
   "nesterovStringQuartet": {
     "id": "nesterovStringQuartet",
     "workName": "String Quartet",
