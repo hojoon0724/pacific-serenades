@@ -7,7 +7,6 @@
       {
         "date": "2025-06-13T19:30:00-07:00",
         "time": "19:30",
-        "venue": "Schoenberg Hall, UCLA Herb Alpert School of Music",
         "venueId": "schoenbergHall"
       }
     ],
@@ -23,7 +22,6 @@
       {
         "date": "2024-10-19T03:00:00Z",
         "time": "20:00",
-        "venue": "Zipper Hall at the Colburn School",
         "venueId": "zipperHallColburn"
       }
     ],
@@ -38,19 +36,16 @@
       {
         "date": "2011-01-30T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Edwin & Leilani Raquel in Fremont Place",
         "venueId": "edwinAndLeilaniRaquelHome"
       },
       {
         "date": "2011-01-31T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2011-02-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -65,13 +60,11 @@
       {
         "date": "2011-03-13T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2011-03-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -86,19 +79,16 @@
       {
         "date": "2011-04-30T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Ronna Binn-Hersh and Louis R. Hersh",
         "venueId": "ronnaAndLouisHershHome"
       },
       {
         "date": "2011-05-01T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2011-05-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -113,19 +103,16 @@
       {
         "date": "2011-06-04T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Ellen & Harvey Knell (The Blacker House) in Pasadena",
         "venueId": "ellenAndHarveyKnellHome"
       },
       {
         "date": "2011-06-05T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2011-06-08T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -140,13 +127,11 @@
       {
         "date": "1982-03-06T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Lee Burns",
         "venueId": "leeBurnsHome"
       },
       {
         "date": "1982-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Lee Burns",
         "venueId": "leeBurnsHome"
       }
     ],
@@ -161,7 +146,6 @@
       {
         "date": "1986-06-29T22:00:00.000Z",
         "time": "15:00",
-        "venue": "Morgan-Wixson Theater",
         "venueId": "morganWixsonTheater"
       }
     ],
@@ -176,13 +160,11 @@
       {
         "date": "1987-07-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Harvey S. Perloff in Westwood",
         "venueId": "mrsHarveyPerloffHome"
       },
       {
         "date": "1987-07-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Morgan-Wixson Theater",
         "venueId": "morganWixsonTheater"
       }
     ],
@@ -197,13 +179,11 @@
       {
         "date": "1987-01-21T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
         "venueId": "heleneAndDavidRottapelHome"
       },
       {
         "date": "1987-01-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Morgan-Wixson Theater",
         "venueId": "morganWixsonTheater"
       }
     ],
@@ -218,13 +198,11 @@
       {
         "date": "1987-05-20T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills",
         "venueId": "mrsAleenLeslieBeverlyHillsHome"
       },
       {
         "date": "1987-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Morgan-Wixson Theater",
         "venueId": "morganWixsonTheater"
       }
     ],
@@ -239,7 +217,6 @@
       {
         "date": "1987-07-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Jane Welton in Bel-Air",
         "venueId": "janeWeltonBelAirHome"
       }
     ],
@@ -254,13 +231,11 @@
       {
         "date": "1988-03-25T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Dr. & Mrs. Mohammed Gharavi",
         "venueId": "drAndMrsMohammedGharaviHome"
       },
       {
         "date": "1988-03-24T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -275,13 +250,11 @@
       {
         "date": "1988-02-24T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Stanley & Theodora Cornyn in Sherman Oaks",
         "venueId": "stanleyAndTheodoraCornynHome"
       },
       {
         "date": "1988-02-25T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -296,13 +269,11 @@
       {
         "date": "1988-01-06T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
         "venueId": "heleneAndDavidRottapelHome"
       },
       {
         "date": "1988-01-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -317,19 +288,16 @@
       {
         "date": "1988-05-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie",
         "venueId": "mrsAleenLeslieBeverlyHillsHome"
       },
       {
         "date": "1988-05-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie",
         "venueId": "mrsAleenLeslieHome"
       },
       {
         "date": "1988-05-05T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -344,13 +312,11 @@
       {
         "date": "1989-04-13T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Ted Tanaka & Diana Ho in Venice",
         "venueId": "tedTanakaAndDianaHoHome"
       },
       {
         "date": "1989-04-12T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -365,13 +331,11 @@
       {
         "date": "1989-01-26T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Helene & David Rottapel in Sherman Oaks",
         "venueId": "heleneAndDavidRottapelHome"
       },
       {
         "date": "1989-01-27T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -386,13 +350,11 @@
       {
         "date": "1989-03-23T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Eugene Holt in Studio City",
         "venueId": "eugeneHoltHome"
       },
       {
         "date": "1989-03-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -407,13 +369,11 @@
       {
         "date": "1989-05-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mr. & Mrs. Edward Renwick in Pasadena",
         "venueId": "mrAndMrsEdwardRenwickHome"
       },
       {
         "date": "1989-05-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -428,13 +388,11 @@
       {
         "date": "1990-04-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
         "venueId": "davidAndHeleneRottapelHome"
       },
       {
         "date": "1990-04-05T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -449,19 +407,16 @@
       {
         "date": "1990-02-28T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mark & Lynn Schiffmacher in Sherman Oaks",
         "venueId": "markAndLynnSchiffmacherHome"
       },
       {
         "date": "1990-03-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Clark Library",
         "venueId": "westHollywoodLibrary"
       },
       {
         "date": "1990-03-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Clark Library",
         "venueId": "clarkLibrary"
       }
     ],
@@ -476,13 +431,11 @@
       {
         "date": "1990-01-26T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Clark Library",
         "venueId": "westHollywoodLibrary"
       },
       {
         "date": "1990-01-26T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Clark Library",
         "venueId": "clarkLibrary"
       }
     ],
@@ -497,13 +450,11 @@
       {
         "date": "1990-05-09T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mr. & Mrs. Joseph Livio in Westwood",
         "venueId": "josephLivioHome"
       },
       {
         "date": "1990-05-10T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -518,13 +469,11 @@
       {
         "date": "1991-02-03T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
         "venueId": "davidAndHeleneRottapelHome"
       },
       {
         "date": "1991-02-03T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -539,13 +488,11 @@
       {
         "date": "1991-05-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein",
         "venueId": "geraldineSchleinHome"
       },
       {
         "date": "1991-05-19T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -560,13 +507,11 @@
       {
         "date": "1991-04-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Aleen Leslie in Beverly Hills",
         "venueId": "aleenLeslieHome"
       },
       {
         "date": "1991-04-14T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -581,13 +526,11 @@
       {
         "date": "1991-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Bruce & Beverly Gladstone in Sherman Oaks",
         "venueId": "bruceAndBeverlyGladstoneHome"
       },
       {
         "date": "1991-03-10T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -602,13 +545,11 @@
       {
         "date": "1992-04-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1992-04-26T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -623,13 +564,11 @@
       {
         "date": "1992-02-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein",
         "venueId": "geraldineSchleinHome"
       },
       {
         "date": "1992-02-02T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -644,13 +583,11 @@
       {
         "date": "1992-03-08T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Dirk & Susan Zimmerman in Beverly Hills",
         "venueId": "dirkAndSusanZimmermanHome"
       },
       {
         "date": "1992-05-08T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -665,13 +602,11 @@
       {
         "date": "1992-05-31T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Bruce & Beverly Gladstone in Sherman Oaks",
         "venueId": "bruceAndBeverlyGladstoneHome"
       },
       {
         "date": "1992-05-31T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -686,13 +621,11 @@
       {
         "date": "1993-04-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein",
         "venueId": "geraldineSchleinHome"
       },
       {
         "date": "1993-04-18T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -707,13 +640,11 @@
       {
         "date": "1993-02-14T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1993-02-14T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -728,13 +659,11 @@
       {
         "date": "1993-03-14T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
         "venueId": "davidAndHeleneRottapelHome"
       },
       {
         "date": "1993-03-14T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -749,13 +678,11 @@
       {
         "date": "1993-05-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "1993-05-16T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -770,7 +697,6 @@
       {
         "date": "1994-05-01T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -785,7 +711,6 @@
       {
         "date": "1994-09-24T09:00:03.000Z",
         "time": "2::3",
-        "venue": "Weill Recital Hall",
         "venueId": "weillRecitalHall"
       }
     ],
@@ -800,13 +725,11 @@
       {
         "date": "1994-02-20T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1994-02-20T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -821,13 +744,11 @@
       {
         "date": "1994-01-23T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein",
         "venueId": "geraldineSchleinHome"
       },
       {
         "date": "1994-01-23T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -842,13 +763,11 @@
       {
         "date": "1994-03-27T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Aleen Leslie in Beverly Hills",
         "venueId": "aleenLeslieHome"
       },
       {
         "date": "1994-03-27T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -863,13 +782,11 @@
       {
         "date": "1995-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Storyopolis in Beverly Hills",
         "venueId": "storyopolisBeverlyHills"
       },
       {
         "date": "1995-05-21T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -884,13 +801,11 @@
       {
         "date": "1995-02-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1995-02-12T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -905,13 +820,11 @@
       {
         "date": "1995-04-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "1995-04-23T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -926,19 +839,16 @@
       {
         "date": "1995-03-19T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David & Helene Rottapel in Sherman Oaks",
         "venueId": "davidAndHeleneRottapelHome"
       },
       {
         "date": "1995-03-19T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1995-04-09T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -953,19 +863,16 @@
       {
         "date": "1996-02-04T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of David Speltz & Connie Kupka on Mt. Washington",
         "venueId": "davidSpeltzAndConnieKupkaHome"
       },
       {
         "date": "1996-02-04T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1996-02-12T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -980,13 +887,11 @@
       {
         "date": "1996-04-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1996-04-14T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -1001,19 +906,16 @@
       {
         "date": "1996-04-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein in Los Angeles",
         "venueId": "geraldineSchleinHome"
       },
       {
         "date": "1996-04-19T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1996-04-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1028,13 +930,11 @@
       {
         "date": "1996-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "1996-03-10T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -1049,19 +949,16 @@
       {
         "date": "1997-03-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Robert & Ruth Peck in Pasadena (The Cordelia Culbertson House)",
         "venueId": "robertAndRuthPeckHome"
       },
       {
         "date": "1997-03-10T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1997-03-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1076,13 +973,11 @@
       {
         "date": "1997-02-16T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "1997-02-16T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -1097,19 +992,16 @@
       {
         "date": "1997-05-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1997-05-18T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1997-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1124,19 +1016,16 @@
       {
         "date": "1997-04-13T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "1997-04-13T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1997-04-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1151,19 +1040,16 @@
       {
         "date": "1998-02-08T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1998-02-08T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1998-02-11T03:20:00.000Z",
         "time": "19:20",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1178,7 +1064,6 @@
       {
         "date": "1998-01-11T09:00:04.000Z",
         "time": "1::4",
-        "venue": "Old First Church",
         "venueId": "oldFirstChurch"
       }
     ],
@@ -1193,13 +1078,11 @@
       {
         "date": "1998-04-19T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "1998-04-19T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -1214,13 +1097,11 @@
       {
         "date": "1998-05-17T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "1998-05-17T21:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       }
     ],
@@ -1235,19 +1116,16 @@
       {
         "date": "1998-03-15T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mrs. Aleen Leslie in Beverly Hills",
         "venueId": "mrsAleenLeslieBeverlyHillsHome"
       },
       {
         "date": "1998-03-15T22:00:00.000Z",
         "time": "14:00",
-        "venue": "The Biltmore Hotel",
         "venueId": "biltmoreHotel"
       },
       {
         "date": "1998-03-18T03:30:00.000Z",
         "time": "19:30",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1262,19 +1140,16 @@
       {
         "date": "1999-01-31T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "1999-02-01T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "1999-02-03T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1289,19 +1164,16 @@
       {
         "date": "1999-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Aleen Leslie in Beverly Hills",
         "venueId": "aleenLeslieHome"
       },
       {
         "date": "1999-03-08T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "1999-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1316,19 +1188,16 @@
       {
         "date": "1999-05-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "1999-05-23T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "1999-06-02T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1343,19 +1212,16 @@
       {
         "date": "1999-04-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Allen & Jane Fink in Burbank",
         "venueId": "allenAndJaneFinkHome"
       },
       {
         "date": "1999-04-18T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "1999-04-28T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1370,19 +1236,16 @@
       {
         "date": "2000-04-16T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2000-04-16T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2000-04-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1397,19 +1260,16 @@
       {
         "date": "2000-02-05T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "2000-02-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2000-02-08T03:00:00.000Z",
         "time": "20:00",
-        "venue": "",
         "venueId": ""
       }
     ],
@@ -1424,19 +1284,16 @@
       {
         "date": "2000-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Anne Keeler in Pacific Palisades",
         "venueId": "anneKeelerHome"
       },
       {
         "date": "2000-05-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2000-05-31T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1451,19 +1308,16 @@
       {
         "date": "2000-03-11T23:00:00.000Z",
         "time": "15:00",
-        "venue": "the home of David & Dona Schultz in Pasadena",
         "venueId": "davidAndDonaSchultzHome"
       },
       {
         "date": "2000-03-13T03:00:00.000Z",
         "time": "19:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2000-03-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1478,19 +1332,16 @@
       {
         "date": "2001-06-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2001-06-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2001-06-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1505,19 +1356,16 @@
       {
         "date": "2001-02-11T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Geraldine Schlein in Los Angeles",
         "venueId": "geraldineSchleinHome"
       },
       {
         "date": "2001-02-12T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2001-02-23T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1532,19 +1380,16 @@
       {
         "date": "2001-03-18T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Anne Keeler in Pacific Palisades",
         "venueId": "anneKeelerHome"
       },
       {
         "date": "2001-03-19T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2001-03-21T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1559,19 +1404,16 @@
       {
         "date": "2001-04-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "2001-04-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2001-05-02T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1586,19 +1428,16 @@
       {
         "date": "2002-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Ralph & Norma Wolfstein in Los Feliz",
         "venueId": "ralphAndNormaWolfsteinHome"
       },
       {
         "date": "2002-03-11T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2002-03-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1613,19 +1452,16 @@
       {
         "date": "2002-02-21T04:00:00.000Z",
         "time": "20:00",
-        "venue": "Home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2002-02-03T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2002-02-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "",
         "venueId": ""
       }
     ],
@@ -1640,19 +1476,16 @@
       {
         "date": "2002-04-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "2002-04-14T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2002-04-24T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1667,19 +1500,16 @@
       {
         "date": "2002-05-12T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Mary Anderson in Brentwood",
         "venueId": "maryAndersonHome"
       },
       {
         "date": "2002-05-12T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2002-05-22T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1694,19 +1524,16 @@
       {
         "date": "2003-05-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Elyse & Stanley Grinstein in Brentwood",
         "venueId": "elyseAndStanleyGrinsteinHome"
       },
       {
         "date": "2003-05-18T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2003-05-21T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1721,19 +1548,16 @@
       {
         "date": "2003-03-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Alice & Joe Coulombe in Pasadena",
         "venueId": "aliceAndJoeCoulombeHome"
       },
       {
         "date": "2003-03-10T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2003-03-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1748,19 +1572,16 @@
       {
         "date": "2003-04-13T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2003-04-13T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2003-04-23T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1775,19 +1596,16 @@
       {
         "date": "2003-02-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Paul & Martine Verhoeven in Pacific Palisades",
         "venueId": "paulAndMartineVerhoevenHome"
       },
       {
         "date": "2003-02-03T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2003-02-05T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1802,19 +1620,16 @@
       {
         "date": "2004-04-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2004-04-25T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2004-04-28T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1829,19 +1644,16 @@
       {
         "date": "2004-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Evan & Ronna Binn in Tarzana",
         "venueId": "evanAndRonnaBinnHome"
       },
       {
         "date": "2004-03-08T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2004-03-17T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1856,19 +1668,16 @@
       {
         "date": "2004-06-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Elyse & Stanley Grinstein in Brentwood",
         "venueId": "elyseAndStanleyGrinsteinHome"
       },
       {
         "date": "2004-06-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2004-06-09T03:40:00.000Z",
         "time": "20:40",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1883,19 +1692,16 @@
       {
         "date": "2004-02-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Diego Miralles & Michelle Feynman in Altadena",
         "venueId": "diegoMirallesAndMichelleFeynmanHome"
       },
       {
         "date": "2004-02-02T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2004-02-11T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1910,13 +1716,11 @@
       {
         "date": "2005-05-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2005-05-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1931,19 +1735,16 @@
       {
         "date": "2005-01-09T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ellene & Harvey Knell in Pasadena (The Blacker House)",
         "venueId": "elleneAndHarveyKnellPasadenaHome"
       },
       {
         "date": "2005-01-10T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2005-01-12T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1958,19 +1759,16 @@
       {
         "date": "2005-02-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Alice & Joe Coulombe in Pasadena",
         "venueId": "aliceAndJoeCoulombeHome"
       },
       {
         "date": "2005-02-14T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2005-02-16T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -1985,19 +1783,16 @@
       {
         "date": "2005-04-03T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2005-04-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2005-04-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2012,13 +1807,11 @@
       {
         "date": "2006-03-27T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2006-03-29T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2033,7 +1826,6 @@
       {
         "date": "2006-05-24T03:00:00.000Z",
         "time": "20:00",
-        "venue": "Schoenberg Auditorium",
         "venueId": "schoenbergAuditorium"
       }
     ],
@@ -2048,19 +1840,16 @@
       {
         "date": "2006-04-30T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ronna Binn in Tarzana",
         "venueId": "ronnaBinnHomeTarzana"
       },
       {
         "date": "2006-04-30T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2006-05-03T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2075,19 +1864,16 @@
       {
         "date": "2006-06-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Ellen & Harvey Knell in Pasadena (the Blacker House)",
         "venueId": "ellenAndHarveyKnellPasadenaHome"
       },
       {
         "date": "2006-06-04T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2006-06-07T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2102,13 +1888,11 @@
       {
         "date": "2006-02-20T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2006-02-22T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2123,19 +1907,16 @@
       {
         "date": "2007-06-02T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Barry & Donna Goldfarb in Brentwood",
         "venueId": "barryAndDonnaGoldfarbHome"
       },
       {
         "date": "2007-06-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2007-06-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2150,19 +1931,16 @@
       {
         "date": "2007-03-04T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of Edwin & Leilani Raquel in Hancock Park",
         "venueId": "edwinAndLeilaniRaquelHancockParkHome"
       },
       {
         "date": "2007-03-05T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2007-03-07T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2177,19 +1955,16 @@
       {
         "date": "2007-04-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Kimberly Rose & Michael Shannon in La Cañada",
         "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
         "date": "2007-04-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2007-04-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2204,19 +1979,16 @@
       {
         "date": "2007-01-28T04:00:00.000Z",
         "time": "20:00",
-        "venue": "the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2007-01-29T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       },
       {
         "date": "2007-01-31T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2231,13 +2003,11 @@
       {
         "date": "2008-04-27T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2008-04-30T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2252,19 +2022,16 @@
       {
         "date": "2008-03-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2008-03-03T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2008-03-05T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2279,19 +2046,16 @@
       {
         "date": "2008-05-31T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Edwin & Leilani Raquel in Hancock Park",
         "venueId": "edwinAndLeilaniRaquelHancockParkHome"
       },
       {
         "date": "2008-06-01T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2008-06-04T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2306,19 +2070,16 @@
       {
         "date": "2008-01-27T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Lucy McCoy & Paul Bacigalupo in Encino",
         "venueId": "lucyMcCoyAndPaulBacigalupoHome"
       },
       {
         "date": "2008-01-28T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2008-01-30T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2333,19 +2094,16 @@
       {
         "date": "2009-05-02T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of Susan Key & Michael Pratt in Brentwood",
         "venueId": "susanKeyAndMichaelPrattHome"
       },
       {
         "date": "2009-05-03T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2009-05-06T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2360,13 +2118,11 @@
       {
         "date": "2009-03-22T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2009-03-25T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2381,19 +2137,16 @@
       {
         "date": "2009-02-08T04:00:00.000Z",
         "time": "20:00",
-        "venue": "at the home of Stephen & Sonya Blake in Valley Glen",
         "venueId": "stephenAndSonyaBlakeHome"
       },
       {
         "date": "2009-02-09T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2009-02-11T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2408,19 +2161,16 @@
       {
         "date": "2009-06-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "at the home of John & Barbara McLoughlin in Brentwood",
         "venueId": "johnAndBarbaraMcLoughlinHome"
       },
       {
         "date": "2009-06-07T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2009-06-10T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2435,19 +2185,16 @@
       {
         "date": "2010-04-24T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Edwin & Leilani Raquel in Fremont Place",
         "venueId": "edwinAndLeilaniRaquelHome"
       },
       {
         "date": "2010-04-25T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2010-04-28T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2462,13 +2209,11 @@
       {
         "date": "2010-03-08T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2010-03-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2483,19 +2228,16 @@
       {
         "date": "2010-06-05T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Barry & Donna Goldfarb in Brentwood",
         "venueId": "barryAndDonnaGoldfarbHome"
       },
       {
         "date": "2010-06-06T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2010-06-09T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2510,19 +2252,16 @@
       {
         "date": "2010-01-31T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The home of Joanna Brody & Thomas Aujero Small in Culver City",
         "venueId": "joannaBrodyAndThomasAujeroSmallHome"
       },
       {
         "date": "2010-02-01T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2010-02-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2537,7 +2276,6 @@
       {
         "date": "2012-06-02T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood Library",
         "venueId": "westHollywoodLibrary"
       }
     ],
@@ -2552,19 +2290,16 @@
       {
         "date": "2012-03-04T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Gloria Putnam & Stephen Rudicel (The Zane Grey House) in Altadena",
         "venueId": "gloriaPutnamAndStephenRudicelHome"
       },
       {
         "date": "2012-03-05T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2012-03-14T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2579,19 +2314,16 @@
       {
         "date": "2012-05-19T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Kimberly Rose & Michael Shannon in La Cañada",
         "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
         "date": "2012-05-20T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2012-05-30T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2606,19 +2338,16 @@
       {
         "date": "2012-04-14T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Home of Richard Norton & Stephanie Rasines (The Culbertson Sisters House) in Pasadena",
         "venueId": "richardNortonAndStephanieRasinesHome"
       },
       {
         "date": "2012-04-15T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2012-04-18T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2633,25 +2362,21 @@
       {
         "date": "2012-01-29T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The Home of Trice Koopman & Mark Freund in Pacific Palisades",
         "venueId": "triceKoopmanAndMarkFreundHome"
       },
       {
         "date": "2012-01-30T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2012-02-01T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       },
       {
         "date": "2012-02-02T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood City Council Chambers",
         "venueId": "westHollywoodCityCouncilChambers"
       }
     ],
@@ -2666,19 +2391,16 @@
       {
         "date": "2013-06-01T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Bonnie MacBird & Alan Kay in Brentwood",
         "venueId": "bonnieMacBirdAndAlanKayHome"
       },
       {
         "date": "2013-06-02T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2013-06-05T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2693,13 +2415,11 @@
       {
         "date": "2013-03-17T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2013-03-20T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2714,19 +2434,16 @@
       {
         "date": "2013-02-10T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The home of Michael Schneikert & Karen Otamura in Pasadena",
         "venueId": "michaelSchneikertAndKarenOtamuraHome"
       },
       {
         "date": "2013-02-11T00:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2013-02-13T04:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2741,19 +2458,16 @@
       {
         "date": "2013-05-04T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Mark Freund & Trice Koopman in Pacific Palisades",
         "venueId": "markFreundAndTriceKoopmanHome"
       },
       {
         "date": "2013-05-05T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The Neighborhood Church in Pasadena",
         "venueId": "neighborhoodChurchPasadena"
       },
       {
         "date": "2013-05-08T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The UCLA Faculty Center",
         "venueId": "uclaFacultyCenter"
       }
     ],
@@ -2768,13 +2482,11 @@
       {
         "date": "2014-06-21T23:00:00.000Z",
         "time": "16:00",
-        "venue": "The home of Kimberly Rose & Michael Shannon in La Cañada",
         "venueId": "kimberlyRoseAndMichaelShannonHome"
       },
       {
         "date": "2014-06-26T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood City Council Chambers",
         "venueId": "westHollywoodCityCouncilChambers"
       }
     ],
@@ -2789,7 +2501,6 @@
       {
         "date": "2015-06-11T03:00:00.000Z",
         "time": "20:00",
-        "venue": "The West Hollywood City Council Chambers",
         "venueId": "westHollywoodCityCouncilChambers"
       }
     ],
@@ -2803,14 +2514,12 @@
     "dates": [
       {
         "date": "2016-06-26T11:00:00.000Z",
-        "time": "4:00",
-        "venue": "The Home of Mark Freund & Trice Koopman in Pacific Palisades",
+        "time": "16:00",
         "venueId": "markFreundAndTriceKoopmanHome"
       },
       {
         "date": "2016-06-28T15:00:00.000Z",
-        "time": "8:00",
-        "venue": "The UCLA Faculty Center",
+        "time": "20:00",
         "venueId": "uclaFacultyCenter"
       }
     ],
