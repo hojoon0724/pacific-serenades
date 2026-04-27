@@ -251,3 +251,28 @@ button {
 overline {
   @apply text-overline;
 }
+
+blockquote {
+  @apply border-l-4 border-gray-400 pl-4 italic my-6;
+}
+
+@keyframes spin-counterclockwise {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+.circular-text-spin {
+  animation: spin-counterclockwise 32s linear infinite;
+  transform-origin: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .circular-text-spin {
+    animation: none;
+  }
+}
