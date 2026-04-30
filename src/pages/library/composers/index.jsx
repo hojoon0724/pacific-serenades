@@ -1,15 +1,18 @@
-import Image from "next/image";
-import Link from "next/link";
-import composersData from "@/data/composersData.json";
 import ComposerCard from "@/components/ComposerPage/ComposerCard";
+import Link from "next/link";
 
-const sortedArr = Object.entries(composersData).sort(([, obj1], [, obj2]) =>
-  obj1.lastName.localeCompare(obj2.lastName),
-);
+export async function getStaticProps() {
+  const composersData = (await import("@/data/serving/composersData.json")).default;
 
-const composersDataSortedByLastName = Object.fromEntries(sortedArr);
+  const composers = Object.entries(composersData)
+    .filter(([, c]) => c.show !== false)
+    .sort(([, a], [, b]) => a.lastName.localeCompare(b.lastName))
+    .map(([id, c]) => ({ id, fullName: c.fullName, lastName: c.lastName, photo: c.photo }));
 
-export default function Composers() {
+  return { props: { composers } };
+}
+
+export default function Composers({ composers }) {
   return (
     <div className="top-container mx-4 flex flex-col justify-center items-center">
       <h1 className="my-8">Composers</h1>
@@ -20,18 +23,11 @@ export default function Composers() {
         </p>
       </div>
       <section className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 items-center w-fit justify-center">
-        {Object.keys(composersDataSortedByLastName).map((key) => {
-          if (composersDataSortedByLastName[key].show === false) {
-            return null;
-          } else {
-            const composer = composersDataSortedByLastName[key];
-            return (
-              <Link href={`/library/composers/${key}`} key={key}>
-                <ComposerCard composer={composer} />
-              </Link>
-            );
-          }
-        })}
+        {composers.map((composer, i) => (
+          <Link href={`/library/composers/${composer.id}`} key={composer.id}>
+            <ComposerCard composer={composer} priority={i < 12} />
+          </Link>
+        ))}
       </section>
     </div>
   );

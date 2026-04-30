@@ -1,5 +1,8 @@
 # Pacific Serenades Website
 
+## Rules
+Text is in MD stored as string
+
 ## Description
 
 This is the Pacific Serenades's new website built in 2024. The original website was built on WordPress and due to lack of maintenance since 2016, it has become unmanageable. This website is built with:

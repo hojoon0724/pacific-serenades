@@ -1,7 +1,7 @@
 import { Card, CardFooter } from "@nextui-org/react";
 import Image from "next/image";
 
-export default function ComposerCard({ composer }) {
+export default function ComposerCard({ composer, priority = false }) {
   return (
     <Card isFooterBlurred radius="lg" className="border-none aspect-square">
       {composer.photo === "" ? (
@@ -11,6 +11,7 @@ export default function ComposerCard({ composer }) {
           src={composer.photo}
           alt={`${composer.fullName} photo`}
           fill
+          priority={priority}
           style={{
             objectFit: "cover",
             objectPosition: "center",

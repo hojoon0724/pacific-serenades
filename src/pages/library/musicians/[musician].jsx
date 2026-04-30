@@ -1,6 +1,6 @@
 import MusicianComponent from "@/components/MusicianPage/MusicianComponent";
-import concertsData from "@/data/concertsData.json";
-import musiciansData from "@/data/musiciansData.json";
+import concertsData from "@/data/serving/concertsData.json";
+import musiciansData from "@/data/serving/musiciansData.json";
 
 export async function getStaticPaths() {
   // File name === [Musician].jsx

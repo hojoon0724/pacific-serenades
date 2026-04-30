@@ -1,7 +1,11 @@
 import StaffBioBlock from "@/components/StaffBioBlock";
-import staffData from "@/data/staff.json";
 
-export default function OurTeam({}) {
+export async function getStaticProps() {
+  const staffData = (await import("@/data/staff.json")).default;
+  return { props: { staffData } };
+}
+
+export default function OurTeam({ staffData }) {
   return (
     <div className="top-container flex flex-col justify-center items-center">
       <div className="w-screen flex flex-col justify-center items-center m-0">

@@ -1,36 +1,32 @@
 import CurrentSeason from "@/components/CurrentSeasonBlock";
-import concertsData from "@/data/concertsData.json";
-import seasonConcertsList from "@/data/seasonConcertsList.json";
-import worksData from "@/data/worksData.json";
 import { useEffect, useState } from "react";
 import PastSeasons from "../../components/PastSeasons";
 
-export default function Schedule() {
-  const [showButton, setShowButton] = useState(false);
-  const currentSeasonKeys = seasonConcertsList.current;
+export async function getStaticProps() {
+  const concertsData = (await import("@/data/serving/concertsData.json")).default;
+  const seasons = (await import("@/data/serving/seasons.json")).default;
+  const worksData = (await import("@/data/serving/worksData.json")).default;
 
-  let currentSeasonConcertsDetails = [];
-  currentSeasonKeys.forEach((concertKey) => {
-    if (concertsData[concertKey]) {
-      // Get the concert data
-      const concertData = { ...concertsData[concertKey] };
-
-      // Add program details from worksData
-      if (concertData.program && Array.isArray(concertData.program)) {
-        concertData.programDetails = concertData.program.map((workId) => {
-          // Get work details or create a default if not found
-          return (
-            worksData[workId] || {
-              workName: workId,
-              instrumentation: "",
-            }
-          );
-        });
+  const currentSeasonKeys = seasons[0].concertIds;
+  const currentSeasonConcertsDetails = currentSeasonKeys
+    .map((concertKey) => {
+      const found = concertsData.find((c) => c.id === concertKey);
+      if (!found) return null;
+      const concertData = { ...found };
+      if (Array.isArray(concertData.program)) {
+        concertData.programDetails = concertData.program.map(
+          (workId) => worksData[workId] || { workName: workId, instrumentation: "" },
+        );
       }
+      return concertData;
+    })
+    .filter(Boolean);
 
-      currentSeasonConcertsDetails.push(concertData);
-    }
-  });
+  return { props: { currentSeasonConcertsDetails } };
+}
+
+export default function Schedule({ currentSeasonConcertsDetails }) {
+  const [showButton, setShowButton] = useState(false);
 
   useEffect(() => {
     // Function to handle scroll event

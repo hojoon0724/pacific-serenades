@@ -1,14 +1,17 @@
 import Image from "next/image";
 import Link from "next/link";
-import musiciansData from "@/data/musiciansData.json";
 
-const sortedArr = Object.entries(musiciansData).sort(([, obj1], [, obj2]) =>
-  obj1.lastName.localeCompare(obj2.lastName),
-);
+export async function getStaticProps() {
+  const musiciansData = (await import("@/data/serving/musiciansData.json")).default;
 
-const musiciansDataSortedByLastName = Object.fromEntries(sortedArr);
+  const musicians = Object.entries(musiciansData)
+    .sort(([, a], [, b]) => a.lastName.localeCompare(b.lastName))
+    .map(([id, m]) => ({ id, firstName: m.firstName, lastName: m.lastName, photo: m.photo }));
 
-export default function Musicians() {
+  return { props: { musicians } };
+}
+
+export default function Musicians({ musicians }) {
   return (
     <div className="flex flex-col items-center">
       <h1 className="my-8">Musicians</h1>
@@ -19,31 +22,29 @@ export default function Musicians() {
         </p>
       </div>
       <section className="flex flex-wrap mx-auto items-center w-fit justify-center">
-        {Object.keys(musiciansDataSortedByLastName).map((key) => {
-          const musician = musiciansDataSortedByLastName[key];
-          return (
-            <Link href={`/library/musicians/${key}`} key={key}>
-              <div className="musician-container flex justify-start items-center p-4 w-[90svw] xs:w-[260px]" key={key}>
-                <div className="musician-photo w-12 min-w-12 h-12 min-h-12 rounded-full overflow-clip">
-                  {musician.photo === "" ? (
-                    <Image src="/icons/person.svg" alt="person icon" width={200} height={200} />
-                  ) : (
-                    <Image
-                      src={musician.photo}
-                      alt=""
-                      width={200}
-                      height={200}
-                      className="w-full h-full object-cover border-0"
-                    />
-                  )}
-                </div>
-                <div className="musician-name pl-4" key={key}>
-                  {musician.firstName} {musician.lastName}
-                </div>
+        {musicians.map((musician, i) => (
+          <Link href={`/library/musicians/${musician.id}`} key={musician.id}>
+            <div className="musician-container flex justify-start items-center p-4 w-[90svw] xs:w-[260px]">
+              <div className="musician-photo w-12 min-w-12 h-12 min-h-12 rounded-full overflow-clip">
+                {musician.photo === "" ? (
+                  <Image src="/icons/person.svg" alt="person icon" width={48} height={48} />
+                ) : (
+                  <Image
+                    src={musician.photo}
+                    alt={`${musician.firstName} ${musician.lastName}`}
+                    width={48}
+                    height={48}
+                    className="w-full h-full object-cover border-0"
+                    priority={i < 10}
+                  />
+                )}
               </div>
-            </Link>
-          );
-        })}
+              <div className="musician-name pl-4">
+                {musician.firstName} {musician.lastName}
+              </div>
+            </div>
+          </Link>
+        ))}
       </section>
     </div>
   );

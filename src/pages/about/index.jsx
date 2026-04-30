@@ -1,10 +1,14 @@
 import StaffBioBlock from "@/components/StaffBioBlock";
 import StatementJeff from "@/components/StatementJeff";
 import StatementMark from "@/components/StatementMark";
-import staffRotatingSecretaryData from "@/data/staff-previous-rotating-secretaries.json";
-import staffData from "@/data/staff.json";
 
-export default function About({}) {
+export async function getStaticProps() {
+  const staffData = (await import("@/data/staff.json")).default;
+  const staffRotatingSecretaryData = (await import("@/data/staff-previous-rotating-secretaries.json")).default;
+  return { props: { staffData, staffRotatingSecretaryData } };
+}
+
+export default function About({ staffData, staffRotatingSecretaryData }) {
   return (
     <div className="top-container flex flex-col justify-center items-center">
       <section className="flex flex-col justify-center items-center">

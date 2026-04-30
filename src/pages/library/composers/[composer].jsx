@@ -1,6 +1,6 @@
-import composersData from "@/data/composersData.json";
-import worksData from "@/data/worksData.json";
 import ComposerComponent from "@/components/ComposerPage/ComposerComponent";
+import composersData from "@/data/serving/composersData.json";
+import worksData from "@/data/serving/worksData.json";
 
 export async function getStaticPaths() {
   // File name === [composer].jsx
@@ -15,8 +15,8 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const composer = composersData[params.composer];
+
   const works = Object.values(worksData).filter((work) => work.workComposer === params.composer);
-  // console.log(works);
   return {
     props: {
       composer,

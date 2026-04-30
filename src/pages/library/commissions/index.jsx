@@ -1,29 +1,44 @@
 import CommissionCard from "@/components/CommissionCard";
-import commissionsData from "@/data/commissionsData.json";
-import worksData from "@/data/worksData.json";
-import { useState } from "react";
+import { useMemo, useState } from "react";
 
-const commissionsWithWorkId = commissionsData.map((commission) => {
-  const matchingWork = Object.keys(worksData).find(
-    (workId) =>
-      commission.composerId === worksData[workId].workComposer && commission.workName === worksData[workId].workName
-  );
+export async function getStaticProps() {
+  const commissionsData = (await import("@/data/commissionsData.json")).default;
+  const worksData = (await import("@/data/serving/worksData.json")).default;
 
-  return matchingWork
-    ? { ...commission, workId: worksData[matchingWork].id, workYear: worksData[matchingWork].workYear }
-    : commission;
-});
+  const enriched = commissionsData
+    .map((commission) => {
+      const matchId = Object.keys(worksData).find(
+        (id) => commission.composerId === worksData[id].workComposer && commission.workName === worksData[id].workName,
+      );
+      if (!matchId) return null;
+      const work = worksData[matchId];
+      return {
+        workComposer: commission.workComposer,
+        workName: commission.workName,
+        commissionedBy: commission.commissionedBy ?? null,
+        composerId: commission.composerId,
+        workId: work.id ?? null,
+        workYear: work.workYear ?? null,
+        instrumentation: work.instrumentation ?? null,
+        links: work.links ?? null,
+      };
+    })
+    .filter(Boolean)
+    .sort((a, b) => b.workYear - a.workYear);
 
-const commissionsSortedByYear = commissionsWithWorkId.sort((a, b) => b.workYear - a.workYear);
+  return { props: { commissions: enriched } };
+}
 
-export default function Commissions({}) {
+export default function Commissions({ commissions }) {
   const [searchTerm, setSearchTerm] = useState("");
 
-  // Filter commissions based on search term
-  const filteredCommissions = commissionsSortedByYear.filter((commission) => {
-    const searchString = `${commission.workComposer} ${commission.workName} ${commission.commissionedBy}`.toLowerCase();
-    return searchString.includes(searchTerm.toLowerCase());
-  });
+  const filteredCommissions = useMemo(() => {
+    if (!searchTerm) return commissions;
+    const lower = searchTerm.toLowerCase();
+    return commissions.filter((c) =>
+      `${c.workComposer} ${c.workName} ${c.commissionedBy}`.toLowerCase().includes(lower),
+    );
+  }, [commissions, searchTerm]);
 
   return (
     <div className="flex flex-col items-center">
@@ -49,9 +64,9 @@ export default function Commissions({}) {
       <div className="commissions-container">
         <div className="commissions-container grid xl:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
           {filteredCommissions.length > 0 ? (
-            filteredCommissions.map((work, index) => {
-              return <CommissionCard work={work} index={index} key={index} />;
-            })
+            filteredCommissions.map((work) => (
+              <CommissionCard work={work} key={`${work.composerId}-${work.workName}`} />
+            ))
           ) : (
             <div className="col-span-full text-center py-10">
               <p>No commissions found matching {searchTerm && `"${searchTerm}"`}</p>
