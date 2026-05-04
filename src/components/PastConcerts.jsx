@@ -1,5 +1,5 @@
 import ConcertBlock from '@/components/ConcertBlock';
-import concertsData from '@/data/concertsData.json';
+import concertsData from '@/data/serving/concertsData.json';
 import seasonConcertsList from '@/data/seasonConcertsList.json';
 
 export default function PastConcerts() {

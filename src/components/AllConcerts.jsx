@@ -1,19 +1,22 @@
-import ConcertBlock from '@/components/ConcertBlock';
-import concertsData from '@/data/concertsData.json';
-import seasonConcertsList from '@/data/seasonConcertsList.json';
+import concertsData from "@/data/serving/concertsData.json";
+import seasonsData from "@/data/serving/seasons.json";
+
+// concertsData is an array; build a lookup map by id
+const concertsById = concertsData.reduce((acc, concert) => {
+  acc[concert.id] = concert;
+  return acc;
+}, {});
 
 export default function AllConcerts() {
   return (
     <div className="top-container mx-4">
-      {Object.entries(seasonConcertsList).map(([season, concerts]) => (
+      {Object.entries(seasonsData).map(([season, seasonObj]) => (
         <section className="my-8" key={season}>
           <h1>{season}</h1>
-          {concerts.map(concertKey => {
-            const concertDetails = concertsData[concertKey];
+          {(seasonObj.concertIds || []).map((concertKey) => {
+            const concertDetails = concertsById[concertKey];
 
-            // Check if concertDetails exists to avoid errors
             if (!concertDetails) {
-              console.log(`not found in concerts DB ${concertKey}`);
               return (
                 <div className="season-page-concert-title" key={concertKey}>
                   <p>Concert data not found for key: &apos;{concertKey}&apos;</p>
@@ -23,30 +26,19 @@ export default function AllConcerts() {
 
             return (
               <div className="season-page-concert-title" key={concertKey}>
-                {/* <p>databaseKey: &apos;{concertKey}&apos;</p> */}
                 <p>Concert Title: {concertDetails.concertTitle}</p>
-                {/* <p>Year: {concertDetails.year}</p> */}
-
                 <div>
                   <h2>Dates:</h2>
-                  {concertDetails.dates.map((dateObj, index) => (
+                  {(concertDetails.dates || []).map((dateObj, index) => (
                     <div className="flex" key={index}>
-                      <div className="venue">Venue: {dateObj.venue}</div>
-                      <div className="datetime">Date & Time:{dateObj.date}</div>
+                      <div className="venue">Venue: {dateObj.venueId}</div>
+                      <div className="datetime">Date &amp; Time: {dateObj.date}</div>
                     </div>
                   ))}
                 </div>
               </div>
             );
           })}
-          <div className="season-container">
-            <div className="concert-container">
-              {/* {concerts.map(
-                concertKey =>
-                  concertsData[concertKey] && <ConcertBlock key={concertKey} concert={concertsData[concertKey]} />,
-              )} */}
-            </div>
-          </div>
         </section>
       ))}
     </div>

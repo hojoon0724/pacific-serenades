@@ -1,8 +1,16 @@
 import CurrentSeason from "@/components/CurrentSeasonBlock";
 import SeasonIndex from "@/components/SeasonIndex";
+import seasonData from "@/data/serving/seasons.json";
 import { useEffect, useState } from "react";
 
-export async function getStaticProps() {
+export function getStaticPaths() {
+  const paths = seasonData.map((season) => ({
+    params: { year: season.year },
+  }));
+  return { paths, fallback: false };
+}
+
+export async function getStaticProps({ params }) {
   const concertsData = (await import("@/data/serving/concertsData.json")).default;
   const seasons = (await import("@/data/serving/seasons.json")).default;
   const worksData = (await import("@/data/serving/worksData.json")).default;
@@ -22,14 +30,13 @@ export async function getStaticProps() {
     })
     .filter(Boolean);
 
-  return { props: { currentSeasonConcertsDetails } };
+  return { props: { currentSeasonConcertsDetails, year: params.year } };
 }
 
-export default function Schedule({ currentSeasonConcertsDetails }) {
+export default function ScheduleYear({ currentSeasonConcertsDetails, year }) {
   const [showButton, setShowButton] = useState(false);
 
   useEffect(() => {
-    // Function to handle scroll event
     const handleScroll = () => {
       if (window.scrollY > 300) {
         setShowButton(true);
@@ -38,23 +45,15 @@ export default function Schedule({ currentSeasonConcertsDetails }) {
       }
     };
 
-    // Add scroll event listener
     window.addEventListener("scroll", handleScroll);
-
-    // Clean up the event listener
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
   const scrollToPastSeasons = () => {
     const pastSeasonsElement = document.getElementById("past-seasons");
     if (pastSeasonsElement) {
-      // Get the y-coordinate of the element
       const yCoordinate = pastSeasonsElement.getBoundingClientRect().top + window.pageYOffset;
-      // Add offset for the navigation bar (doubled to 200px)
       const navbarOffset = 200;
-      // Scroll to the element with offset
       window.scrollTo({
         top: yCoordinate - navbarOffset,
         behavior: "smooth",
@@ -67,7 +66,7 @@ export default function Schedule({ currentSeasonConcertsDetails }) {
       <CurrentSeason currentSeason={currentSeasonConcertsDetails} />
       <div id="past-seasons" className="w-full relative flex flex-col items-center justify-center bg-blue-100 pt-4">
         <h1 className="py-4">Past Seasons</h1>
-        <SeasonIndex bgColor={"bg-blue-100"} />
+        <SeasonIndex bgColor={"bg-blue-100"} initialYear={year} />
       </div>
 
       {showButton && (

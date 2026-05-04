@@ -1,7 +1,7 @@
 import EventCard from "@/components/EventCard";
-import concertsData from "@/data/concertsData.json";
+import concertsData from "@/data/serving/concertsData.json";
 import seasonConcertsList from "@/data/seasonConcertsList.json";
-import worksData from "@/data/worksData.json";
+import worksData from "@/data/serving/worksData.json";
 import Image from "next/image";
 import Link from "next/link";
 

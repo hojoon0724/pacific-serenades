@@ -1,4 +1,10 @@
+import venuesData from "@/data/serving/venues.json";
 import Image from "next/image";
+
+const venueNameById = venuesData.reduce((acc, venue) => {
+  acc[venue.id] = venue.str;
+  return acc;
+}, {});
 
 export default function EventCard({ event, isLandingPage }) {
   // Extract date string (YYYY-MM-DD) from event.dates[0].date
@@ -17,6 +23,8 @@ export default function EventCard({ event, isLandingPage }) {
 
   const currentDate = new Date();
   const isPastEvent = eventDate < currentDate;
+  const primaryDate = event.dates[0];
+  const venueName = primaryDate.venue || venueNameById[primaryDate.venueId] || primaryDate.venueId || "";
 
   // Format composer name from camelCase to proper name
   const formatComposerName = (composerKey) => {
@@ -139,7 +147,7 @@ export default function EventCard({ event, isLandingPage }) {
               d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
             ></path>
           </svg>
-          {event.dates[0].venue}
+          {venueName}
         </div>
 
         {!isLandingPage && (
