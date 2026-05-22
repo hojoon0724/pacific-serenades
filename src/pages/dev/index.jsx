@@ -1,5 +1,4 @@
-import seasons from "@/data/seasons.json";
-import Markdown from "react-markdown";
+import seasons from "@/data/serving/seasons.json";
 
 const CIRCLE_SIZE = 360;
 const CIRCLE_CENTER = CIRCLE_SIZE / 2;
@@ -17,20 +16,50 @@ function getCircularFontSize(text) {
 export default function Dev() {
   const seasonsData = seasons;
   return (
-    <div className="dev w-fit mx-auto">
+    <div className="dev w-fit mx-auto grid grid-cols-6">
       {Object.keys(seasonsData).map((season, index) => {
-        const seasonYear = season;
+        const seasonYear = seasonsData[season].year;
+        const seasonColors = seasonsData[season]["season-colors"] || [];
+        const seasonTheme = seasonsData[season]["season-theme"] || {};
         const introText = seasonsData[season].seasonIntroMd;
         const circularTextId = `circular-text-${seasonYear}`;
         const circularText = introText?.circularText ? buildCircularText(introText.circularText) : "";
         const circularFontSize = getCircularFontSize(circularText);
-        return introText ? (
+        return (
           <div key={index} className="intro-text-container mt-12">
             <h1>{seasonYear}</h1>
-            <div className="intro-text-container prose">
-              <Markdown>{introText.text}</Markdown>
+            <div className="season-colors flex flex-row gap-3 ">
+              {seasonColors.map((color, index) => (
+                <div
+                  key={index}
+                  className="season-color w-16 h-16 border border-black"
+                  style={{ backgroundColor: color }}
+                ></div>
+              ))}
             </div>
-            {introText.circularText && (
+            <div className="season-theme-container flex flex-row gap-3">
+              <div className="background-color p-8 font-bold" style={{ backgroundColor: seasonTheme.background }}>
+                <div className="primary-text-color" style={{ color: seasonTheme.primary }}>
+                  Primary text color
+                </div>
+                <div className="secondary-text-color" style={{ color: seasonTheme.secondary }}>
+                  Secondary text color
+                </div>
+                <div className="secondary-color-box" style={{ backgroundColor: seasonTheme.primary }}>
+                  primary bg
+                </div>
+                <div className="secondary-color-box" style={{ backgroundColor: seasonTheme.secondary }}>
+                  secondary bg
+                </div>
+                <div className="tertiary-color-box" style={{ backgroundColor: seasonTheme.tertiary }}>
+                  tertiary bg
+                </div>
+              </div>
+            </div>
+            {/* <div className="intro-text-container prose">
+              <Markdown>{introText.text}</Markdown>
+            </div> */}
+            {introText && introText.circularText && (
               <div className="circular-text mx-auto mt-8 max-h-[60svh] max-w-[60svh] h-full aspect-square relative">
                 <span className="sr-only">{circularText}</span>
                 <svg
@@ -57,9 +86,9 @@ export default function Dev() {
                 </svg>
               </div>
             )}
-            {introText.author && <div className="author text-right">–{introText.author}</div>}
+            {introText && introText.author && <div className="author text-right">–{introText.author}</div>}
           </div>
-        ) : null;
+        );
       })}
     </div>
   );

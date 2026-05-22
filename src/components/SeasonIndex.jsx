@@ -9,6 +9,8 @@ export default function SeasonIndex({ bgColor, initialYear }) {
   const findSeason = (year) => seasonData.find((s) => s.year === year) ?? seasonData[0];
   const [selectedSeason, setSelectedSeason] = useState(() => findSeason(initialYear));
   const [visible, setVisible] = useState(true);
+  const selectedSeasonBg =
+    selectedSeason?.["season-colors"]?.[1] || selectedSeason?.["season-colors"]?.[0] || bgColor || "#ffffff";
 
   useEffect(() => {
     if (initialYear) setSelectedSeason(findSeason(initialYear));
@@ -39,7 +41,10 @@ export default function SeasonIndex({ bgColor, initialYear }) {
           ))}
         </div>
       </div>
-      <div className="season-details mt-8 text-center bg-white h-[69svh] m-2 rounded-lg flex flex-col overflow-x-clip overflow-y-scroll relative">
+      <div
+        className="season-details mt-8 text-center bg-white h-[69svh] m-2 rounded-lg flex flex-col overflow-x-clip overflow-y-scroll relative"
+        style={{ backgroundColor: selectedSeasonBg }}
+      >
         <div
           className={`content-container absolute inset-0 z-10 flex flex-col p-4 transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
         >

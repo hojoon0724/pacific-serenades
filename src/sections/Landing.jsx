@@ -1,6 +1,6 @@
 import EventCard from "@/components/EventCard";
 import concertsData from "@/data/serving/concertsData.json";
-import seasonConcertsList from "@/data/seasonConcertsList.json";
+import seasonsData from "@/data/serving/seasons.json";
 import worksData from "@/data/serving/worksData.json";
 import Image from "next/image";
 import Link from "next/link";
@@ -8,7 +8,7 @@ import Link from "next/link";
 export default function Landing() {
   // Get the next upcoming event from current season
   const getUpcomingEvent = () => {
-    const currentSeasonKeys = seasonConcertsList.current;
+    const currentSeasonKeys = seasonsData?.[0]?.concertIds || [];
     const now = new Date();
     let upcomingEvent = null;
 
@@ -20,7 +20,7 @@ export default function Landing() {
         // Add program details
         if (concert.program && Array.isArray(concert.program)) {
           concert.programDetails = concert.program.map(
-            (workId) => worksData[workId] || { workName: workId, instrumentation: "" }
+            (workId) => worksData[workId] || { workName: workId, instrumentation: "" },
           );
         }
 

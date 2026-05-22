@@ -1,14 +1,13 @@
-import ConcertBlock from '@/components/ConcertBlock';
-import concertsData from '@/data/serving/concertsData.json';
-import seasonConcertsList from '@/data/seasonConcertsList.json';
+import concertsData from "@/data/serving/concertsData.json";
+import seasonsData from "@/data/serving/seasons.json";
 
 export default function PastConcerts() {
   return (
     <>
-      {Object.entries(seasonConcertsList).map(([season, concerts]) => (
-        <section className="my-8" key={season}>
-          <h1>{season}</h1>
-          {concerts.map(concertKey => {
+      {seasonsData.map(({ year, concertIds = [] }) => (
+        <section className="my-8" key={year}>
+          <h1>{year}</h1>
+          {concertIds.map((concertKey) => {
             const concertDetails = concertsData[concertKey];
 
             // Check if concertDetails exists to avoid errors
