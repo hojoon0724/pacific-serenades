@@ -65,10 +65,12 @@ export default function Schedule({ currentSeasonConcertsDetails }) {
   return (
     <div className="top-container flex flex-col items-center justify-center">
       <CurrentSeason currentSeason={currentSeasonConcertsDetails} />
-      <div id="past-seasons" className="w-full relative flex flex-col items-center justify-center bg-blue-100 pt-4">
+      {/* Make PastSeasons hover reveal component and onClick redirects to season's page */}
+      
+      {/* <div id="past-seasons" className="w-full relative flex flex-col items-center justify-center bg-blue-100 pt-4">
         <h1 className="py-4">Past Seasons</h1>
         <SeasonIndex bgColor={"bg-blue-100"} />
-      </div>
+      </div> */}
 
       {showButton && (
         <button

@@ -1,7 +1,7 @@
-import CurrentSeason from "@/components/CurrentSeasonBlock";
+import { ChevronDown } from "@/components/Icons";
 import SeasonIndex from "@/components/SeasonIndex";
 import seasonData from "@/data/serving/seasons.json";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export function getStaticPaths() {
   const paths = seasonData.map((season) => ({
@@ -33,59 +33,47 @@ export async function getStaticProps({ params }) {
   return { props: { currentSeasonConcertsDetails, year: params.year } };
 }
 
-export default function ScheduleYear({ currentSeasonConcertsDetails, year }) {
-  const [showButton, setShowButton] = useState(false);
+export default function ScheduleYear({ year }) {
+  const seasonIndexRef = useRef(null);
+  const [selectedYear, setSelectedYear] = useState(year);
 
   useEffect(() => {
-    const handleScroll = () => {
-      if (window.scrollY > 300) {
-        setShowButton(true);
-      } else {
-        setShowButton(false);
-      }
-    };
-
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
-
-  const scrollToPastSeasons = () => {
-    const pastSeasonsElement = document.getElementById("past-seasons");
-    if (pastSeasonsElement) {
-      const yCoordinate = pastSeasonsElement.getBoundingClientRect().top + window.pageYOffset;
-      const navbarOffset = 200;
-      window.scrollTo({
-        top: yCoordinate - navbarOffset,
-        behavior: "smooth",
-      });
-    }
-  };
+    setSelectedYear(year);
+  }, [year]);
 
   return (
     <div className="top-container flex flex-col items-center justify-center">
-      <CurrentSeason currentSeason={currentSeasonConcertsDetails} />
-      <div id="past-seasons" className="w-full relative flex flex-col items-center justify-center bg-blue-100 pt-4">
-        <h1 className="py-4">Past Seasons</h1>
-        <SeasonIndex bgColor={"bg-blue-100"} initialYear={year} />
+      <div id="past-seasons" className="w-full relative flex flex-col items-center justify-center">
+        <div className="past-seasons">
+          <div className="relative inline-block">
+            <h1 className="pointer-events-none inline-flex items-center gap-2">
+              {selectedYear} Season
+              <ChevronDown className="pointer-events-none" fill="#000" size={16} />
+            </h1>
+            <select
+              className="absolute inset-0 h-full w-full cursor-pointer opacity-0"
+              aria-label="Select season"
+              onChange={(e) => {
+                const selectedYear = e.target.value;
+                setSelectedYear(selectedYear);
+                seasonIndexRef.current?.transitionToSeason(selectedYear);
+              }}
+              value={selectedYear}
+            >
+              {seasonData.map((season, index) => (
+                <option key={index} value={season.year}>
+                  {season.year} Season
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
+        <SeasonIndex
+          ref={seasonIndexRef}
+          initialYear={year}
+          onSeasonChange={(season) => setSelectedYear(season.year)}
+        />
       </div>
-
-      {showButton && (
-        <button
-          onClick={scrollToPastSeasons}
-          className="fixed bottom-8 right-8 bg-blue-500 hover:bg-blue-700 text-white w-12 h-12 rounded-full flex items-center justify-center shadow-lg transition-all z-50"
-          aria-label="Scroll to Past Seasons"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 10l7-7m0 0l7 7m-7-7v18" />
-          </svg>
-        </button>
-      )}
     </div>
   );
 }
