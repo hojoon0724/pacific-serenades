@@ -21,7 +21,7 @@
   },
   {
     "year": "2013",
-    "season-colors": ["#ffe4af", "#009fc2"],
+    "season-colors": [["#ffe4af"], ["#009fc2"]],
     "season-theme": {
       "background": "",
       "primary": "#009fc2",
@@ -35,7 +35,7 @@
   },
   {
     "year": "2012",
-    "season-colors": ["#78a22f", "#005288"],
+    "season-colors": [["#78a22f"], ["#005288"]],
     "season-theme": {
       "background": "",
       "primary": "#78a22f",
@@ -49,7 +49,7 @@
   },
   {
     "year": "2011",
-    "season-colors": ["#fff04a", "#008fca", "#d44e95"],
+    "season-colors": [["#fff04a"], ["#008fca"], ["#d44e95"]],
     "season-theme": {
       "background": "",
       "primary": "#fff04a",
@@ -60,7 +60,7 @@
   },
   {
     "year": "2010",
-    "season-colors": ["#494f55", "#dd5b90", "#e6e9eb"],
+    "season-colors": [["#494f55"], ["#dd5b90"], ["#e6e9eb"]],
     "season-theme": {
       "background": "#e6e9eb",
       "primary": "#494f55",
@@ -74,7 +74,7 @@
   },
   {
     "year": "2009",
-    "season-colors": ["#d94e3f", "#194f74", "#e5edf1"],
+    "season-colors": [["#d94e3f"], ["#194f74"], ["#e5edf1"]],
     "season-theme": {
       "background": "#e6e9eb",
       "primary": "#d94e3f",
@@ -88,7 +88,19 @@
   },
   {
     "year": "2008",
-    "season-colors": [],
+    "season-colors": [
+      ["#006571", "#007e80"],
+      ["#a2bfa4", "#ffffff", "#d9ae9d"],
+      ["#d6923f", "#fdde48"],
+      ["#8cb292", "#ffffff", "#e9984d"],
+      ["#a4c0a7", "#bad1bd", "#a4c0a7"],
+      ["#cedbce", "#81bc66", "#d7de50"],
+      ["#a1d3d8", "#649ead"],
+      ["#56308b", "#204c9b"],
+      ["#7ca390", "#d2ddd1", "#7ca390"],
+      ["#9d312e", "#792826"],
+      ["#f1d950", "#e8c648"]
+    ],
     "season-theme": {
       "background": "",
       "primary": "",
@@ -102,7 +114,7 @@
   },
   {
     "year": "2007",
-    "season-colors": ["#dcebdc", "#bd2c1e", "#23424e"],
+    "season-colors": [["#dcebdc"], ["#bd2c1e"], ["#23424e"]],
     "season-theme": {
       "background": "#dcebdc",
       "primary": "#bd2c1e",
@@ -116,7 +128,7 @@
   },
   {
     "year": "2006",
-    "season-colors": ["#faeb5b", "#e88f48", "#2a358c"],
+    "season-colors": [["#faeb5b"], ["#e88f48"], ["#2a358c"]],
     "season-theme": {
       "background": "",
       "primary": "#faeb5b",

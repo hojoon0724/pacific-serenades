@@ -1,4 +1,5 @@
 import seasons from "@/data/serving/seasons.json";
+import Markdown from "react-markdown";
 
 const CIRCLE_SIZE = 360;
 const CIRCLE_CENTER = CIRCLE_SIZE / 2;
@@ -13,10 +14,28 @@ function getCircularFontSize(text) {
   return Math.max(9, Math.min(15, CIRCLE_CIRCUMFERENCE / (text.length * 0.88)));
 }
 
+function getSeasonColorStyle(color) {
+  if (Array.isArray(color)) {
+    if (color.length > 1) {
+      return {
+        backgroundImage: `linear-gradient(135deg, ${color.join(", ")})`,
+      };
+    }
+
+    if (color.length === 1) {
+      return { backgroundColor: color[0] };
+    }
+
+    return {};
+  }
+
+  return { backgroundColor: color };
+}
+
 export default function Dev() {
   const seasonsData = seasons;
   return (
-    <div className="dev w-fit mx-auto grid grid-cols-6">
+    <div className="dev w-fit mx-auto grid grid-cols-1">
       {Object.keys(seasonsData).map((season, index) => {
         const seasonYear = seasonsData[season].year;
         const seasonColors = seasonsData[season]["season-colors"] || [];
@@ -29,13 +48,15 @@ export default function Dev() {
           <div key={index} className="intro-text-container mt-12">
             <h1>{seasonYear}</h1>
             <div className="season-colors flex flex-row gap-3 ">
-              {seasonColors.map((color, index) => (
-                <div
-                  key={index}
-                  className="season-color w-16 h-16 border border-black"
-                  style={{ backgroundColor: color }}
-                ></div>
-              ))}
+              {seasonColors.map((color, index) => {
+                return (
+                  <div
+                    key={index}
+                    className="season-color w-16 h-16 border border-black"
+                    style={getSeasonColorStyle(color)}
+                  ></div>
+                );
+              })}
             </div>
             <div className="season-theme-container flex flex-row gap-3">
               <div className="background-color p-8 font-bold" style={{ backgroundColor: seasonTheme.background }}>
@@ -56,9 +77,7 @@ export default function Dev() {
                 </div>
               </div>
             </div>
-            {/* <div className="intro-text-container prose">
-              <Markdown>{introText.text}</Markdown>
-            </div> */}
+            <div className="intro-text-container prose">{introText && <Markdown>{introText.text}</Markdown>}</div>
             {introText && introText.circularText && (
               <div className="circular-text mx-auto mt-8 max-h-[60svh] max-w-[60svh] h-full aspect-square relative">
                 <span className="sr-only">{circularText}</span>

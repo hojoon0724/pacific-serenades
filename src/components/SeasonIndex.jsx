@@ -1,16 +1,42 @@
 import ConcertTile from "@/components/ConcertTile";
 import seasonData from "@/data/serving/seasons.json";
 import { useRouter } from "next/router";
-import { useEffect, useState } from "react";
+import { forwardRef, useEffect, useImperativeHandle, useState } from "react";
 import Markdown from "react-markdown";
 
-export default function SeasonIndex({ bgColor, initialYear }) {
+import {
+  Season1982,
+  Season1990,
+  Season2005,
+  Season2006,
+  Season2007,
+  Season2008,
+  Season2009,
+  Season2010,
+  Season2011,
+  Season2012,
+  Season2013,
+} from "@/components/PastSeasonsPage";
+
+const CUSTOM_SEASON_COMPONENTS = {
+  1982: Season1982,
+  1990: Season1990,
+  2005: Season2005,
+  2006: Season2006,
+  2007: Season2007,
+  2008: Season2008,
+  2009: Season2009,
+  2010: Season2010,
+  2011: Season2011,
+  2012: Season2012,
+  2013: Season2013,
+};
+
+const SeasonIndex = forwardRef(function SeasonIndex({ bgColor, initialYear, onSeasonChange }, ref) {
   const router = useRouter();
   const findSeason = (year) => seasonData.find((s) => s.year === year) ?? seasonData[0];
   const [selectedSeason, setSelectedSeason] = useState(() => findSeason(initialYear));
   const [visible, setVisible] = useState(true);
-  const selectedSeasonBg =
-    selectedSeason?.["season-colors"]?.[1] || selectedSeason?.["season-colors"]?.[0] || bgColor || "#ffffff";
 
   useEffect(() => {
     if (initialYear) setSelectedSeason(findSeason(initialYear));
@@ -18,6 +44,7 @@ export default function SeasonIndex({ bgColor, initialYear }) {
 
   const handleSeasonChange = (season) => {
     if (season === selectedSeason) return;
+    onSeasonChange?.(season);
     setVisible(false);
     setTimeout(() => {
       setSelectedSeason(season);
@@ -26,30 +53,23 @@ export default function SeasonIndex({ bgColor, initialYear }) {
     router.push(`/schedule/${season.year}`, undefined, { shallow: true });
   };
 
-  return (
-    <section className={`season-show-top-container w-screen`}>
-      <div className="season-list-menu sticky top-[clamp(100px,20svw,200px)] z-40 bg-inherit mx-auto w-screen overflow-auto flex flex-col items-center justify-center">
-        <div className="flex gap-2 overflow-x-auto py-2 px-2 w-fit mx-auto">
-          {seasonData.map((season, index) => (
-            <div
-              key={index}
-              className={`season-list-item shrink-0 px-4 py-2 text-sm font-bold rounded-lg transition-all ${season === selectedSeason ? "selected bg-teal-600 border-b-2 border-teal-800" : "bg-blue-600 border-blue-800 opacity-40"}`}
-              onClick={() => handleSeasonChange(season)}
-            >
-              {season.year}
-            </div>
-          ))}
-        </div>
-      </div>
-      <div
-        className="season-details mt-8 text-center bg-white h-[69svh] m-2 rounded-lg flex flex-col overflow-x-clip overflow-y-scroll relative"
-        style={{ backgroundColor: selectedSeasonBg }}
-      >
-        <div
-          className={`content-container absolute inset-0 z-10 flex flex-col p-4 transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
-        >
-          <h1 className="text-4xl font-bold w-full text-left">{selectedSeason.year}</h1>
+  useImperativeHandle(ref, () => ({
+    transitionToSeason(year) {
+      handleSeasonChange(findSeason(year));
+    },
+  }));
 
+  const CustomSeasonComponent = CUSTOM_SEASON_COMPONENTS[selectedSeason.year];
+  if (CustomSeasonComponent) {
+    return <CustomSeasonComponent seasonYearData={selectedSeason} />;
+  }
+
+  return (
+    <section className={`season-show-top-container w-screen h-full flex flex-1 min-h-full`}>
+      <div className="season-details text-center bg-white h-full flex flex-col overflow-x-clip relative">
+        <div
+          className={`content-container inset-0 z-10 flex flex-col p-4 transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
+        >
           {selectedSeason.seasonIntroMd && (
             <div className="intro-text-container max-w-prose text-left">
               <Markdown>{selectedSeason.seasonIntroMd.text}</Markdown>
@@ -64,10 +84,10 @@ export default function SeasonIndex({ bgColor, initialYear }) {
             ))}
           </div>
         </div>
-        <div className="bg-image-container absolute inset-0">
-          {/* <Image src="/backgrounds/home-bg.jpg" alt="alt" fill /> */}
-        </div>
+        <div className="bg-image-container absolute inset-0"></div>
       </div>
     </section>
   );
-}
+});
+
+export default SeasonIndex;

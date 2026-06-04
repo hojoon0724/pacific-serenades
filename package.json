@@ -24,6 +24,7 @@
     "react-markdown": "^10.1.0"
   },
   "devDependencies": {
+    "@types/node": "25.9.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.15",
     "postcss": "^8",
