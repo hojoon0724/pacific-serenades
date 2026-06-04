@@ -65,8 +65,8 @@ const SeasonIndex = forwardRef(function SeasonIndex({ bgColor, initialYear, onSe
   }
 
   return (
-    <section className={`season-show-top-container w-screen h-full flex flex-1 min-h-full`}>
-      <div className="season-details text-center bg-white h-full flex flex-col overflow-x-clip relative">
+    <section className={`season-show-top-container w-full h-full flex flex-1 min-h-full`}>
+      <div className="season-details text-center bg-white h-full w-full flex flex-col relative">
         <div
           className={`content-container inset-0 z-10 flex flex-col p-4 transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
         >

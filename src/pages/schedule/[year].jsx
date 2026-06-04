@@ -42,9 +42,9 @@ export default function ScheduleYear({ year }) {
   }, [year]);
 
   return (
-    <div className="top-container flex flex-1 flex-col items-center justify-center w-full min-h-full h-full">
-      <div id="past-seasons" className="w-full relative flex flex-1 flex-col items-center justify-start min-h-full">
-        <div className="past-seasons flex flex-col items-center justify-start min-h-full w-full">
+    <div className="top-container flex h-full min-h-0 w-full flex-1 flex-col items-center justify-center">
+      <div id="past-seasons" className="relative flex h-full min-h-0 w-full flex-1 flex-col items-center justify-start">
+        <div className="past-seasons w-full shrink-0 flex flex-col items-center justify-start">
           <div className="relative inline-block">
             <h1 className="pointer-events-none inline-flex items-center gap-2">
               {selectedYear} Season
@@ -68,11 +68,13 @@ export default function ScheduleYear({ year }) {
             </select>
           </div>
         </div>
-        <SeasonIndex
-          ref={seasonIndexRef}
-          initialYear={year}
-          onSeasonChange={(season) => setSelectedYear(season.year)}
-        />
+        <div className="season-content w-full max-w-7xl min-h-0 flex-1 overflow-y-auto p-2 md:p-4 flex flex-col items-center justify-start">
+          <SeasonIndex
+            ref={seasonIndexRef}
+            initialYear={year}
+            onSeasonChange={(season) => setSelectedYear(season.year)}
+          />
+        </div>
       </div>
     </div>
   );

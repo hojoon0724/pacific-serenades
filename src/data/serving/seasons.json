@@ -145,9 +145,10 @@
     "year": "2005",
     "season-colors": [],
     "season-theme": {
-      "background": "",
-      "primary": "",
-      "secondary": ""
+      "background": "#92d4b5",
+      "primary": "#b50c00",
+      "secondary": "#ffc211",
+      "tertiary": "#ffffff"
     },
     "concertIds": ["2005-01-suchHarmonyIsInImmortalSoulsShakespeare", "2005-02-sweepSoftlyThyStringsWalterDeLaMare", "2005-03-thereIsAMagicMadeByMelodyElizabethBishop", "2005-04-musicWhenSoftVoicesDieVibratesInTheMemoryPercyByssheShelley"],
     "seasonIntroMd": {
