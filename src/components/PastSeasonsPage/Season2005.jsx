@@ -21,10 +21,10 @@ function splitTitleAndSource(title = "") {
 export function Season2005({ seasonYearData }) {
   return (
     <div
-      className="season-container relative w-full h-full min-h-0 flex-1 flex flex-col items-start overflow-hidden rounded-xl"
+      className="season-container relative w-full h-full min-h-0 flex-1 flex flex-col items-start rounded-xl overflow-y-auto"
       style={{ backgroundColor: seasonColors["background"] }}
     >
-      <div className="season-bg-container pointer-events-none absolute inset-0 rounded-xl">
+      <div className="season-bg-container pointer-events-none absolute inset-0">
         <div className="element-1 absolute top-0 right-0 w-[35%]">
           <Image
             src="/graphics/seasons/2005/2005-bg-top-right-corner.png"
@@ -35,7 +35,7 @@ export function Season2005({ seasonYearData }) {
           />
         </div>
       </div>
-      <div className="season-content relative z-10 h-full min-h-0 self-stretch overflow-y-auto p-2 md:p-4">
+      <div className="season-content relative z-10 h-full min-h-0 self-stretch p-2 md:p-4">
         <div className="season-title-container flex flex-col items-start gap-4 mt-[30%] mb-[30%]">
           <div className="season-year min-w-40 w-auto max-w-[400px] h-16 relative">
             <Image src={`/graphics/seasons/2005/2005-year.svg`} alt={`Season ${seasonYearData?.year} title`} fill />
@@ -74,12 +74,19 @@ export function Season2005({ seasonYearData }) {
 
             const splitTitle = splitTitleAndSource(concertData?.concertTitle);
             return (
-              <div key={concertId} className="concert-container w-full flex flex-col items-start gap-2 border-b-2 py-8" style={{borderColor: seasonColors.secondary}}>
+              <div
+                key={concertId}
+                className="concert-container w-full flex flex-col items-start gap-2 border-b-2 py-8"
+                style={{ borderColor: seasonColors.secondary }}
+              >
                 <div className="concert-title-container text-left ">
                   <div className="text-2xl font-serif italic" style={{ color: seasonColors.primary }}>
                     {splitTitle.concertTitle}
                   </div>
-                  <div className="quote-source text-right uppercase font-bold text-shadow-lg" style={{ color: seasonColors.tertiary, textShadow: "0px 0px 2px rgb(0 0 0 / 0.3)" }}>
+                  <div
+                    className="quote-source text-right uppercase font-bold text-shadow-lg"
+                    style={{ color: seasonColors.tertiary, textShadow: "0px 0px 2px rgb(0 0 0 / 0.3)" }}
+                  >
                     {splitTitle.quoteSource}
                   </div>
                 </div>
@@ -88,7 +95,13 @@ export function Season2005({ seasonYearData }) {
                     venueAndDate.map((event, index) => (
                       <div key={index} className="venue-date-time flex flex-col md:flex-row">
                         <div className="venue mr-[1ch]">
-                          <span style={{ color: seasonColors.tertiary, fontVariantCaps: "small-caps",textShadow: "0px 0px 3px rgb(0 0 0 / 0.3)" }}>
+                          <span
+                            style={{
+                              color: seasonColors.tertiary,
+                              fontVariantCaps: "small-caps",
+                              textShadow: "0px 0px 3px rgb(0 0 0 / 0.3)",
+                            }}
+                          >
                             {getVenueString(event.venueId)}{" "}
                           </span>
                           <span className="whitespace-nowrap">
@@ -119,7 +132,10 @@ export function Season2005({ seasonYearData }) {
                               <span className="work-name" style={{ color: seasonColors.primary }}>
                                 {workDetails.workName}
                               </span>
-                              <span className="composer-name whitespace-nowrap" style={{ color: seasonColors.tertiary, textShadow: "0px 0px 2px rgb(0 0 0 / 0.3)" }}>
+                              <span
+                                className="composer-name whitespace-nowrap"
+                                style={{ color: seasonColors.tertiary, textShadow: "0px 0px 2px rgb(0 0 0 / 0.3)" }}
+                              >
                                 {"—"}
                                 {workDetails.composerName}
                               </span>
@@ -130,25 +146,24 @@ export function Season2005({ seasonYearData }) {
                     )}
                   </div>
 
-                    {concertData?.musicians && (
-                      <div className="musicians-container font-serif flex flex-col">
-                        {concertData.musicians.map((musicianId, index) => {
-                          const musicianName = getMusicianNames({ musicians: [musicianId] })[0] || musicianId;
-                          return (
-                            <div
-                              key={index}
-                              className="musician-name font-bold text-sm whitespace-nowrap"
-                              style={{ color: seasonColors.primary }}
-                            >
-                              {musicianName}
-                            </div>
-                          );
-                        })}
-                      </div>
-                    )}
-
-                                </div>
+                  {concertData?.musicians && (
+                    <div className="musicians-container font-serif flex flex-col">
+                      {concertData.musicians.map((musicianId, index) => {
+                        const musicianName = getMusicianNames({ musicians: [musicianId] })[0] || musicianId;
+                        return (
+                          <div
+                            key={index}
+                            className="musician-name font-bold text-sm whitespace-nowrap"
+                            style={{ color: seasonColors.primary }}
+                          >
+                            {musicianName}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
                 </div>
+              </div>
             );
           })}
         </div>

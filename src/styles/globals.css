@@ -40,7 +40,7 @@ body {
 main {
   @apply w-full relative;
 }
-main > div:first-child {
+main > :first-child:not(.no-main-spacing) {
   padding-top: clamp(5px, 5svw, 50px);
 }
 

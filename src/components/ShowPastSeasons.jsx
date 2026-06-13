@@ -32,7 +32,7 @@ const CUSTOM_SEASON_COMPONENTS = {
   2013: Season2013,
 };
 
-const SeasonIndex = forwardRef(function SeasonIndex({ bgColor, initialYear, onSeasonChange }, ref) {
+const ShowPastSeasons = forwardRef(function ShowPastSeasons({ bgColor, initialYear, onSeasonChange }, ref) {
   const router = useRouter();
   const findSeason = (year) => seasonData.find((s) => s.year === year) ?? seasonData[0];
   const [selectedSeason, setSelectedSeason] = useState(() => findSeason(initialYear));
@@ -60,34 +60,38 @@ const SeasonIndex = forwardRef(function SeasonIndex({ bgColor, initialYear, onSe
   }));
 
   const CustomSeasonComponent = CUSTOM_SEASON_COMPONENTS[selectedSeason.year];
-  if (CustomSeasonComponent) {
-    return <CustomSeasonComponent seasonYearData={selectedSeason} />;
-  }
 
   return (
-    <section className={`season-show-top-container w-full h-full flex flex-1 min-h-full`}>
-      <div className="season-details text-center bg-white h-full w-full flex flex-col relative">
-        <div
-          className={`content-container inset-0 z-10 flex flex-col p-4 transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
-        >
-          {selectedSeason.seasonIntroMd && (
-            <div className="intro-text-container max-w-prose text-left">
-              <Markdown>{selectedSeason.seasonIntroMd.text}</Markdown>
-              {selectedSeason.seasonIntroMd.author && (
-                <div className="author text-right">–{selectedSeason.seasonIntroMd.author}</div>
-              )}
+    <div
+      className={`season-top-container relative w-full h-full min-h-0 flex-1 flex flex-col items-start rounded-xl overflow-y-scroll`}
+    >
+      {CustomSeasonComponent ? (
+        <CustomSeasonComponent seasonYearData={selectedSeason} />
+      ) : (
+        <div className="season-container relative w-full h-full min-h-0 flex-1 flex flex-col items-start rounded-xl overflow-y-auto bg-white z-10 h-full w-full min-h-0 self-stretch p-2 md:p-4">
+          <div className="season-bg-container pointer-events-none absolute inset-0 rounded-xl "></div>
+
+          <div
+            className={`content-container inset-0 z-10 flex flex-col transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
+          >
+            {selectedSeason.seasonIntroMd && (
+              <div className="intro-text-container max-w-prose text-left">
+                <Markdown>{selectedSeason.seasonIntroMd.text}</Markdown>
+                {selectedSeason.seasonIntroMd.author && (
+                  <div className="author text-right">–{selectedSeason.seasonIntroMd.author}</div>
+                )}
+              </div>
+            )}
+            <div className="concerts-container">
+              {selectedSeason.concertIds?.map((concertId) => (
+                <ConcertTile key={concertId} concertId={concertId} />
+              ))}
             </div>
-          )}
-          <div className="concerts-container">
-            {selectedSeason.concertIds?.map((concertId) => (
-              <ConcertTile key={concertId} concertId={concertId} />
-            ))}
           </div>
         </div>
-        <div className="bg-image-container absolute inset-0"></div>
-      </div>
-    </section>
+      )}
+    </div>
   );
 });
 
-export default SeasonIndex;
+export default ShowPastSeasons;

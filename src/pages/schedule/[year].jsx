@@ -1,5 +1,5 @@
 import { ChevronDown } from "@/components/Icons";
-import SeasonIndex from "@/components/SeasonIndex";
+import ShowPastSeasons from "@/components/ShowPastSeasons";
 import seasonData from "@/data/serving/seasons.json";
 import { useEffect, useRef, useState } from "react";
 
@@ -42,34 +42,34 @@ export default function ScheduleYear({ year }) {
   }, [year]);
 
   return (
-    <div className="top-container flex h-full min-h-0 w-full flex-1 flex-col items-center justify-center">
+    <div className="top-container flex h-full min-h-0 w-full flex-1 flex-col items-center justify-center no-main-spacing pt-2">
       <div id="past-seasons" className="relative flex h-full min-h-0 w-full flex-1 flex-col items-center justify-start">
         <div className="past-seasons w-full shrink-0 flex flex-col items-center justify-start">
           <div className="relative inline-block">
-            <h1 className="pointer-events-none inline-flex items-center gap-2">
-              {selectedYear} Season
-              <ChevronDown className="pointer-events-none" fill="#000" size={16} />
-            </h1>
-            <select
-              className="absolute inset-0 h-full w-full cursor-pointer opacity-0"
-              aria-label="Select season"
-              onChange={(e) => {
-                const selectedYear = e.target.value;
-                setSelectedYear(selectedYear);
-                seasonIndexRef.current?.transitionToSeason(selectedYear);
-              }}
-              value={selectedYear}
-            >
-              {seasonData.map((season, index) => (
-                <option key={index} value={season.year}>
-                  {season.year} Season
-                </option>
-              ))}
-            </select>
+          <h1 className="pointer-events-none inline-flex items-center gap-2">
+            {selectedYear} Season
+            <ChevronDown className="pointer-events-none" fill="#000" size={16} />
+          </h1>
+          <select
+            className="absolute inset-0 h-full w-full cursor-pointer opacity-0"
+            aria-label="Select season"
+            onChange={(e) => {
+              const selectedYear = e.target.value;
+              setSelectedYear(selectedYear);
+              seasonIndexRef.current?.transitionToSeason(selectedYear);
+            }}
+            value={selectedYear}
+          >
+            {seasonData.map((season, index) => (
+              <option key={index} value={season.year}>
+                {season.year} Season
+              </option>
+            ))}
+          </select>
           </div>
         </div>
         <div className="season-content w-full max-w-7xl min-h-0 flex-1 overflow-y-auto p-2 md:p-4 flex flex-col items-center justify-start">
-          <SeasonIndex
+          <ShowPastSeasons
             ref={seasonIndexRef}
             initialYear={year}
             onSeasonChange={(season) => setSelectedYear(season.year)}

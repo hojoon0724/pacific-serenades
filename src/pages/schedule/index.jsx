@@ -1,5 +1,4 @@
 import CurrentSeason from "@/components/CurrentSeasonBlock";
-import SeasonIndex from "@/components/SeasonIndex";
 import { useEffect, useState } from "react";
 
 export async function getStaticProps() {
@@ -66,7 +65,7 @@ export default function Schedule({ currentSeasonConcertsDetails }) {
     <div className="top-container flex flex-col items-center justify-center">
       <CurrentSeason currentSeason={currentSeasonConcertsDetails} />
       {/* Make PastSeasons hover reveal component and onClick redirects to season's page */}
-      
+
       {/* <div id="past-seasons" className="w-full relative flex flex-col items-center justify-center bg-blue-100 pt-4">
         <h1 className="py-4">Past Seasons</h1>
         <SeasonIndex bgColor={"bg-blue-100"} />
