@@ -7,6 +7,7 @@ import Markdown from "react-markdown";
 import {
   Season1982,
   Season1990,
+  Season1992,
   Season2005,
   Season2006,
   Season2007,
@@ -21,6 +22,7 @@ import {
 const CUSTOM_SEASON_COMPONENTS = {
   1982: Season1982,
   1990: Season1990,
+  1992: Season1992,
   2005: Season2005,
   2006: Season2006,
   2007: Season2007,
@@ -63,7 +65,7 @@ const ShowPastSeasons = forwardRef(function ShowPastSeasons({ bgColor, initialYe
 
   return (
     <div
-      className={`season-top-container relative w-full h-full min-h-0 flex-1 flex flex-col items-start rounded-xl overflow-y-scroll`}
+      className={`season-top-container relative w-full h-full min-h-0 flex-1 flex flex-col items-start overflow-y-scroll`}
     >
       {CustomSeasonComponent ? (
         <CustomSeasonComponent seasonYearData={selectedSeason} />

@@ -234,6 +234,15 @@
   },
   {
     "year": "1992",
+    "season-colors": [["#edf3f2"], ["#d6e4e2"], ["#b2cbc8"], ["#34766f"], ["#ffaf3e"], ["#ffd6a6"]],
+    "season-theme": {
+      "background": "#edf3f2",
+      "primary": "#ffaf3e",
+      "primary-light": "#ffd6a6",
+      "secondary": "#34766f",
+      "secondary-light": "#b2cbc8",
+      "secondary-feather": "#d6e4e2"
+    },
     "concertIds": ["1992-01-februaryConcert1992", "1992-02-marchConcert1992", "1992-03-aprilConcert1992", "1992-04-mayConcert1992"]
   },
   {

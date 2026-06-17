@@ -1,5 +1,6 @@
 export { Season1982 } from "./Season1982";
 export { Season1990 } from "./Season1990";
+export { Season1992 } from "./Season1992";
 export { Season2005 } from "./Season2005";
 export { Season2006 } from "./Season2006";
 export { Season2007 } from "./Season2007";
