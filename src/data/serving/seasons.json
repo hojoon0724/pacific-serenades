@@ -230,6 +230,12 @@
   },
   {
     "year": "1993",
+    "season-colors": [["#322b27"], ["#3d9dba"], ["#f2ede7"]],
+    "season-theme": {
+      "background": "#f2ede7",
+      "primary": "#3d9dba",
+      "secondary": "#322b27"
+    },
     "concertIds": ["1993-01-februaryConcert1993", "1993-02-marchConcert1993", "1993-03-aprilConcert1993", "1993-04-mayConcert1993"]
   },
   {

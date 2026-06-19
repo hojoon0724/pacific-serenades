@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-f5105bd7-dd51-4031-a31f-74ff8be335f5" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 240 18">
+  <defs>
+    <clipPath id="uuid-801579e5-84da-4c8d-b160-db8ab8c9ab09">
+      <rect width="240" height="18" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="uuid-e010b39b-c2c3-4ba4-aa5f-d3cb4ed9db37" data-name="Layer 1">
+    <g style="clip-path: url(#uuid-801579e5-84da-4c8d-b160-db8ab8c9ab09);">
+      <path d="M155.99,0c-8.21,10.93-21.28,18-36,18S92.2,10.93,83.99,0h72Z" style="fill: #322b27;"/>
+    </g>
+  </g>
+</svg>
