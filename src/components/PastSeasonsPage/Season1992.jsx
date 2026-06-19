@@ -4,6 +4,54 @@ import Image from "next/image";
 import Markdown from "react-markdown";
 
 const seasonColors = seasonData.find((season) => season.year === "1992")?.["season-theme"] || {};
+const concertReviews = [
+  {
+    text: "The programming practices of Pacific Serenades ought to provide a model for any chamber music series.",
+    author: "Los Angeles Times",
+  },
+  {
+    text: "The various players brought elegance and poetry [to the music]",
+    author: "Los Angeles Times",
+  },
+  {
+    text: "What a memorable evening!",
+    author: "a listener",
+  },
+  {
+    text: "Certainly no small part of our pleasure was in feeling welcomed by your group.”",
+    author: "a listener",
+  },
+  {
+    text: "Our [low-income] seniors are deeply grateful for the added life dimension provided by complimentary tickets to outstanding performances by Pacific Serenades.",
+    author: "a seniors organization",
+  },
+  {
+    text: "The more I get around our profession, the more remarkable the whole Pacific Serenades project seems.",
+    author: "a composer",
+  },
+];
+const musicReviews = [
+  {
+    text: "tuneful, beautiful in its controlled sentiment",
+    author: "Los Angeles Times",
+  },
+  {
+    text: "pleasantly unpredictable as well as inventive and fresh",
+    author: "Los Angeles Times",
+  },
+  {
+    text: "a most attractive and engaging work",
+    author: "Los Angeles Times",
+  },
+  {
+    text: "I loved your new composition-hope it finds its way to CD soon, so I can get a copy.",
+    author: "a listener",
+  },
+  {
+    text: "I am indescribably impressed.",
+    author: "a listener",
+  },
+];
 
 export function Season1992({ seasonYearData }) {
   return (
@@ -24,7 +72,7 @@ export function Season1992({ seasonYearData }) {
           className="w-full h-auto"
         />
       </div>
-      <div className="season-content relative z-10">
+      <div className="season-content relative w-full z-10">
         <div className="season-message">
           {seasonYearData?.seasonIntroMd && (
             <div className="intro-text-container max-w-prose text-left">
@@ -59,7 +107,7 @@ export function Season1992({ seasonYearData }) {
             return (
               <div
                 key={concertId}
-                className="concert-tile grid relative border-b-8 md:border-b-0"
+                className="concert-tile grid relative border-b-8 md:border-b-0 w-full"
                 style={{
                   textAlign: index % 2 === 0 ? "left" : "right",
                   borderColor: seasonColors["primary"],
@@ -147,6 +195,66 @@ export function Season1992({ seasonYearData }) {
               </div>
             );
           })}
+        </div>
+      </div>
+      <div
+        className="brochure-content-back-top w-full border-8 text-center font-serif p-4 border-y-0"
+        style={{ borderColor: seasonColors["primary"] }}
+      >
+        <h2 className="" style={{ color: seasonColors["secondary"] }}>
+          Hear us at the elegant Biltmore Hotel or in the intimacy of a private home.
+        </h2>
+      </div>
+      <div className="brochure-back-graphic w-full border-8" style={{ borderColor: seasonColors["primary"] }}>
+        <Image
+          src={`/graphics/seasons/1992/1992-bg-back.svg`}
+          alt="Season 1992"
+          width={1920}
+          height={1080}
+          className="w-full h-auto"
+        />
+      </div>
+      <div
+        className="brochure-content-back-text w-full border-8 text-center font-serif p-4 border-t-0"
+        style={{ borderColor: seasonColors["primary"] }}
+      >
+        <div className="review-container grid grid-cols-1 md:grid-cols-2 gap-4 mx-auto">
+          <div className="reviews-container flex flex-col">
+            <h4 style={{ color: seasonColors["secondary"] }}>
+              <b>Comments about Pacific Serenades:</b>
+            </h4>
+            {concertReviews.map((review, index) => (
+              <div key={index} className="review max-w-prose px-8">
+                <p className="text-left" style={{ color: seasonColors["secondary"] }}>
+                  {review.text}
+                </p>
+                <p
+                  className="text-right text-nowrap italic font-bold text-sm leading-none -mt-2 mb-2"
+                  style={{ color: seasonColors["secondary"] }}
+                >
+                  –{review.author}
+                </p>
+              </div>
+            ))}
+          </div>
+          <div className="reviews-container flex flex-col">
+            <h4 style={{ color: seasonColors["secondary"] }}>
+              <b>and about our new music...</b>
+            </h4>
+            {musicReviews.map((review, index) => (
+              <div key={index} className="review max-w-prose px-8">
+                <p className="text-left" style={{ color: seasonColors["secondary"] }}>
+                  {review.text}
+                </p>
+                <p
+                  className="text-right text-nowrap italic font-bold text-sm leading-none -mt-2 mb-2"
+                  style={{ color: seasonColors["secondary"] }}
+                >
+                  –{review.author}
+                </p>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>
