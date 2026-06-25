@@ -147,7 +147,7 @@ export function Season1993({ seasonYearData }) {
                 <div className="concert-content col-start-1 row-start-1 p-4 md:p-8 w-full ">
                   <div className="concert-title-container flex flex-col items-center w-full gap-2">
                     <div
-                      className={`concert-number-container aspect-square rounded-full flex justify-center items-center text-2xl p-1 ${abrilFatface.className}`}
+                      className={`concert-number-container aspect-square w-[3rem] rounded-full flex justify-center items-center text-2xl p-1 ${abrilFatface.className}`}
                       style={{ backgroundColor: seasonColors["primary"], color: seasonColors["background"] }}
                     >
                       {index + 1}

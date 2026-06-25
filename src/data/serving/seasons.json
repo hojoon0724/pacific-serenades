@@ -226,6 +226,16 @@
   },
   {
     "year": "1994",
+    "season-colors": [["hsl(256,30%,70%)"], ["hsl(135,40%,80%)"], ["hsl(45,15%,88%)"]],
+    "season-theme": {
+      "background": "hsl(45,15%,88%)",
+      "primary": "hsl(256,30%,50%)",
+      "secondary": "hsl(135,40%,80%)"
+    },
+    "seasonIntroMd": {
+      "text": "## Looking • Homeward\nInspiration, beauty, conflict, challenge-this season we illuminate and celebrate life in Southern California with four world premieres by composers with strong personal ties to our region. As always, Pacific Serenades honors these moving, lyrical new works, placing them side-by-side with cherished classics by Mozart, Mendelssohn, Brahms and Beethoven. The composers? Two of them are women, all are first-class. The performers? They include principal players of the Los Angeles Chamber Orchestra, the New York Philharmonic, the Pasadena Symphony, the Long Beach Sym-phony. Known worldwide for their style and skill, these musicians come together for our most exciting season ever.",
+      "author": "Mark Carlson, Artistic Director"
+    },
     "concertIds": ["1994-01-januaryConcert1994", "1994-02-februaryConcert1994", "1994-03-marchConcert1994", "1994-04-aprilConcert1994"]
   },
   {
