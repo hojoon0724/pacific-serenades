@@ -222,6 +222,16 @@
   },
   {
     "year": "1995",
+    "season-colors": [["#8c9b9a"], ["#ef9ea4"], ["#fdf0df"]],
+    "season-theme": {
+      "background": "#fdf0df",
+      "primary": "#8c9b9a",
+      "secondary": "#ef9ea4"
+    },
+    "seasonIntroMd": {
+      "text": "## FLOURISHING • IN • LOS ANGELES\nBeauty, inspiration, conflict, challenge–this season we celebrate and illuminate life in *Southern California* with four *world premieres* by composers living in Los Angeles. As always, Pacific Serenades honors these *moving, lyrical* new works, placing them side-by-side with *beloved classics* by Bach, Fauré, Brahms, and Beethoven. The composers? Every one of them an esteemed performer, they bring the player's sensibility of what makes music beautiful to their own compositions. The performers? They include principal players of the Los Angeles Chamber Orchestra, the Pasadena Symphony, and the Long Beach Symphony. Known worldwide for their *style and skill*, these musicians come together for our most exciting season ever.",
+      "author": "Mark Carlson, Artistic Director"
+    },
     "concertIds": ["1995-01-carnegieHallRecital", "1995-02-passionKnowsNoCountry2", "1995-03-theSoulOfChamberMusicStringsAndBeyond", "1995-04-theLateRomanticAndTheRomantic20thCentury", "1995-05-baroqueVisionsAndContemporaryReflections"]
   },
   {
