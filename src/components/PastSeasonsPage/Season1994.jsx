@@ -69,7 +69,7 @@ export function Season1994({ seasonYearData }) {
         `}
       </style>
       <div
-        className={`season-container relative w-full min-h-0 flex-1 flex flex-row items-start rounded-none overflow-y-auto [container-type:size] border`}
+        className={`season-container relative h-full w-full min-h-0 flex-1 flex flex-row items-start rounded-none overflow-y-auto [container-type:size] border`}
         style={{ backgroundColor: seasonColors["background"], borderColor: seasonColors["primary"] }}
       >
         <div

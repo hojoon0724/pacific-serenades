@@ -20,23 +20,9 @@ export default function NavBar() {
   const hoverTimeout = useRef(null);
 
   const menuLinks = [
-    // { name: "About", href: "/about", dropdown: true, dropdownPages: [{ name: "Our Team", href: "/team" }] },
     { name: "About", href: "/about", dropdown: false },
-    // {
-    //   name: "Library",
-    //   href: "/library",
-    //   dropdown: true,
-    //   dropdownPages: [
-    // { name: "All Concerts", href: "/all-concerts" },
-    //     { name: "Past Seasons", href: "/past-seasons" },
-    //     { name: "Commissions", href: "/commissions" },
-    //     { name: "Composers", href: "/composers" },
-    //     { name: "Musicians", href: "/musicians" },
-    //   ],
-    // },
     { name: "Schedule", href: "/schedule", dropdown: false },
     { name: "Commissions", href: "/library/commissions", dropdown: false },
-    // { name: "Schedule", href: "/schedule", dropdown: false },
     { name: "Composers & Musicians", href: "/library/composers-musicians", dropdown: false },
     { name: "Contact", href: "/contact", dropdown: false },
   ];
@@ -65,7 +51,7 @@ export default function NavBar() {
           onMenuOpenChange={setIsMenuOpen}
         >
           {/* Mobile */}
-          <NavbarContent className="lg:hidden pr-3 pt-6">
+          <NavbarContent className="lg:hidden pr-3">
             <NavbarBrand className="flex align-center">
               <div className=" w-[150px]">
                 <Link href="/">
@@ -75,20 +61,20 @@ export default function NavBar() {
             </NavbarBrand>
           </NavbarContent>
 
-          <NavbarContent className="lg:hidden p-0 pt-6" justify="end">
+          <NavbarContent className="lg:hidden p-0" justify="end">
             <NavbarMenuToggle aria-label={isMenuOpen ? "Close menu" : "Open menu"} />
           </NavbarContent>
 
           {/* Desktop */}
           <NavbarContent className="hidden lg:flex gap-4" style={{ paddingLeft: "0" }} justify="end">
             <NavbarBrand>
-              <div className="w-[200px]">
+              <div className="w-[150px]">
                 <Link href="/">
                   <PacSerStackLockup fillColor="--ps-dark" />
                 </Link>
               </div>
             </NavbarBrand>
-            <div>
+            <div className="flex flex-row-reverse gap-4">
               <div className="social-links-container flex justify-end gap-3">
                 {socialLinks.map((platform, index) => {
                   const Icon = icons[platform.platform];
@@ -98,7 +84,7 @@ export default function NavBar() {
                       target="_blank"
                       rel="noopener noreferrer"
                       key={index}
-                      className="social-link flex justify-end items-center h-10 gap-3"
+                      className="social-link flex justify-end items-center h-6 gap-3"
                     >
                       <div className="social-icon w-4 h-4">
                         <Icon />

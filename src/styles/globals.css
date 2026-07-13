@@ -41,7 +41,7 @@ main {
   @apply w-full relative;
 }
 main > :first-child:not(.no-main-spacing) {
-  padding-top: clamp(5px, 5svw, 50px);
+  padding-top: 36px;
 }
 
 /* #__next {
@@ -72,10 +72,9 @@ hr {
   height: 0px;
 }
 
-.temp-nav-logo-container {
+/* .temp-nav-logo-container {
   width: clamp(200px, 50%, 1200px);
   padding-top: clamp(16px, 3svw, 40px);
-  /* height: 200px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -85,7 +84,7 @@ hr {
 .temp-nav-logo-container svg {
   width: 100%;
   height: auto;
-}
+} */
 
 .wave-bg-container {
   background:
@@ -94,11 +93,10 @@ hr {
   /* background: url('/logos/laCountyArtsCommission.jpg') 0 100%, url('/logos/laCountyArtsCommission.jpg') 1px 100%; */
   background-repeat: repeat-x;
   width: 100%;
-  height: clamp(100px, 20svw, 200px);
+  height: 100px;
   position: absolute;
-  top: 0px;
+  top: -1px;
   z-index: 0;
-  /* border: 1px solid red; */
 }
 
 .max-width {
@@ -124,12 +122,8 @@ p {
 
 .nav-bar-container {
   position: relative;
-  height: clamp(50px, 10svw, 100px);
-  /* margin-top: clamp(25px, 5svw, 50px); */
-  margin-bottom: clamp(50px, 10svw, 100px);
-  /* margin-bottom: clamp(25px, 5svw, 50px); */
+  height: 64px;
   width: 100%;
-  /* border: 1px solid red; */
   @apply sticky;
   top: 0px;
 }

@@ -42,14 +42,14 @@ export default function ScheduleYear({ year }) {
   }, [year]);
 
   return (
-    <div className="top-container flex h-full min-h-0 w-full flex-1 flex-col items-center justify-center no-main-spacing pt-2">
-      <div id="past-seasons" className="relative flex h-full min-h-0 w-full flex-1 flex-col items-center justify-start">
+    <div className="top-container flex h-full min-h-0 w-full flex-1 flex-col items-center justify-center">
+      <div id="past-seasons" className="relative flex h-full min-h-0 w-full flex-1 flex-col items-center justify-start pt-2 md:pt-4">
         <div className="past-seasons w-full shrink-0 flex flex-col items-center justify-start">
           <div className="relative inline-block">
-          <h1 className="pointer-events-none inline-flex items-center gap-2">
+          <div className="pointer-events-none inline-flex items-center gap-2 bg-green-600 rounded text-white px-2">
             {selectedYear} Season
-            <ChevronDown className="pointer-events-none" fill="#000" size={16} />
-          </h1>
+            <ChevronDown className="pointer-events-none" fill="#fff" size={16} />
+          </div>
           <select
             className="absolute inset-0 h-full w-full cursor-pointer opacity-0"
             aria-label="Select season"

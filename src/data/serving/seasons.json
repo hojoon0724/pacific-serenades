@@ -218,6 +218,16 @@
   },
   {
     "year": "1996",
+    "season-colors": [["#f5f5ff7f0e85"], ["#7c958b"], ["#73709a"]],
+    "season-theme": {
+      "background": "#f7f0e8",
+      "primary": "#7c958b",
+      "secondary": "#73709a"
+    },
+    "seasonIntroMd": {
+      "text":"A time for reflection...\n\nFrom a treasure chest of 39 remarkable new works that we have commissioned and premiered-many of which are currently being performed by other ensembles throughout this country and Europe-we have chosen to reprise four this year. Spanning the first nine seasons, they embody the strength, the lyricism, the inspiration of our new works. As always, we will hear them alongside equally beautiful and inspiring classics by Beethoven, Debussy, Rachmaninoff, and Brahms.\n\nOur performers are among the finest of Los Angeles-indeed, of anywhere in the world-including principal players of the Los Angeles Chamber Orchestra, the Long Beach Symphony, and proteges of Heifetz and Piatigorsky. Their personal warmth, and that of all who are involved in Pacific Serenades, blends with their excellence in creating a welcoming and pleasurable experience.\n\nJoin in our celebration, and help us usher in our second decade!",
+      "author":"Mark Carlson, Artistic Director"
+    },
     "concertIds": ["1996-01-fromTheDepthsOfSoul", "1996-02-whenPlayfulAndSeriousMeet", "1996-03-passionKnowsNoCountry", "1996-04-threeCenturiesOfLyricism"]
   },
   {
